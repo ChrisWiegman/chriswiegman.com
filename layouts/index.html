@@ -2,14 +2,14 @@
 <html>
 {{ partial "header.html" . }}
 <body>
-	<div class="container wrapper">
+	<div class="container">
 		 {{ partial "head.html" . }}
 
 		<div class="recent-posts section">
-			<h2 class="section-header">
+			<h2 class="content-header">
 				Recent posts
 			</h2>
-			<div class="posts">
+			<div class="content">
 				{{- $.Scratch.Set "counter" 0 -}}
 				{{- range .Data.Pages -}}
 				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}

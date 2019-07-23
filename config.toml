@@ -1,3 +1,12 @@
 baseURL = "https://www.chriswiegman.com/"
 languageCode = "en-us"
 title = "Chris Wiegman"
+[menu]
+  [[menu.main]]
+    name = "home"
+    url = "/"
+    weight = -110
+  [[menu.main]]
+    name = "about"
+    url = "/about/"
+
