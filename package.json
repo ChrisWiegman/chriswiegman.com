@@ -17,6 +17,8 @@
     "gulp-sass": "^4.0.2"
   },
   "browserslist": {
-    "browsers" : ["last 2 versions"]
+    "browsers": [
+      "last 2 versions"
+    ]
   }
 }

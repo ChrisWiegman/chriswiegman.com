@@ -10,7 +10,7 @@ function scss() {
     // Delete old css
     del(["static/css/**/*"])
 
-    return gulp.src("src/scss/*.scss")
+    return gulp.src("assets/scss/*.scss")
         .pipe(sass({
             outputStyle : "compressed"
         }))
@@ -27,7 +27,7 @@ function scss() {
 // Hash images
 function images() {
     del(["static/images/**/*"])
-    return gulp.src("src/images/**/*")
+    return gulp.src("assets/images/**/*")
         .pipe(hash())
         .pipe(gulp.dest("static/images"))
         .pipe(hash.manifest("hash.json"))
@@ -37,7 +37,7 @@ function images() {
 // Hash javascript
 function javascript() {
     del(["static/js/**/*"])
-    gulp.src("src/js/**/*")
+    gulp.src("assets/js/**/*")
         .pipe(hash())
         .pipe(gulp.dest("static/js"))
         .pipe(hash.manifest("hash.json"))
@@ -46,9 +46,9 @@ function javascript() {
 
 // Watch asset folder for changes
 function watch() {
-    gulp.watch("src/scss/**/*", scss)
-    gulp.watch("src/images/**/*", images)
-    gulp.watch("src/js/**/*", javascript)
+    gulp.watch("assets/scss/**/*", scss)
+    gulp.watch("assets/images/**/*", images)
+    gulp.watch("srassetsc/js/**/*", javascript)
 }
 
 // Set watch as default task
