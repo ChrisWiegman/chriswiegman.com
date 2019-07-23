@@ -7,11 +7,10 @@ var gulp         = require("gulp"),
 // Compile SCSS files to CSS
 function scss() {
 
-    //Delete our old css files
+    // Delete old css
     del(["static/css/**/*"])
 
-    //compile hashed css files
-    return gulp.src("src/scss/**/*.scss")
+    return gulp.src("src/scss/*.scss")
         .pipe(sass({
             outputStyle : "compressed"
         }))
@@ -22,6 +21,7 @@ function scss() {
         .pipe(hash.manifest("hash.json"))
         //Put the map in the data directory
         .pipe(gulp.dest("data/css"))
+
 }
 
 // Hash images
@@ -52,4 +52,5 @@ function watch() {
 }
 
 // Set watch as default task
-gulp.task("default", gulp.series(watch))
+gulp.task("default", gulp.series(scss,watch))
+gulp.task("sass", gulp.series(scss))
