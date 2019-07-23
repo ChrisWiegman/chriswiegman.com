@@ -1,5 +1,3 @@
 baseURL = "https://www.chriswiegman.com/"
 languageCode = "en-us"
 title = "Chris Wiegman"
-pygmentsuseclasses = true
-rssLimit = 20

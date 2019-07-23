@@ -1,0 +1,22 @@
+{
+  "name": "chriswiegman",
+  "version": "1.0.0",
+  "description": "The website of developer Chris Wiegman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chris Wiegman <contact@chriswiegman.com",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-hash": "^4.2.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "browserslist": {
+    "browsers" : ["last 2 versions"]
+  }
+}
