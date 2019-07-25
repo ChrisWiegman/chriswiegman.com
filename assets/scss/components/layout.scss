@@ -6,8 +6,10 @@
     .header {
 
         clear: both;
+        display: inline-block;
         border-bottom: 1px solid $border-color;
         float: none;
+        width: 100%;
 
         h1.site-title {
 
@@ -26,6 +28,7 @@
         ul {
 
             float: right;
+            padding: 0.5rem 0;
 
             li {
                 display: inline;
