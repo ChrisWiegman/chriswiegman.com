@@ -1,0 +1,103 @@
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 980px;
+
+    .header {
+
+        clear: both;
+        border-bottom: 1px solid $border-color;
+        float: none;
+
+        h1.site-title {
+
+            float: left;
+
+            a {
+                text-decoration: none;
+                color: $text-color;
+
+                &:hover {
+                    font-style: normal;
+                }
+            }
+        }
+
+        ul {
+
+            float: right;
+
+            li {
+                display: inline;
+                list-style-type: none;
+                margin: 0 1rem;
+            }
+        }
+    }
+
+    .content-header {
+        clear: both;
+    }
+
+    .content.home {
+
+        h2,h3,h4 {
+            font-family: $sans-font;
+            font-weight: normal;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+        }
+
+        h3 {
+            font-size: 1rem;
+        }
+
+        h4 {
+            font-family: $sans-font;
+            font-size: 1rem;
+            font-weight: normal;
+            line-height: 1.5rem;
+            padding-left: 0.2rem;
+            padding-right: 0.2rem;
+            color: $background-color;
+            background-color: $link-color;
+            border-radius: 1rem;
+            margin: 0;
+            float: left;
+        }
+
+        li {
+            list-style-type: none;
+            display: grid;
+            grid-template-columns: 2rem 2.5rem 1fr;
+            grid-gap: 0.5rem;
+            align-items: start;
+            margin-bottom: 1rem;
+            margin-left: 0;
+
+            time {
+                justify-self: center;
+            }
+
+            .postdate {
+                color: $light-text-color;
+                font-size: 0.8rem;
+                vertical-align: bottom;
+            }
+
+            .posttitle {
+                max-width: 100%;
+                overflow: auto;
+            }
+        }
+    }
+
+    .footer {
+        color: $light-text-color;
+        font-size: 0.7rem;
+        text-align: center;
+        padding: 20px 0 0 0;
+    }
+}

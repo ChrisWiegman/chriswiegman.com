@@ -3,10 +3,9 @@ languageCode = "en-us"
 title = "Chris Wiegman"
 [menu]
   [[menu.main]]
-    name = "home"
-    url = "/"
-    weight = -110
-  [[menu.main]]
-    name = "about"
+    name = "About"
     url = "/about/"
+  [[menu.main]]
+    name = "Contact"
+    url = "mailto:contact@chriswiegman.com"
 

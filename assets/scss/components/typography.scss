@@ -1,0 +1,22 @@
+$sans-font: Arial, Helvetica, sans-serif;
+$serif-font: Georgia, 'Times New Roman', Times, serif;
+
+html {
+    font-family: $sans-font;
+    font-size: 20px;
+    line-height: 30px;
+    color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $serif-font;
+}
+
+a {
+    color: $link-color;
+
+    &:hover {
+        text-decoration: none;
+        font-style: italic;
+    }
+}

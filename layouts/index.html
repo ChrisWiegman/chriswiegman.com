@@ -5,38 +5,34 @@
 	<div class="container">
 		 {{ partial "head.html" . }}
 
-		<div class="recent-posts section">
-			<h2 class="content-header">
-				Recent posts
-			</h2>
-			<div class="content">
-				{{- $.Scratch.Set "counter" 0 -}}
-				{{- range .Data.Pages -}}
-				{{- if (in (.Site.Params.excludedTypes | default (slice "page")) .Type) -}}
-				{{- else -}}
-				{{- if lt ($.Scratch.Get "counter") (.Site.Params.RecentPostsCount | default 10) -}}
-				<div class="post">
-					<div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}</div>
-					<a class="title" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
-					<span class="description">
-						{{ if isset .Params "description" }}
-							{{ .Description }}
-						{{ else if gt (len .RawContent) 120 }}
-							{{ slicestr .RawContent 0 120 }}...
-						{{ else }}
-							{{ .RawContent }}
-						{{ end }}
-					</span>
-				</div>
-				{{- $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) -}}
-				{{- end -}}
-				{{- end -}}
-				{{- end -}}
+		 <div class="content home">
+			<!-- Group by year. -->
+			{{ range .Data.Pages.GroupByDate "2006" }}
+				<h2>{{ .Key }}</h2>
 
-				<a href="/posts">All articles →</a>
-			</div>
+				<!-- Group by month. -->
+				{{ range .Pages.GroupByDate "January" }}
+					<h3>{{ .Key }}</h3>
+
+					<!-- Orders content according to the "date" field in front matter. -->
+					{{ range .Pages.GroupByDate "02" }}
+						<h4 class='postdate date'>{{ .Key }}</h4>
+						<ul>
+							{{ range $index, $post := .Pages }}
+								<li>
+									<time datetime="{{ $post.Date.Format "2006-01-02T15:04:05Z0700" }}">
+										<span class='postdate day item-{{ $index }}'>{{ $post.Date.Format "Mon" }}</span>
+									</time>
+									<span class='postdate'>{{ $post.Date.Format "15:04" }}</span>
+									<a class='posttitle' href="{{ .RelPermalink }}">{{ $post.Title }}</a>
+								</li>
+							{{ end }}
+						</ul>
+					{{ end }}
+				{{ end }}
+			{{ end }}
 		</div>
+		{{ partial "footer.html" . }}
 	</div>
-	{{ partial "footer.html" . }}
 </body>
 </html>
