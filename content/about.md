@@ -2,7 +2,6 @@
 title: "About Chris Wiegman"
 date: 2019-07-22T20:58:09-04:00
 draft: true
-type: "page"
 ---
 
 Chris Wiegman is currently a Staff Software Engineer at [WP Engine](https://wpengine.com/) working on developer tools to support the WP Engine user base as well as WordPress, PHP and other web developers.

@@ -5,6 +5,12 @@ PygmentsCodeFences = true
 PygmentsStyle = "trac"
 pygmentsOptions = "linenos=table"
 
+[params]
+  mainSections = ["posts"]
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 [menu]
   [[menu.main]]
     name = "About"
