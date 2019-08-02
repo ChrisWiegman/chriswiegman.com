@@ -1,10 +1,10 @@
-$sans-font: Arial, Helvetica, sans-serif;
+$sans-font: Helvetica,Arial,sans-serif;
 $serif-font: Georgia, 'Times New Roman', Times, serif;
 
 html {
     font-family: $sans-font;
     font-size: 20px;
-    line-height: 30px;
+    line-height: 34px;
     color: $text-color;
 }
 
@@ -14,9 +14,11 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
     color: $link-color;
+    font-weight: bold;
+    text-decoration: none;
 
     &:hover {
-        text-decoration: none;
-        font-style: italic;
+        color: $link-hover-color;
+        transition: all 0.3s ease-in-out;
     }
 }

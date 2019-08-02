@@ -8,12 +8,19 @@
 
 		<div class="content-header">
 			<h1 class="title">{{ .Title }}</h1>
+			{{if .Section}}
 			<div class="meta">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</div>
+			{{end}}
 		</div>
 
 		<div class="content">
 			{{ .Content }}
 		</div>
+		{{if .Section}}
+		<div class="author">
+			<p>Chris is an Senior Engineer at WP Engine who has been working with WordPress since 2008. He built one of the largest security plugins on WordPress.org, WordPress plugins and themes, Google Chrome extensions, WordPress development environments and solutions for sites large and small. When not writing code, Chris, a teacher at heart, has presented sessions, workshops and keynote addresses at numerous WordCamps and other conferences as well as taught computer security for St. Edward’s University plus other university courses ranging from computers to aviation.</p>
+		</div>
+		{{end}}
 		{{ partial "footer.html" . }}
 	</div>
 </body>

@@ -7,7 +7,8 @@
 
 		 <div class="content home">
 			<!-- Group by year. -->
-			{{ range .Data.Pages.GroupByDate "2006" }}
+			{{ $pages := where .Site.Pages "Params.type" "post" }}
+			{{ range $pages.GroupByDate "2006" }}
 				<h2>{{ .Key }}</h2>
 
 				<!-- Group by month. -->

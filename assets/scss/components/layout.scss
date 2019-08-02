@@ -1,7 +1,8 @@
 .container {
+    background-color: $background-light-color;
     margin: 0 auto;
-    padding: 20px;
-    max-width: 980px;
+    padding: 20px 0;
+    max-width: 900px;
 
     .header {
 
@@ -16,7 +17,6 @@
             float: left;
 
             a {
-                text-decoration: none;
                 color: $text-color;
 
                 &:hover {
@@ -38,8 +38,51 @@
         }
     }
 
+    .content {
+
+        a {
+            border-bottom: 1px solid $link-color;
+
+            &:hover {
+                border-bottom: none;
+            }
+        }
+
+        .highlight {
+            font-size: 0.7rem;
+            line-height: 20px;
+
+            pre {
+                padding: 10px;
+            }
+        }
+
+        li::marker {
+            color: $light-text-color;
+        }
+
+        img {
+            display: block;
+            float: none;
+            margin-left: auto;
+            margin-right: auto;
+            height: auto;
+            max-width: 100%;
+        }
+    }
+
     .content-header {
+
         clear: both;
+
+        h1 {
+            margin: 1rem 0;
+        }
+
+        .meta {
+            font-size: 0.8rem;
+            color: $light-text-color;
+        }
     }
 
     .content.home {
@@ -64,7 +107,7 @@
             line-height: 1.5rem;
             padding-left: 0.2rem;
             padding-right: 0.2rem;
-            color: $background-color;
+            color: $background-light-color;
             background-color: $link-color;
             border-radius: 1rem;
             margin: 0;
@@ -90,17 +133,35 @@
                 vertical-align: bottom;
             }
 
+            .day:not(.item-0) {
+                color: $background-light-color;
+            }
+
             .posttitle {
                 max-width: 100%;
                 overflow: auto;
+                border-bottom: 1px solid $border-color;
             }
         }
     }
 
     .footer {
+
         color: $light-text-color;
         font-size: 0.7rem;
         text-align: center;
         padding: 20px 0 0 0;
+
+        ul {
+
+            padding: 0;
+            margin: 0;
+
+            li {
+                display: inline;
+                list-style-type: none;
+                margin: 0 0.5rem;
+            }
+        }
     }
 }
