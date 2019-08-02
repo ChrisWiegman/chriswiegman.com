@@ -1,4 +1,4 @@
-$sans-font: Helvetica,Arial,sans-serif;
+$sans-font: Helvetica, Arial, sans-serif;
 $serif-font: Georgia, 'Times New Roman', Times, serif;
 
 html {
@@ -8,7 +8,12 @@ html {
     color: $text-color;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: $serif-font;
 }
 

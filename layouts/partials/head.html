@@ -1,13 +1,17 @@
 <div class="header">
 	<h1 class="site-title"><a href="{{.Site.BaseURL}}" title="ChrisWiegman.com Homepage">{{ .Site.Title }}</a></h1>
 
-	<nav class="nav">
-		<ul class="flat">
-			{{ range .Site.Menus.main }}
-			<li>
-				<a href="{{ .URL }}">{{ .Name }}</a>
-			</li>
-			{{ end }}
-		</ul>
-	</nav>
+	<div class="menu">
+		<label for="toggle">Menu</label>
+		<input type="checkbox" id="toggle" />
+		<nav class="nav">
+			<ul>
+				{{ range .Site.Menus.main }}
+				<li>
+					<a href="{{ .URL }}">{{ .Name }}</a>
+				</li>
+				{{ end }}
+			</ul>
+		</nav>
+	</div>
 </div>

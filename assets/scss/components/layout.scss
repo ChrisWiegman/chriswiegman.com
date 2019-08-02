@@ -25,15 +25,25 @@
             }
         }
 
-        ul {
+        .menu {
 
             float: right;
             padding: 0.5rem 0;
 
-            li {
-                display: inline;
-                list-style-type: none;
-                margin: 0 1rem;
+            label,
+            #toggle {
+                display: none;
+            }
+
+            .nav {
+                ul {
+                    li {
+                        display: inline;
+                        list-style-type: none;
+                        margin: 0 1rem;
+                        transition: 0.5s;
+                    }
+                }
             }
         }
     }
@@ -87,7 +97,9 @@
 
     .content.home {
 
-        h2,h3,h4 {
+        h2,
+        h3,
+        h4 {
             font-family: $sans-font;
             font-weight: normal;
         }

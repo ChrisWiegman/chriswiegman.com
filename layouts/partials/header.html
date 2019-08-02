@@ -16,5 +16,6 @@
 
 	{{- template "_internal/opengraph.html" . -}}
 	{{- template "_internal/twitter_cards.html" . -}}
-	<link rel="stylesheet" type="text/css" media="screen" href="/css/{{index .Site.Data.css.hash "main.css" }}" />
+	{{ $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ $style.Permalink }}" />
 </head>
