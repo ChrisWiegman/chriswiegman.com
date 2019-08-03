@@ -10,11 +10,13 @@
         display: inline-block;
         border-bottom: 1px solid $border-color;
         float: none;
+        padding-bottom: 1rem;
         width: 100%;
 
         h1.site-title {
 
             float: left;
+            margin: 0;
 
             a {
                 color: $text-color;
@@ -28,7 +30,7 @@
         .menu {
 
             float: right;
-            padding: 0.5rem 0;
+            padding: 0;
 
             label,
             #toggle {
@@ -37,6 +39,9 @@
 
             .nav {
                 ul {
+
+                    margin: 8px 0 0 0;
+
                     li {
                         display: inline;
                         list-style-type: none;

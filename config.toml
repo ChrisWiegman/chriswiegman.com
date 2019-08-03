@@ -6,9 +6,12 @@ PygmentsStyle = "trac"
 pygmentsOptions = "linenos=table"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableGitInfo = true
+disableHugoGeneratorInject = true
 
 [params]
   mainSections = ["posts"]
+  description = "Developer, Engineer, Teacher, Speaker, Writer"
+  images = ["site-feature-image.jpg"]
 
 [permalinks]
   posts = "/:year/:month/:title/"
@@ -26,4 +29,3 @@ enableGitInfo = true
     name = "Contact"
     url = "mailto:contact@chriswiegman.com"
     weight = 120
-

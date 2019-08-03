@@ -4,4 +4,5 @@ date: {{ .Date }}
 description: ""
 draft: true
 images: []
+tags: []
 ---
