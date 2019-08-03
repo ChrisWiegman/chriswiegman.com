@@ -1,6 +1,7 @@
 # Hugo default output directory
 /data
 /public
+/resources
 
 ## OS Files
 # Windows
