@@ -11,7 +11,7 @@ disableHugoGeneratorInject = true
 [params]
   mainSections = ["posts"]
   description = "Developer, Engineer, Teacher, Speaker, Writer"
-  images = ["site-feature-image.jpg"]
+  images = ["/images/chris-wiegman-speaking.jpg"]
 
 [permalinks]
   posts = "/:year/:month/:title/"
