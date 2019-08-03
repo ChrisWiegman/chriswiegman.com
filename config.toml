@@ -4,6 +4,8 @@ title = "Chris Wiegman"
 PygmentsCodeFences = true
 PygmentsStyle = "trac"
 pygmentsOptions = "linenos=table"
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+enableGitInfo = true
 
 [params]
   mainSections = ["posts"]

@@ -1,7 +1,8 @@
 ---
 title: "About Chris Wiegman"
 date: 2019-07-22T20:58:09-04:00
-draft: true
+description: "The [mostly] complete biography of developer Chris Wiegman."
+draft: false
 ---
 
 Chris Wiegman is currently a Staff Software Engineer at [WP Engine](https://wpengine.com/) working on developer tools to support the WP Engine user base as well as WordPress, PHP and other web developers.
@@ -26,11 +27,12 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 ## What I’m doing now
 
-* Building developer tools in GoLang and PHP for [WP Engine](https://wpengine.com/).
-* Working on articles and posts for ChrisWiegman.com
-* Finally focusing on my health with a combination of [Fitbit](https://www.fitbit.com/user/23RXB7), exercise and attempting to eat better
-* Looking for other coding projects to have fun with
+* Building [developer tools](https://wpengine.com/devkit/) in GoLang and PHP for [WP Engine](https://wpengine.com/).
+* Working on new articles and posts for ChrisWiegman.com
+* Building a life-logging site to track the data I want in a privacy-friendly way using WordPress
+* Improving my physical and mental health with a combination of [Fitbit](https://www.fitbit.com/user/23RXB7), exercise and attempting to eat better
+* Slowly learning German with [Duolingo](https://wieg.co/duolingo)
 
-_Updated March 11, 2019_
+_Updated August 15, 2019_
 
-You can check out my full resume [here](http://wieg.co/resume).
+[My resume is available online here](http://wieg.co/resume).
