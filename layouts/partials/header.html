@@ -19,4 +19,5 @@
 	{{ $options := (dict "targetPath" "css/style.css") }}
 	{{ $style := resources.Get "scss/main.scss" | toCSS $options | minify | fingerprint }}
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" />
+	<link rel="authorization_endpoint" href="https://indieauth.com/auth">
 </head>
