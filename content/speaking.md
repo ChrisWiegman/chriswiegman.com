@@ -88,17 +88,16 @@ Of course, conferences aren’t all there is. I’ve also been fortunate to work
 
 Some of my talks are available online. Here’s a list of talks I’ve given with links to the talk available online.
 
+* [Application Security for Developers](https://wordpress.tv/2016/04/29/chris-wiegman-application-security-for-wordpress-developers/)
 * [Automating WordPress Development](https://wordpress.tv/2019/06/25/chris-wiegman-automating-wordpress-development/)
 * [Encrypt All The Things: Practical Encryption from SSL to Email and Beyond](https://wordpress.tv/2017/06/02/chris-wiegman-encrypt-all-the-things-practical-encryption-from-ssl-to-email-and-beyond/)
-* [Make WP-CLI Work For You: Extending WP-CLI With Custom Commands](https://www.youtube.com/watch?v=GquN_lKyK8c&index=21&list=PLcgmN3XUPpiaMp7uiK8DUbGyAwcmoBn7S)
-* [Application Security for Developers](https://wordpress.tv/2016/04/29/chris-wiegman-application-security-for-wordpress-developers/)
-* [Make WP-CLI Work For You: Extending WP-CLI With Custom Commands](https://wordpress.tv/2015/12/13/chris-wiegman-make-wp_cli-work-for-you-extending-wp_cli-with-custom-commands/)
-* [Lessons in Plugin Development: Successes and Failures of a Large Free Plugin](https://wordpress.tv/2016/01/14/chris-wiegman-lessons-in-plugin-development-successes-and-failures-of-a-large-free-plugin/)
 * [How to Take Your WordPress Site Security to the Next Level](https://wordpress.tv/2015/06/27/chris-wiegman-how-to-take-your-wordpress-site-security-to-the-next-level/)
+* [Lessons in Plugin Development: Successes and Failures of a Large Free Plugin](https://wordpress.tv/2016/01/14/chris-wiegman-lessons-in-plugin-development-successes-and-failures-of-a-large-free-plugin/)
+* [Make WP-CLI Work For You: Extending WP-CLI With Custom Commands](https://www.youtube.com/watch?v=GquN_lKyK8c&index=21&list=PLcgmN3XUPpiaMp7uiK8DUbGyAwcmoBn7S)
+* [Securing WordPress is Easier Than Making Coffee](https://wordpress.tv/2012/10/28/chris-wiegman-securing-wordpress-is-easier-than-making-coffee/)
 * [Securing WordPress the Right Way](https://wordpress.tv/2015/08/03/chris-wiegman-securing-wordpress-the-right-way/)
 * [Securing Your Code: WordPress Security for Developers](https://wordpress.tv/2014/10/17/chris-wiegman-securing-your-code-wordpress-security-for-developers/)
 * [Understanding WordPress Vulnerabilities (XSS, CSRF, WTF)](http://wpsessions.com/sessions/security-for-developers/)
-* [Securing WordPress is Easier Than Making Coffee](https://wordpress.tv/2012/10/28/chris-wiegman-securing-wordpress-is-easier-than-making-coffee/)
 
 ## Presentation Slides
 
