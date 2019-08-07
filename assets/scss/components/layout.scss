@@ -96,7 +96,11 @@
 
         .meta {
             font-size: 0.8rem;
-            color: $light-text-color;
+
+            a {
+                color: $light-text-color;
+                font-weight: normal;
+            }
         }
     }
 
@@ -186,6 +190,11 @@
         font-size: 0.7rem;
         text-align: center;
         padding: 20px 0 0 0;
+
+        a.url {
+            color: $light-text-color;
+            font-weight: normal;
+        }
 
         ul {
 
