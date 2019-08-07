@@ -1,4 +1,4 @@
-baseURL = "https://www.chriswiegman.com/"
+baseURL = "https://chriswiegman.com/"
 languageCode = "en-us"
 title = "Chris Wiegman"
 PygmentsCodeFences = true
