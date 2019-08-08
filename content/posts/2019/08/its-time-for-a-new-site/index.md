@@ -1,5 +1,5 @@
 ---
-title: "Time for a New Site"
+title: "It's Time for a New Site"
 date: 2019-08-15T20:22:00-04:00
 description: "ChrisWiegman.com is now running on Hugo"
 draft: true
