@@ -6,6 +6,13 @@
 	<div class="container">
 		{{ partial "head.html" . }}
 
+		<div class="intro">
+			<img src="/images/chris-wiegman-keynote-at-wordcamp-utrecht.jpg" alt="Chris Wiegman giving the keynote presentation at WordCamp Utrecht 2018" />
+			<div class="intro-text">
+				<p>I am a developer focusing on WordPress, Privacy and the Open Web, a speaker, a teacher, a blogger and ex-pilot doing my best to make the world a better place.</p>
+			</div>
+		</div>
+
 		<div class="content home">
 			<!-- Group by year. -->
 			{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}

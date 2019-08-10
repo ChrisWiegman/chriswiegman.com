@@ -60,5 +60,29 @@
                 }
             }
         }
+
+        .intro {
+
+            clear: both;
+            display: block;
+            width: 100%;
+
+            img {
+                width: 100%;
+                max-width: 100%;
+                float: none;
+            }
+
+            .intro-text {
+                position: relative;
+                width: 100%;
+                max-width: 100%;
+                display: block;
+
+                p {
+                    margin: auto;
+                }
+            }
+        }
     }
 }
