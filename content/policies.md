@@ -10,7 +10,7 @@ images: []
 
 All content on ChrisWiegman.com is derived from the opinion and experience of Chris Wiegman. These opinions and experience are neither endorsed by nor reflect the policies or opinions of any company or organizations at which Chris is either employed at or otherwise affiliated with. In addition, guest posts are the result of the efforts, thoughts, experience, and/or opinions of their respective authors.
 
-All content on ChrisWiegman.com is licensed under the [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/ "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license"). Feel free to use any of it in accordance with the license.
+All content on ChrisWiegman.com is licensed under the [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/ "Attribution-ShareAlike 4.0 International CC BY-SA 4.0 license"). Feel free to use any of it in accordance with the license.
 
 ## Income Disclosures
 
