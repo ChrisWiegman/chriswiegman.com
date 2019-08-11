@@ -9,7 +9,7 @@ tags: ["site","cms","hugo"]
 
 ![It's time for a new ChrisWiegman.com](/images/time-for-a-new-site.jpg)
 
-After running this site on WordPress for over 10 years it is time to move on, from WordPress that is. For now, this site is running on [Hugo](https://gohugo.io/) and hosted with a simple Nginx server in order to be as fast and accessible as possible.
+After running this site on WordPress for over 10 years it is time to move on, from WordPress that is. For now, this site is running on [Hugo](https://gohugo.io/ "The Hugo static site generator") and hosted with a simple Nginx server in order to be as fast and accessible as possible.
 
 ## What happened to WordPress?
 
@@ -27,7 +27,7 @@ Of course, there are plenty of static site generators today. GatsbyJS is particu
 
 ## What happened to the old content?
 
-Over the last 11 years I've written hundreds of posts for this site. When I re-launched it in 2008 I deleted all the older content. That was a mistake. This time the old content lives on at [https://archive.chriswiegman.com](a new archive site). This new archive site is a static export of my WordPress site that solves the problem of me trying to export all tht old content to markdown while making sure it will continue to be available in a safe and fast format.
+Over the last 11 years I've written hundreds of posts for this site. When I re-launched it in 2008 I deleted all the older content. That was a mistake. This time the old content lives on at [a new archive site](https://archive.chriswiegman.com "the archives of chriswiegman.com"). This new archive site is a static export of my WordPress site that solves the problem of me trying to export all tht old content to markdown while making sure it will continue to be available in a safe and fast format.
 
 ## So what does this mean for the future?
 
@@ -35,4 +35,4 @@ With a little luck, all the change means I might finally be able to focus on new
 
 ## Inspiration for the design
 
-As for the design of the site itself, inspiration came from a few places. The idea of an archive site and homepage layout was taken from [https://ar.al](Aral Balkan). Most of the rest of the layout is from the [https://github.com/vividvilla/ezhil](Ezhil) Hugo theme which is also what I used as a base for the markup itself. Finally, most of the responsive work, especially the menu, came from [https://gitea.chriswiegman.com/chriswiegman/chriswiegman-theme](my own WordPress theme) which powered this site up until last year.
+As for the design of the site itself, inspiration came from a few places. The idea of an archive site and homepage layout was taken from [Aral Balkan](https://ar.al "Aral Balkan"). Most of the rest of the layout is from the [Ezhil](https://github.com/vividvilla/ezhil "Ezhil Hugo theme") Hugo theme which is also what I used as a base for the markup itself. Finally, most of the responsive work, especially the menu, came from [my own WordPress theme](https://gitea.chriswiegman.com/chriswiegman/chriswiegman-theme "the old ChrisWiegman.com WordPress theme") which powered this site up until last year.
