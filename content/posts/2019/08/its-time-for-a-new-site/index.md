@@ -2,7 +2,7 @@
 title: "It's Time for a New Site"
 date: 2019-08-11T12:00:00-04:00
 description: "ChrisWiegman.com is now running on Hugo"
-draft: true
+draft: false
 images: ["/images/time-for-a-new-site.jpg"]
 tags: ["site","cms","hugo"]
 ---
