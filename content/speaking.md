@@ -101,4 +101,4 @@ Some of my talks are available online. Here’s a list of talks I’ve given wit
 
 ## Presentation Slides
 
-<a href="https://slides.chriswiegman.com">A full list of my presentation slides is available here</a>
+[A full list of my presentation slides is available here](https://slides.chriswiegman.com "Chris Wiegman's presentation slides")
