@@ -1,6 +1,6 @@
 ---
 title: "About Chris Wiegman"
-date: 2019-08-11T12:00:00-04:00
+date: 2019-08-12T12:00:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/images/chris-and-joy-in-alaska.jpg"]
@@ -34,6 +34,6 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 * Improving my physical and mental health with a combination of [Fitbit](https://www.fitbit.com/user/23RXB7 "Fitbit fitness trackers"), exercise and attempting to eat better
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
 
-_Updated August 11, 2019_
+_Updated August 12, 2019_
 
 [My resume is available online here](http://wieg.co/resume "Chris Wiegman's resume").

@@ -1,6 +1,6 @@
 ---
 title: "Speaking Engagements"
-date: 2019-08-11T12:00:00-04:00
+date: 2019-08-12T12:00:00-04:00
 description: "Chris Wiegman is an experienced speaker on topics related to WordPress and general technology."
 draft: false
 images: ["/images/chris-wiegman-speaking.jpg"]
@@ -78,6 +78,7 @@ I am available for speaking engagements at events, conferences and other in-pers
 Of course, conferences aren’t all there is. I’ve also been fortunate to work with local WordPress and other groups in my hometown and beyond. Here are some of the Meetup groups I’ve been honored to speak to over the years.
 
 * [The Austin WordPress Meetup](https://www.meetup.com/austinwordpress/)
+* [The Grand Rapids WordPress Meetup](https://www.meetup.com/wpgrandrapids/)
 * [Harrisburg WordPress User Group](https://www.meetup.com/Harrisburg-WordPress-User-Group/)
 * [The Metro Detroit WordPress Meetup](https://www.meetup.com/metro-detroit-wordpress-meetup/)
 * [The Sarasota WordPress Meetup](https://www.meetup.com/SarasotaWordPress/)
