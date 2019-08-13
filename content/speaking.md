@@ -1,6 +1,6 @@
 ---
 title: "Speaking Engagements"
-date: 2019-08-12T12:00:00-04:00
+date: 2019-08-13T12:00:00-04:00
 description: "Chris Wiegman is an experienced speaker on topics related to WordPress and general technology."
 draft: false
 images: ["/images/chris-wiegman-speaking.jpg"]

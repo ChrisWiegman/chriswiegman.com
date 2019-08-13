@@ -1,6 +1,6 @@
 ---
 title: "Policies and Disclosures"
-date: 2019-08-12T12:00:00-04:00
+date: 2019-08-13T12:00:00-04:00
 description: "Policies, credits and required disclosures for  ChrisWiegman.com."
 draft: false
 images: []

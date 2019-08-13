@@ -1,6 +1,6 @@
 ---
 title: "It's Time for a New Site"
-date: 2019-08-12T12:00:00-04:00
+date: 2019-08-13T12:00:00-04:00
 description: "ChrisWiegman.com is now running on Hugo"
 draft: false
 images: ["/images/time-for-a-new-site.jpg"]
