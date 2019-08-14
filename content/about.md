@@ -1,5 +1,5 @@
 ---
-title: "About Chris Wiegman"
+title: "About Chris"
 date: 2019-08-13T12:00:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false

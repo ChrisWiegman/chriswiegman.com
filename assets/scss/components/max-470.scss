@@ -7,17 +7,16 @@
 
         .header {
 
+            padding-bottom: 0;
+
             h1.site-title {
-                font-size: 1.2rem;
+                font-size: 1.1rem;
                 transition: 0.5s;
             }
 
-            .menu {
-
-                label {
-                    margin-top: 2px;
-                    transition: 0.5s;
-                }
+            label {
+                margin-top: 2px;
+                transition: 0.5s;
             }
         }
 

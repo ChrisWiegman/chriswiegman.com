@@ -28,27 +28,27 @@
             }
         }
 
-        .menu {
-
+        label,
+        .nav {
             float: right;
             padding: 0;
+        }
 
-            label,
-            #toggle {
-                display: none;
-            }
+        label,
+        #toggle {
+            display: none;
+        }
 
-            .nav {
-                ul {
+        .nav {
+            ul {
 
-                    margin: 8px 0 0 0;
+                margin: 8px 0 0 0;
 
-                    li {
-                        display: inline;
-                        list-style-type: none;
-                        margin: 0 1rem;
-                        transition: 0.5s;
-                    }
+                li {
+                    display: inline;
+                    list-style-type: none;
+                    margin: 0 0.5rem;
+                    transition: 0.5s;
                 }
             }
         }
