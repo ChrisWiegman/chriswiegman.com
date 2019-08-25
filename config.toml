@@ -10,8 +10,9 @@ disableHugoGeneratorInject = true
 
 [params]
   mainSections = ["posts"]
-  description = "Developer, Engineer, Teacher, Speaker, Writer"
+  description = "Chris Wiegman is a software engineer working to make the lives of WordPress developers easier."
   images = ["/images/chris-wiegman-speaking.jpg"]
+  subtitle = "Engineer, Teacher, Speaker, Writer"
 
 [permalinks]
   posts = "/:year/:month/:title/"
