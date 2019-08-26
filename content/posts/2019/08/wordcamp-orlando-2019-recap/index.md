@@ -1,6 +1,6 @@
 ---
 title: "WordCamp Orlando 2019 Recap"
-date: 2019-08-25T21:01:23-04:00
+date: 2019-08-26T09:42:23-04:00
 description: "Reflections on another great year at WordCamp Orlando."
 draft: false
 images: ["/images/wordcamp-orlando-2019.jpg"]
