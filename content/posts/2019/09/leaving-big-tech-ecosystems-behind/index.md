@@ -7,9 +7,9 @@ images: ["/images/escaping-big-tech.jpg"]
 tags: ["big tech","privacy","FOSS"]
 ---
 
-![Leaving big tech ecosystems behind](/images/escaping-big-tech.jpg)]
+![Leaving big tech ecosystems behind](/images/escaping-big-tech.jpg)
 
-For the last 5 months I've finally been working on the 3rd phase of a project I started back in 2017 with my switch away from the iPhone. Some would call it "de-Googling," some would call it switching ecosystems but I prefer to go back to calling it what I set out to do in the beginning. Rather than leaving any one company, I'm simply doing by best at leaving big tech behind all-together. I'm not doing this because of any big conspiracy or political motivation, nor am I doing it to hide from the world or anything like that. Instead I'm doing it simply because it is the right thing for me.
+For the last 5 months I've finally been working on the 2nd phase of a project I started back in 2017 with my switch away from the iPhone. Some would call it "de-Googling," some would call it switching ecosystems but I prefer to go back to calling it what I set out to do in the beginning. Rather than leaving any one company, I'm simply doing by best at leaving big tech behind all-together. I'm not doing this because of any big conspiracy or political motivation, nor am I doing it to hide from the world or anything like that. Instead I'm doing it simply because it is the right thing for me.
 
 ## Why leave big tech behind?
 
