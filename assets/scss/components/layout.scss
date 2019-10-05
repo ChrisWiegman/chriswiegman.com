@@ -1,5 +1,9 @@
-.container {
+html {
     background-color: $background-light-color;
+}
+
+.container {
+
     margin: 0 auto;
     padding: 20px 0;
     max-width: 900px;
