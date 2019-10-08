@@ -16,6 +16,7 @@ I am available for speaking engagements at events, conferences and other in-pers
 
 ### 2019
 
+* [WordCamp Seattle 2019](https://2019.seattle.wordcamp.org/)
 * [WordCamp Orlando 2019](https://2019.orlando.wordcamp.org/)
 * [WordCamp Ottawa 2019](https://2019.ottawa.wordcamp.org/)
 * [WordCamp Atlanta 2019](https://2019.atlanta.wordcamp.org/)
