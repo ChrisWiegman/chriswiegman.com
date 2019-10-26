@@ -1,6 +1,6 @@
 ---
 title: "About Chris"
-date: 2019-08-13T12:00:00-04:00
+date: 2019-10-26T12:15:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/images/chris-and-joy-in-alaska.jpg"]
@@ -28,12 +28,14 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 ## What I’m doing now
 
-* Building [developer tools](https://wpengine.com/devkit/ "WP Engine's DevKit local development environment") in GoLang and PHP for [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting").
+* Building [DevKit](https://wpengine.com/devkit/ "WP Engine's DevKit local development environment") and [Local](https://localbyflywheel.com/) in GoLang, TypeScript and PHP for [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting").
 * Working on new articles and posts for ChrisWiegman.com
 * Building a life-logging site to track the data I want in a privacy-friendly way using WordPress
 * Improving my physical and mental health with a combination of [Fitbit](https://www.fitbit.com/user/23RXB7 "Fitbit fitness trackers"), exercise and attempting to eat better
+* Attempting to end my addiction to soda
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
+* Trying to end my addition to big-tech
 
-_Updated August 13, 2019_
+_Updated October 26, 2019_
 
 [My resume is available online here](http://wieg.co/resume "Chris Wiegman's resume").
