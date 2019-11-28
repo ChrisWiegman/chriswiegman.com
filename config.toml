@@ -7,6 +7,7 @@ pygmentsOptions = "linenos=table"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableGitInfo = true
 disableHugoGeneratorInject = true
+enableRobotsTXT = true
 
 [params]
   mainSections = ["posts"]
