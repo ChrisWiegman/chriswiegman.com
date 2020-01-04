@@ -44,7 +44,7 @@ The first is _traefik.toml_, this is Traefik's static configuration and sets up 
 
 [certificatesResolvers]
   [certificatesResolvers.default.acme]
-    email = "contact@chriswiegman.com"
+    email = "contact@myemail.com"
     storage = "acme.json"
     [certificatesResolvers.default.acme.tlsChallenge]
 ```
