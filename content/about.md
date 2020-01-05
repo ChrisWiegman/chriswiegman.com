@@ -1,12 +1,12 @@
 ---
 title: "About Chris"
-date: 2019-12-24T08:15:00-04:00
+date: 2019-01-05T08:15:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/images/chris-and-joy-in-alaska.jpg"]
 ---
 
-Chris Wiegman is currently a Staff Software Engineer at [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting") working on developer tools to support the WP Engine user base as well as WordPress, PHP and other web developers.
+Chris Wiegman is currently a Senior Software Engineer at [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting") working on developer tools to support the WP Engine user base as well as WordPress, PHP and other web developers.
 
 Chris grew up primarily in Chicago and after high school thought he could make it as a musician (among other things). Fortunately, at least for Chris, those were in the days of the [Y2K scare](https://en.wikipedia.org/wiki/Year_2000_problem "primer on Y2K") and he quickly realized he could actually make a living in Information Technology so he left college after a semester and decided to try the IT world.
 
@@ -30,13 +30,12 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 * Building Paid tools for [Local](https://localbyflywheel.com/) in GoLang and PHP for [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting").
 * Working on new articles and posts for ChrisWiegman.com
-* Trying to put together new talks for 2020 and beyond
 * Building a life-logging site to track the data I want in a privacy-friendly way using WordPress
 * Improving my physical and mental health with a combination of exercise and attempting to eat better
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
 * Trying to end my addition to big-tech
 
-_Updated December 24, 2019_
+_Updated 5 January 2020_
 
 [My resume is available online here](http://wieg.co/resume "Chris Wiegman's resume").
 
