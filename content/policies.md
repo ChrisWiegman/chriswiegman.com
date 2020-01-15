@@ -30,7 +30,7 @@ As you may have noticed, there is no contact form on this site. Emails sent to m
 
 ## Comments Policy
 
-No comments are accepted directly on the site. Please feel free to find me on [Mastodon](https://mastodon.chriswiegmn.com "Chis Wiegman on Mastodon"), [Twitter](https://twitter.com/ChrisWiegman "Chris Wiegman on Twitter") or elsewhere to continue the conversation.
+No comments are accepted directly on the site. Please feel free to find me on [Mastodon](https://tekton.network/@chriswiegman "Chis Wiegman on Mastodon"), [Twitter](https://twitter.com/ChrisWiegman "Chris Wiegman on Twitter") or elsewhere to continue the conversation.
 
 ## Guest Posting Policy
 
@@ -44,4 +44,4 @@ If you find an image on this site that you feel shouldn't be here please [contac
 
 ## Code Credits
 
-As for the design of the site itself, inspiration came from a few places. The idea of an archive site and homepage layout was taken from [Aral Balkan](https://ar.al "Aral Balkan"). Most of the rest of the layout is from the [Ezhil](https://github.com/vividvilla/ezhil "Ezhil Hugo theme") Hugo theme which is also what I used as a base for the markup itself. Finally, most of the responsive work, especially the menu, came from [my own WordPress theme](https://gitea.chriswiegman.com/chriswiegman/chriswiegman-theme "the old ChrisWiegman.com WordPress theme") which powered this site up until last year.
+As for the design of the site itself, inspiration came from a few places. The idea of an archive site and homepage layout was taken from [Aral Balkan](https://ar.al "Aral Balkan"). Most of the rest of the layout is from the [Ezhil](https://github.com/vividvilla/ezhil "Ezhil Hugo theme") Hugo theme which is also what I used as a base for the markup itself. Finally, most of the responsive work, especially the menu, came from [my own WordPress theme](https://github.com/ChrisWiegman/chriswiegman-theme "the old ChrisWiegman.com WordPress theme") which powered this site up until last year.
