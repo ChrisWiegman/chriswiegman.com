@@ -100,7 +100,3 @@ Some of my talks are available online. Here’s a list of talks I’ve given wit
 * [Securing WordPress the Right Way](https://wordpress.tv/2015/08/03/chris-wiegman-securing-wordpress-the-right-way/)
 * [Securing Your Code: WordPress Security for Developers](https://wordpress.tv/2014/10/17/chris-wiegman-securing-your-code-wordpress-security-for-developers/)
 * [Understanding WordPress Vulnerabilities (XSS, CSRF, WTF)](http://wpsessions.com/sessions/security-for-developers/)
-
-## Presentation Slides
-
-[A full list of my presentation slides is available here](http://slidedecks.chriswiegman.com/ "Chris Wiegman's presentation slides")
