@@ -14,6 +14,10 @@ I am available for speaking engagements at events, conferences and other in-pers
 
 ## Conferences
 
+### 2020
+
+* [WordCamp Miami 2020](https://2020.miami.wordcamp.org)
+
 ### 2019
 
 * [WordCamp Seattle 2019](https://2019.seattle.wordcamp.org/)
