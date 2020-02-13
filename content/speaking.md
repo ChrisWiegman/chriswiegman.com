@@ -83,6 +83,7 @@ I am available for speaking engagements at events, conferences and other in-pers
 Of course, conferences aren’t all there is. I’ve also been fortunate to work with local WordPress and other groups in my hometown and beyond. Here are some of the Meetup groups I’ve been honored to speak to over the years.
 
 * [The Austin WordPress Meetup](https://www.meetup.com/austinwordpress/)
+* [Containous Online Events](https://containo.us/events/)
 * [The Grand Rapids WordPress Meetup](https://www.meetup.com/wpgrandrapids/)
 * [Harrisburg WordPress User Group](https://www.meetup.com/Harrisburg-WordPress-User-Group/)
 * [The Metro Detroit WordPress Meetup](https://www.meetup.com/metro-detroit-wordpress-meetup/)
