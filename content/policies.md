@@ -30,7 +30,7 @@ As you may have noticed, there is no contact form on this site. Emails sent to m
 
 ## Comments Policy
 
-No comments are accepted directly on the site. Please feel free to find me on [Mastodon](https://tekton.network/@chriswiegman "Chis Wiegman on Mastodon"), [Twitter](https://twitter.com/ChrisWiegman "Chris Wiegman on Twitter") or elsewhere to continue the conversation.
+No comments are accepted directly on the site. Please feel free to find me on [Mastodon](https://mastodon.chriswiegman.com/@chris "Chis Wiegman on Mastodon"), [Twitter](https://twitter.com/ChrisWiegman "Chris Wiegman on Twitter") or elsewhere to continue the conversation.
 
 ## Guest Posting Policy
 
