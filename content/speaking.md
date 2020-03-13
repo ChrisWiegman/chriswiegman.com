@@ -1,6 +1,6 @@
 ---
 title: "Speaking Engagements"
-date: 2019-08-13T12:00:00-04:00
+date: 2020-03-13T12:00:00-04:00
 description: "Chris Wiegman is an experienced speaker on topics related to WordPress and general technology."
 draft: false
 images: ["/images/chris-wiegman-speaking.jpg"]
@@ -16,7 +16,6 @@ I am available for speaking engagements at events, conferences and other in-pers
 
 ### 2020
 
-* [WordCamp Jacksonville 2020](https://2020.jacksonville.wordcamp.org)
 * [WordCamp Miami 2020](https://2020.miami.wordcamp.org)
 
 ### 2019
