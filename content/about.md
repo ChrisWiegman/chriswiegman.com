@@ -28,14 +28,14 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 ## What I’m doing now
 
-* Building Paid tools for [Local](https://localbyflywheel.com/) in GoLang and PHP for [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting").
+* Helping make [WP Engine](https://wpengine.com) the fastest WooCommerce host available
 * Working on new articles and posts for ChrisWiegman.com
-* Building a life-logging site to track the data I want in a privacy-friendly way using WordPress
 * Improving my physical and mental health with a combination of exercise and attempting to eat better
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
 * Trying to end my addition to big-tech
+* Taking advantage of the time I now have available to relax and try to reconnect with the world.
 
-_Updated 5 January 2020_
+_Updated 20 March 2020_
 
 [My resume is available online here](http://wieg.co/resume "Chris Wiegman's resume").
 
