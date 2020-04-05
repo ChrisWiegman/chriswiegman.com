@@ -37,6 +37,8 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 _Updated 20 March 2020_
 
+[My journal of non-tech writing](https://journal.chriswiegman.com/)
+
 [My resume is available online here](http://wieg.co/resume "Chris Wiegman's resume").
 
 [Download my PGP Key](http://wieg.co/pgp)
