@@ -7,7 +7,7 @@ images: ["/images/leaving-big-tech-behind-take-2.jpg"]
 tags: ["big tech","Google","Amazon","NextCloud"]
 ---
 
-![Leaving Big Tech Behind Take 2](/images/leaving-big-tech-behind-take-2.jpg)]
+![Leaving Big Tech Behind Take 2](/images/leaving-big-tech-behind-take-2.jpg)
 
 For much of 2019 I focused hard on reducing my reliance on big-tech, especially Google. While I had gone fairly far, I hit a few bumps in January that had me [temporarily reversing some of my progress](https://chriswiegman.com/2020/01/the-road-to-sustainable-tech/ "My post, The Road to Sustainable Tech") and putting my email, calendar and files storage back on Google for a bit. To make a long story short, the configuration and services I was running were requiring far more time than I had and simply weren't sustainable for me or, should something happen to me, for my wife. Things had to change.
 
