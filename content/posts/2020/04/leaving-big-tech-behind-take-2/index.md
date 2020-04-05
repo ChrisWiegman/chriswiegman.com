@@ -23,7 +23,7 @@ One thing I'm not self-hosting anymore is my Mastodon server. I've gone back to 
 
 ## Leaving Big Tech Behind Part II
 
-First, there are a lot of services I don't need to repeat from my previous post on the topic. Many of the services I had moved to last October I've gone back to. I won't repeat those here. Instead, here's a list of the remaining services and the changes from that post.
+First, there are a lot of services I don't need to repeat from [my previous post on the topic](https://chriswiegman.com/2019/10/how-i-mostly-removed-google-from-my-life/). Many of the services I had moved to last October I've gone back to. I won't repeat those here. Instead, here's a list of the remaining services and the changes from that post.
 
 * **Google Assistant** In the end, this is one service I simply didn't need to replace. I bought physical switches for some of our Phillips Hue bulbs and they're working great. If I want to listen to music, I simply start it with my phone or computer. If I want to set a timer I do it on my watch. Somehow I think we've forgotten how easy or simply unnecessary many of the tasks we rely on assistants for actually were. That was definitely my case here.
 
