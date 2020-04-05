@@ -1,6 +1,6 @@
 ---
 title: "About Chris"
-date: 2019-01-05T08:15:00-04:00
+date: 2019-04-05T08:15:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/images/chris-and-joy-in-alaska.jpg"]
@@ -37,7 +37,7 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 _Updated 20 March 2020_
 
-[My journal of non-tech writing](https://journal.chriswiegman.com/)
+[My journal with my non-tech writing](https://journal.chriswiegman.com/)
 
 [My resume is available online here](http://wieg.co/resume "Chris Wiegman's resume").
 
