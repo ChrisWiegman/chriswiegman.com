@@ -1,6 +1,6 @@
 ---
 title: "About Chris"
-date: 2019-04-05T08:15:00-04:00
+date: 2020-04-11T08:15:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/images/chris-and-joy-in-alaska.jpg"]
@@ -28,17 +28,17 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 ## What I’m doing now
 
-* Helping make [WP Engine](https://wpengine.com) the fastest WooCommerce host available
+* Helping make [WP Engine](https://wpengine.com) the most complete WooCommerce host available
 * Working on new articles and posts for ChrisWiegman.com
-* Improving my physical and mental health with a combination of exercise and attempting to eat better
+* Improving my physical health with a combination of walking more and attempting to eat better
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
 * Trying to end my addition to big-tech
-* Taking advantage of the time I now have available to relax and try to reconnect with the world.
+* Taking advantage of the time I now have available to relax and try to reconnect with the world
 
-_Updated 20 March 2020_
+_Updated 12 April 2020_
 
-[My journal with my non-tech writing](https://journal.chriswiegman.com/)
+## More about me
 
-[My resume is available online here](http://wieg.co/resume "Chris Wiegman's resume").
-
-[Download my PGP Key](http://wieg.co/pgp)
+* [My journal where I keep my non-tech writing](https://journal.chriswiegman.com/)
+* [My resume](http://wieg.co/resume "Chris Wiegman's resume").
+* [My PGP Key](http://wieg.co/pgp)
