@@ -2,7 +2,7 @@
     <!-- Group by year. -->
     {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{ range $pages.GroupByDate "2006" }}
-    <h2>{{ .Key }}</h2>
+    <h2>Posts from {{ .Key }}</h2>
 
     <!-- Group by month. -->
     {{ range .Pages.GroupByDate "January" }}
