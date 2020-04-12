@@ -6,6 +6,8 @@ draft: false
 images: ["/images/chris-and-joy-in-alaska.jpg"]
 ---
 
+![Joy and I in Alaska in 2017](/images/chris-and-joy-in-alaska.jpg)
+
 Chris Wiegman is currently a Senior Software Engineer at [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting") working on developer tools to support the WP Engine user base as well as WordPress, PHP and other web developers.
 
 Chris grew up primarily in Chicago and after high school thought he could make it as a musician (among other things). Fortunately, at least for Chris, those were in the days of the [Y2K scare](https://en.wikipedia.org/wiki/Year_2000_problem "primer on Y2K") and he quickly realized he could actually make a living in Information Technology so he left college after a semester and decided to try the IT world.
@@ -23,8 +25,6 @@ Chris continued to work on iThemes Security until 2015 when he moved to Florida 
 While only having been officially employed as a developer since 2012 Chris has lucked out, if you will, by getting to work with some of the best and brightest in the WordPress and Higher Education spaces. Today he is considered an expert in WordPress plugin development, security, WordPress site performance and the technologies and techniques needed to succeed as a modern web developer.
 
 When not writing code, Chris and his wife enjoy getting out to the beach near their home as well as traveling, writing and reading as much as possible. This year alone you might seem him at various conferences around the country or even hear him passing overhead with a student in a small airplane.
-
-![Joy and I in Alaska in 2017](/images/chris-and-joy-in-alaska.jpg)
 
 ## What I’m doing now
 
