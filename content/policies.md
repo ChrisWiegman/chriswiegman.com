@@ -1,6 +1,6 @@
 ---
 title: "Policies and Disclosures"
-date: 2019-08-13T12:00:00-04:00
+date: 2020-04-12T12:00:00-04:00
 description: "Policies, credits and required disclosures for  ChrisWiegman.com."
 draft: false
 images: []
@@ -14,15 +14,13 @@ All content on ChrisWiegman.com is licensed under the [Creative Commons License]
 
 ## Income Disclosures
 
-__I am occasionally paid for reviews of products or services__. In these cases I will clearly mark the review as such so as not to confuse any of my readers. In addition, as compensation for these reviews is often in the form of free product as a way to get the product in question to me for a review, any income from such reviews will never sway my opinion of the product in question.
-
 __I participate in affiliate programs__. Some links on this site are displayed as part of affiliate programs for which I am compensated should a click on the link result in a purchase of the product or service in question. Note that I only use affiliate programs for products and services I currently use or have used myself and can recommend to the public in good faith. Your mileage may vary.
 
-While this site is in no way designed to make me rich, it does have the requirement of being, at a minimum, financially self-sufficient. My efforts to make it so do not however reflect in the opinions I express.
+While this site is in no way designed to make me rich, it does however have the requirement of being, at a minimum, financially self-sufficient. My efforts to make it so do not however reflect in the opinions I express.
 
 ## Privacy Policy
 
-This site uses no JavaScript or analytics of any kind. All server logs use anonymous IP addresses and are discarded every 48 hours. Server logs are in place simply to help me find and troubleshoot problems that may arise with the site.
+This site uses no JavaScript or analytics of any kind. As I host on [Netlify](https://www.netlify.com/), they may keep server logs themselves. I have no access to or ability to control the data they retain. [Click here for Netlify's privacy policy](https://www.netlify.com/privacy/).
 
 Some embeds may rely on code from from third-party sites. Where I use such code I will call out a link to the 3rs party's privacy policy as appropriate.
 
