@@ -29,11 +29,11 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 ## What I’m doing now
 
 * Helping make [WP Engine](https://wpengine.com) the most complete WooCommerce host available
-* Working on new articles and posts for ChrisWiegman.com
+* Working on new posts for ChrisWiegman.com
 * Improving my physical health with a combination of walking more and attempting to eat better
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
-* Trying to end my addition to big-tech
 * Taking advantage of the time I now have available to relax and try to reconnect with the world
+* Finding ways to find peace as the world burns
 
 _Updated 12 April 2020_
 
