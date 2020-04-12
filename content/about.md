@@ -40,5 +40,5 @@ _Updated 12 April 2020_
 ## More about me
 
 * [My journal where I keep my non-tech writing](https://journal.chriswiegman.com/)
-* [My resume](http://wieg.co/resume "Chris Wiegman's resume").
+* [My resume](http://wieg.co/resume "Chris Wiegman's resume")
 * [My PGP Key](http://wieg.co/pgp)
