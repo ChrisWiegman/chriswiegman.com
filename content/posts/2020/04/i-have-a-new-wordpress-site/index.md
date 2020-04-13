@@ -1,5 +1,5 @@
 ---
-title: "I Have a New Wordpress Site"
+title: "I Have a New WordPress Site"
 date: 2020-04-12T18:57:51-04:00
 description: "I've spun up a new blog for personal writing in WordPress."
 draft: false
