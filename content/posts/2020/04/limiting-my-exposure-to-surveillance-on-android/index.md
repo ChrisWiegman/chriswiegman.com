@@ -1,8 +1,8 @@
 ---
 title: "Limiting My Exposure to Surveillance on Android"
 date: 2020-04-19T14:15:19-04:00
-description: ""
-draft: finish
+description: "With only Andoid and iOS as viable mobile options, here's how I've tuned my Android phone to get the best of both freedom to use it as I want while maintaining as much privacy as possible."
+draft: false
 images: ["/images/limiting-my-exposure-to-surveillance-on-android.png"]
 tags: ["android","mobile","privacy"]
 ---
