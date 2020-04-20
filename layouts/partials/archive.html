@@ -2,28 +2,30 @@
     <!-- Group by year. -->
     {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{ range $pages.GroupByDate "2006" }}
-    <h2>Posts from {{ .Key }}</h2>
+    <h2>{{ .Key }}</h2>
 
-    <!-- Group by month. -->
-    {{ range .Pages.GroupByDate "January" }}
-    <h3>{{ .Key }}</h3>
+    <div class="posts-for-year">
+        <!-- Group by month. -->
+        {{ range .Pages.GroupByDate "January" }}
+        <h3>{{ .Key }}</h3>
 
-    <!-- Orders content according to the "date" field in front matter. -->
-    {{ range .Pages.GroupByDate "02" }}
-    <h4 class='postdate date'>{{ .Key }}</h4>
-    <ul>
-        {{ range $index, $post := .Pages }}
-        <li>
-            <time datetime="{{ $post.Date.Format "2006-01-02T15:04:05Z0700" }}">
-                <span class='postdate day item-{{ $index }}'>{{ $post.Date.Format "Mon" }}</span>
-            </time>
-            <span class='postdate'>{{ $post.Date.Format "15:04" }}</span>
-            <a class='posttitle' href="{{ .RelPermalink }}" title="Post: {{ $post.Title }}">{{ $post.Title }}</a>
-        </li>
+        <!-- Orders content according to the "date" field in front matter. -->
+        {{ range .Pages.GroupByDate "02" }}
+        <h4 class='postdate date'>{{ .Key }}</h4>
+        <ul>
+            {{ range $index, $post := .Pages }}
+            <li>
+                <time datetime="{{ $post.Date.Format "2006-01-02T15:04:05Z0700" }}">
+                    <span class='postdate day item-{{ $index }}'>{{ $post.Date.Format "Mon" }}</span>
+                </time>
+                <span class='postdate'>{{ $post.Date.Format "15:04" }}</span>
+                <a class='posttitle' href="{{ .RelPermalink }}" title="Post: {{ $post.Title }}">{{ $post.Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
         {{ end }}
-    </ul>
-    {{ end }}
-    {{ end }}
+        {{ end }}
+    </div>
     {{ end }}
     <h2>Older Posts</h2>
     <p>I've been blogging on this site for over a decade but, in 2019, I decided it was time to archive the
