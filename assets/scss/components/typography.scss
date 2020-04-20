@@ -19,7 +19,6 @@ h6 {
 
 a {
     color: $link-color;
-    font-weight: bold;
     text-decoration: none;
 
     &:hover {
@@ -29,21 +28,11 @@ a {
 
 blockquote {
 
-    color: $quote-color;
     display: block;
-    font-size: 1.5rem;
     font-style: italic;
-    line-height: 2rem;
-    margin: 0;
-    padding: 20px 0;
-    font-weight: bold;
-    width: 100%;
+    padding: 20px 40px;
 
     cite {
-        display: block;
-        width: 100%;
-        font-weight: normal;
-        font-size: 1rem;
         text-align: right;
         clear: both;
     }
