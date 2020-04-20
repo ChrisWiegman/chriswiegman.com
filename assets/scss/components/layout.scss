@@ -118,6 +118,17 @@ html {
             height: auto;
             max-width: 100%;
         }
+
+        table {
+            border: 1px solid $text-color;
+            margin: 0 auto;
+
+            th, td {
+                border: 1px solid $text-color;
+                line-height: 1rem;
+                padding: 10px;
+            }
+        }
     }
 
     .content-header {
