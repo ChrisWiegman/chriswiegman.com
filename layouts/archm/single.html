@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ .Language }}">
+{{ partial "header.html" . }}
+
+<body>
+	<div class="container">
+		{{ partial "head.html" . }}
+		<div class="content home">
+            {{ $archYear := .Date.Format "2006" }}
+            {{ $archMonth := .Date.Format "January" }}
+
+            <h2>Archive for {{ $archMonth }}, {{ $archYear }}</h2>
+
+            {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+            {{ range $pages.GroupByDate "2006" }}
+
+            {{ if eq (.Key) $archYear }}
+            <div class="posts-for-year">
+                {{ range .Pages.GroupByDate "January" }}
+                {{ if eq (.Key) $archMonth }}
+
+                <!-- Orders content according to the "date" field in front matter. -->
+                {{ range .Pages.GroupByDate "02" }}
+                <h4 class='postdate date'>{{ .Key }}</h4>
+                <ul>
+                    {{ range $index, $post := .Pages }}
+                    <li>
+                        <time datetime="{{ $post.Date.Format "2006-01-02T15:04:05Z0700" }}">
+                            <span class='postdate day item-{{ $index }}'>{{ $post.Date.Format "Mon" }}</span>
+                        </time>
+                        <span class='postdate'>{{ $post.Date.Format "15:04" }}</span>
+                        <a class='posttitle' href="{{ .RelPermalink }}" title="Post: {{ $post.Title }}">{{ $post.Title }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </div>
+            {{ end }}
+            {{ end }}
+        </div>
+		{{ partial "footer.html" . }}
+	</div>
+</body>
+
+</html>

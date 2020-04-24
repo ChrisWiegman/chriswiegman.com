@@ -3,10 +3,10 @@ title: "About Chris"
 date: 2020-04-11T08:15:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
-images: ["/images/chris-and-joy-in-alaska.jpg"]
+images: ["/uploads/chris-and-joy-in-alaska.jpg"]
 ---
 
-![Joy and I in Alaska in 2017](/images/chris-and-joy-in-alaska.jpg)
+![Joy and I in Alaska in 2017](/uploads/chris-and-joy-in-alaska.jpg)
 
 Chris Wiegman is currently a Senior Software Engineer at [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting") working on developer tools to support the WP Engine user base as well as WordPress, PHP and other web developers.
 

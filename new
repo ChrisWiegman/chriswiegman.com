@@ -10,10 +10,26 @@ if [ $# -eq 0 ]
     exit
 fi
 
-datePrefix=$(date +'%Y/%m/')
+yearPrefix=$(date +'%Y')
+monthPrefix=$(date +'%Y-%m')
+monthName=$(date +'%B')
 postTitle=$1
 pathSuffix="/index.md"
 
-postPath="posts/$datePrefix$postTitle$pathSuffix"
+postPath="posts/$postTitle.md"
 
 hugo new $postPath
+
+if [ ! -f ./content/archy/$yearPrefix.md ]; then
+  echo '---' >> ./content/archy/$yearPrefix.md;
+  echo "title: \"Archive for $yearPrefix\"" >> ./content/archy/$yearPrefix.md;
+  echo "date: \"$yearPrefix-01-01 00:00:00\"" >> ./content/archy/$yearPrefix.md;
+  echo '---' >> ./content/archy/$yearPrefix.md;
+fi
+
+if [ ! -f ./content/archm/$monthPrefix.md ]; then
+  echo '---' >> ./content/archm/$monthPrefix.md;
+  echo "title: \"Archive for $monthName, $yearPrefix\"" >> ./content/archm/$monthPrefix.md;
+  echo "date: \"$monthPrefix-01 00:00:00\"" >> ./content/archm/$monthPrefix.md;
+  echo '---' >> ./content/archm/$monthPrefix.md;
+fi

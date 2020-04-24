@@ -3,10 +3,10 @@ title: "Speaking Engagements"
 date: 2020-03-13T12:00:00-04:00
 description: "Chris Wiegman is an experienced speaker on topics related to WordPress and general technology."
 draft: false
-images: ["/images/chris-wiegman-speaking.jpg"]
+images: ["/uploads/chris-wiegman-speaking.jpg"]
 ---
 
-![Presenting the keynote presentation at WordCamp Utrecht 2018](/images/chris-wiegman-speaking.jpg)
+![Presenting the keynote presentation at WordCamp Utrecht 2018](/uploads/chris-wiegman-speaking.jpg)
 
 Writing great code is only part of the equation. Teaching others to write their own code not only helps others succeed in their own goal but also is one of the most fulfilling activities I’ve ever done. Fortunately I’ve had the opportunity to speak and teach to diverse audiences on WordPress and other technologies over the years.
 

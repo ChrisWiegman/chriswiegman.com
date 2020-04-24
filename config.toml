@@ -17,6 +17,8 @@ enableRobotsTXT = true
 
 [permalinks]
   posts = "/:year/:month/:title/"
+  archy = "/:year/"
+  archm = "/:year/:month/"
 
 [menu]
   [[menu.main]]
