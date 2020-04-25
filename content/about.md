@@ -1,6 +1,6 @@
 ---
 title: "About Chris"
-date: 2020-04-11T08:15:00-04:00
+date: 2020-04-25T08:15:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/uploads/chris-and-joy-in-alaska.jpg"]
@@ -20,7 +20,7 @@ It was at SIU that Chris discovered WordPress as a solution to make it easy for 
 
 After college Chris and his wife, Joy, moved to Austin, TX and quickly got involved with the Austin WordPress community while watching Better WP Security go viral in the WordPress world. A few years, and a few jobs, later he realized that Better WP Security had reached what he could do with it on his own so he sold it to [iThemes](http://ithemes.com/ "iThemes WordPress plugins") where it became iThemes Security.
 
-Chris continued to work on iThemes Security until 2015 when he moved to Florida and joined [10up](https://10up.com/ "10up's homepage"). In 2016 he returned to his roots in Higher Education by joining the team at [UF Health](https://ufhealth.org/ "University of Florida Health") where he worked on their two large WordPress networks for hospitals, colleges, clinics and various other units in the UF Health system. Finally, Chris moved from UF Health to WP Engine in September 2018 to help better support WordPress and other developers with workflow and other improved developer tools.
+Chris continued to work on iThemes Security until 2015 when he moved to Florida and joined [10up](https://10up.com/ "10up's homepage"). In 2016 he returned to his roots in Higher Education by joining the team at [UF Health](https://ufhealth.org/ "University of Florida Health") where he worked on their two large WordPress networks for hospitals, colleges, clinics and various other units in the UF Health system. Finally, Chris moved from UF Health to [WP Engine](https://wpengine.com) in September 2018 to help better support WordPress and other developers with workflow and other improved developer tools.
 
 While only having been officially employed as a developer since 2012 Chris has lucked out, if you will, by getting to work with some of the best and brightest in the WordPress and Higher Education spaces. Today he is considered an expert in WordPress plugin development, security, WordPress site performance and the technologies and techniques needed to succeed as a modern web developer.
 
@@ -28,14 +28,14 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 ## What I’m doing now
 
-* Helping make [WP Engine](https://wpengine.com) the most complete WooCommerce host available
+* Helping make [WP Engine](https://wpengine.com) the best WooCommerce host available
 * Working on new posts for ChrisWiegman.com
+* Journaling at [journal.chriswiegman.com](https://journal.chriswiegman.com)
 * Improving my physical health with a combination of walking more and attempting to eat better
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
-* Taking advantage of the time I now have available to relax and try to reconnect with the world
 * Finding ways to find peace as the world burns
 
-_Updated 12 April 2020_
+_Updated 25 April 2020_
 
 ## More about me
 
