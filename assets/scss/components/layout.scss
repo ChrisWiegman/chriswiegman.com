@@ -58,7 +58,6 @@ html {
         width: 100%;
         overflow: hidden;
         position: relative;
-        margin-bottom: 2rem;
 
         img {
             max-width: 30%;
@@ -143,10 +142,9 @@ html {
         }
 
         h4 {
-            font: 18px $sans-font;
-            font-weight: normal;
+            font-size: 18px;
             line-height: 27px;
-            padding: 4px;
+            padding: 2px 2px 2px 3px;
             border: 2px solid $link-color;
             color: $link-color;
             border-radius: 50%;
