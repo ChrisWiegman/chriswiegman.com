@@ -3,7 +3,7 @@ title: "Why I Can't Recommend Linux to Others"
 date: 2020-04-26T09:53:18-04:00
 description: "I love Linux, but I know better than to suggest it to everyone. Here's why."
 draft: false
-images: ["/uploads.why-i-cant-recommend-linux-to-others.jpg"]
+images: ["/uploads/why-i-cant-recommend-linux-to-others.jpg"]
 tags: ["linux"]
 ---
 
