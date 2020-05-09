@@ -13,6 +13,7 @@ html {
         clear: both;
         display: inline-block;
         float: none;
+        font-size: 1.4rem;
         padding-bottom: 1rem;
         width: 100%;
         margin: 0;
@@ -56,28 +57,10 @@ html {
         clear: both;
         display: inline-block;
         width: 100%;
-        overflow: hidden;
-        position: relative;
+        text-align: center;
 
         img {
-            max-width: 30%;
-            padding-left: 10%;
-            float: left;
-        }
-
-        .intro-text {
-            font-size: 1.1rem;
-            font-style: italic;
-            height: 100%;
-            position: absolute;
-            max-width: 45%;
-            display: flex;
-            top: 0;
-            right: 0;
-
-            p {
-                margin: auto;
-            }
+            max-width: 20%;
         }
     }
 
@@ -142,16 +125,10 @@ html {
         }
 
         h4 {
-            font-size: 18px;
-            line-height: 22px;
-            padding: 2px;
-            border: 2px solid $link-color;
-            color: $link-color;
-            border-radius: 50%;
-            margin: 0;
             float: left;
-            width: 22px;
-            height: 22px;
+            margin: 0;
+            margin-left: 40px;
+            padding: 0;
         }
 
         li {
@@ -161,7 +138,7 @@ html {
             grid-gap: 0.5rem;
             align-items: start;
             margin-bottom: 1rem;
-            margin-left: 0;
+            margin-left: 40px;
 
             time {
                 justify-self: center;
