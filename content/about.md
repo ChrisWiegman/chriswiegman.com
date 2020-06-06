@@ -35,7 +35,7 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 * Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
 * Finding ways to find peace as the world burns
 
-_Updated 25 April 2020_
+_Updated 06 June 2020_
 
 ## More about me
 
