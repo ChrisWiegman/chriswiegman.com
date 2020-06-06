@@ -6,7 +6,7 @@ html {
 
     margin: 0 auto;
     padding: 5px 0;
-    max-width: 900px;
+    max-width: 760px;
 
     .header {
 
@@ -62,21 +62,16 @@ html {
         img {
             max-width: 20%;
         }
+
+        .social {
+            margin-bottom: 0;
+        }
     }
 
     .content {
 
         a {
             border-bottom: 1px solid $link-color;
-
-            &:hover {
-                border-bottom: none;
-            }
-        }
-
-        .highlight {
-            font-size: 0.7rem;
-            line-height: 18px;
         }
 
         li::marker {
@@ -133,12 +128,10 @@ html {
 
         li {
             list-style-type: none;
-            display: grid;
-            grid-template-columns: 2rem 2.5rem 1fr;
-            grid-gap: 0.5rem;
             align-items: start;
             margin-bottom: 1rem;
             margin-left: 40px;
+            border-bottom: 1px solid $border-color;
 
             time {
                 justify-self: center;
@@ -155,9 +148,7 @@ html {
             }
 
             .posttitle {
-                max-width: 100%;
-                overflow: auto;
-                border-bottom: 1px solid $border-color;
+                border-bottom: none;
             }
         }
     }
