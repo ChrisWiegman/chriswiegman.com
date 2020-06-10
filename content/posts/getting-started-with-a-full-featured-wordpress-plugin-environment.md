@@ -1,5 +1,5 @@
 ---
-title: "Getting Started With a Full Featured Wordpress Plugin Environment"
+title: "Getting Started With a Full Featured WordPress Plugin Environment"
 date: 2020-06-10T14:22:25-04:00
 description: "I've developed WordPress starter plugin for a modern development workflow. Here's how you can get started with it."
 draft: false
@@ -7,7 +7,7 @@ images: ["/uploads/getting-started-with-a-full-featured-wordpress-plugin-environ
 tags: ["WordPress","WordPress Development","lando","php","plugin"]
 ---
 
-![Getting Started With a Full Featured Wordpress Plugin Environment](/uploads/getting-started-with-a-full-featured-wordpress-plugin-environment.png)
+![Getting Started With a Full Featured WordPress Plugin Environment](/uploads/getting-started-with-a-full-featured-wordpress-plugin-environment.png)
 
 Finding the perfect WordPress development workflow is hard, especially if you're a plugin developer. Most tools available assume that you're building out a full WordPress site at best and far too many of those leave out critical aspects of workflow such as debugging tools, performance tools and more.
 
