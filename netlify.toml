@@ -13,6 +13,6 @@ for = "/css/*"
 Cache-Control = "public, max-age=360000"
 
 [[headers]]
-for = "/images/*"
+for = "/uploads/*"
 [headers.values]
 Cache-Control = "public, max-age=360000"
