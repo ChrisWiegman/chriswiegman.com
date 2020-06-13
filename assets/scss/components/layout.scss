@@ -2,55 +2,44 @@ html {
     background-color: $background-light-color;
 }
 
-.container {
+.header {
 
-    margin: 0 auto;
-    padding: 5px 0;
-    max-width: 760px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto 3rem auto;
+    max-width: 960px;
+    padding: 1rem;
+    border-bottom: 1px solid $border-color;
 
-    .header {
+    span.site-title {
 
-        clear: both;
-        display: inline-block;
-        float: none;
+        flex: 1;
         font-size: 1.4rem;
-        padding-bottom: 1rem;
-        width: 100%;
-        margin: 0;
+        font-weight: bold;
 
-        span.site-title {
+        a {
+            color: $text-color;
 
-            font-weight: bold;
-            float: left;
-
-            a {
-                color: $text-color;
-            }
-        }
-
-        label,
-        .nav {
-            float: right;
-            padding: 0;
-        }
-
-        label,
-        #toggle {
-            display: none;
-        }
-
-        ul {
-
-            margin: 0;
-
-            li {
-                display: inline;
-                font-size: 0.8rem;
-                list-style-type: none;
-                margin: 0 0.4rem;
+            &:hover {
+                color: $light-text-color;
+                transition: .25s;
             }
         }
     }
+
+    .nav {
+        border: 2px solid $link-color;
+        padding: 3px 3px 0 3px;
+        border-radius: 4px;
+        font-size: 0.8rem;
+        line-height: 1rem;
+    }
+}
+
+.container {
+
+    margin: 0 auto;
+    max-width: 700px;
 
     .intro {
 
@@ -58,6 +47,7 @@ html {
         display: inline-block;
         width: 100%;
         text-align: center;
+        padding-bottom: 3rem;
 
         img {
             max-width: 20%;
@@ -109,7 +99,7 @@ html {
     .content.home {
 
         .posts-for-year {
-            margin-left: 60px;
+            margin-left: 20px;
         }
 
         h2,
@@ -122,7 +112,7 @@ html {
         h4 {
             float: left;
             margin: 0;
-            margin-left: 40px;
+            margin-left: 20px;
             padding: 0;
         }
 
@@ -130,7 +120,7 @@ html {
             list-style-type: none;
             align-items: start;
             margin-bottom: 1rem;
-            margin-left: 40px;
+            margin-left: 20px;
             border-bottom: 1px solid $border-color;
 
             time {

@@ -3,8 +3,10 @@
 {{ partial "header.html" . }}
 
 <body>
+    {{ partial "masthead.html" . }}
+
 	<div class="container">
-		{{ partial "head.html" . }}
+
 		<div class="content home">
             {{ $archYear := .Date.Format "2006" }}
 

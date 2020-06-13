@@ -1,19 +1,13 @@
 @media screen and (max-width: 470px) {
 
-    .container {
+    .header {
 
-        .header {
-
-            padding-bottom: 0;
-
-            h1.site-title {
-                font-size: 1.1rem;
-            }
-
-            label {
-                margin-top: 2px;
-            }
+        h1.site-title {
+            font-size: 1.1rem;
         }
+    }
+
+    .container {
 
         .content.home {
 

@@ -3,9 +3,9 @@
 {{ partial "header.html" . }}
 
 <body>
-	<div class="container{{if .Section}} {{.Section}}{{end}}">
+	{{ partial "masthead.html" . }}
 
-		{{ partial "head.html" . }}
+	<div class="container{{if .Section}} {{.Section}}{{end}}">
 
 		<article class="h-entry" itemscope="" itemtype="http://schema.org/BlogPosting">
 			<div class="content-header">
