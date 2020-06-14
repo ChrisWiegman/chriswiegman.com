@@ -20,15 +20,18 @@
 				{{ .Content }}
 			</div>
 			{{if eq .Section "posts"}}
-			<div class="author-box">
-				<img class="u-photo" src="/uploads/chris-wiegman.jpg" alt="Avatar of Chris Wiegman" />
-				<div>
-					<h2>About <a rel="author" class="p-author h-card" href="https://chriswiegman.com/">Chris Wiegman</a></h2>
-					<p>I am a Senior Software Engineer focused on improving the developer experience for WordPress developers and users of all kinds. My work focuses on the intersection of development, privacy, ethics and usability of software and development to help improve the lives of everyone who uses technology.</p>
-					<p><a href="/about/" title="About Chris Wiegman">Read my full bio.</a></p>
-				</div>
+			<div class="next-post">
+				{{ if .NextPage }}
+				<a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
+				{{ end }}
 			</div>
-			{{end}}
+
+			<div class="previous-post">
+				{{ if .PrevPage }}
+				<a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
+				{{ end }}
+			</div>
+			{{ end }}
 		</article>
 		{{ partial "footer.html" . }}
 	</div>
