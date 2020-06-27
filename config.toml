@@ -19,3 +19,25 @@ enableRobotsTXT = true
   posts = "/:year/:month/:title/"
   archy = "/:year/"
   archm = "/:year/:month/"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 100
+  [[menu.main]]
+    name = "Speaking"
+    url = "/speaking/"
+    weight = 110
+  [[menu.main]]
+    name = "Contact"
+    url = "mailto:contact@chriswiegman.com"
+    weight = 120
+  [[menu.main]]
+    name = "RSS Feed"
+    url = "/index.xml"
+    weight = 130
+  [[menu.main]]
+    name = "Site Policies"
+    url = "/policies/"
+    weight = 140

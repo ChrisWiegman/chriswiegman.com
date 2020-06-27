@@ -2,8 +2,16 @@
 	<span class="site-title"><a href="{{.Site.BaseURL}}" title="ChrisWiegman.com Homepage">{{ .Site.Title }}</a></span>
 
 	<div class="menu" role="navigation">
+		<label for="toggle">Menu</label>
+		<input type="checkbox" id="toggle" />
 		<nav class="nav">
-			<a role="menuitem" href="/menu/" title="Site Menu">Menu</a>
+			<ul role="menu">
+				{{ range .Site.Menus.main }}
+				<li role="presentation">
+					<a role="menuitem" href="{{ .URL }}" title="Chris Wiegman's {{ .Name }} page">{{ .Name }}</a>
+				</li>
+				{{ end }}
+			</ul>
 		</nav>
 	</div>
 </div>

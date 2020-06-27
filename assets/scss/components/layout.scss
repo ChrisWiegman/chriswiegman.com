@@ -27,12 +27,53 @@ html {
         }
     }
 
-    .nav {
+    label {
+        display: block;
+        color: $link-color;
+        margin-top: 8px;
         border: 2px solid $link-color;
         padding: 3px 3px 0 3px;
         border-radius: 4px;
         font-size: 0.8rem;
         line-height: 1rem;
+    }
+
+    .menu {
+        position: relative;
+        display: inline-block;
+
+        #toggle {
+            display: none;
+        }
+
+        #toggle:checked+.nav {
+            display: block;
+        }
+
+        .nav {
+
+            display: none;
+            float: none;
+
+            ul {
+
+                border-radius: 4px;
+                background: $background-dark-color;
+                box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+                clear: both;
+                float: none;
+                max-width: 960px;
+                padding: 0;
+                position: absolute;
+                margin: 0;
+                right: 0;
+                list-style: none;
+
+                li {
+                    padding: 0px 25px;
+                }
+            }
+        }
     }
 }
 
