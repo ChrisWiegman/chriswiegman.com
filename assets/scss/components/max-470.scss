@@ -4,6 +4,10 @@
 
         .content.home {
 
+            .posts-for-year {
+                margin-left: 0;
+            }
+
             h2,
             h3,
             h4 {
@@ -11,23 +15,7 @@
             }
 
             li {
-                list-style-type: none;
-                display: block;
-                align-items: start;
-                margin-bottom: 1rem;
                 margin-left: 0;
-                width: 100%;
-
-                .postdate,
-                .day,
-                time {
-                    display: none;
-                }
-
-                .posttitle {
-                    max-width: 100%;
-                    overflow: auto;
-                }
             }
         }
     }
