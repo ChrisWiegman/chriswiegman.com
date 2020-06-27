@@ -34,10 +34,10 @@ enableRobotsTXT = true
     url = "mailto:contact@chriswiegman.com"
     weight = 120
   [[menu.main]]
-    name = "RSS Feed"
+    name = "RSS"
     url = "/index.xml"
     weight = 130
   [[menu.main]]
-    name = "Site Policies"
+    name = "Policies"
     url = "/policies/"
     weight = 140
