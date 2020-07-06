@@ -1,12 +1,16 @@
 ---
-title: "Privacy Empathy and the Zero-Sum Game"
-date: 2020-06-21T14:36:36-04:00
-description: "Privacy isn't a zero-sum game and there is more to tech ethics, and being a good person in tech, than your own privacy."
-draft: false
-images: ["/uploads/privacy-empathy-and-the-zero-sum-game.jpg"]
-tags: ["privacy","tech","ethics"]
----
+title: Privacy Empathy and the Zero-Sum Game
+date: 2020-06-21T14:36:36.000-04:00
+description: Privacy isn't a zero-sum game and there is more to tech ethics, and being
+  a good person in tech, than your own privacy.
+images:
+- "/uploads/privacy-empathy-and-the-zero-sum-game.jpg"
+tags:
+- privacy
+- tech
+- ethics
 
+---
 ![Privacy Empathy and the Zero-Sum Game](/uploads/privacy-empathy-and-the-zero-sum-game.jpg)
 
 Privacy isn't a zero-sum game and there is more to tech ethics, and being a good person in tech, than your own privacy. This is a lesson I'm learning and so many others, both in the privacy space and elsewhere, need to learn. I've been personally shamed for putting data back in Google when I was having issues with my self hosted setup last January and I've seen numerous others shamed for the "sin" of using a service someone else doesn't consider pure enough in tech. This shaming doesn't improve anyone's privacy and hurts many good people and efforts in tech and beyond.
