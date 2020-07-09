@@ -28,17 +28,16 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 
 ## What I’m doing now
 
-* Helping make [WP Engine](https://wpengine.com) the best WooCommerce host available
+* Helping make [WP Engine](https://wpengine.com) the best E-commerce host available
 * Working on new posts for ChrisWiegman.com
 * Journaling at [journal.chriswiegman.com](https://journal.chriswiegman.com)
-* Improving my physical health with a combination of walking more and attempting to eat better
-* Slowly learning German with [Duolingo](https://wieg.co/duolingo "Duolingo language learning app")
-* Finding ways to find peace as the world burns
+* Trying to stay sane in light of pandemic and isolation
 
-_Updated 06 June 2020_
+_Updated 08 July 2020_
 
 ## More about me
 
+* [My speaking page](/speaking/)
 * [My journal where I keep my non-tech writing](https://journal.chriswiegman.com/)
 * [My resume](http://wieg.co/resume "Chris Wiegman's resume")
 * [My PGP Key](http://wieg.co/pgp)

@@ -1,17 +1,7 @@
 <div class="header">
 	<span class="site-title"><a href="{{.Site.BaseURL}}" title="ChrisWiegman.com Homepage">{{ .Site.Title }}</a></span>
-
-	<div class="menu" role="navigation">
-		<label for="toggle">Menu</label>
-		<input type="checkbox" id="toggle" />
-		<nav class="nav">
-			<ul role="menu">
-				{{ range .Site.Menus.main }}
-				<li role="presentation">
-					<a role="menuitem" href="{{ .URL }}" title="Chris Wiegman's {{ .Name }} page">{{ .Name }}</a>
-				</li>
-				{{ end }}
-			</ul>
-		</nav>
-	</div>
+	<ul class="menu" role="menu">
+		<li class="first" role="presentation"><a rule="menuitem" href="/about/" title="About Chris Wiegman">About</a></li>
+		<li role="presentation"><a rule="menuitem" href="mailto:contact@chriswiegman.com" title="Contact Chris Wiegman">Contact</a></li>
+	</ul>
 </div>
