@@ -20,16 +20,18 @@
 				{{ .Content }}
 			</div>
 			{{if eq .Section "posts"}}
-			<div class="next-post">
-				{{ if .NextPage }}
-				<a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">« {{ .NextPage.Title | truncate 50 "..." }}</a>
-				{{ end }}
-			</div>
+			<div class="related">
+				<div class="next-post">
+					{{ if .NextPage }}
+					<a href="{{ .NextPage.Permalink }}" title="{{ .NextPage.Title }}">« Next post</a>
+					{{ end }}
+				</div>
 
-			<div class="previous-post">
-				{{ if .PrevPage }}
-				<a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
-				{{ end }}
+				<div class="previous-post">
+					{{ if .PrevPage }}
+					<a href="{{ .PrevPage.Permalink }}" title="{{ .PrevPage.Title }}">Previous post »</a>
+					{{ end }}
+				</div>
 			</div>
 			{{ end }}
 		</article>
