@@ -1,8 +1,7 @@
 ---
 title: Privacy Empathy and the Zero-Sum Game
 date: 2020-06-21T14:36:36.000-04:00
-description: Privacy isn't a zero-sum game and there is more to tech ethics, and being
-  a good person in tech, than your own privacy.
+description: Privacy isn't a zero-sum game and there is more to tech ethics, and being a good person in tech, than your own privacy.
 images:
 - "/uploads/privacy-empathy-and-the-zero-sum-game.jpg"
 tags:
