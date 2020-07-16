@@ -19,21 +19,6 @@
 			<div class="content e-content" itemprop="articleBody">
 				{{ .Content }}
 			</div>
-			{{if eq .Section "posts"}}
-			<div class="related">
-				<div class="next-post">
-					{{ if .NextPage }}
-					<a href="{{ .NextPage.Permalink }}" title="{{ .NextPage.Title }}">« Next post</a>
-					{{ end }}
-				</div>
-
-				<div class="previous-post">
-					{{ if .PrevPage }}
-					<a href="{{ .PrevPage.Permalink }}" title="{{ .PrevPage.Title }}">Previous post »</a>
-					{{ end }}
-				</div>
-			</div>
-			{{ end }}
 		</article>
 		{{ partial "footer.html" . }}
 	</div>
