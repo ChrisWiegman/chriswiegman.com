@@ -11,7 +11,7 @@ enableRobotsTXT = true
 
 [params]
   mainSections = ["posts"]
-  description = "Chris Wiegman is a software engineer working to make the lives of WordPress developers easier."
+  description = "Chris Wiegman is a software engineer doing my best to make the world a little better with better tech. Focus on #WordPress and #DeveloperExperience."
   images = ["/images/chris-wiegman-speaking.jpg"]
   subtitle = "Engineer, Teacher, Speaker, Writer"
 
