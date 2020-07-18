@@ -1,31 +1,22 @@
 <div class="content home">
     <!-- Group by year. -->
     {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{ range $pages.GroupByDate "2006" }}
-    <h2>{{ .Key }}</h2>
-
-    <div class="posts-for-year">
-        <!-- Group by month. -->
-        {{ range .Pages.GroupByDate "January" }}
-        <h3>{{ .Key }}</h3>
-
-        <!-- Orders content according to the "date" field in front matter. -->
-        {{ range .Pages.GroupByDate "02" }}
-        <h4 class='postdate date'>{{ .Key }}</h4>
-        <ul>
+    {{- range $pages.GroupByDate "2006" }}
+    <div class="posts-group">
+        <div class="post-year" id="{{ .Key }}">{{ .Key }}</div>
+        <ul class="posts-list">
             {{ range $index, $post := .Pages }}
-            <li>
-                <a class='posttitle' href="{{ .RelPermalink }}" title="Post: {{ $post.Title }}">{{ $post.Title }}</a>
+            <li class="post-item">
+                <a href="{{.Permalink}}">
+                    <span class="post-title">{{$post.Title}}</span>
+                    <span class="post-day">{{ dateFormat "Jan 2" .Date }}</span>
+                </a>
             </li>
-            {{ end }}
+            {{- end }}
         </ul>
-        {{ end }}
-        {{ end }}
     </div>
-    {{ end }}
-    <h2>Older Posts</h2>
-    <p>I've been blogging on this site for over a decade but, in 2019, I decided it was time to archive the
-        older content. To find and read older posts, please visit the <a
-            href="https://archive.chriswiegman.com/" title="Chris Wiegman's site archives">archived version of
-            this site</a>.</p>
+    {{- end }}
+    <p>I've been writing here since 2008 but, in 2019, I decided it was time to archive my
+        older content. To find and read older posts, please visit my <a
+            href="https://archive.chriswiegman.com/" title="Chris Wiegman's post archives">post archives</a>.</p>
 </div>

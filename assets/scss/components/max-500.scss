@@ -8,18 +8,17 @@
 
         .content.home {
 
-            .posts-for-year {
-                margin-left: 0;
-            }
+            .posts-group {
 
-            h2,
-            h3,
-            h4 {
-                margin: 0;
-            }
+                display: block;
 
-            li {
-                margin-left: 0;
+                .post-year {
+                    margin: -6px 0 4px;
+                }
+
+                .post-day {
+                    display: none;
+                }
             }
         }
     }

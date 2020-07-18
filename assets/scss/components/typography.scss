@@ -1,5 +1,4 @@
-$sans-font: Helvetica, Arial, sans-serif;
-$serif-font: Georgia, 'Times New Roman', Times, serif;
+$sans-font: trebuchet ms,Verdana,verdana ref,segoe ui,Candara,lucida grande,lucida sans unicode,lucida sans,Tahoma,sans-serif;
 
 html {
     font-family: $sans-font;
@@ -24,6 +23,16 @@ a {
 
     &:hover {
         color: $link-hover-color;
+        transition: 0.5s;
+    }
+}
+
+svg {
+    fill: $link-color;
+
+    &:hover {
+        fill: $link-hover-color;
+        transition: 0.5s;
     }
 }
 
