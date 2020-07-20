@@ -2,7 +2,7 @@ baseURL = "https://chriswiegman.com/"
 languageCode = "en-us"
 title = "Chris Wiegman"
 PygmentsCodeFences = true
-PygmentsStyle = "trac"
+PygmentsStyle = "manni"
 pygmentsOptions = "linenos=table"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableGitInfo = true
