@@ -1,6 +1,6 @@
 ---
 title: "About Chris"
-date: 2020-07-08T20:30:00-04:00
+date: 2020-07-29T20:30:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/uploads/chris-and-joy-in-alaska.jpg"]
@@ -32,8 +32,9 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 * Working on new posts for ChrisWiegman.com
 * Journaling at [journal.chriswiegman.com](https://journal.chriswiegman.com)
 * Trying to stay sane in light of pandemic and isolation
+* Playing with open source and home automation projects
 
-_Updated 08 July 2020_
+_Updated 29 July 2020_
 
 ## More about me
 
