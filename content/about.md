@@ -1,6 +1,6 @@
 ---
 title: "About Chris"
-date: 2020-07-29T20:30:00-04:00
+date: 2020-08-15T10:30:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/uploads/chris-and-joy-in-alaska.jpg"]
@@ -29,16 +29,14 @@ When not writing code, Chris and his wife enjoy getting out to the beach near th
 ## What I’m doing now
 
 * Helping make [WP Engine](https://wpengine.com) the best E-commerce host available
-* Working on new posts for ChrisWiegman.com
-* Journaling at [journal.chriswiegman.com](https://journal.chriswiegman.com)
+* Moving this site back to WordPress
 * Trying to stay sane in light of pandemic and isolation
 * Playing with open source and home automation projects
 
-_Updated 29 July 2020_
+_Updated 15 August 2020_
 
 ## More about me
 
 * [My speaking page](/speaking/)
-* [My journal where I keep my non-tech writing](https://journal.chriswiegman.com/)
 * [My resume](http://wieg.co/resume "Chris Wiegman's resume")
 * [My PGP Key](http://wieg.co/pgp)
