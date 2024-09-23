@@ -7,7 +7,7 @@
     "description": "Engineering manager, developer, teacher, and writer currently focused on open-source software, developer experience and humane and sustainable technology.",
     "subtitle": "Software Developer, Teacher, Speaker and Blogger building teams and products",
     "mainSections": [
-      "posts"
+      "post"
     ]
   },
   "title": "Chris Wiegman",
@@ -34,5 +34,11 @@
         "weight": 40
       }
     ]
-  }
+  },
+  "permalinks": [
+    {
+      "section": "posts",
+      "format": "/:year/:month/:title/"
+    }
+  ]
 }
