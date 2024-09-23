@@ -7,5 +7,3 @@ images: []
 type: "blog"
 layout: "blog"
 ---
-
-{{.Render "blog"}}

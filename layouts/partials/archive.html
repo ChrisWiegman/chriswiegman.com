@@ -12,9 +12,14 @@
 </div>
 
 <div class="content-categories">
-    <div class="categories"> Filter Posts: <a href="/blog" class="category">All Posts</a> <a
-            href="https://chriswiegman.com/personal/" class="category">Personal Posts</a><a
-            href="https://chriswiegman.com/technical/" class="category">Technical Posts</a></div>
+
+    <div class="categories"> Filter Posts:
+        <a href="/blog" class="category">All Posts</a>
+        {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        <a href="/categories/{{$name}}/" class="category">{{title $name}} Posts</a>
+        {{- end }}
+    </div>
+
 </div>
 
 <div class="content e-content" itemprop="articleBody"> <!-- Group by year. -->
