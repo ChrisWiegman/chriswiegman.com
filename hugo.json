@@ -1,0 +1,32 @@
+{
+  "baseURL": "https://chriswiegman.com/",
+  "languageCode": "en-us",
+  "params": {},
+  "description": "Engineering manager, developer, teacher, and writer currently focused on open-source software, developer experience and humane and sustainable technology.",
+  "subtitle": "Software Developer, Teacher, Speaker and Blogger building teams and products",
+  "title": "Chris Wiegman",
+  "menus": {
+    "main": [
+      {
+        "name": "About",
+        "pageRef": "/about",
+        "weight": 10
+      },
+      {
+        "name": "Uses",
+        "pageRef": "/uses",
+        "weight": 20
+      },
+      {
+        "name": "Blog",
+        "pageRef": "/blog",
+        "weight": 30
+      },
+      {
+        "name": "Contact",
+        "url": "mailto:contact@chriswiegman.com",
+        "weight": 40
+      }
+    ]
+  }
+}
