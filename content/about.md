@@ -1,6 +1,6 @@
 ---
 title: "About Chris"
-date: 2020-07-29T20:30:00-04:00
+date: 2024-09-28T20:30:00-04:00
 description: "The [mostly] complete biography of developer Chris Wiegman."
 draft: false
 images: ["/uploads/chris-and-joy-in-alaska.jpg"]
