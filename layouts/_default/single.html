@@ -12,5 +12,14 @@
             {{ .Content}}
         </div>
     </div>
+    <div class="navigation prevnext">
+        {{ $pages := .CurrentSection.Pages.ByWeight }}
+        {{ with $pages.Prev . }}
+        <span class="prev">← <a href="{{ .RelPermalink }}" rel="prev">{{ .Title }}</a></span>
+        {{ end }}
+        {{ with $pages.Next . }}
+        <span class="next"><a href="{{ .RelPermalink }}" rel="next">{{ .Title }}</a> →</span>
+        {{ end }}
+    </div>
 </article>
 {{ end }}
