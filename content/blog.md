@@ -1,9 +1,7 @@
 ---
 title: "Blog"
-date: 2020-07-29T20:30:00-04:00
-description: ""
-draft: false
-images: []
+date: 2024-09-06T20:30:00-04:00
+description: "The full blog of Chris Wiegman including all tutorials, posts and other articles by Chris Wiegman since 2008."
 type: "blog"
 layout: "blog"
 ---

@@ -1,44 +1,80 @@
 ---
-title: "About Chris"
-date: 2024-09-28T20:30:00-04:00
-description: "The [mostly] complete biography of developer Chris Wiegman."
-draft: false
-images: ["/uploads/chris-and-joy-in-alaska.jpg"]
+title: About Chris Wiegman
+description: "Chris Wiegman is a Vice President of Engineering, software developer, teacher and blogger building teams and products focused on humane and sustainable technology."
+date: 2024-09-01T13:59:05+00:00
+type: page
+featured_image: /images/2024/10/three-months-soda-free.jpg
+
 ---
+Hello, I'm Chris Wiegman. It's good to meet you.
 
-![Joy and I in Alaska in 2017](/uploads/chris-and-joy-in-alaska.jpg)
+## Who am I?
 
-Chris Wiegman is currently a Senior Software Engineer at [WP Engine](https://wpengine.com/ "WP Engine managed WordPress hosting") working on developer tools to support the WP Engine user base as well as WordPress, PHP and other web developers.
+### I am an engineering manager
 
-Chris grew up primarily in Chicago and after high school thought he could make it as a musician (among other things). Fortunately, at least for Chris, those were in the days of the [Y2K scare](https://en.wikipedia.org/wiki/Year_2000_problem "primer on Y2K") and he quickly realized he could actually make a living in Information Technology so he left college after a semester and decided to try the IT world.
+I am a software engineering manager at SuperFile, an early-stage startup in Chicago, IL focused on privacy tech. I lead engineering teams to build solutions people need.
 
-While a career in IT brought plenty of money it didn’t hold much else in the way of attraction. It turns out fixing other peoples’ computers just isn’t much fun. After his son was born he decided it was time to pursue a career in something he loved so he enrolled in the [Aviation Program at Southern Illinois University (SIU)](https://aviation.siu.edu/ "SIU Aviation") and relegated IT to no more than fixing computers at the airport as a student worker.
+My management style borrows heavily from my experience in teaching, aviation and elsewhere. My goal is to empower my team, not "tell them what to do." I've been successful at this while leading numerous teams throughout my career.
 
-Fast forward to the Great Recession and, after [flying private jets](http://www.airliners.net/photo/Untitled/Cessna-560-Citation-V/951877?qsp=eJwtjEEKwkAMRe%2BStQuL0EV39gK68AIx%2BWixdsZMQIfSuxsHd4/34K0kaXF8/FIzaKACNrnTjjIbPwsNKz1Q38k0mJZ%2B/7pGLMl8rCGUHUcRZIf%2B/ckU9kso0j63%2BHYBsHNjOvThdSp55vaA8zTTtn0BCc4uQg%3D%3D "landing a Citation V in Naples, FL") (and nearly anything else with wings), Chris was working as a captain for a small airline in Hawaii when SIU called to see if he wanted his old tech support job back full-time. It paid about what a captain made in those days (next to nothing) but it offered him the ability to get a master’s degree in Computer Science so he moved back to Carbondale, IL, got married and made a transition back to technology with one difference, this time, instead of fixing other peoples’ computers, he was writing code to build solutions to bigger problems than a crashing word processors and web browsers.
+### I am a software engineer
 
-It was at SIU that Chris discovered WordPress as a solution to make it easy for various people and groups in the Aviation department to create their own websites. To help protect those sites, as so many others on campus were being hacked, he started [Better WP Security](https://wordpress.org/plugins/better-wp-security/ "iThemes Security (formerly Better WP Security) on WordPress.org") to protect both his own sites and the Aviation websites from the biggest threats they would face, their own users (it’s true that the “Away mode” feature in the plugin was actually built to stop student workers from posting about parties and other things they shouldn’t have been after hours).
+Throughout my career I've built WordPress plugins, websites, development environments, Chrome extensions and more as a software engineer for numerous organizations.
 
-After college Chris and his wife, Joy, moved to Austin, TX and quickly got involved with the Austin WordPress community while watching Better WP Security go viral in the WordPress world. A few years, and a few jobs, later he realized that Better WP Security had reached what he could do with it on his own so he sold it to [iThemes](http://ithemes.com/ "iThemes WordPress plugins") where it became iThemes Security.
+Outside of work, writing code is still one of my favorite hobbies. I've built a career working with open-source software and these days I do some work in WordPress directly and much more in languages like Go with which I build apps to help developers work smarter.
 
-Chris continued to work on iThemes Security until 2015 when he moved to Florida and joined [10up](https://10up.com/ "10up's homepage"). In 2016 he returned to his roots in Higher Education by joining the team at [UF Health](https://ufhealth.org/ "University of Florida Health") where he worked on their two large WordPress networks for hospitals, colleges, clinics and various other units in the UF Health system. Finally, Chris moved from UF Health to [WP Engine](https://wpengine.com) in September 2018 to help better support WordPress and other developers with workflow and other improved developer tools.
+### I am a teacher
 
-While only having been officially employed as a developer since 2012 Chris has lucked out, if you will, by getting to work with some of the best and brightest in the WordPress and Higher Education spaces. Today he is considered an expert in WordPress plugin development, security, WordPress site performance and the technologies and techniques needed to succeed as a modern web developer.
+I'm a teacher by heart. I've taught as faculty at universities in 2 different disciplines, aviation and computer science. I've mentored, spoken and try to use this blog to teach others what I can.
 
-When not writing code, Chris and his wife enjoy getting out to the beach near their home as well as traveling, writing and reading as much as possible. This year alone you might seem him at various conferences around the country or even hear him passing overhead with a student in a small airplane.
+I have a Bachelor of Science degree in Aviation Management and a Master of Science degree in Computer science, both from [Southern Illinois University Carbondale][1] where I also first learned how much I enjoy teaching. Since graduate school I taught as adjunct faculty in computer science at [St. Edward's University][2] and have [spoken][3] at dozens of events in an effort to share what I've learned with others. It's a passion I hope to continue for many years.
 
-## What I’m doing now
+### I am a pilot, a writer and more
 
-* Helping make [WP Engine](https://wpengine.com) the best E-commerce host available
-* Working on new posts for ChrisWiegman.com
-* Journaling at [journal.chriswiegman.com](https://journal.chriswiegman.com)
-* Trying to stay sane in light of pandemic and isolation
-* Playing with open source and home automation projects
+Before I switched to a career in tech and went to graduate school I was a pilot flying business jets and for a small airline where I served both as a captain and a training captain helping new pilots onboard to the company.
 
-_Updated 29 July 2020_
+Throughout my adult life I've paid my bills with sales, teaching, code, mentoring, occasional writing and, for a little while, with a trumpet. You might say I don't know what I want to be when I grow up but, with as many endeavors as I've been fortunate to be successful in, I like to think it's more that I never want to stop learning and I'm so very grateful for all the opportunities I've had to do so.
 
-## More about me
+## What I believe in
 
-* [My speaking page](/speaking/)
-* [My journal where I keep my non-tech writing](https://journal.chriswiegman.com/)
-* [My resume](http://wieg.co/resume "Chris Wiegman's resume")
-* [My PGP Key](http://wieg.co/pgp)
+My life and my work are very much guided by what I believe, not in a religious sense but in what it is I stand for and have made a hallmark of my work.
+
+I've never been one to chase paychecks as my reason for work. In fact, working in open source it is safe to say my paychecks have been relatively low compared to what many people think of when they think of software engineers. I've never wanted to be a business owner or entrepreneur and [sold my only company][4] when it grew to a point where it would've been my "job." I've never searched for fame either, preferring to share what I've learned in an effort to help others showcase who they are and what they've done.
+
+What I do believe in is people and what they're capable of. I believe everyone has a voice and that voice deserves the chance to develop and be heard.
+
+I believe that, as a professional, I have a responsibility to the community I serve, whether locally or beyond, and how I handle that responsibility is the highest indicator of success.
+
+I believe my responsibility to my community is a responsibility to all people and their rights as humans. As such I believe **privacy** and **sustainability** aren't just buzzwords but are my duties to practice and implement in all I build and share.
+
+Finally, I believe in the humanity and dignity of all people and that belief must be shared by all those who I work with.
+
+## My most popular projects
+
+A few of the more popular projects I’ve been involved with over the years include:
+
+* [Kana](https://github.com/chriswiegman/kana)
+* [WP Engine's Faust.js headless WordPress framework](https://faustjs.org)
+* [WP Engine’s Atlas Content Modeler](https://github.com/wpengine/atlas-content-modeler) - *(Project replaced by ACM)*
+* [WP Engine's Live Cart](https://wpengine.com/blog/solving-cart-fragment-dilemma-introducing-live-cart/)
+* [iThemes Security/Solid Security (Better WP Security)](https://wordpress.org/plugins/better-wp-security/) - *(Sold to iThemes)*
+* [Better Google Tasks](https://www.mattcutts.com/blog/todo-list-tips/) - *(Project archived)*
+* [Primary Vagrant](https://github.com/chriswiegman/primary-vagrant) - *(Project archived)*
+* [WP Engine’s DevKit](https://wptavern.com/wp-engine-launches-devkit-open-beta) - *(Project replaced by Local WP)*
+
+## What I’m working on today {#h-what-i-m-working-on-today.wp-block-heading}
+
+* There is nothing I can work on these days. My life has been consumed by my job.
+
+*Last updated: 1 September, 2024*
+
+## More about me {#h-more-about-me.wp-block-heading}
+
+* My [speaking page](/speaking) with a history of conference and other talks
+* Check out the tools I uses daily on my "[uses](/uses)" page
+* My [Resume](http://cfw.cx/resume)
+* Follow me on [Mastodon](https://mastodon.chriswiegman.com/@chris)
+
+ [1]: https://siu.edu/
+ [2]: https://www.stedwards.edu/
+ [3]: /speaking
+ [4]: https://wptavern.com/ithemes-acquires-better-wp-security-plugin-and-hires-wordpress-security-expert-chris-wiegman

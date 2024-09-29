@@ -12,6 +12,7 @@
             {{ .Content}}
         </div>
     </div>
+    
     <div class="navigation prevnext">
         {{ $pages := .CurrentSection.Pages.ByWeight }}
         {{ with $pages.Prev . }}
