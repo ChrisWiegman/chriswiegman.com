@@ -16,7 +16,4 @@ $RECYCLE.BIN/
 
 node_modules/
 
-#Visual studio code
-.vscode/
-
 content/posts/
