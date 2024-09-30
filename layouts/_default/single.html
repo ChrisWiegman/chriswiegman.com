@@ -14,11 +14,16 @@
             </div>
             {{ end }}{{ end }}
         </div>
-        <div class="content e-content" itemprop="articleBody"> <img width="850" height="601"
-                src="https://chriswiegman.com/wp-content/uploads/2022/02/three-months-soda-free-850x601.jpg"
-                class="wp-block-image aligncenter wp-post-image" alt="" decoding="async" fetchpriority="high"
-                srcset="https://chriswiegman.com/wp-content/uploads/2022/02/three-months-soda-free-850x601.jpg 850w, https://chriswiegman.com/wp-content/uploads/2022/02/three-months-soda-free-400x283.jpg 400w, https://chriswiegman.com/wp-content/uploads/2022/02/three-months-soda-free.jpg 1500w"
-                sizes="(max-width: 850px) 100vw, 850px">
+
+        <div class="content e-content" itemprop="articleBody">
+            {{ with $featured_image := .Params.featured_image }}
+            {{ $image := resources.Get $featured_image }}
+            {{ $full := $image.Resize "850x" }}
+            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}"
+                class="aligncenter" alt="" decoding="async" fetchpriority="high"
+                srcset="{{ $full.PermaLink}} 850w, {{ $thumb.PermaLink }} 400w" sizes="(max-width: 850px) 100vw, 850px">
+
+            {{ end }}
             {{ .Content}}
         </div>
     </div>
