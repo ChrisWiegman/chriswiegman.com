@@ -8,7 +8,7 @@
         {{ range $index, $post := first 12 $pages }}
         {{ .Render "title" }}
         <a class="post" href="{{.Permalink}}">
-            <h3 class="post-title">{{$post.Title}}</h3> <span class="post-day">{{ dateFormat "Jan 2" .Date }}</span>
+            <h3 class="post-title">{{ $post.Title }}</h3> <span class="post-day">{{ dateFormat "Jan 2" .Date }}</span>
         </a>
         {{- end }}
     </div>

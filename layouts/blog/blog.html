@@ -4,7 +4,7 @@
         {{ $pages := where site.RegularPages "Type" "post" }}
         <div class="content-header">
             <h1 class="title post-title p-name" itemprop="name headline">All Posts</h1>
-            <p class="description"><span class="post-count">{{$pages.Len}}</span> posts found.</p>
+            <p class="description"><span class="post-count">{{ $pages.Len }}</span> posts found.</p>
         </div>
 
         <div class="content-search">
@@ -19,7 +19,7 @@
             <div class="categories"> Filter Posts:
                 <a href="/blog" class="category">All Posts</a>
                 {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-                <a href="/categories/{{$name}}/" class="category">{{title $name}} Posts</a>
+                <a href="/categories/{{ $name }}/" class="category">{{ title $name }} Posts</a>
                 {{- end }}
             </div>
 
@@ -31,14 +31,14 @@
                 <h2 class="main-header">{{ .Key }}</h2>
                 <div class="posts">
                     {{ range $index, $post := .Pages }}
-                    <a class="post" href="{{.Permalink}}">
+                    <a class="post" href="{{ .Permalink }}">
                         <h3 class="post-title">{{$post.Title}}</h3> <span class="post-day">{{ dateFormat "Jan 2" .Date
                             }}</span>
                     </a>
                     {{- end }}
                 </div>
             </div>
-            {{- end }}
+            {{ - end }}
         </div>
     </div>
 </article>
