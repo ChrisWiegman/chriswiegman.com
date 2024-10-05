@@ -1,25 +1,10 @@
 img {
-  margin: 0 0 1em 0;
-  height: auto;
+  margin: 0;
+  margin: 0 auto 2rem auto;
   max-width: 100%;
+  height: auto;
   vertical-align: bottom;
-
-  .aligncenter {
-    text-align: center;
-  }
-
-  .alignleft,
-  .alignright,
-  .aligncenter {
-    display: table;
-  }
-
-  .alignleft>figcaption,
-  .alignright>figcaption,
-  .aligncenter>figcaption {
-    display: table-caption;
-    caption-side: bottom;
-  }
+  text-align: center;
 
   .alignleft {
     /*rtl:ignore*/
@@ -40,14 +25,19 @@ img {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
+}
 
-  .aligncenter {
-    margin-left: auto;
-    margin-right: auto;
+figure {
+  display: table;
+
+  img {
+    margin-bottom: 0;
   }
 
   figcaption {
-    margin-top: 0.5em;
-    margin-bottom: 1em;
+    display: table-caption;
+    caption-side: bottom;
+    margin: 0.5em 1em 1em 1em;
+    font-size: 0.8rem;
   }
 }
