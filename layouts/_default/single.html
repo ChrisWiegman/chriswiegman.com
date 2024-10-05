@@ -16,18 +16,28 @@
         </div>
 
         <div class="content e-content" itemprop="articleBody">
-            {{ with $featured_image := .Params.featured_image }}
-            {{ $image := resources.Get $featured_image }}
-            {{ with $image }}
-            {{ $image := .Resize "850x" }}
-            {{ $small := .Resize "710x" }}
-            {{ $thumb := .Resize "300x" }}
-            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}"
-                class="aligncenter" alt="" decoding="async" fetchpriority="high"
-                srcset="{{ $image.RelPermalink }} 850w, {{ $small.RelPermalink }} 710w, {{ $thumb.RelPermalink }} 400w"
-                sizes="(max-width: 850px) 850w, (max-with: 710px) 710w, (max-with: 300px) 300w">
-            {{ end }}
-            {{ end }}
+            {{- $image_file := .Params.featured_image -}}
+            {{- $image := resources.Get $image_file -}}
+            {{- $imgSrc := "" -}}
+            {{- $imgSrcSet := slice -}}
+            {{- with $widths := site.Params.imageSizes -}}
+            {{- range $widths -}}
+            {{- $srcUrl := (printf "%gx" . | $image.Resize).RelPermalink -}}
+            {{- if eq $imgSrc "" -}}
+            {{- $imgSrc = $srcUrl -}}
+            {{- end -}}
+            {{- $imgSrcSet = $imgSrcSet | append (printf "%s %gw" $srcUrl .) -}}
+            {{- end -}}
+            {{- $imgSrcSet = (delimit $imgSrcSet ",") -}}
+            {{- end -}}
+            {{- if gt $image.Width 850 -}}
+            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ .Title }}"
+                decoding="async" fetchpriority="high" srcset="{{ $imgSrcSet }}"
+                sizes="{{ site.Params.imageSizeString }}" />
+            {{- else -}}
+            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ .Title }}"
+                decoding="async" fetchpriority="high" />
+            {{- end -}}
             {{ .Content}}
         </div>
     </div>

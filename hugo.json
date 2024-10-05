@@ -3,7 +3,22 @@
   "baseURL": "https://chriswiegman.com/",
   "params": {
     "description": "VP of Engineering, software developer, teacher, and blogger building teams and products focused on humane and sustainable technology.",
-    "subtitle": "Software Developer, Teacher, Speaker and Blogger building teams and products"
+    "subtitle": "Software Developer, Teacher, Speaker and Blogger building teams and products",
+    "imageSizes": [
+      850,
+      710,
+      300
+    ],
+    "imageSizeString": "(max-width: 850px) 850w, (max-with: 710px) 710w, (max-with: 300px) 300w"
+  },
+  "minify": {
+    "minifyOutput": true
+  },
+  "html": {
+    "keepDefaultAttrVals": false,
+    "keepDocumentTags": false,
+    "keepEndTags": false,
+    "keepSpecialComments": false
   },
   "menus": {
     "main": [
@@ -31,13 +46,22 @@
   },
   "languageCode": "en-us",
   "disableHugoGeneratorInject": true,
+  "cleanDestinationDir": true,
   "enableRobotsTXT": true,
+  "enableGitInfo": true,
   "buildFuture": true,
+  "canonifyURLs": true,
   "markup": {
     "highlight": {
       "style": "gruvbox"
     },
     "goldmark": {
+      "parser": {
+        "attribute": {
+          "block": true
+        },
+        "wrapStandAloneImageWithinParagraph": false
+      },
       "renderer": {
         "unsafe": true
       },
