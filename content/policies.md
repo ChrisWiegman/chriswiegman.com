@@ -27,9 +27,9 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ## Content Policies {#content-policies}
 
-All content on [ChrisWiegman.com][3] is derived from my own opinion and experience. These opinions and experiences are neither endorsed by nor reflect the policies or opinions of any company or organizations at which I am either employed at or otherwise affiliated with.
+All content on ChrisWiegman.com is derived from my own opinion and experience. These opinions and experiences are neither endorsed by nor reflect the policies or opinions of any company or organizations at which I am either employed at or otherwise affiliated with.
 
-All written content on [ChrisWiegman.com][3] is licensed under the [Creative Commons License][4]. Feel free to use any of it in accordance with the license. Images may be licensed under various licenses covered by the site from which I purchased them. See my image credits below for more details.
+All written content on ChrisWiegman.com is licensed under the [Creative Commons License][4]. Feel free to use any of it in accordance with the license. Images may be licensed under various licenses covered by the site from which I purchased them. See my image credits below for more details.
 
 ## Income Disclosures {#income-disclosures}
 
@@ -55,7 +55,6 @@ If you have questions about any of the policies on this page your may [contact m
 
  [1]: https://pages.github.com
  [2]: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
- [3]: https://chriswiegman.com/
  [4]: https://creativecommons.org/licenses/by-nc-sa/4.0/
  [5]: https://en.wikipedia.org/wiki/Fair_use
  [6]: https://depositphotos.com
