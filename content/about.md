@@ -1,18 +1,18 @@
 ---
 title: About Chris Wiegman
 description: "Chris Wiegman is a Vice President of Engineering, software developer, teacher and blogger building teams and products focused on humane and sustainable technology."
-date: 2024-09-01T13:59:05+00:00
+date: 2024-11-01T12:00:00+00:00
 type: page
-featured_image: /images/2024/10/three-months-soda-free.jpg
+featured_image: /images/2024/11/three-months-soda-free.jpg
 
 ---
-Hello, I'm Chris Wiegman. It's good to meet you.
+Hello, I'm Chris. It's good to meet you.
 
 ## Who am I?
 
-### I am an engineering manager
+### I am a Vice President of Engineering
 
-I am a software engineering manager at SuperFile, an early-stage startup in Chicago, IL focused on privacy tech. I lead engineering teams to build solutions people need.
+I am the Vice President of Engineering at SuperFile, an early-stage startup in Chicago, IL focused on privacy tech. I lead engineering teams to build solutions people need.
 
 My management style borrows heavily from my experience in teaching, aviation and elsewhere. My goal is to empower my team, not "tell them what to do." I've been successful at this while leading numerous teams throughout my career.
 
@@ -61,13 +61,14 @@ A few of the more popular projects I’ve been involved with over the years incl
 * [Primary Vagrant](https://github.com/chriswiegman/primary-vagrant) - *(Project archived)*
 * [WP Engine’s DevKit](https://wptavern.com/wp-engine-launches-devkit-open-beta) - *(Project replaced by Local WP)*
 
-## What I’m working on today {#h-what-i-m-working-on-today.wp-block-heading}
+## What I’m working on today
 
-* There is nothing I can work on these days. My life has been consumed by my job.
+* Renewing my blogging efforts on this site
+* Building up the engineering teams at SuperFile
 
-*Last updated: 1 September, 2024*
+*Last updated: 1 November, 2024*
 
-## More about me {#h-more-about-me.wp-block-heading}
+## More about me
 
 * My [speaking page](/speaking) with a history of conference and other talks
 * Check out the tools I uses daily on my "[uses](/uses)" page

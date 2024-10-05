@@ -1,7 +1,7 @@
 ---
 title: Policies and Disclosures
 description: "Policies, credits and required disclosures for ChrisWiegman.com including my privacy policy."
-date: 2024-09-02T15:45:33+00:00
+date: 2024-11-01T12:00:00+00:00
 type: page
 
 ---
@@ -19,7 +19,7 @@ I am Chris Wiegman and I am based in the United States.
 
 I directly collect no data on this site including new comments, contact forms or analytics.
 
-As I host on [SiteGround][1], they keep server logs themselves. I have no access to or ability to control the data they retain. [Click here for SiteGround's privacy policy][2].
+As I host on [GitHub Pages][1], they keep server logs themselves. I have no access to or ability to control the data they retain. [Click here for GitHub's privacy policy][2].
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the same way as if the visitor has visited the other website.
 
@@ -47,14 +47,14 @@ If you find an image on this site that you feel shouldn't be here please [contac
 
 ## Design Credit {#design-credit}
 
-The WordPress theme in use for this site was originally inspired by the [Ezhil theme for Hugo][8] and [Aral Balkan's site][9]. Today's theme, including the layout and colors, is inspired by [Tania Rascia][10] and her [Gatsby theme][11].
+The Hugo theme I use on this site was originally inspired by the [Ezhil theme for Hugo][8] and [Aral Balkan's site][9]. Today's theme, including the layout and colors, is inspired by [Tania Rascia][10] and her [Gatsby theme][11].
 
 ## Contact Me {#contact-me}
 
 If you have questions about any of the policies on this page your may [contact me][7] to inquire further.
 
- [1]: https://www.siteground.com
- [2]: https://www.siteground.com/privacy.htm
+ [1]: https://pages.github.com
+ [2]: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
  [3]: https://chriswiegman.com/
  [4]: https://creativecommons.org/licenses/by-nc-sa/4.0/
  [5]: https://en.wikipedia.org/wiki/Fair_use
