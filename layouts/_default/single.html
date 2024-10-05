@@ -16,8 +16,9 @@
         </div>
 
         <div class="content e-content" itemprop="articleBody">
-            {{- $image_file := .Params.featured_image -}}
-            {{- $image := resources.Get $image_file -}}
+            {{- with $featured_image := .Params.featured_image -}}
+            {{- $image := resources.Get $featured_image -}}
+            {{- with $image -}}
             {{- $imgSrc := "" -}}
             {{- $imgSrcSet := slice -}}
             {{- with $widths := site.Params.imageSizes -}}
@@ -31,12 +32,14 @@
             {{- $imgSrcSet = (delimit $imgSrcSet ",") -}}
             {{- end -}}
             {{- if gt $image.Width 850 -}}
-            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ .Title }}"
+            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ . }}"
                 decoding="async" fetchpriority="high" srcset="{{ $imgSrcSet }}"
                 sizes="{{ site.Params.imageSizeString }}" />
             {{- else -}}
-            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ .Title }}"
+            <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ . }}"
                 decoding="async" fetchpriority="high" />
+            {{- end -}}
+            {{- end -}}
             {{- end -}}
             {{ .Content}}
         </div>
