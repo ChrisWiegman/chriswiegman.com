@@ -3,7 +3,7 @@ title: About Chris Wiegman
 description: "Chris Wiegman is a Vice President of Engineering, software developer, teacher and blogger building teams and products focused on humane and sustainable technology."
 date: 2024-11-01T12:00:00+00:00
 type: page
-featured_image: /images/2024/11/three-months-soda-free.jpg
+featured_image: images/2024/11/three-months-soda-free.jpg
 
 ---
 Hello, I'm Chris. It's good to meet you.
