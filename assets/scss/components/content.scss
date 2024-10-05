@@ -44,7 +44,7 @@
       }
 
       .content {
-        .wp-post-image {
+        img {
           display: block;
           margin: 0 auto 2rem auto;
           max-width: 100%;
@@ -57,12 +57,22 @@
           margin: 0 0 2rem;
         }
 
-        .wp-block-code,
+        .highlight,
         .wp-block-quote {
+          background-color: #282828;
           border-radius: 8px;
           border: 1px solid $border-light;
           font-size: 1.3rem;
           margin: 2.5em 0;
+
+          pre {
+            margin: 1rem;
+            white-space: pre-wrap;
+            white-space: -moz-pre-wrap;
+            white-space: -pre-wrap;
+            white-space: -o-pre-wrap;
+            word-wrap: break-word;
+          }
 
           p {
             padding: 0 1rem;
