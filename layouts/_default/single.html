@@ -18,11 +18,15 @@
         <div class="content e-content" itemprop="articleBody">
             {{ with $featured_image := .Params.featured_image }}
             {{ $image := resources.Get $featured_image }}
-            {{ $full := $image.Resize "850x" }}
+            {{ with $image }}
+            {{ $image := .Resize "850x" }}
+            {{ $small := .Resize "710x" }}
+            {{ $thumb := .Resize "300x" }}
             <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}"
                 class="aligncenter" alt="" decoding="async" fetchpriority="high"
-                srcset="{{ $full.PermaLink}} 850w, {{ $thumb.PermaLink }} 400w" sizes="(max-width: 850px) 100vw, 850px">
-
+                srcset="{{ $image.RelPermalink }} 850w, {{ $small.RelPermalink }} 710w, {{ $thumb.RelPermalink }} 400w"
+                sizes="(max-width: 850px) 850w, (max-with: 710px) 710w, (max-with: 300px) 300w">
+            {{ end }}
             {{ end }}
             {{ .Content}}
         </div>

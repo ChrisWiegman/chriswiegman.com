@@ -1,20 +1,11 @@
 img {
   margin: 0 0 1em 0;
-
-  img {
-    height: auto;
-    max-width: 100%;
-    vertical-align: bottom;
-  }
+  height: auto;
+  max-width: 100%;
+  vertical-align: bottom;
 
   .aligncenter {
     text-align: center;
-  }
-
-  .alignfull img,
-  .alignwide img {
-    height: auto;
-    width: 100%;
   }
 
   .alignleft,
