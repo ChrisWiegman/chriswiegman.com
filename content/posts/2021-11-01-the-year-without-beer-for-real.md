@@ -9,15 +9,13 @@ tags:
   - Drinking
   - Habits
   - Hobbies
-
 ---
-
 
 Yesterday, Halloween, marked a full year since I last had a beer or alcohol of any kind. If you've known me for a while you probably know this is a pretty big deal for me.
 
 I had [written about previous attempts][1] and their [failures][2] back in 2016 and have tried many times going back even before that but, for a number of reasons, it never really stuck. Honestly, I'm not sure how long it will last in the future either but, at least so far, I seem to be on a very good path and I'm far more optimistic that I had been in the past.
 
-## Why did it work this time? {#h-why-did-it-work-this-time.wp-block-heading}
+## Why did it work this time?
 
 So what did I do differently? In all honesty I didn't do a whole lot. It's what the world did that changed, namely the lockdowns related to COVID.
 

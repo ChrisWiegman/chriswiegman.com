@@ -10,8 +10,8 @@ tags:
   - Community
   - Reflection
   - WordPress
-
 ---
+
 For today's post I want to ask you a simple question...
 
 Why are _you_ still in WordPress?

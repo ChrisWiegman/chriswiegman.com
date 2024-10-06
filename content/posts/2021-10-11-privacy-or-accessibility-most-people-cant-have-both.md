@@ -8,11 +8,11 @@ categories:
 tags:
   - Accessibility
   - Privacy
-
 ---
+
 I spend a lot of time talking to people about two major issues in tech, accessibility and privacy. Over the years I find these conversations to be some of the saddest in all of tech as, for the most part, the most accessible solutions are not the most private solutions. This doesn't have to be.
 
-## How we got here? {#h-how-we-got-here.wp-block-heading}
+## How we got here?
 
 For years the folks interested in privacy tech have often been the same folks who don't care about the mainstream. These are often folks using less popular ecosystems such as Linux and the many non-Google variants of Android designed to protect the user from surveillance.
 

@@ -9,8 +9,8 @@ categories:
 tags:
   - Apple
   - Productivity
-
 ---
+
 It seems like the laptop and desktop world are in the midst of a revolution of sorts. Since Apple's launch of their M1 architecture a number of friends have been asking me if I'll be getting one, particularly after all my posts on leaving big tech behind. The answer, as with almost any tech is _maybe_. What I can say without a doubt though is that, for my work, they're simply not ready yet.
 
 I know, that's not much of an answer but let me break that down a little bit.

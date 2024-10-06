@@ -8,22 +8,23 @@ categories:
 tags:
   - Privacy
   - Security
-
 ---
+
 If there is one dangerous misunderstanding in modern consumer technology it is the misunderstanding that privacy and security are synonymous. They're not, here's why.
+
 ## What is privacy?
 
 According to Merriam-Webster Privacy is:
 
-**1 a:&nbsp;**the quality or state of being apart from company or observation&nbsp;**:&nbsp;**[SECLUSION][1]
+**1 a:** the quality or state of being apart from company or observation : **[SECLUSION][1]**
 
-**b:&nbsp;**freedom from unauthorized intrusionone's right to&nbsp;_privacy_
+**b:** freedom from unauthorized intrusionone's right to _privacy_
 
-**2. a:&nbsp;**[SECRECY][2]
+**2. a:** [SECRECY][2]
 
-**b:&nbsp;**a&nbsp;[private][3]&nbsp;matter&nbsp;**:&nbsp;**[SECRET][4]
+**b:** a  [private][3] matter : **[SECRET][4]**
 
-**3** _archaic&nbsp;_**:&nbsp;**a place of seclusion
+**3** _archaic _: a place of seclusion
 
 _From [Merriam-Webster][5]_
 
@@ -33,7 +34,7 @@ One way to look at this is your privacy is the data you generate, knowingly or o
 
 Historically secrets were pretty black and white. You could, for example, whisper a secret to a friend and reasonably expect them to keep it for you. On your computer that isn't the case. Your devices and app, as well as the companies who provide service to them, know everything you do from the symptoms you searched for to where you searched for them and they aren't keeping that secret. While individually much of this data isn't worth much, together it can create a profile of you that might very well know you better than you know yourself.
 
-## What is security? {#h-what-is-security.wp-block-heading}
+## What is security?
 
 If privacy is the usage and governance of the data we generate then security is the mechanisms and tools we use to protect that data.
 

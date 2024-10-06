@@ -9,8 +9,8 @@ tags:
   - Automation
   - Development Tools
   - Make
-
 ---
+
 Modern WordPress development is complex. This means that switching projects or letting a project sit for a period of time can lead to a learning curve similar to when you first started the project.
 
 It doesn't have to be like this. If doesn't matter if your WordPress project is using Composer, React, Yarn, NPM or some other technology. You can easily automate common tasks across multiple projects with a single file in a system that is probably already running on your dev computer and those of your team.
@@ -28,12 +28,14 @@ Getting started with Make is easy. In the root of your application simply create
 
 Of course an empty Makefile doesn't have any targets so we'll want to change that. The first thing I normally do is add a help target. In the future running _make help_ will give me all the information I need to remember the various targets in my application. Here's how it looks:
 
-<pre class="wp-block-code" aria-describedby="shcb-language-121" data-shcb-language-name="Makefile" data-shcb-language-slug="makefile"><span><code class="hljs language-makefile">&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: help&lt;/span>
-&lt;span class="hljs-section">help:  ## Display help&lt;/span>
-	@awk -F ':|&lt;span class="hljs-comment">##' \&lt;/span>
-		'/^&#91;^\t].+?:.*?&lt;span class="hljs-comment">##/ {\&lt;/span>
-			printf &lt;span class="hljs-string">"\033&#91;36m%-30s\033&#91;0m %s\n"&lt;/span>, $$1, $$NF \
-		}' &lt;span class="hljs-variable">$(MAKEFILE_LIST)&lt;/span> | sort</code></span><small class="shcb-language" id="shcb-language-121"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">Makefile</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">makefile</span><span class="shcb-language__paren">)</span></small></pre>
+``` makefile
+.PHONY: help
+help:  ## Display help
+	@awk -F ':|##' \
+		'/^[^\t].+?:.*?##/ {\
+			printf "\033[36m%-30s\033[0m %s\n", $$1, $$NF \
+		}' $(MAKEFILE_LIST) | sort
+```
 
 A few things to note on this:
 
@@ -43,14 +45,18 @@ Now notice the second line. It starts with the name of our target, _help_, follo
 
 How do we call it? Simply run the following:
 
-<pre class="wp-block-code" aria-describedby="shcb-language-122" data-shcb-language-name="Makefile" data-shcb-language-slug="makefile"><span><code class="hljs language-makefile">make help</code></span><small class="shcb-language" id="shcb-language-122"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">Makefile</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">makefile</span><span class="shcb-language__paren">)</span></small></pre>
+``` bash
+make help
+```
 
 This syntax, "make" followed by our target, is how we'll call any other target we want to utilize.
 
 You can also chain tasks together under a single target. For example, say you had a target called "build" and you wanted it to build your composer and npm assets. In this case I would set it up as three targets, _build_, _build-composer_, and _build-npm._ You could then invoke the main build target with the following:
 
-<pre class="wp-block-code" aria-describedby="shcb-language-123" data-shcb-language-name="Makefile" data-shcb-language-slug="makefile"><span><code class="hljs language-makefile">&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: build&lt;/span>
-&lt;span class="hljs-section">build: build-composer build-npm ## Build all composer and npm assets&lt;/span></code></span><small class="shcb-language" id="shcb-language-123"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">Makefile</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">makefile</span><span class="shcb-language__paren">)</span></small></pre>
+``` makefile
+.PHONY: build
+build: build-composer build-npm ## Build all composer and npm assets
+```
 
 Notice above I have the PHONY target as well as the description from before. If we were to call _make help_ here it would should the build target along with our description above. Unlike the help target above, however, this one doesn't do anything by itself. It simply calls the _build-composer_ and _build-npm_ targets we define elsewhere.
 
@@ -58,220 +64,205 @@ Notice above I have the PHONY target as well as the description from before. If 
 
 Below is an example Makefile I'm using for a [small plugin I'm building][2]. This Makefile allows me to check out the repo from GitHub and simply run _make start_ to setup a development environment complete with a running site, appropriate coding standards, and even a few debugging plugins to make it all easy to work with. As a bonus, I could pass this repo to someone else, even if they aren't familiar with my setup, and they could get up and running and working on code within minutes instead of the hours that some modern WordPress projects take.
 
-<pre class="wp-block-code" aria-describedby="shcb-language-124" data-shcb-language-name="Makefile" data-shcb-language-slug="makefile"><span><code class="hljs language-makefile shcb-code-table shcb-line-numbers">&lt;span class='shcb-loc'>&lt;span>DOCKER_RUN     := @docker run --rm
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>CURRENTUSER    := $&lt;span class="hljs-variable">$(id -u)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>CURRENTGROUP   := $&lt;span class="hljs-variable">$(id -g)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>COMPOSER_IMAGE := -v $&lt;span class="hljs-variable">$(pwd)&lt;/span>:/app --user &lt;span class="hljs-variable">$(CURRENTUSER)&lt;/span>:&lt;span class="hljs-variable">$(CURRENTGROUP)&lt;/span> composer
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>HAS_LANDO      := &lt;span class="hljs-variable">$(&lt;span class="hljs-built_in">shell&lt;/span> command -v lando 2&gt; /dev/null)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>PLUGIN_VERSION := $&lt;span class="hljs-variable">$(grep "^ \* Version" plugin/chriswiegman-plugin.php| awk -F' ' '{print $3}' | cut -d ":" -f2 | sed 's/ //g')&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>HIGHLIGHT      :=\033&#91;0;32m
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>END_HIGHLIGHT  :=\033&#91;0m &lt;span class="hljs-comment"># No Color&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: build&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">build: build-docker build-pot-file  ## Builds all plugin assets and their associated docker images&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: build-docker&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">build-docker: build-docker-php&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: build-docker-php&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">build-docker-php:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	if &#91; ! &lt;span class="hljs-string">"$$(docker images | grep chriswiegmanplugin_phpunit_image)"&lt;/span> ]; then \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		echo &lt;span class="hljs-string">"Building the PHP image"&lt;/span>; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		docker build -f Docker/Dockerfile-php -t chriswiegmanplugin_phpunit_image .; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	fi
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: build-pot-file&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">build-pot-file: | lando-start ## Generates a .pot file for use in translations.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Generating .pot file"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp --path=./wordpress i18n make-pot plugin plugin/languages/chriswiegman-plugin.pot
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: clean&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">clean: clean-assets clean-build  ## Removes all build files and the plugin files. This is destructive.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: clean-assets&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">clean-assets:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Cleaning up plugin assets"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	rm -rf \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		plugin/languages/*.pot
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: clean-build&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">clean-build:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Cleaning up build-artifacts"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	rm -rf \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		node_modules \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		wordpress \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		build \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		vendor \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		clover.xml \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		.phpunit.result.cache
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: destroy&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">destroy: ## Destroys the developer environment completely (this is irreversible)&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando destroy -y
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	&lt;span class="hljs-variable">$(MAKE)&lt;/span> clean
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	if &#91; &lt;span class="hljs-string">"$$(docker images | grep chriswiegmanplugin_phpunit_image)"&lt;/span> ]; then \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		docker rmi $&lt;span class="hljs-variable">$(docker images --format '{{.Repository}}:{{.Tag}}' | grep 'chriswiegmanplugin_phpunit_image')&lt;/span>; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	fi
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: flush-cache&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">flush-cache: ## Clears all server caches enabled within WordPress&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Flushing cache"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp cache flush --path=./wordpress
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: delete-transients&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">delete-transients: ## Deletes all WordPress transients stored in the database&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Deleting transients"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp transient delete --path=./wordpress --all
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: help&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">help:  ## Display help&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@awk -F ':|&lt;span class="hljs-comment">##' \&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		'/^&#91;^\t].+?:.*?&lt;span class="hljs-comment">##/ {\&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>			printf &lt;span class="hljs-string">"\033&#91;36m%-30s\033&#91;0m %s\n"&lt;/span>, $$1, $$NF \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		}' &lt;span class="hljs-variable">$(MAKEFILE_LIST)&lt;/span> | sort
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: install&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">install: | clean-assets clean-build&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	&lt;span class="hljs-variable">$(MAKE)&lt;/span> install-composer
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: install-composer&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">install-composer:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	&lt;span class="hljs-variable">$(DOCKER_RUN)&lt;/span> &lt;span class="hljs-variable">$(COMPOSER_IMAGE)&lt;/span> install
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: lando-start&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">lando-start:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-keyword">ifdef&lt;/span> HAS_LANDO
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	if &#91; ! -d ./wordpress/ ]; then \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-variable">$(MAKE)&lt;/span> install; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	fi
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	if &#91; ! &lt;span class="hljs-string">"$$(docker ps | grep chriswiegmanplugin_appserver)"&lt;/span> ]; then \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		echo &lt;span class="hljs-string">"Starting Lando"&lt;/span>; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		lando start; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	fi
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	if &#91; ! -f ./wordpress/wp-config.php ]; then \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-variable">$(MAKE)&lt;/span> setup-wordpress; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-variable">$(MAKE)&lt;/span> setup-wordpress-plugins; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-variable">$(MAKE)&lt;/span> build-pot-file; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		echo &lt;span class="hljs-string">"Your dev site is at: ${HIGHLIGHT}https://chriswiegman-plugin.lndo.site${END_HIGHLIGHT}"&lt;/span>; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		echo &lt;span class="hljs-string">"See the readme for further details."&lt;/span>; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	fi
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-keyword">endif&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: lando-stop&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">lando-stop:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-keyword">ifdef&lt;/span> HAS_LANDO
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	if &#91; &lt;span class="hljs-string">"$$(docker ps | grep chriswiegmanplugin_appserver)"&lt;/span> ]; then \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		echo &lt;span class="hljs-string">"Stopping Lando"&lt;/span>; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		lando stop; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	fi
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-keyword">endif&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: open-db&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">open-db: ## Open the database in TablePlus&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Opening the database for direct access"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	open mysql://wordpress:wordpress@127.0.0.1:$&lt;span class="hljs-variable">$(lando info --service=database --path 0.external_connection.port | tr -d "'")&lt;/span>/wordpress?enviroment=local&name=$database&safeModeLevel=0&advancedSafeModeLevel=0
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: open-site&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">open-site: ## Open the development site in your default browser&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	open https://chriswiegman-plugin.lndo.site
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: release&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">release: | build-pot-file chriswiegman-plugin-version.zip ## Generates a release zip of the plugin&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: reset&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">reset: destroy start ## Resets a running dev environment to new&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: setup-wordpress&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">setup-wordpress:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Setting up WordPress"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp core download --path=./wordpress --version=latest
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp config create --dbname=wordpress --dbuser=wordpress --dbpass=wordpress --dbhost=database --path=./wordpress
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp core install --path=./wordpress --url=https://chriswiegman-plugin.lndo.site --title=&lt;span class="hljs-string">"ChrisWiegman.com Functionality Development"&lt;/span> --admin_user=admin --admin_password=password --admin_email=contact@chriswiegman.com
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: setup-wordpress-plugins&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">setup-wordpress-plugins:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp plugin install --path=./wordpress debug-bar --activate
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	lando wp plugin install --path=./wordpress query-monitor --activate
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: start&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">start: lando-start open-site ## Starts the development environment including downloading and setting up everything it needs&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: stop&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">stop: lando-stop ## Stops the development environment. This is non-destructive.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: test&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">test: test-lint test-phpunit  ## Run all testing&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: test-lint&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">test-lint: test-lint-php ## Run linting on both PHP and JavaScript&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: test-lint-php&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">test-lint-php: ## Run linting on PHP only&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Running PHP linting"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	./vendor/bin/phpcs --standard=./phpcs.xml
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: test-phpunit&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">test-phpunit: | build-docker-php ## Run PhpUnit&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Running Unit Tests Without Coverage"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	docker run -v $&lt;span class="hljs-variable">$(pwd)&lt;/span>:/app --rm chriswiegmanplugin_phpunit_image /app/vendor/bin/phpunit
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: test-phpunit-coverage&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">test-phpunit-coverage: | build-docker-php ## Run PhpUnit with code coverage&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Running Unit Tests With Coverage"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	docker run -v $&lt;span class="hljs-variable">$(pwd)&lt;/span>:/app --rm --user &lt;span class="hljs-variable">$(CURRENTUSER)&lt;/span>:&lt;span class="hljs-variable">$(CURRENTGROUP)&lt;/span> chriswiegmanplugin_phpunit_image /app/vendor/bin/phpunit  --coverage-text --coverage-html build/coverage/
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: trust-lando-cert-mac&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">trust-lando-cert-mac: ## Trust Lando's SSL certificate on your mac&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Trusting Lando cert"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain ~/.lando/certs/lndo.site.pem
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: update-composer&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">update-composer:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	&lt;span class="hljs-variable">$(DOCKER_RUN)&lt;/span> &lt;span class="hljs-variable">$(COMPOSER_IMAGE)&lt;/span> update
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: chriswiegman-plugin-version.zip&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-section">chriswiegman-plugin-version.zip:&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	@echo &lt;span class="hljs-string">"Building release file: chriswiegman-plugin.&lt;span class="hljs-variable">$(PLUGIN_VERSION)&lt;/span>.zip"&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	rm -rf chriswiegman-plugin.&lt;span class="hljs-variable">$(PLUGIN_VERSION)&lt;/span>.zip
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	rm -rf build
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	mkdir build
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	cp -av plugin build
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	mv build/plugin build/chriswiegman-plugin
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	PLUGIN_VERSION=&lt;span class="hljs-variable">$(PLUGIN_VERSION)&lt;/span> && cd build && zip -r chriswiegman-plugin.$$PLUGIN_VERSION.zip *
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	mv build/chriswiegman-plugin.&lt;span class="hljs-variable">$(PLUGIN_VERSION)&lt;/span>.zip ./
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	if &#91; ! -f ./chriswiegman-plugin.&lt;span class="hljs-variable">$(PLUGIN_VERSION)&lt;/span>.zip  ]; then \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		echo &lt;span class="hljs-string">"file not available"&lt;/span>; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		exit 1; \
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	fi
-&lt;/span>&lt;/span></code></span><small class="shcb-language" id="shcb-language-124"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">Makefile</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">makefile</span><span class="shcb-language__paren">)</span></small></pre>
+``` makefile {linenos=table}
+DOCKER_RUN     := @docker run --rm
+CURRENTUSER    := $$(id -u)
+CURRENTGROUP   := $$(id -g)
+COMPOSER_IMAGE := -v $$(pwd):/app --user $(CURRENTUSER):$(CURRENTGROUP) composer
+HAS_LANDO      := $(shell command -v lando 2> /dev/null)
+PLUGIN_VERSION := $$(grep "^ \* Version" plugin/chriswiegman-plugin.php| awk -F' ' '{print $3}' | cut -d ":" -f2 | sed 's/ //g')
+HIGHLIGHT      :=\033[0;32m
+END_HIGHLIGHT  :=\033[0m # No Color
+
+.PHONY: build
+build: build-docker build-pot-file  ## Builds all plugin assets and their associated docker images
+
+.PHONY: build-docker
+build-docker: build-docker-php
+
+.PHONY: build-docker-php
+build-docker-php:
+	if [ ! "$$(docker images | grep chriswiegmanplugin_phpunit_image)" ]; then \
+		echo "Building the PHP image"; \
+		docker build -f Docker/Dockerfile-php -t chriswiegmanplugin_phpunit_image .; \
+	fi
+
+.PHONY: build-pot-file
+build-pot-file: | lando-start ## Generates a .pot file for use in translations.
+	@echo "Generating .pot file"
+	lando wp --path=./wordpress i18n make-pot plugin plugin/languages/chriswiegman-plugin.pot
+
+.PHONY: clean
+clean: clean-assets clean-build  ## Removes all build files and the plugin files. This is destructive.
+
+.PHONY: clean-assets
+clean-assets:
+	@echo "Cleaning up plugin assets"
+	rm -rf \
+		plugin/languages/*.pot
+
+.PHONY: clean-build
+clean-build:
+	@echo "Cleaning up build-artifacts"
+	rm -rf \
+		node_modules \
+		wordpress \
+		build \
+		vendor \
+		clover.xml \
+		.phpunit.result.cache
+
+.PHONY: destroy
+destroy: ## Destroys the developer environment completely (this is irreversible)
+	lando destroy -y
+	$(MAKE) clean
+	if [ "$$(docker images | grep chriswiegmanplugin_phpunit_image)" ]; then \
+		docker rmi $$(docker images --format '{{.Repository}}:{{.Tag}}' | grep 'chriswiegmanplugin_phpunit_image'); \
+	fi
+
+.PHONY: flush-cache
+flush-cache: ## Clears all server caches enabled within WordPress
+	@echo "Flushing cache"
+	lando wp cache flush --path=./wordpress
+
+.PHONY: delete-transients
+delete-transients: ## Deletes all WordPress transients stored in the database
+	@echo "Deleting transients"
+	lando wp transient delete --path=./wordpress --all
+
+.PHONY: help
+help:  ## Display help
+	@awk -F ':|##' \
+		'/^[^\t].+?:.*?##/ {\
+			printf "\033[36m%-30s\033[0m %s\n", $$1, $$NF \
+		}' $(MAKEFILE_LIST) | sort
+
+.PHONY: install
+install: | clean-assets clean-build
+	$(MAKE) install-composer
+
+.PHONY: install-composer
+install-composer:
+	$(DOCKER_RUN) $(COMPOSER_IMAGE) install
+
+.PHONY: lando-start
+lando-start:
+ifdef HAS_LANDO
+	if [ ! -d ./wordpress/ ]; then \
+		$(MAKE) install; \
+	fi
+	if [ ! "$$(docker ps | grep chriswiegmanplugin_appserver)" ]; then \
+		echo "Starting Lando"; \
+		lando start; \
+	fi
+	if [ ! -f ./wordpress/wp-config.php ]; then \
+		$(MAKE) setup-wordpress; \
+		$(MAKE) setup-wordpress-plugins; \
+		$(MAKE) build-pot-file; \
+		echo "Your dev site is at: ${HIGHLIGHT}https://chriswiegman-plugin.lndo.site${END_HIGHLIGHT}"; \
+		echo "See the readme for further details."; \
+	fi
+endif
+
+.PHONY: lando-stop
+lando-stop:
+ifdef HAS_LANDO
+	if [ "$$(docker ps | grep chriswiegmanplugin_appserver)" ]; then \
+		echo "Stopping Lando"; \
+		lando stop; \
+	fi
+endif
+
+.PHONY: open-db
+open-db: ## Open the database in TablePlus
+	@echo "Opening the database for direct access"
+	open mysql://wordpress:wordpress@127.0.0.1:$$(lando info --service=database --path 0.external_connection.port | tr -d "'")/wordpress?enviroment=local&name=$database&safeModeLevel=0&advancedSafeModeLevel=0
+
+.PHONY: open-site
+open-site: ## Open the development site in your default browser
+	open https://chriswiegman-plugin.lndo.site
+
+.PHONY: release
+release: | build-pot-file chriswiegman-plugin-version.zip ## Generates a release zip of the plugin
+
+.PHONY: reset
+reset: destroy start ## Resets a running dev environment to new
+
+.PHONY: setup-wordpress
+setup-wordpress:
+	@echo "Setting up WordPress"
+	lando wp core download --path=./wordpress --version=latest
+	lando wp config create --dbname=wordpress --dbuser=wordpress --dbpass=wordpress --dbhost=database --path=./wordpress
+	lando wp core install --path=./wordpress --url=https://chriswiegman-plugin.lndo.site --title="ChrisWiegman.com Functionality Development" --admin_user=admin --admin_password=password --admin_email=contact@chriswiegman.com
+
+.PHONY: setup-wordpress-plugins
+setup-wordpress-plugins:
+	lando wp plugin install --path=./wordpress debug-bar --activate
+	lando wp plugin install --path=./wordpress query-monitor --activate
+
+.PHONY: start
+start: lando-start open-site ## Starts the development environment including downloading and setting up everything it needs
+
+.PHONY: stop
+stop: lando-stop ## Stops the development environment. This is non-destructive.
+
+.PHONY: test
+test: test-lint test-phpunit  ## Run all testing
+
+.PHONY: test-lint
+test-lint: test-lint-php ## Run linting on both PHP and JavaScript
+
+.PHONY: test-lint-php
+test-lint-php: ## Run linting on PHP only
+	@echo "Running PHP linting"
+	./vendor/bin/phpcs --standard=./phpcs.xml
+
+.PHONY: test-phpunit
+test-phpunit: | build-docker-php ## Run PhpUnit
+	@echo "Running Unit Tests Without Coverage"
+	docker run -v $$(pwd):/app --rm chriswiegmanplugin_phpunit_image /app/vendor/bin/phpunit
+
+.PHONY: test-phpunit-coverage
+test-phpunit-coverage: | build-docker-php ## Run PhpUnit with code coverage
+	@echo "Running Unit Tests With Coverage"
+	docker run -v $$(pwd):/app --rm --user $(CURRENTUSER):$(CURRENTGROUP) chriswiegmanplugin_phpunit_image /app/vendor/bin/phpunit  --coverage-text --coverage-html build/coverage/
+
+.PHONY: trust-lando-cert-mac
+trust-lando-cert-mac: ## Trust Lando's SSL certificate on your mac
+	@echo "Trusting Lando cert"
+	sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain ~/.lando/certs/lndo.site.pem
+
+.PHONY: update-composer
+update-composer:
+	$(DOCKER_RUN) $(COMPOSER_IMAGE) update
+
+.PHONY: chriswiegman-plugin-version.zip
+chriswiegman-plugin-version.zip:
+	@echo "Building release file: chriswiegman-plugin.$(PLUGIN_VERSION).zip"
+	rm -rf chriswiegman-plugin.$(PLUGIN_VERSION).zip
+	rm -rf build
+	mkdir build
+	cp -av plugin build
+	mv build/plugin build/chriswiegman-plugin
+	PLUGIN_VERSION=$(PLUGIN_VERSION) && cd build && zip -r chriswiegman-plugin.$$PLUGIN_VERSION.zip *
+	mv build/chriswiegman-plugin.$(PLUGIN_VERSION).zip ./
+	if [ ! -f ./chriswiegman-plugin.$(PLUGIN_VERSION).zip  ]; then \
+		echo "file not available"; \
+		exit 1; \
+	fi
+```
 
 If you want to try this Makefile yourself you can find the source at <https://github.com/ChrisWiegman/chriswiegman-plugin>. Note the Makefile above is only promised to be current at the time this post is published and the file itself will evolve over time.
 
 What all does it do? Well, you could run _make help_ on it to find out but here's a breakdown of the important parts:
 
-<ol class="wp-block-list">
-  <li>
-    It installs all plugin dependencies via composer
-  </li>
-  <li>
-    It installs the latest version of WordPress as well as a few development plugins to make work on it easier
-  </li>
-  <li>
-    It runs all unit tests including setup, teardown, etc
-  </li>
-  <li>
-    It can create a "release" file I can then upload to my site
-  </li>
-  <li>
-    It runs the WordPress coding standards against any code I write
-  </li>
-  <li>
-    If I screw something up it can completely reset it all in a single command
-  </li>
-  <li>
-    It can clean-up everything it's done when I stop working on the plugin
-  </li>
-</ol>
+1. It installs all plugin dependencies via composer
+2. It installs the latest version of WordPress as well as a few development plugins to make work on it easier
+3. It runs all unit tests including setup, teardown, etc
+4. It can create a "release" file I can then upload to my site
+5. It runs the WordPress coding standards against any code I write
+6. If I screw something up it can completely reset it all in a single command
+7. It can clean-up everything it's done when I stop working on the plugin
 
 ## Try it yourself
 

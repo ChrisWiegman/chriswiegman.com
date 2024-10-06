@@ -9,11 +9,12 @@ tags:
   - Android
   - iPhone
   - Mobile
-
 ---
+
 Last week I [wrote about going back to an iPhone from my Google Pixel 3XL][1]. After a week back on iOS I'm definitely noticing some of the differences, both for better and worse. Here's my view of the two ecosystems as they stand currently.
 
 First, iPhone does do some things really well. The newer Safari is much easier to use than Chrome or Firefox was on Android (the latest Firefox is so bad, in my experience, that I find it almost unusable). The camera is amazing and many of the default apps including Calendar, Mail and Reminders are quite nice, even when hooked up to Nextcloud. That said, the UX of the iOS itself definitely has a lot it could learn from Android. Here are some of the features where iOS lags well behind.
+
 ## Focus Mode
 
 During my work day Focus Mode on Android was a great way to silence notifications and keep me from getting distracted by my phone. When paired with a nightly do-not-disturb schedule it made the phone functional when I needed it as well as allowed me to pull away from it when I didn't. While iPhone has the sleep mode and do-not-disturb they are not as useful as Android's. For example, I still haven't found a good way to make it work during both work hours and during the evening. In addition, when it is active on iPhone it takes more work to get around should I need the phone for anything.

@@ -11,8 +11,8 @@ tags:
   - Tools
   - WordPress
   - Work
-
 ---
+
 This past Monday my team released the results of six months of work on our latest project. It's a WordPress plugin called [Atlas Content Modeler][1] that makes it easy to model data in a way that is designed to be friendly to both publishers and developers while being geared, first, to headless WordPress sites.
 This is exciting for me. It's the first new WordPress plugin I've been a part of on WordPress.org in at least 5 years. It's also special as this one has been a very new kind of work for me as it relies heavily on React instead of just PHP.
 

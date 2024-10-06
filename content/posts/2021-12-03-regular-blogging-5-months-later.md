@@ -8,13 +8,13 @@ categories:
 tags:
   - Blogging
   - Reflection
-
 ---
+
 In July I started posting on this site three days a week on Monday, Wednesday and Friday. As the year ends I think it's time to revisit that. Is it worth keeping up the pace? How can I improve the concept? What is the point?
 
 There's a lot to unpack with a blogging schedule. For the most part I've really enjoyed writing more and keeping content going regularly. On the other hand, as with any similar project I sometimes feel like I'm just keeping it going for the sake of keeping it going and that the content suffers as a result. Here's a breakdown of how I think it's going after 5 months. As we go into the new year I would love to hear your thoughts on the topic as well.
 
-## The benefits of regular blogging {#h-the-benefits-of-regular-blogging.wp-block-heading}
+## The benefits of regular blogging
 
 On the positive side I think blogging regularly has been a wonderful outlet for me to express my thoughts on topics and ideas I don't otherwise get to explore. It has helped me grow both professionally and personally by making me think about what is on my mind and then taking those thoughts and putting them into words.
 

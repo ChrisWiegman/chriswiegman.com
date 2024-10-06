@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Security
-
 ---
+
 Once upon a time the security of a WordPress site could be improved by simply moving the login page.
 
 Those were simpler days. The REST API wasn't part of WordPress core and WordPress itself was a much smaller part of the internet and, as a result, a much smaller target for attackers than it is now.

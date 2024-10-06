@@ -9,11 +9,11 @@ categories:
 tags:
   - Analytics
   - Stats
-
 ---
+
 I've made yet another big change to this site. As of Nov 7th I have moved back to [Jetpack (WordPress.com) Stats][1] from [Plausible Analytics][2] to provide the insights I need to keep on track with my goals for this site and my writing in general.
 
-## Why is Jetpack Stats better for me? {#h-why-is-jetpack-stats-better-for-me.wp-block-heading}
+## Why is Jetpack Stats better for me?
 
 Notice I didn't ask "why is Jetpack stats better" because I don't think it is for everyone. If I was [still on Hugo][3] or using something other than WordPress, Plausible would still be my go to solution. Instead I've switched because, simply put, Jetpack Stats is the right plugin for this site as it stands today.
 

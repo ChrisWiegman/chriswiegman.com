@@ -9,11 +9,12 @@ tags:
   - Blogging
   - Habits
   - Writing
-
 ---
+
 If there is one thing that has eluded me over the years I've had this site it is a consistent habit of posting new content. Instead I mostly work in spurts with a month or two of regular writing followed by many months of no posts at all.
 
 It's time I changed that.
+
 ## Why is a blogging habit so hard?
 
 In truth I love writing, which begs the question, why don't I do it more often. I've spent a lot of time on that question lately and I think it comes down to three things.

@@ -10,12 +10,13 @@ tags:
   - Content Management Systems
   - Static Site Generators
   - Web Development
-
 ---
+
 Two years ago I tried an experiment. After blogging with WordPress for over a decade I decided to [move this site to Hugo][1]. One year ago, I [moved it back to WordPress][2].
 
 In June of this year I joined a team working on Headless solutions for WordPress at WP Engine. My work for this team, as well as plenty of ideas for side projects, has me once again thinking about where a static site generator might work well for me. What I do know is that, while static site generators are great, they are absolutely not the right choice for this site. Here's why.
-## Where static site generators work {#h-where-static-site-generators-work.wp-block-heading}
+
+## Where static site generators work
 
 Before I get into why you shouldn't consider a static site generator for a blog, let's first talk about where they make sense.
 

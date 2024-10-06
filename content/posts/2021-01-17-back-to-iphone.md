@@ -9,9 +9,10 @@ categories:
 tags:
   - Android
   - iPhone
-
 ---
+
 After 3 years with the Google Pixel phones I'm back to iPhone, an iPhone 12 Pro Max to be specific. This wasn't a planned change, at least not yet, but it is for the best for now, I think. Jumping ecosystems is never easy but, at least in this case, I did have a few solid reasons for giving the iPhone another shot. As with any tech I doubt it will be a permanent switch but, at least for now, it should serve my needs quite well.
+
 ## Why iPhone?
 
 When I bought my Pixel 2XL it was primarily due to a few factors. First, and most importantly, AT&T didn't work at my home and I wanted to give Google Fi a try. Second, I didn't think I wanted to be as connected as being all in the Apple ecosystem had me. Finally, I simply wanted to branch out an try something else.

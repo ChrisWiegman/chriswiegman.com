@@ -8,23 +8,17 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
+
 There's been more talk about WordPress and Gutenberg this past week mostly after [Paul Lacey's excellent post on why he is stepping away from WordPress][1].
 
 Gutenberg has been a huge change for a lot of people and for many, including myself, it has dramatically changed how we work with WordPress and not for the better.
 
-That said, I want to address Jeff's tweet below, which is based on Paul's post. In it the quote that "it's no longer community, it's just software" strikes me as a sad statement for a number of reasons.<figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter">
+That said, I want to address Jeff's tweet below, which is based on Paul's post. In it the quote that "it's no longer community, it's just software" strikes me as a sad statement for a number of reasons.
 
-<div class="wp-block-embed__wrapper">
-  <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-    <p lang="en" dir="ltr">
-      "WordPress should not be about forcing the adoption of change, it should be about celebrating choice. That’s a philosophy that glues a community together. <br /><br />Otherwise, it’s no longer community, it’s just software. &#8211; Paul Lacey"<br /><br />Words to think about today.
-    </p>&mdash; Jeff (@jeffr0)
-
-    <a href="https://twitter.com/jeffr0/status/1459220467412348929?ref_src=twsrc%5Etfw">November 12, 2021</a>
-  </blockquote>
-</div></figure>
+> "WordPress should not be about forcing the adoption of change, it should be about celebrating choice. That’s a philosophy that glues a community together. <br /><br />Otherwise, it’s no longer community, it’s just software. &#8211; Paul Lacey"<br /><br />Words to think about today.
+>
+> > [Jeff (@jeffr0) - November 12, 2021](https://twitter.com/jeffr0/status/1459220467412348929?ref_src=twsrc%5Etfw)
 
 First, I talk about the WordPress community quite a bit. [This post from September][2] sums up a number of my feelings on what the WordPress community is. In it I talk about the fact that WordPress isn't a single community, but many. It looks at these communities from the concept of motivation, namely why people are in WordPress in the first place, but I think such talk, along with that of folks like Paul who are leaving WordPress, makes for an interesting study in what WordPress is.
 

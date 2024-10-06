@@ -11,27 +11,32 @@ tags:
   - Make
   - Makefile
   - WordPress
-
 ---
+
 This summer I've talked about [automating WordPress development with Make][1] and gave a [few ideas for Make targets to get you started][2]. Today I want to add a few more Make targets to that list.
 
 Two of the most common tasks I need to do when working with a few sites locally is to open them in my browser (URLs can get confusing when you have a few sites going) and opening the database directly in my database app of choice, [TablePlus][3]. Here are two Make targets you can use to do so yourself.
+
 ## Opening a site in your browser with Make
 
 The first target we want to add is _open_ which simply serves to open the current site in your browser. The example below will open the specified URL (it should be set to your site's URL for the current project) in your default browser when typing **_make open_**.
 
-<pre class="wp-block-code" aria-describedby="shcb-language-138" data-shcb-language-name="Makefile" data-shcb-language-slug="makefile"><span><code class="hljs language-makefile">&lt;span class="hljs-meta">&lt;span class="hljs-meta-keyword">.PHONY&lt;/span>: open&lt;/span>
-&lt;span class="hljs-section">open: ## Open the development site in your default browser&lt;/span>
-	open https://my-super-site.com</code></span><small class="shcb-language" id="shcb-language-138"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">Makefile</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">makefile</span><span class="shcb-language__paren">)</span></small></pre>
+``` makefile
+.PHONY: open
+open: ## Open the development site in your default browser
+	open https://my-super-site.com
+```
 
-## Opening your database in TablePlus {#h-opening-your-database-in-tableplus.wp-block-heading}
+## Opening your database in TablePlus
 
 This next target will instantly open your site's database in TablePlus so it can be examined or edited directly. This is handy as, otherwise, the configuration required to open a site in a tool can be difficult when using something like [Lando][4] or another tool.
 
-<pre class="wp-block-code" aria-describedby="shcb-language-139" data-shcb-language-name="CSS" data-shcb-language-slug="css"><span><code class="hljs language-css">&lt;span class="hljs-selector-class">.PHONY&lt;/span>: &lt;span class="hljs-selector-tag">open-db&lt;/span>
-&lt;span class="hljs-selector-tag">open-db&lt;/span>: ## &lt;span class="hljs-selector-tag">Open&lt;/span> &lt;span class="hljs-selector-tag">the&lt;/span> &lt;span class="hljs-selector-tag">database&lt;/span> &lt;span class="hljs-selector-tag">in&lt;/span> &lt;span class="hljs-selector-tag">TablePlus&lt;/span>
-	&lt;span class="hljs-keyword">@echo&lt;/span> &lt;span class="hljs-string">"Opening the database for direct access"&lt;/span>
-	open &lt;span class="hljs-attribute">mysql:&lt;/span>//&lt;span class="hljs-attribute">wordpress:&lt;/span>wordpress@&lt;span class="hljs-number">127.0&lt;/span>.&lt;span class="hljs-number">0.1&lt;/span>:$$(lando info --service=database --path &lt;span class="hljs-number">0&lt;/span>.external_connection.port | tr -d &lt;span class="hljs-string">"'"&lt;/span>)/wordpress?enviroment=local&name=$database&safeModeLevel=&lt;span class="hljs-number">0&lt;/span>&advancedSafeModeLevel=&lt;span class="hljs-number">0&lt;/span></code></span><small class="shcb-language" id="shcb-language-139"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">CSS</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">css</span><span class="shcb-language__paren">)</span></small></pre>
+``` makefile
+.PHONY: open-db
+open-db: ## Open the database in TablePlus
+	@echo "Opening the database for direct access"
+	open mysql://wordpress:wordpress@127.0.0.1:$$(lando info --service=database --path 0.external_connection.port | tr -d "'")/wordpress?enviroment=local&name=$database&safeModeLevel=0&advancedSafeModeLevel=0
+```
 
 When running the command **_make open-db_** you will get access to your database. Note this uses a simple database configuration in WordPress itself. The username, password and database name configured for the database are all simply "wordpress."
 

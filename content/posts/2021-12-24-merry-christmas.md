@@ -9,8 +9,8 @@ categories:
 tags:
   - Christmas
   - Holidays
-
 ---
+
 Today is Christmas Eve. While I'm not the most religious person, and come from a family that is anything but religious, Christmas has always been my favorite holiday. There's just something wonderful about it all.
 
 If you do celebrate, Merry Christmas to you and yours.

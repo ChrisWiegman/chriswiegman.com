@@ -12,17 +12,16 @@ tags:
   - Development
   - Education
   - Reflection
-
 ---
-Last week I struck a nerve on Twitter with the following tweet:<figure class="wp-block-embed aligncenter is-type-rich is-provider-twitter wp-block-embed-twitter">
 
-<div class="wp-block-embed__wrapper">
-  https://twitter.com/ChrisWiegman/status/1420068080944885767?s=20
-</div></figure>
+Last week I struck a nerve on Twitter with the following tweet:
+
+***Edit: Tweet removed after it was deleted***
 
 The responses to the comment ran the gambit of telling me I was wrong to talking about the technical problems in Gutenberg. For the most part I think they all made a pretty good point. What few did, however, is address the original issue.
 
 Simply put, WordPress is not the welcoming ecosystem it used to be. The barrier to entry, which was once so low, is now higher than so many other ways to build for the web.
+
 ## Here's my own WordPress story
 
 A bit more than ten years ago I was a college student for the second time. I was finishing up a master's degree in computer science and planning what my life would look like when I did.
@@ -31,17 +30,9 @@ I had been building websites, mostly in Drupal, as part of my work for the unive
 
 In my own mind the Drupal modules I was building were super handy and would help others building sites on the platform. So, like any budding developer, I tried to submit them to Drupal.org to be hosted in their module repository. They were denied time and time again.
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-  <p>
-    "You didn't use the right coding standards."
-  </p>
-</blockquote>
+> "You didn't use the right coding standards."
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-  <p>
-    "This isn't written how we would write it."
-  </p>
-</blockquote>
+> "This isn't written how we would write it."
 
 The excuses were numerous and annoying. Here was working code that I simply didn't have the experience to code well enough to matter. As a student and a full-time employee, for whom the websites were only one of many responsibilities, it was really disheartening.
 
@@ -59,11 +50,7 @@ My story isn't unique among those of us who have been in the WordPress ecosystem
 
 Many people would say the strength of WordPress is in its ecosystem. I don't disagree with them but I think this sentiment doesn't properly account for why the ecosystem is the way it is.
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-  <p>
-    The real strength of WordPress was in its simplicity.
-  </p>
-</blockquote>
+> The real strength of WordPress was in its simplicity.
 
 For better or worse it took very little effort for anyone to build and publish code in the WordPress ecosystem. A few hours and a little patience could easily lead to a plugin, theme or even core patch that would be used by millions and eventually support the lives of the developer and, in some cases, dozes of others around the plugin or theme they built.
 
@@ -85,59 +72,23 @@ Today it takes massive amounts of time and money to push WordPress forward. This
 
 What complexities exist today? Let's take a look at what it takes to be effective on my current team. We're building a content modeling plugin for WordPress. This is intended to be a rather niche plugin to help make content accessible to publishers and developers on our home-built headless WordPress platform, Atlas. Here are the major technologies a developer really needs to know well to be effective:
 
-<ul class="wp-block-list">
-  <li>
-    PHP
-  </li>
-  <li>
-    React
-  </li>
-  <li>
-    Webpack
-  </li>
-  <li>
-    Linters (JavaScript and PHP)
-  </li>
-  <li>
-    Docker
-  </li>
-  <li>
-    Terminal
-  </li>
-  <li>
-    PHPUnit
-  </li>
-  <li>
-    Jest
-  </li>
-  <li>
-    Codeception
-  </li>
-  <li>
-    JavaScript
-  </li>
-  <li>
-    TypeScript
-  </li>
-  <li>
-    WordPress filters and actions
-  </li>
-  <li>
-    REST
-  </li>
-  <li>
-    GraphQL
-  </li>
-  <li>
-    CircleCI
-  </li>
-  <li>
-    Composer
-  </li>
-  <li>
-    NPM
-  </li>
-</ul>
+* PHP
+* React
+* Webpack
+* Linters (JavaScript and PHP)
+* Docker
+* Terminal
+* PHPUnit
+* Jest
+* Codeception
+* JavaScript
+* TypeScript
+* WordPress filters and actions
+* REST
+* GraphQL
+* CircleCI
+* Composer
+* NPM
 
 That's not a small list. As I talk about the work with developer friends, few know more than a handful of those well. In fact, I would say no one on the team knows all of the code as well as a WordPress developer would've known their code base ten years ago. While I joined the project relatively early myself it is only years of experience that allows me to do so at all without slowing down the others. Even then the learning curve, two months in, has been higher than my first project here which was done completely in a language, GoLang, that I had never even looked at prior to my tenure.
 

@@ -8,8 +8,8 @@ categories:
   - Technical
 tags:
   - Blogging
-
 ---
+
 In August [I turned comments back on][1] for this site. While I had used them, and found them beneficial, in the past, when I moved to Hugo there was just no good solution for keeping them around.
 While there are a lot of opinions on blog comments being obsolete, and I justified their removal from this site with similar rhetoric, the fact is I still find them valuable. They simply provide a human connection to my work that no other medium can provide.
 

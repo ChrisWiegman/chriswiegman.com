@@ -9,8 +9,8 @@ categories:
 tags:
   - Fall
   - Weather
-
 ---
+
 Fall has arrived on the [Florida Suncoast][1] and not a minute too late.
 
 Some people get seasonal depression in the winter. For me, since moving here, I get it worse than I ever have and I get it during the summer. Summers here can last from roughly April to November but, thankfully, this weekend we've gotten a nice break.

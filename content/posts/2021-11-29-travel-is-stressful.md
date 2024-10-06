@@ -9,8 +9,8 @@ categories:
 tags:
   - Reflection
   - Travel
-
 ---
+
 On Saturday we returned from our first trip to see family in almost two years. It was both wonderful and one of the most stressful things I've done in a long time.
 
 This wasn't our first trip of COVID. In June we drove to Cape Canaveral for a weekend away and in September we drove to Ithaca, NY for the wedding of some of our favorite people. This past week was, however, our first flight together of the pandemic. In addition, I've spent so little time around people that being in a room with 4 or more people for a week was simply overwhelming.

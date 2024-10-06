@@ -10,8 +10,8 @@ tags:
   - COVID
   - Diet
   - Health
-
 ---
+
 If you had told me at the beginning of 2020 that all travel would be ending, that we would stop eating out, stop drinking and generally be tied to our house for over a year and a half I would have panicked. In 2019 I had spent almost 4 months of the year in hotels and we ate out an average of 5-6 days a week while still spending all our social time at a local pub with friends.
 
 It was a very different life than today.

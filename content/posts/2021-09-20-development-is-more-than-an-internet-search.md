@@ -9,8 +9,8 @@ categories:
 tags:
   - Career Development
   - Web Development
-
 ---
+
 There is a common misconception in the tech community that likes to equate professional tech work as nothing but tying together a bunch of internet searches until you get a product.
 
 While well-meaning, in most cases, I hate this take. It does nothing but undercut the years of experience it takes a professional developer or other tech worker to properly hone their craft.

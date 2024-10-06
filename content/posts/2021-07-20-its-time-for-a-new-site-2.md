@@ -10,8 +10,8 @@ tags:
   - blocksy
   - themes
   - Web Development
-
 ---
+
 About a year ago I [moved back to WordPress][1] from [Hugo][2]. At the time I was generally happy with my Hugo theme so I ported it to my site in WordPress and have been using it ever since. While it has worked out OK for me it never really was what I would consider my ideal theme. It made due for a while and made for a [great experiment on how minimal I could make a theme][3] but, after a year, it's time time to move on.
 As of today my site is running on the [Blocksy][4] theme with a few new features to make it more a site I could grow with rather than an experiment that always felt like it was limiting me to one extent or another.
 
@@ -25,29 +25,13 @@ A redesign of your personal site might not seem like a big deal but, if you ask 
 
 As it became clear over the last few months that running my own theme was anything but perfect, I set forth a few goals for a redesign based around the idea that I want my site to be a place where I can share what I build, not the only thing I have time to build itself. Given that, before I started the project I came up with the following goals for it:
 
-<ol class="wp-block-list">
-  <li>
-    The site should not require a child theme to do what I want to do with it
-  </li>
-  <li>
-    I should only have to write a bare minimum of code to keep this site running
-  </li>
-  <li>
-    The theme should be easily customizable so I can tweak layouts and more in the future without losing a day to code
-  </li>
-  <li>
-    The theme should be well coded
-  </li>
-  <li>
-    The theme should be light-weight and fast. It should not be a drain on anyone's data plan nor device battery
-  </li>
-  <li>
-    The theme should be accessible
-  </li>
-  <li>
-    The theme should be well supported as I would like it to be the last theme I need until themes are no longer needed at all for WordPress
-  </li>
-</ol>
+1. The site should not require a child theme to do what I want to do with it
+2. I should only have to write a bare minimum of code to keep this site running
+3. The theme should be easily customizable so I can tweak layouts and more in the future without losing a day to code
+4. The theme should be well coded
+5. The theme should be light-weight and fast. It should not be a drain on anyone's data plan nor device battery
+6. The theme should be accessible
+7. The theme should be well supported as I would like it to be the last theme I need until themes are no longer needed at all for WordPress
 
 ## I landed on Blocksy
 

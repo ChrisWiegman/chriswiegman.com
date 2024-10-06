@@ -13,11 +13,12 @@ tags:
   - Tools
   - VS Code
   - Web Development
-
 ---
+
 Last week I wrote about [why I switched to Visual Studio Code (VS Code)][1] from JetBrains' products. As I said in that post, the real strength of VS Code lies in its [extension library][2].
 
 Of course, that statement isn't helpful without a list of extensions to get started. Below is a list of the extensions I have currently installed in VS Code as of this writing. I do want to note that, in practice, my list changes quite a bit depending on what I'm working on. My current work is entirely WordPress focused and, as a result, so are most of my extensions.
+
 ## Extensions for all projects
 
 These are the extensions I use across tech stacks. One of the reasons I've moved to VS Code is its versatility compared to alternatives like PhpStorm and others. I can use it for GoLang, PHP, WordPress, Python or anything else. Regardless of what I'm working in though, these are the extensions I make sure I always have installed.
@@ -30,7 +31,7 @@ This extension displays a visual history of your Git repository. It's incredibly
 
 This allows me to see the history of individual files in my repository.
 
-### [GitLens][5] {#h-gitlens.wp-block-heading}
+### [GitLens][5]
 
 This extension works with Git Graph and Git History to allow VS Code to be a full-featured Git GUI client. At one point in my career I had moved to doing most of my Git work on the command line, but no more. Now I find it faster to just use my editor and, with GitLens and the rest, I find it to be as powerful as any purpose-built tool I've used in the past.
 

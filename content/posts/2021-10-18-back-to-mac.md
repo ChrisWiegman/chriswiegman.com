@@ -10,8 +10,8 @@ tags:
   - Apple
   - Hardware
   - MacOS
-
 ---
+
 Today I'll order a new MacBook Pro (well, technically tomorrow as I'm writing this on Sunday night).
 If you had told me a year ago that I would be going back to a Mac from Linux I wouldn't have believed you. The thing is I loved using Pop!_OS and I really did find Android to be better for me than iOS is today.
 

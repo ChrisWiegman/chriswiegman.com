@@ -9,13 +9,14 @@ tags:
   - Life
   - Moving
   - Reflection
-
 ---
+
 The other day [I wrote about our first home in Carbondale][1], the one place I've lived that ever really felt like home. It has me contemplating what is next for us. Can we ever find a place that feels like home again?
 
 It's not secret that I'm not happy living in Florida. After almost seven years it is still better than Texas, but that really isn't saying much.
 
 The problem is, where should we go? We have no children, we both work remote and we have the privilege to be able to go anywhere on the planet, yet we have no idea where we should go. I think the guidance we need for an answer lies both in our pasts and what we would like for our future.
+
 ## A Nomadic Life
 
 Growing up I only ever spent much in two states, Illinois and Florida. Joy's family did more traveling around the country but mine stuck with the trusty path to Panama City Beach every summer where we would stay at my parents' beach condo.
@@ -30,7 +31,7 @@ As it turns out, Austin is anything but a major city. I can best describe it as 
 
 After moving around for a decade, Austin was our first real mistake. Thankfully, I started working remotely while we lived there we decided it was time to move on. Florida was calling.
 
-## Why we moved to Florida {#h-why-we-moved-to-florida.wp-block-heading}
+## Why we moved to Florida 
 
 We moved to Florida because feels like home and was much more convenient should we need to visit family, travel for work, etc. As both of our parents winter in Florida, it allowed us to at least be close to our families for half the year plus provides us relatively easy access to get back to Chicago should we ever need to.
 

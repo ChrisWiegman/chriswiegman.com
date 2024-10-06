@@ -10,8 +10,8 @@ tags:
   - Networking
   - NextDNS
   - Privacy
-
 ---
+
 I've been using [NextDNS][1] for almost two years and it has been wonderful in blocking ads across all the devices we have only. Our ISP caps our data at 1TB and we come close to it ever month. NextDNS alone had dropped our overall bandwidth usage by nearly 8% across all our devices and it blocked up to 20% of all connections from many of the devices connected to our network.
 
 After months of internet issues I've had to remove it.

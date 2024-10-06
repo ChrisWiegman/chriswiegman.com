@@ -10,12 +10,13 @@ tags:
   - Development Tools
   - Plugin
   - WordPress
-
 ---
+
 Spinning up a new WordPress project is a pain. From the tooling around it to finding a consistent development environment can often feel like an exercise in futility. It doesn't have to be this way.
 
 This past weekend I refactored and relaunched a project I started working with during my days at the University of Florida. [Generator-wp][1] is a [Yeoman][2] generator that will create either a basic WordPress site or a starter plugin to get a new project running in the shortest amount of time for teams with any level of WordPress experience.
-## What makes a good WordPress project generator? {#h-what-makes-a-good-wordpress-project-generator.wp-block-heading}
+
+## What makes a good WordPress project generator?
 
 The needs of everyone may differ but, from my experience on numerous teams across the WordPress spectrum there are a few things that can really make all the difference when getting started with a new WordPress project.
 

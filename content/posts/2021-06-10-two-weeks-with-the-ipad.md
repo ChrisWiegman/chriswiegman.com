@@ -12,8 +12,8 @@ tags:
   - Tools
   - Workflow
   - Writing
-
 ---
+
 Two weeks ago I did something I would’ve thought unthinkable even a month ago, I replaced my personal laptop with a new Apple iPad.
 
 After more than 20 years with either a desktop or a laptop I wasn’t sure what I would think about this setup but, so far, I’m finding it far more capable than I would have anticipated. It isn’t perfect but, for the most part, what most people are listing as shortcomings such as iPadOS limitations, I’m finding to actually be quite a benefit for how I like to work.

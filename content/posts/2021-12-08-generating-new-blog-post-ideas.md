@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Blogging
-
 ---
+
 The hardest part about writing is, at least for me, coming up with what to write about.
 
 Part of the reason I haven't blogged regularly in the past is I simply couldn't think of what I should write about. That hasn't necessarily changed these days but how I approach the process has. Here are my three tips for generating blog post ideas.
@@ -21,7 +21,7 @@ With this method, whenever an idea comes to me I add it to a checklist note for 
 
 It's carried me through so many posts this year and solves the capture problem that used to prevent me from bringing post ideas to life after I forgot about them.
 
-## Have an opinion {#h-have-an-opinion.wp-block-heading}
+## Have an opinion
 
 Historically I avoid writing on many topics dismissing my thoughts as not worth consideration.
 

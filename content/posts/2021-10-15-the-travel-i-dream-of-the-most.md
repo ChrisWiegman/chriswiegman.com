@@ -9,9 +9,9 @@ categories:
 tags:
   - Home
   - Travel
-
 ---
-Before COVID I travelled a lot. While it isn't even part of my job description I was on the road over 4 months in 2019 alone. It was fun, I won't say otherwise, but being home makes me realize it isn't a life I hope to go back to.
+
+Before COVID I traveled a lot. While it isn't even part of my job description I was on the road over 4 months in 2019 alone. It was fun, I won't say otherwise, but being home makes me realize it isn't a life I hope to go back to.
 
 These past few weeks I've been writing a lot about the concept of home, but where we've been and where we would like to move. I've commented a lot about why we're unhappy where we are but I've yet to really put into words the "why" part of it. Why did we make the decision to move here?
 

@@ -8,17 +8,13 @@ categories:
 tags:
   - Analytics
   - WordPress
-
 ---
+
 Last Friday I wrote about [switching this site from Plausible Analytics to Jetpack's WordPress.com stats][1]. One of the biggest points I made in the transition was the improved privacy of Jetpack's solution that now seems to match Plausible's. In doing so I received a few questions like the tweet below:
 
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-  <p>
-    Hey @ChrisWiegman just reading your latest post, and it order me a little confused.<br /><br />You said that WP deletes stats after 28 days, but later say you see stats from 2015. Hits can that be?
-  </p>
-
-  <cite>Kev Quirk 🇺🇦 (@kevquirk) November 19, 2021</cite>
-</blockquote>
+> Hey @ChrisWiegman just reading your latest post, and it order me a little confused.<br /><br />You said that WP deletes stats after 28 days, but later say you see stats from 2015. Hits can that be?
+>
+> > Kev Quirk 🇺🇦 (@kevquirk) November 19, 2021
 
 This is a really good question and one I should've called out in the last post.
 

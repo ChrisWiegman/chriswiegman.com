@@ -8,8 +8,8 @@ categories:
   - Technical
 tags:
   - Gutenberg
-
 ---
+
 I've had somewhat of a rocky history with using Gutenberg. When it first came out it was so slow that I couldn't even use it on the little Chromebook I had bought specifically for writing &#8211; I wound up selling the computer. Fast forward to a few months later and the performance issue and bugs [pushed me off WordPress altogether][1].
 
 A year later [I came back to WordPress][2] and started writing off and on with Gutenberg. While it still has some strange quirks, overall I find it to be descent writing experience.

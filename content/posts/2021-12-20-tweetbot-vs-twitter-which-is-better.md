@@ -12,8 +12,8 @@ tags:
   - Tools
   - Tweetbot
   - Twitter
-
 ---
+
 I use [Twitter][1], a lot. It's my water cooler and my connection to the WordPress world. I've tried to make a break for [Mastodon][2], and do enjoy the network, but it has been an absolute failure at replacing Twitter, particularly over the last two years as we have primarily been at home.
 While I love the people on Twitter, the software available to access it has been something of a comedy of errors. On Android I had tried the native client and a handful of other clients until I wound up on Fenix which was, at best, OK. Now that I'm back in the Apple ecosystem I've been going back and forth between the native client and [Tweetbot][3] on each of my devices (laptop, phone and iPad).
 
@@ -23,7 +23,7 @@ While each app has some advantages, as of today I am back on Tweetbot for the fo
 
 Both apps have the ability to display a chronological timeline (with the native client you have to select it as it isn't done by default). I have set it that way on each and yet Tweetbot still misses too much. Tweets aren't grouped logically making threads hard to follow and many replies don't show up at all on Tweetbot's main timeline, even for people I'm following. Finally, Tweetbot often misses images and other previews forcing me to open the tweet in a browser.
 
-## Device synchronization {#h-device-synchronization.wp-block-heading}
+## Device synchronization
 
 The native Twitter client displays individual tweets and threads better than Tweetbot but it is a complete failure at keeping my devices in sync. It isn't uncommon for me to, for example, close my computer and pick up my iPad to continue catching up on my timeline or a list. I simply cannot do this on the native client.
 
@@ -65,7 +65,7 @@ Twitter, the service, has [Twitter Blue][4] available. For $2.99/month it offers
 
 ## So which app is better?
 
-If you've made it this far you already know I'm sticking with Tweetbot, at least for now. While my use case is undoubtably different than most, the synchronization of timelines between devices combined with the limited notifications make it very worth it to me. That said, each app has its advantages and either one will make sure you can post all the content you could ever want.
+If you've made it this far you already know I'm sticking with Tweetbot, at least for now. While my use case is undoubtedly different than most, the synchronization of timelines between devices combined with the limited notifications make it very worth it to me. That said, each app has its advantages and either one will make sure you can post all the content you could ever want.
 
  [1]: https://twitter.com
  [2]: https://joinmastodon.org

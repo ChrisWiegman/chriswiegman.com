@@ -8,12 +8,13 @@ categories:
 tags:
   - Apple
   - Privacy
-
 ---
+
 Last week I published a post I wrote almost a month ago exploring what it would take for me to return to Linux. I wrote that post before [Apple announced a major pivot in its privacy stance][1] and, at the time, it seemed like a reasonable wish list of balancing the technology I'm comfortable working on with privacy and other ethical issues that make so much consumer tech so toxic.
 
 Apple's announcement changes everything. I almost didn't publish the post as I realize my plans for tech now have to change. It is up only because those needs of maintainability, usability and support from my family aren't going anywhere. Instead I realize I'm going to need to re-think my approach to technology all-together as it is impossible to take a stand for privacy while still supporting and using products from Apple.
-## What Apple's privacy pivot means for personal tech {#h-what-apple-s-privacy-pivot-means-for-personal-tech.wp-block-heading}
+
+## What Apple's privacy pivot means for personal tech
 
 Apple is no longer a safe option for storing your personal data.
 
@@ -71,40 +72,18 @@ Picking services like Nextcloud, Signal and so many other common solutions is ea
 
 Given all that, there are a few options I know I can work:
 
-<ul class="wp-block-list">
-  <li>
-    iCloud Calendar/Contacts/Drive -> Nextcloud
-  </li>
-  <li>
-    Safari -> Firefox
-  </li>
-</ul>
+* iCloud Calendar/Contacts/Drive -> Nextcloud
+* Safari -> Firefox
 
 What I need to take a harder look at is the many services I never could make work in the past
 
-<ul class="wp-block-list">
-  <li>
-    1Password -> Bitwarden (though last time I couldn't sell my family on this one)
-  </li>
-  <li>
-    Maps
-  </li>
-  <li>
-    Photos
-  </li>
-  <li>
-    Travel Apps (airline, hotel, etc)
-  </li>
-  <li>
-    Music
-  </li>
-  <li>
-    Fitness
-  </li>
-  <li>
-    so many more
-  </li>
-</ul>
+* 1Password -> Bitwarden (though last time I couldn't sell my family on this one)
+* Maps
+* Photos
+* Travel Apps (airline, hotel, etc)
+* Music
+* Fitness
+* so many more
 
 What I'm hoping is, that while I'm stuck in Apple for now, I can use the time to really experiment with and test both the architecture and the services themselves to find solutions that will work for all of us.
 

@@ -9,11 +9,12 @@ tags:
   - Privacy
   - Security
   - vpn
-
 ---
+
 Virtual Private Networks (VPNs) are big business these days. Log into an app store or browse the web for a bit and you'll find numerous advertisements claiming benefits ranging from security to privacy to anonymity. With so many offerings how do you choose? Who can you trust and what is the right amount to pay?
 
 I've tried over a dozen VPN companies over the years and today I think it's safe to say that the best VPN for you depends somewhat on how you're trying to use it. That said, here's how I've arrived at what me and my family are using now.
+
 ## Questions to ask when choosing a VPN
 
 When choosing a VPN it is vitally important to understand what you need it for. Yes, there are differences in how a VPN can protect you and your data. It all comes down to a few questions.
@@ -58,20 +59,10 @@ For most of y'all, self-hosting a VPN should be a simple task using [Algo][5]. Y
 
 #### Why Algo?
 
-<ol class="wp-block-list">
-  <li>
-    It's the most trustworthy provider I can find. If I can't trust myself to not keep logs or any other data who can I trust.
-  </li>
-  <li>
-    It's fast. There's no chance of too many users clogging a server making it slow. As a result I see functionally identical speeds to what I get on my normal internet connection.
-  </li>
-  <li>
-    The price is right. I have four users on my Algo box for 2.96€/month. Even with exchange fees this is less than $4.00 US/month which is far less than a reputable VPN that can run $7 per month per user (or more).
-  </li>
-  <li>
-    The static IP address makes connecting to any resources I might need much more secure.
-  </li>
-</ol>
+1. It's the most trustworthy provider I can find. If I can't trust myself to not keep logs or any other data who can I trust.
+2. It's fast. There's no chance of too many users clogging a server making it slow. As a result I see functionally identical speeds to what I get on my normal internet connection.
+3. The price is right. I have four users on my Algo box for 2.96€/month. Even with exchange fees this is less than $4.00 US/month which is far less than a reputable VPN that can run $7 per month per user (or more).
+4. The static IP address makes connecting to any resources I might need much more secure.
 
 If you've gotten this far, and are comfortable with tech, I recommend giving this a try first. It really is easy if you're comfortable building with tools like WordPress or with tech in general.
 
@@ -79,17 +70,9 @@ If you've gotten this far, and are comfortable with tech, I recommend giving thi
 
 Depending on your needs or experience Algo might not be the best choice for you. If this is the case there are many good commercial VPN providers out there depending on your needs. Here are the rules I've used in the past when picking a VPN.
 
-<ol class="wp-block-list">
-  <li>
-    <strong>Never use a free VPN.</strong> (note that a VPN that comes with a subscription like Google Fi is not a free VPN for this purpose).
-  </li>
-  <li>
-    Never pay for multiple years up front. I still have at least a year left on a NordVPN account I bought and had to stop using. They grew enough that connecting became difficult and service was often too slow to be usable. This is a common theme I've found with every VPN service. They're great when they're new but they often grow their user base too quickly resulting in slow service.
-  </li>
-  <li>
-    Read their privacy policy. If you're worried about privacy with a VPN then you'll want to make sure they don't log any data you give them.
-  </li>
-</ol>
+1. **Never use a free VPN.** (note that a VPN that comes with a subscription like Google Fi is not a free VPN for this purpose).
+2. Never pay for multiple years up front. I still have at least a year left on a NordVPN account I bought and had to stop using. They grew enough that connecting became difficult and service was often too slow to be usable. This is a common theme I've found with every VPN service. They're great when they're new but they often grow their user base too quickly resulting in slow service.
+3. Read their privacy policy. If you're worried about privacy with a VPN then you'll want to make sure they don't log any data you give them.
 
 As of writing this, I have no personal preferences on commercial services but I do trust those I see recommending [ExpressVPN][8] and [ProtonVPN][9]. Both have solid privacy policies and seem to be operated by trustworthy leadership. That said, don't feel a loyalty to any service you sign up for. From data breaches to slow service they usually suffer over time. I find that, on average, I switched commercial VPNs about once a year for one of these two reasons so keep in mind that what you choose today will most likely not be permanent.
 

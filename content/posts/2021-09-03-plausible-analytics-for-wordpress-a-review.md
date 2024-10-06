@@ -8,9 +8,10 @@ categories:
   - Technical
 tags:
   - Analytics
-
 ---
+
 When I re-launched this site in July I added a number of new features including analytics. Over the years I've tried a number of solutions for keeping track of site visitors including Google Analytics, JetPack Analytics, GoAccess and even no analytics at all. As of July, however, I'm using [Plausible Analytics][1] to keep track of site visitors and, while it's not perfect, I'm really happy with it so far. Here's a breakdown of what works for me and what I think could be improved.
+
 ## Why analytics?
 
 Before I get too deep into the pros and cons of Plausible I want to address why I went back to using analytics at all.
@@ -19,7 +20,7 @@ For about two years I had no analytics at all on this site. I didn't know who wa
 
 Analytics don't have to be a privacy-invasive evil. If done right analytics can help demonstrate various metrics of success and worth as well as give valuable insights into what your audience wants to hear. I missed those insights but I couldn't justify solving them with such an invasive solution like Google Analytics. Instead I've gone with Plausible Analytics.
 
-## Pros {#h-pros.wp-block-heading}
+## Pros
 
 Plausible bills itself as a privacy-friendly alternative to Google Analytics. It is a relatively new product built by a small team and has focused on the fundamentals of who is visiting your site, where they're going and how they got there.
 
@@ -41,49 +42,18 @@ The other issue I have is that getting data about an individual post or page is 
 
 ## The TL;DR
 
-<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
-  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <h3 class="wp-block-heading" id="h-pros-1">
-      Pros
-    </h3>
+### Pros
 
-    <ul class="wp-block-list">
-      <li>
-        Easy to setup
-      </li>
-      <li>
-        Excellent, simple site stats
-      </li>
-      <li>
-        Private
-      </li>
-      <li>
-        Clean interface
-      </li>
-      <li>
-        Reasonable price
-      </li>
-    </ul>
-  </div>
+* Easy to setup
+* Excellent, simple site stats
+* Private
+* Clean interface
+* Reasonable price
 
-  <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-    <h3 class="wp-block-heading" id="h-cons">
-      Cons
-    </h3>
+### Cons
 
-    <ul class="wp-block-list">
-      <li>
-        It's not free
-      </li>
-      <li>
-        WordPress integration could be deeper
-      </li>
-    </ul>
-
-    <p>
-    </p>
-  </div>
-</div>
+* It's not free
+* WordPress integration could be deeper
 
 In the end, Plausible is a private, ethical alternative to Google Analytics that will tell you what you need to know about your visitors with a bare minimum of effort. While it isn't free, the team behind it has been responsive to issues and concerns and is more than deserving of the support needed to make Plausible a successful and sustainable alternative that is safe for you and your users.
 

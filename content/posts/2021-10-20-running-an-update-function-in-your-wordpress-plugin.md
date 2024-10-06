@@ -7,66 +7,67 @@ categories:
   - Technical
 tags:
   - PHP
-
 ---
+
 WordPress makes it easy to run scripts when a user activates or uninstalls your plugin, but what about when they update your plugin?
 
 This script will look at your current plugin version and compare it to a saved version. If your plugin version is newer it will run an upgrade script based on the new version it sees and, finally, it will save the current plugin version to the WordPress database for later.
 
-<pre class="wp-block-code" aria-describedby="shcb-language-140" data-shcb-language-name="PHP" data-shcb-language-slug="php"><span><code class="hljs language-php shcb-code-table shcb-line-numbers">&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-meta">&lt;?php&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment">/**&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Plugin Name: My Super Duper Plugin&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Plugin URI: /&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Description: My Super Duper Plugin&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Author: Chris Wiegman&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Author URI: /&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Text Domain: my-super-plugin&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Domain Path: /languages&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Version: 1.0.0&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Requires at least: 5.8.1&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Requires PHP: 7.2&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * License: GPLv2 or later&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * License URI: https://www.gnu.org/licenses/gpl-2.0.html&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> */&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span> add_action( &lt;span class="hljs-string">'plugins_loaded'&lt;/span>, &lt;span class="hljs-string">'update_plugin'&lt;/span> );
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment">/**&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * Checks plugin version for update and calls update function where appropriate.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> *&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> * &lt;span class="hljs-doctag">@return&lt;/span> bool True if updates were carried out or false.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-comment"> */&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-function">&lt;span class="hljs-keyword">function&lt;/span> &lt;span class="hljs-title">update_plugin&lt;/span>&lt;span class="hljs-params">()&lt;/span> &lt;/span>{
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	$current_version = get_option( &lt;span class="hljs-string">'my_super_plugin_current_version'&lt;/span>, &lt;span class="hljs-string">'0.0.0'&lt;/span> );
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	$file_data       = get_file_data( &lt;span class="hljs-keyword">__FILE__&lt;/span>, &lt;span class="hljs-keyword">array&lt;/span>( &lt;span class="hljs-string">'Version'&lt;/span> =&gt; &lt;span class="hljs-string">'Version'&lt;/span> ) );
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	$plugin_version  = $file_data&#91;&lt;span class="hljs-string">'Version'&lt;/span>];
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	&lt;span class="hljs-keyword">if&lt;/span> ( &lt;span class="hljs-number">1&lt;/span> === version_compare( $plugin_version, $current_version ) ) {
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-comment">// Array of versions requiring update and their callbacks.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-comment">// Note these do not have to exactly match plugin version.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		$update_versions = &lt;span class="hljs-keyword">array&lt;/span>(
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>			&lt;span class="hljs-string">'1.0.1'&lt;/span> =&gt; &lt;span class="hljs-string">'update_1_0_1'&lt;/span>,
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		);
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-keyword">foreach&lt;/span> ( $update_versions &lt;span class="hljs-keyword">as&lt;/span> $version =&gt; $callback ) {
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>			&lt;span class="hljs-keyword">if&lt;/span> ( &lt;span class="hljs-number">1&lt;/span> === version_compare( $version, $current_version ) ) {
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>				call_user_func( $callback );
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>			}
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		}
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-comment">// Save the last updated version.&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		update_option( &lt;span class="hljs-string">'my_super_plugin_current_version'&lt;/span>, $plugin_version );
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>		&lt;span class="hljs-keyword">return&lt;/span> &lt;span class="hljs-keyword">true&lt;/span>;
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	}
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>	&lt;span class="hljs-keyword">return&lt;/span> &lt;span class="hljs-keyword">false&lt;/span>;
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>}
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>&lt;span class="hljs-function">&lt;span class="hljs-keyword">function&lt;/span> &lt;span class="hljs-title">update_1_0_1&lt;/span>&lt;span class="hljs-params">()&lt;/span> &lt;/span>{
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>    &lt;span class="hljs-comment">//Run your update script&lt;/span>
-&lt;/span>&lt;/span>&lt;span class='shcb-loc'>&lt;span>}
-&lt;/span>&lt;/span></code></span><small class="shcb-language" id="shcb-language-140"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">PHP</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">php</span><span class="shcb-language__paren">)</span></small></pre>
+``` php {linenos=table}
+<?php
+/**
+ * Plugin Name: My Super Duper Plugin
+ * Plugin URI: https://chriswiegman.com/
+ * Description: My Super Duper Plugin
+ * Author: Chris Wiegman
+ * Author URI: https://chriswiegman.com/
+ * Text Domain: my-super-plugin
+ * Domain Path: /languages
+ * Version: 1.0.0
+ * Requires at least: 5.8.1
+ * Requires PHP: 7.2
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ */
+
+ add_action( 'plugins_loaded', 'update_plugin' );
+
+/**
+ * Checks plugin version for update and calls update function where appropriate.
+ *
+ * @return bool True if updates were carried out or false.
+ */
+function update_plugin() {
+	$current_version = get_option( 'my_super_plugin_current_version', '0.0.0' );
+	$file_data       = get_file_data( __FILE__, array( 'Version' => 'Version' ) );
+	$plugin_version  = $file_data['Version'];
+
+	if ( 1 === version_compare( $plugin_version, $current_version ) ) {
+
+		// Array of versions requiring update and their callbacks.
+		// Note these do not have to exactly match plugin version.
+		$update_versions = array(
+			'1.0.1' => 'update_1_0_1',
+		);
+
+		foreach ( $update_versions as $version => $callback ) {
+			if ( 1 === version_compare( $version, $current_version ) ) {
+				call_user_func( $callback );
+			}
+		}
+
+		// Save the last updated version.
+		update_option( 'my_super_plugin_current_version', $plugin_version );
+		return true;
+	}
+
+	return false;
+}
+
+function update_1_0_1() {
+    //Run your update script
+}
+```
 
 There are a few keys to this. First, on line 17, we call our updater in WordPress' _plugins_loaded_ hook.
 

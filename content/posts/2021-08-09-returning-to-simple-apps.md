@@ -9,12 +9,13 @@ tags:
   - Development Tools
   - Simple
   - Tools
-
 ---
+
 For years I made doing my job way too hard by simply losing myself in [decision paralysis][1]. For every individual function, notes, reminders, browsing, etc I strove to find perfection that simply doesn't exist.
 
 No more of that. For a while now, instead of focusing on the perfect app, I've simply focused on sticking with the app that works best _with_ me. The results have been amazing.
-## What is the perfect app? {#h-what-is-the-perfect-app.wp-block-heading}
+
+## What is the perfect app?
 
 So what really is the perfect app? I think most people would define it as the app that does everything they want exactly the way they want it done. This sounds rather simple but, the truth is, you'll never find it.
 

@@ -10,8 +10,8 @@ tags:
   - Career Development
   - Education
   - Higher Education
-
 ---
+
 In my last career I flew airplanes for a number of companies culminating in making captain for a small airline on Maui where I made a whopping $28,000/year. One of the attractions to the company, at least for some, was that they didn't require a degree. It was rare in an industry where interviews demanded a business suit and really any big airline job wouldn't look at you for an interview without a 4 year degree for jobs that, at the time, often paid less than $20,000/year.
 It wasn't so much that the college courses we took were something we used every day, though with an undergraduate degree in Aviation Management I would say I used my degree a bit more than most. It was that a degree was an easy way to weed out people who couldn't finish something. In a job where there could be dozens of applicants for every position a degree was a sign that you were willing to go the extra mile.
 

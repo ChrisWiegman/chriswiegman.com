@@ -8,8 +8,8 @@ categories:
 tags:
   - Development Tools
   - WordPress
-
 ---
+
 I've spent a good part of my career building WordPress development environments. From [Primary Vagrant][1] to its Docker successor which became Ouroboros when I worked at [UF Health][2] and, finally, culminating in WP Engine's [DevKit][3] which was later cancelled after Flywheel, and consequently [Local][4], was acquired. I even spent 6 months on the local team before I decided it was time to focus on something else.
 
 Beyond building such tools I've also used just about everything on the market including MAMP, VVV, Valet and so many other. Throughout that time it's safe to say I've formed some opinions on what such software should offer. Today I'm using Lando which is, by far, the most capable such software available today. Even it, however, has its issues that have manifested, in my experience, with issues using its upstream Docker images and horrible interactions when bringing up support issues.
@@ -18,7 +18,7 @@ That begs the question, if I was to start a new such project today, what would i
 
 So what makes the perfect WordPress development environment tool? It's a few things actually:
 
-## It must be portable {#h-it-must-be-portable.wp-block-heading}
+## It must be portable 
 
 One of the greatest failures of most of the available tools is that they're not portable. I cannot save a project configuration to my repo to have myself or a team member check it out on another machine and still be running within minutes and only a single command.
 

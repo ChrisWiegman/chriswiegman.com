@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
+
 Last week [I posted about a job change][1]. After almost 10 years as a developer I made the jump to engineering management where I'll get to shape the teams that form technology rather than just the code itself.
 
 I made the switch because, while I love writing code, I wanted to work more with people and not just the machines. The change reminds me of many conversations I've had as of late.

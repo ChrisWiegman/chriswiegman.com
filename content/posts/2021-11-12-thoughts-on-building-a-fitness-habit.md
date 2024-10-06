@@ -10,15 +10,15 @@ tags:
   - FitBit
   - Fitness
   - Habits
-
 ---
+
 I've struggled to get and stay fit my entire life. As a child I would get serious headaches if I got too physical in play or work so, as a result, I grew to avoid it. The headaches started to go away in college so, for a little while I was actually in pretty descent shape and felt good.
 
 That was 20 years ago. While I was flying I was able to maintain some level of fitness but it has mostly been downhill ever since.
 
 In 2007, when I quit flying, I weighed 156lbs and, while I didn't always feel great, I was at a healthy weight and energy level. By March of 2020 I was 210lbs and on an exercise pattern that amounted to about 1 week of activity in 4, especially during the hot summer. Something had to change.
 
-## Where it went wrong {#h-where-it-went-wrong.wp-block-heading}
+## Where it went wrong 
 
 It's not that I didn't try to keep fit after 2007, it's more that I never found anything I could build a habit on, something hard enough as an adult to start with.
 

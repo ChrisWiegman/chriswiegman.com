@@ -11,8 +11,8 @@ tags:
   - Education
   - JavaScript
   - React
-
 ---
+
 In June I changed teams at work and went from building micro services and integrations with GoLang and PHP to building a WordPress plugin written mostly in [React][1] and TypeScript.
 
 As a long-time WordPress developer I've used plenty of JavaScript over the years but, up to this point, I've avoided having to learn React as it was neither something I needed nor, frankly, something I've been interested in. It was time for me to ramp up, and fast.

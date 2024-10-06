@@ -9,13 +9,14 @@ tags:
   - Apple
   - Notes
   - Tools
-
 ---
+
 I take a lot of notes. Whether it is meeting notes while meeting with my team or a quick photo of something I want to remember for later I’m always adding to my collection.
 
 Over the years I’ve tried so many solutions to make the task easier. Nearly all of the apps are buggy in one way or another and paper notes tend to be too slow for me to make them all that useful.
 
 Today I’ve settled on Apple Notes, for now, as it is just [simple][1]. That said, it isn’t perfect, it’s just the best solution I’ve found to date. Here’s how I got here.
+
 ## Requirements for a notes app
 
 I like to think my requirements for a notes app are simple, but that would apparently be wrong as finding them all has been nearly impossible. That said, there are still a few things I absolutely need in any app.
@@ -26,7 +27,7 @@ I need to record the content I need. If my note is a photo, so be it. Text, no p
 
 I want my notes to be as private as possible. This is a hard one and my biggest issue with my current solution. The bottom line, however, is that my notes are mine and mine alone.
 
-## The contenders {#h-the-contenders.wp-block-heading}
+## The contenders
 
 There are a few apps I’ve tried over the last few years including Standard Notes, Evernote, Google Keep, Notion, Joplin, regular markdown files and Apple Notes.
 

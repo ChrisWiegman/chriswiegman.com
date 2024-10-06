@@ -10,11 +10,11 @@ tags:
   - Self-hosting
   - Small-tech
   - WordPress
-
 ---
+
 Last week I ordered a new MacBook Pro. It's not here yet but that hasn't kept me from planning a few projects I've wanted to work on for a very long time.
 
-## A WordPress plugin to replace Goodreads {#h-a-wordpress-plugin-to-replace-goodreads.wp-block-heading}
+## A WordPress plugin to replace Goodreads
 
 I've been on Goodreads since 2010. Over the years it has proven incredibly valuable at helping me keep track of what I've read and what I would like to read. As someone who doesn't watch much TV, that isn't an easy thing to do.
 

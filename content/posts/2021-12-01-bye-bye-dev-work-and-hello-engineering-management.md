@@ -9,8 +9,8 @@ tags:
   - Career Development
   - Jobs
   - Management
-
 ---
+
 Today I'm starting a new role at [WP Engine][1]. I'm taking over the team that builds [Faust.js][2] as an Engineering Manager.
 
 While returning to a management role has always been in my "plan," I can't deny that I didn't think it would happen yet as I have been quite happy building [Atlas Content Modeler][3] for a team I joined in June of this year. The timing for this new-ish team was simply something I couldn't pass up.

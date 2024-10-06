@@ -8,9 +8,10 @@ categories:
   - Technical
 tags:
   - iPad
-
 ---
+
 This week marks three months since I replaced my personal computer with the new M1 [iPad Pro][1]. I wrote about [my initial impressions][2] back in June and, after using it as my sole personal computer for three months, feel it is time to update my thoughts on the device, both good and bad.
+
 ## It isn't the perfect writing machine
 
 First, let's start out with what it hasn't been as good at as I had hoped. When I bought the iPad, with its keyboard and pencil, I was hoping to make it my primary writing machine. Today I sit here writing this post on my work laptop so it is safe to say that my writing goal hasn't worked out like I had hoped.
@@ -29,7 +30,7 @@ Beyond writing, the iPad has really shined as my personal machine for around the
 
 This type of computing is what I really wanted a tablet for. When I had my last iPad in 2017 it was too small to be useful for tasks such as banking or anything else where a descent screen was important. Later, when I tried a Chromebook and Linux laptop to replace it, the laptops were just too much as looking things up on them was more like work than reference. This new iPad is the perfect balance of the two. It's big enough and powerful enough to do anything I need to do with it yet still has the convenience of a mobile device that I can pick up and use almost instantly.
 
-## It still can't replace a laptop {#h-it-still-can-t-replace-a-laptop.wp-block-heading}
+## It still can't replace a laptop
 
 For all its usefulness the iPad still cannot replace a personal laptop. There is simply too much code I still want to write for myself and not for work. This means that, after three months, I'm seriously missing having a real laptop for all the development projects I like to work on.
 

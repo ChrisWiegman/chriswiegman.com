@@ -9,15 +9,15 @@ categories:
 tags:
   - Computing
   - Mac
-
 ---
+
 I've been pretty excited about getting a new Mac for quite some time now. I sold my last laptop in June and thought I could get by on an iPad alone but, I was wrong. Without a laptop of my own I seriously missed side projects and coding.
 
 As soon as the new MacBook Pros were announced last month I ordered one. I , a 16&#8243; M1 Max with 64gb of RAM and a 1tb hard drive. It's a beast of a machine that, I hope, will last me a good number of years.
 
 It arrived on Wednesday and I spent a good part of the last two nights setting it up so I could get to work. Here are my first impressions.
 
-## It's quiet {#h-it-s-quiet.wp-block-heading}
+## It's quiet
 
 I haven't thrown much in the way of tasks at it, yet. That said, both my work Mac and my last personal laptop often sounded like a jet plane was taking off with even the simplest of Docker apps. After a few hours doing the same with this machine I haven't heard the fan yet.
 

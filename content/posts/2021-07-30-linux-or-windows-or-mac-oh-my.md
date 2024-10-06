@@ -9,11 +9,12 @@ tags:
   - Linux
   - MacOS
   - Windows
-
 ---
+
 The last few years have been a time of experimenting for me. Back in 2017 I realized my wife and I were too deep into the Apple ecosystem so [we left it and tried out a number of solutions][1] including Android, Linux and Windows in an effort to not be so heavily tied to one ecosystem.
 
 On the desktop this has meant working at least part time in each of the three major operating systems available today: Linux, MacOS and Windows. Frankly, each has its pluses and minuses. Here is how they all shook out for my use.
+
 ## Microsoft Windows 10
 
 I'm starting with Windows 10 as it is still the system I've used the least in the last few years. We bought a Windows Surface Pro for Joy that was intended to be an iPad replacement she could do real work on when we travelled.

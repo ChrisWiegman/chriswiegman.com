@@ -9,13 +9,13 @@ categories:
 tags:
   - Remote Work
   - Vacation
-
 ---
+
 I'm on vacation until Jan 4th. This gives me 17 days off to do with as I please, the longest break I've had at least since college. I've been looking forward to it for quite some time but, especially as a remote worker who works from my house, it can be almost as difficult to adjust to vacation as it is for any other major change and, let's face it, vacation is a major change to most of our schedules these days.
 
 That said, this vacation I found my groove within the first couple of days. I'm proud of that. One of the reasons I haven't taken long vacations in the past is I often find myself bored within a day or two as adjusting to the change of pace has been difficult. Here's what I did differently this time that has made it so much easier.
 
-## Keep to a routine during work days {#h-keep-to-a-routine-during-work-days.wp-block-heading}
+## Keep to a routine during work days
 
 I have a very rigid routing when I work. It wasn't always like that but for the last year I get up at 6:30 and walk for an hour. Then I shower and start working at 8am. At 4pm I close the computer, leave my home office and do not look back.
 

@@ -9,8 +9,8 @@ categories:
 tags:
   - Health
   - Reflection
-
 ---
+
 This week we had something we're not used to dealing with, a health scare that left my wife in the hospital for the last two nights.
 
 She is at home and feeling OK tonight but the suddenness of it all, combined with the hopelessness of being hospitalized for being sick (since we've been together every hospital visit has been due to an accident, usually mine) has reminded me of just how important so many of the things I take for granted are.

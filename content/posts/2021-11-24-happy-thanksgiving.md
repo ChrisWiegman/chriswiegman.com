@@ -9,8 +9,8 @@ categories:
 tags:
   - Holidays
   - Reflection
-
 ---
+
 Happy Thanksgiving to all my friends and family.
 
 It's been a long and stressful almost-two years for all of us but here's to hoping you have something to be thankful for in your own life.

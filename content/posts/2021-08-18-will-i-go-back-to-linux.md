@@ -8,11 +8,12 @@ categories:
 tags:
   - Apple
   - Linux
-
 ---
+
 For most of 2021 I've been moving my personal tech back to Apple hardware. This has been met with some major questions in some of the circles I'm in as, for the last 3 years, I've been pushing Linux pretty heavily.
 
 This begs the question, will I ever go back to Linux as my daily driver? If so, what would it take to change my mind. If you're just here for the spoiler, yes, I absolutely would go back to Linux but it's going to be a while. Here's why.
+
 ## Why I moved back to Apple
 
 Before I get deep into what it would take for me to go back to Linux I think I need to first address why I'm moving back to Apple this year.
@@ -31,7 +32,7 @@ Even if it wasn't for those I support, who were already on Apple, I was ready to
 
 Finally, while most of what I needed was available on Linux there were just too many little frustrations with the software that, in the end, did me in. As early as last April I wrote about some of these issues and [how they already were preventing me from recommending Linux to others][3]. I chugged along with it all but, when a video driver update made my Oryx Pro incompatible with my monitor, it was just time to cut my losses.
 
-## What I miss about Linux {#h-what-i-miss-about-linux.wp-block-heading}
+## What I miss about Linux
 
 Two months after selling my last Linux machine I do miss a lot of it. I miss the speed of using Docker in Linux and just how well thought out Gnome was under Pop!_OS. I miss quality FOSS apps, like Firefox and so many others, that really felt like they were made for the machine rather than being taped on with duct type and super glue.
 
@@ -61,7 +62,7 @@ Second I would need a solution for true phone integration with a Linux laptop or
 
 Finally, to be comfortable going back to Linux I would like to not have to host all the associated services myself. A big draw of Linux is privacy. That quickly falls apart if I'm still using Google or similar services. The alternatives are just too cumbersome for me to want to deal with. A little maintenance here or there is one thing but I was spending more time on services than I was on code, writing and other things. I won't be going back to that.
 
-## It's not all or nothing {#h-it-s-not-all-or-nothing.wp-block-heading}
+## It's not all or nothing
 
 In the end it isn't all or nothing on any tech. My devices might be all Apple for a while but that's about where it stops for me. These last few years did help me find numerous services and accessories outside of the big tech companies that help keep myself and my family safe. That is the important part.
 

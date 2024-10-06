@@ -8,11 +8,12 @@ categories:
 tags:
   - Blogging
   - Writing
-
 ---
+
 I've been blogging for a long time. This site goes back to 2008 but I've had earlier sites that were simply lost to time as I switched blogging software over the years, eventually landing on WordPress.
 
 Throughout that time the one consistency in my blogging has been the inconsistency. No matter how much I enjoy writing I just can't seem to find a way for me to keep up with it more than a few posts at a time.
+
 ## Why keep a schedule?
 
 Over the years I've tried numerous schedules and other techniques to write more consistently but none of them worked. The idea of daily blogging sounds great, but I could never keep up with it. On the flip side weekly blogging never seemed to work for me as I would get bored with it before I could get into a groove.
@@ -21,7 +22,7 @@ I've probably tried a dozen different schedules over the years, all ending in fa
 
 The simple fact is that, at least for me, keeping a schedule helps me form a habit and keeps me accountable. It gives me a chance and a method to keep ideas flowing at a sustainable pace, something I've never been able to find before.
 
-## Finding the write schedule {#h-finding-the-write-schedule.wp-block-heading}
+## Finding the write schedule 
 
 Some people blog daily, some blog once a year and for them it works. As I've said already, that doesn't work for me. When I try to write too often I burn out on it and when I don't write enough I cannot find my groove to keep it going.
 

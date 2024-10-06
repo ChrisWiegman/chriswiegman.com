@@ -11,8 +11,8 @@ tags:
   - Gutenberg
   - Tools
   - WordPress
-
 ---
+
 [I've become comfortable with Gutenberg][1] as of late. For my basic use case of text and a few extras it works great.
 
 While my bubble might be relatively small, I do think I'm more in touch with WordPress professionals than most, particularly on Twitter. Here the reaction to Gutenberg (or the block editor if you want to talk about the stable version) is very different. A handful of folks seem to love it but it seems like most people hate it.

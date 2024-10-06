@@ -9,11 +9,12 @@ tags:
   - Diet
   - Health
   - Personal Challenge
-
 ---
+
 On Monday [I wrote about crossing a year without beer][1]. It was a massive accomplishment, particularly as our lifestyle has always centered around events and places where drinking isn't just accepted but expected.
 
 While I'm proud of the achievement, thanks to COVID it really wasn't that difficult. Now it's time to ratchet it up a notch and stop drinking soda.
+
 ## I have a long history with soda
 
 While I didn't start drinking a lot of beer until I was about 30, soda is a different story. It has been my primary drink for most of my life.
@@ -30,7 +31,7 @@ The fact is, I'm addicted to soda. I can quit for a week or two at a time but th
 
 I come up with excuses to have another. I engineer meals where I can order it. I get panicky without it. I simply am well past the point where I can quit and I need to change that.
 
-## Attempts to quit {#h-attempts-to-quit.wp-block-heading}
+## Attempts to quit 
 
 I've been trying to quit drinking soda since we moved to Florida in 2015. At the longest, once in 2015 and once earlier this year, I made it about 3 months without one.
 

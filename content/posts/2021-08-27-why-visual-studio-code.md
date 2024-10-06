@@ -12,18 +12,19 @@ tags:
   - IDE
   - VS Code
   - VSCode
-
 ---
+
 Prior to working at WP Engine I was a die-hard fan of JetBrain's PhpStorm IDE for WordPress code. I was such a fan that I converted many people to it since I had [started using it myself in 2014][1]. In many ways PhpStorm was the perfect code editor for WordPress code, or so I thought.
 
 This year marks the final expiration of any JetBrains licenses I've paid for since moving to PhpStorm. I haven't really used them since 2018, though I keep re-installing PhpStorm every 6 months or so to try it again. Every time I do I just wind up back on [Visual Studio Code][2] (VS Code). Here's why.
+
 ## Price Isn't Everything
 
 For a long time conventional wisdom was that a true IDE (VS Code is not a full IDE) was "better" for deep development work. In the WordPress world this was definitely true. The ability to easily integrate [WordPress coding standards][3] and tools like [Xdebug][4] out of the box and without a lot of fuss was so important. Editors Like Sublime Text and others could do some of this but just weren't up to the task of making development easier day in and day out. To get a "real" code editor you had to pay up and that was OK.
 
 I say this because, as I've moved back to VS Code, I want to emphasize that it wasn't the price of the alternatives that prompted the change. I will gladly pay a small team for a quality product and would rather do so that jump on another big-tech bandwagon like VS Code. The issue is that, even a well established paid product like PhpStorm, just can't keep up with VS Code.
 
-## I Work in More Than Just PHP {#h-i-work-in-more-than-just-php.wp-block-heading}
+## I Work in More Than Just PHP
 
 I first tried VS Code in 2018 when I started working on a project in [GoLang][5]. I bought JetBrain's GoLand IDE but it simply couldn't keep up with what VS Code could already do for free at the time. Within a few weeks I stopped opening JetBrain's IDEs and relying almost entirely on VS Code to get my work done.
 
