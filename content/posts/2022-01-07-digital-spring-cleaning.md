@@ -7,13 +7,13 @@ categories:
   - Technical
 tags:
   - Data
-
 ---
+
 How much space do you have left on your computer? Are you one of the many folks who has to pay for extra space to store all your stuff? Is your new(ish) computer bogged down by too many things running at the same time? All of these are signs that it is time to cleanup your computer.
 
 At one point I had multiple hard drives full of stuff and over 100 apps on each of my devices (phone and computer at that time). The point is digital junk adds up just like physical junk and can cause just as much damage.
 
-## Why clean up your computers? {#h-why-clean-up-your-computers.wp-block-heading}
+## Why clean up your computers?
 
 It might seem like modern computers are capable of storing and running everything but that's not true. How often have you ever had to close a few browser tabs to get things to run faster or an app to squelch a memory error? If you're like me you've probably even bought a whole new device to store or run more. All of it is destructive.
 

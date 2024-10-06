@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Social Media
-
 ---
+
 Today has been a full week since I signed off of social media.
 
 I've tried signing out before and I always wind up returning within a few days. Either I have someone I want to talk to, something I want to read about or a post I want to share. This time I've managed to avoid all of that and it feels good.

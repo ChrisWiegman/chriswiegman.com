@@ -9,8 +9,8 @@ tags:
   - Career Development
   - Privacy
   - Reflection
-
 ---
+
 Have you ever felt like you've been studying something for too long without any chance to use it? Maybe it's something small like a foreign language or a musical instrument, or maybe it's something bigger like a college degree in a field that you know you'll never work in.
 
 We all have topics like this. For me I've been learning German for about 3 years now yet I don't know, anymore, if I'll ever make it to Germany to use it. I also have a degree in Aviation, a field where I no longer just don't fly the planes but I really don't have any connection with whatsoever these days.

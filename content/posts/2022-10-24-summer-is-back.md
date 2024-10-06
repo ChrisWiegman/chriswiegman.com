@@ -8,8 +8,8 @@ categories:
 tags:
   - Home
   - Weather
-
 ---
+
 It's back to 81F/27C inside our house.
 
 For the last week the temperature had dropped enough that it was cool inside and out. For our walk in the morning we were as low 12C/54F for a couple of days this past week and it was wonderful.

@@ -9,8 +9,8 @@ tags:
   - Career
   - Economy
   - Recession
-
 ---
+
 I don't feel very old but, looking back, it's undeniable how much of my adult life has been shaped by recession.
 
 When I first went to college I wanted nothing more than to be a pilot. I succeeded and, on September 11, 2001, I began my first day as a professional pilot as a flight instructor for my alma mater, Southern Illinois University. The recession that followed that day left me at the school for two years past my graduation as there were no flying jobs to be had. For peanuts, and extra student loan debt, I got through it by continuing to flight instruct in hopes of better days.

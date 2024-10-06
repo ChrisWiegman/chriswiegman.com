@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Tools
-
 ---
+
 This week I upgraded Joy's monitor. She had a 10-year-old hand-me-down that we originally bought for me before I knew if remote work work be permanent. A couple of years after I got it the company I worked for provided me with a monitor and Joy was on a 1 year contract working from home so she inherited it from he at that point.
 
 While it worked well for 10 years it is quickly dying so I replaced it with a nice Samsung ultra-wide monitor. She doesn't deserver hand-me-downs anymore so it's actually a nicer monitor than mine.

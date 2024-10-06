@@ -8,9 +8,10 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 I can't believe that I'm writing a look back on 2022 already. While every year goes by quickly I feel like 2022 was exceptional. Maybe that's a good thing, maybe not. As I look back on anything, I do so from the point of view of a cynic who is never satisfied but as I wrote the outline for this post I realize maybe I need to revisit that approach in the future.
+
 ## 2022 in a nutshell
 
 If there's been a theme to this year it has been "quiet." With a pandemic still raging and events like conferences and WordCamps unsafe as a result, we didn't do a whole lot of travel and I'm OK with that. In fact we only left home twice this year when we drove to North Carolina at the end of September to ride out [Hurricane Ian][1] at our friend Adam's house and, two weeks later, when we drove to Panama City Beach to visit my parents for the weekend.

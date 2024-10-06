@@ -8,8 +8,8 @@ categories:
 tags:
   - Mental Health
   - Reflection
-
 ---
+
 It hasn’t been easy for me to find peace or happiness in really anything for a while now. My writing has slowed, my personal projects are stalled and I generally can’t focus on much of anything. Even trying to work on anything often leads to failure in that I just stare at my screen for a few hours until I give up.
 
 Through all of it, there have been two bright spots. First is my Kindle. While I’m not a fan of Amazon’s business practices and avoid them for as much as I can otherwise, my Kindle is just too valuable to me personally to give up. I’ve considered switching to Kobo but, with over 700 books on my Kindle, it just doesn’t make sense. I’ve also tried going back to paper books from the library but, as I do the bulk of my reading in bed anymore, that doesn’t make a whole lot of sense for me either so, Kindle is where I’ll be for the foreseeable future.

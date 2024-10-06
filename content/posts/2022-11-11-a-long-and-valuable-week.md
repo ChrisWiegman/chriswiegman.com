@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 It’s the end of a very long but valuable week.
 
 At work we did an internal release push for a project that we actually released at the end of October after working on for nearly a year. That felt great. That it was a re-release of something a previous team had built, and is already converting many critics of the old version, has been even better.

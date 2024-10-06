@@ -8,8 +8,8 @@ categories:
   - Technical
 tags:
   - Self-hosting
-
 ---
+
 I don't know if I want to return to the point where I'm managing all my essential services on my own again but I can't deny I miss working with self-hosted apps.
 
 Just over a year ago I was self-hosting replacements for nearly all big-tech and using independent services for as much of the rest as I could. While I enjoyed playing with the tech the simple problem was that I don't work in a bubble. In other words, it isn't just my own tech that I need to worry about as I support the tech for my wife and my parents and the alternative services I considered "neat" were anything but to everyone else.

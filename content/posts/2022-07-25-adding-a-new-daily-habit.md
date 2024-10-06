@@ -9,8 +9,8 @@ tags:
   - Exercise
   - Fitness
   - Habits
-
 ---
+
 I've been [writing][1] and thinking a lot about habits this year. For the most part, I've spent a lifetime building a lot of bad habits, especially where it relates to my health, and I want to do something about that. I've been working more, eating better and generally doing so much better in many areas of my life.
 
 This past week, well, two Fridays ago, the 15th, to be exact, I started a new habit. While walking has helped me so much over the past year and more I know it isn't the only exercise I should be doing. Given it's not safe to go to a gym in the age of COVID I haven't touched any weights in a very long time and I have been starting to notice it.

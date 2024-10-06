@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Diet
-
 ---
+
 This week I hit a milestone, for the first time in memory I made it three months without a single soda.
 
 I drank my last soda, a 24oz bottle of Mountain Dew, on Halloween and promised myself then that that would be the last one. It's one of the harder personal challenges I've done in a long time as I am thoroughly addicted to soda. Unlike giving up beer or other changes I made I still really miss it.

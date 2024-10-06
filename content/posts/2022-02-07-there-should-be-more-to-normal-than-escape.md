@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 In 2019 I was away from home about 5 full months throughout the year. At the time we thought of it as our "normal" that we travelled so much while living a lifestyle I can barely recognize today. For that matter, if you had told me in 2009 that in 2019 my life would look like it did I probably would've told you you were crazy too. Somehow we had come to define our normal life as where we were in the moment rather that anything that would have resembled normal before or since. It wasn't sustainable.
 
 As I write this we have traveled very little going back to the end of 2019, a few trips for a wedding, a holiday trip and a weekend we took last June for my birthday are it. As I listen to friends scream about "returning to normal" I've come to realize that I've found a new normal and I'm fine with it.

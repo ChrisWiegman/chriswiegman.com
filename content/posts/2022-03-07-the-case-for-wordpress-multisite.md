@@ -8,15 +8,15 @@ categories:
 tags:
   - Development Tools
   - WordPress
-
 ---
+
 I couldn't have made my career in WordPress without WordPress Multisite. It is an important part of WordPress core and deserves more attention to polish some of its shortcomings and make it better for all.
 
 My first foray into WordPress was a multisite network I built for the aviation department at Southern Illinois University Carbondale. At the time we needed a way for faculty, student groups and others to be able to quickly spin up and manage official websites for all sorts of things. I had played with a few other solutions but settled on WordPress Multisite even before it was merged into core as it was the one tool that allowed us to manage the sites we needed without increasing my own workload in the process.
 
 From that first site through my work at two other universities, and agencies such as 10up, Multisite quickly demonstrated that it was the perfect tool for the enterprise. While there are and were plenty of alternatives to WordPress core, there is still no viable alternative to WordPress Multisite that can make WordPress work for larger businesses, universities and the enterprise in general.
 
-## What Multisite Isn't {#h-what-multisite-isn-t.wp-block-heading}
+## What Multisite Isn't
 
 Like all tools WordPress Multisite has situations where it shines as well as plenty of places where it probably shouldn't have been used. It does add some performance overhead to any of the sites in a given network due to the way it shares some database resources between sites. It can also be more difficult to use with various plugins and themes that never bothered to optimize their functionality for it.
 

@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 It's been a very long June.
 
 What started with so much hope for me to number of tasks has left me, instead, with far more unfinished tasks than I started with.

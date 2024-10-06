@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 There hasn't been a lot for me to be positive about lately. Even my [office upgrade last week][1] has brought me, so far, nothing but frustration as so many things have gone wrong with the tech.
 
 For all the frustrations though, there are some things to be positive about.

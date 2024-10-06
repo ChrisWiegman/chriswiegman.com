@@ -8,8 +8,8 @@ categories:
 tags:
   - Blogging
   - Reflection
-
 ---
+
 Three times a week I sit down to write a post.
 
 Some days the content comes easily and I produce something I'm proud show to you.

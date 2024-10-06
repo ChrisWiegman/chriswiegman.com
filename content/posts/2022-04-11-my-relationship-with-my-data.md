@@ -9,8 +9,8 @@ tags:
   - Data
   - Privacy
   - Social Media
-
 ---
+
 At one point in my life I made it a personal goal to record as much as possible and to do so openly. It started before social media with spreadsheets and text documents but eventually grew to the point where I was an early adopter of most social media platforms and I've had a blog online, in one form or another, since the 90s. Recording my life in such a way has always been somewhat therapeutic. It helps me reflect on where I am and where I've been. It help me plan for the future. It even helps me, sometimes painfully, to recognize some of my biggest faults and shortcomings.
 
 Most folks call this "journaling" but for me it was always more than that. I can tell you my weight and how many steps I've walked almost any given day for the past 12 years. I can tell you almost every purchase I've made, no matter how small, going back 23 years. I've recorded books I've read, conversations I've had and so much more over time and as much of it as possible has always been public.

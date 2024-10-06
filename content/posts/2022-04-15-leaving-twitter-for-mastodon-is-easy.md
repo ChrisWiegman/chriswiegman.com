@@ -10,8 +10,8 @@ tags:
   - Mastodon
   - Social Media
   - Twitter
-
 ---
+
 Twitter has been problematic for a very long time. Some of us have gotten lucky enough to avoid abuse and other problems but, for all too many people, it really is a toxic space full of abuse and harassment. While Elon Musk's claim to try to buy Twitter looks like yet another of his grifts, the fact is there are many people like musk who consider this abuse and hatred a feature and would love to grow the problem under the illusion of "free speech."
 
 You don't have to put up with it.
@@ -26,7 +26,7 @@ How does it do this? It does it by allowing users to host their own instance in 
 
 Mastodon allows users to post short messages called "Toots" which can be "boosted" (as opposed to retweeted), favorited and replied to in a very similar fashion as Twitter. The clients aren't always as polished as Twitter but the ability to meaningfully engage with your community and beyond it is absolutely there as is a huge community of people who enjoy a space away from mainstream social media.
 
-## How is Mastodon different than Twitter? {#h-how-is-mastodon-different-than-twitter.wp-block-heading}
+## How is Mastodon different than Twitter?
 
 While using Mastodon will feel instantly familiar to any Twitter user there are some major differences to be aware of.
 

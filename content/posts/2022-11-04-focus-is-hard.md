@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Focus
-
 ---
+
 If there has been one trend I cannot escape this year it is that these posts are getting ever shorter. It's not an accident, but it's not intentional either. If anything I think it comes down to the fact that I can just never feel comfortable to focus on writing anymore.
 
 At one point I used to be able to find a quiet corner somewhere and focus for hours on code, a post or whatever project I was working on at the time. This is how I built nearly everything I did at Southern Illinois University where I would leave my office and settle into a corner of the library or student center for half a day or more where I could focus solely on the work at hand.

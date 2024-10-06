@@ -10,8 +10,8 @@ tags:
   - Hardware
   - Home Studio
   - Recording
-
 ---
+
 I have a long history of expensive hobbies going back to Flight Simulator and music when I was a kid. In college, when both of those had been turned into (or were in the process of being turned into) a career I shifted to motorcycles and, later, a host of various hobbies up until about the start of the pandemic two years ago.
 
 For a number of reasons, including this area isn't safe for motorcycles and the opportunity and space to do many of my other favorite hobbies just isn't an option anymore, I really haven't had any outlet for the past two years. I work, then I write about work and then I talk about work, that's it. I need to fix that.
@@ -24,7 +24,7 @@ A couple of weeks ago my Friend [Matt Medeiros][2] asked me to record a 1-minute
 
 In the process of learning how to record that minute (if you're reading this, Matt, I'm going to give it another shot this week), I also found out that my audio doesn't sound all that great. This started me down quite a rabbit hole and resurfaced comments folks had made to me in past videos where I was asked if I was recovering from a disease because the lighting was so bad (can we agree to leave out the implications of the question itself? It's been asked a few times even by people who really did mean well and whom I trust implicitly). As I want to do more of this work, it's time to up my game.
 
-## My current setup {#h-my-current-setup.wp-block-heading}
+## My current setup
 
 Today, for recording, I'm using a 2021 16&#8243; MacBook Pro with 64GB of RAM and an M1 Max processor. Connected to it I have a Blue Yeti mic and and decade, or so, old Logitech C930 webcam all in my home office where, I admit, audio quality and layout were never a concern. This hardware was bought when I first started working remotely in offices that weren't remote. I bought them to not be the "odd man out" in meetings, not for recording anything for a wider audience.
 

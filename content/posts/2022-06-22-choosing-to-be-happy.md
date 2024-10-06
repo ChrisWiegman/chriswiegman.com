@@ -9,8 +9,8 @@ categories:
 tags:
   - Home
   - Reflection
-
 ---
+
 It's no secret that I've struggled to find inspiration and, frankly, anything positive lately. On the one hand the past two years have been rather fulfilling in that I've learned to be comfortable in my own home. On the other I've learned that where we chose to make our home really doesn't feel like home at all.
 
 I can't just "choose to be happy" as so many have insisted I must do. I've tried that and realized that advice is just a load of shit.

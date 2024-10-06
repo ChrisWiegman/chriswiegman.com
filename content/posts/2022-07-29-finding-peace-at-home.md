@@ -10,8 +10,8 @@ tags:
   - Home
   - Reflection
   - Travel
-
 ---
+
 Up until 2020 it would have been unthinkable for me to take time off work and just stay at home. Heck, in most years I didn't take time off work at all that wasn't used to travel to a WordCamp or other tech conference.
 
 These days things are definitely a bit different. So far this year I've scheduled 3 full weeks of PTO and I'll be taking the 2nd of those 3 weeks in mid-August and, at least as of now, we'll spend it all at home.

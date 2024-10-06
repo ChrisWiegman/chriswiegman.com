@@ -9,8 +9,8 @@ categories:
 tags:
   - Apple
   - Updates
-
 ---
+
 After almost a year back in the Apple ecosystem there is one feature I both love and hate more than any other, operating system updates.
 
 Outside of the Apple ecosystem updates are a bit of a crap shoot. Every device updates at different times making it, in my opinion, that much harder to keep things up to date. In addition, whether Windows or Linux or Android, system updates tend to be far more questionable in quality, or at least compatibility, with any given device. Apple fixes this problem.

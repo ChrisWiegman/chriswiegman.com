@@ -9,8 +9,8 @@ tags:
   - Fitness
   - Habits
   - Walking
-
 ---
+
 On Monday of this week I hit a record I honestly never thought I could possibly achieve. I finished one full year of walking 10,000 or more steps a day without missing a single day.
 
 While I’ve been walking an tracking my steps for over a decade, until I bought an Apple Watch in January of last year I never averaged more than 5,000 steps a day over a single year. I would try to increase my step goal but it never stuck. Even last year, where we were also home due to the pandemic, I averaged more than 10,000 steps a day but still missed it a number of days for various reasons.

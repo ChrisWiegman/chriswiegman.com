@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 As I write this we're visiting my parents in Panama City Beach, FL.
 
 We've been coming here for most of our lives and, growing up, it tended to be my "happy place." It was the place

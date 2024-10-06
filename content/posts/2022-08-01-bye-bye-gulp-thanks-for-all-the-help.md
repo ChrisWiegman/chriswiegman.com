@@ -9,8 +9,8 @@ tags:
   - Development Tools
   - JavaScript
   - Sass
-
 ---
+
 I've been using JavaScript task runners for my WordPress plugins and themes for a very long time. Considering my needs have always been simply to compile a bit of [Sass][1] and shrink my simple JS files they were perfect for ensuring everything was where it needs to be and was as efficient as possible.
 
 I think I started with [Grunt][2] around 2012 or 2013 when I first started using Sass. At the time it seemed incredibly advanced to have to configure a tech to process a few dozen kb of, essentially, text files but Sass did make my life easier so I learned to use and invested a considerable amount of time in a Grunt configuration that worked for me.

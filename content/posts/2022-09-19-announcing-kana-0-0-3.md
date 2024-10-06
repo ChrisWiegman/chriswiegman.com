@@ -9,8 +9,8 @@ tags:
   - Development Tools
   - Kana
   - Releases
-
 ---
+
 It's been a full week since I released [Kana][1], my new tool for easily creating WordPress development environments. During that week it's racked up 24 stars and 3 forks on GitHub, which I don't think is too shabby for such a project.
 
 While I continue to use it for my own work, the simple fact is that I just can't anticipate how others will use it and the bugs they'll encounter as a result. To date a kind soul has filed two of these bugs as issues in the repository.

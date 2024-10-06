@@ -9,8 +9,8 @@ categories:
 tags:
   - Open-source
   - Project Management
-
 ---
+
 Running a FOSS (Free and Open-Source Software) project is hard. You have to deal with limited resources (even on a well-funded team) as well as the competing interests of the sponsors, developers, users and community at large. It can all get out of hand pretty quickly.
 
 Ten years ago, when I was still developing [Better WP Security][1] on my own, I really failed at managing all of this. I never said "no" to almost any feature request and the support burden was enough that eventually [I had to sell the plugin][2] for my own sanity once I realized it had already done what I wanted it to do. Simply put, every FOSS product is the result of finding the right balance between competing interests and, if you can't find that balance, success will be very hard to find or manage.

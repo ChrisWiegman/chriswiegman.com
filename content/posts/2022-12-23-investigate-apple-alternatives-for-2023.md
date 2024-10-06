@@ -7,36 +7,21 @@ categories:
   - Technical
 tags:
   - Self-hosting
-
 ---
+
 I'm back at it. For the last week I've been exploring what it will take for me to get out of the Apple ecosystem and on to more open system such as Linux again.
+
 ## What I'm testing
 
 I use a lot of Apple services at this point. Pretty much, if it can be turned on in iCloud settings I'm probably making use of it at one level or another. This means I have a lot of things to explore to replace it all. I spun up a private repo for testing my self-hosted configuration with the following apps:
 
-<ul class="wp-block-list">
-  <li>
-    <a href="https://freshrss.org/">FreshRSS</a>
-  </li>
-  <li>
-    <a href="https://gitea.io/">Gitea</a>
-  </li>
-  <li>
-    <a href="https://lychee.electerious.com/">Lychee</a>
-  </li>
-  <li>
-    <a href="https://nextcloud.com/">Nextcloud</a>
-  </li>
-  <li>
-    <a href="https://photoprism.app/">Photoprism</a>
-  </li>
-  <li>
-    <a href="https://github.com/dani-garcia/vaultwarden">Vaultwarden</a>
-  </li>
-  <li>
-    <a href="https://www.wallabag.it/">Wallabag</a>
-  </li>
-</ul>
+* [FreshRSS](https://freshrss.org/)
+* [Gitea](https://gitea.io/)
+* [Lychee](https://lychee.electerious.com/)
+* [Nextcloud](https://nextcloud.com/)
+* [Photoprism](https://photoprism.app/)
+* [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
+* [Wallabag](https://www.wallabag.it/)
 
 All these apps sit behind a [Traefik][1] proxy and, as of this writing, are running well on my Linux machine locally.
 

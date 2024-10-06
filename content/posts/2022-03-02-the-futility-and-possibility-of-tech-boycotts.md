@@ -10,8 +10,8 @@ tags:
   - Open-source
   - Privacy
   - Regulation
-
 ---
+
 All tech is political.
 
 We hear that statement a lot. It is, without a doubt, absolutely true but, what can we do about it?
@@ -22,7 +22,7 @@ I'm not immune to this. For me my personal boycotts usually come down to one of 
 
 Yes, these boycotts make me feel better and in that there is some solace. The problem is, as a solution to the problems that need to be addressed, they're worthless without further action.
 
-## Tech really is too big to fail {#h-tech-really-is-too-big-to-fail.wp-block-heading}
+## Tech really is too big to fail
 
 What would happen if Google/Apple/Microsoft/etc decided today that your account was a risk to it and closed your account accordingly? Would you lose a few contacts? What about photos? What about years or more of accumulated documents and other data that you need to function in our modern society?
 

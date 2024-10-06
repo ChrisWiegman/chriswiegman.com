@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 As October comes to an end I find myself working hard at trying to be more positive about life, albeit with mixed results.
 
 More and more anymore I can’t find anything positive about anything. I go from day to day, place to place, thing to thing and all of it just pisses me off. I’m so very tired of it.

@@ -9,8 +9,8 @@ categories:
 tags:
   - Reflection
   - Weather
-
 ---
+
 On Sunday morning the temperature should be right about freezing here in Sarasota, a rare feet for an area should be averaging a low of about 52F/12C this time of year.
 
 While it doesn't compare to winter in Chicago or anywhere else up North it is, nonetheless, noteworthy for the area.

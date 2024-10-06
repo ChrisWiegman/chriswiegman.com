@@ -7,11 +7,11 @@ categories:
   - Personal
 tags:
   - Career Development
-
 ---
+
 The other day my friend Kevin wrote [The Expert vs the Imposter][1] and it's something that has really hit home for me given my own battles with imposter syndrome over the years. Today I want to take a little time to share some of my own experiences with imposter syndrome and how I've come to not just live with it but actually embrace it.
 
-## My history as an imposter {#h-my-history-as-an-imposter.wp-block-heading}
+## My history as an imposter
 
 For as long as I can remember I've suffered from imposter syndrome. Some of it can probably be traced back to childhood but it was in college that it really hit home. I was working on a flight degree as a slightly-older student (I took a few years off after high school to pursue what amounted to a whole lot of nothing) and I was now doing something completely new to me with classmates who were largely well off and often had previous flight experience.
 

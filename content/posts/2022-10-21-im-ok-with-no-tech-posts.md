@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Blogging
-
 ---
+
 I often wonder if I should be posting more tech content. For a long time I avoided, at least as much as possible, personal posts of any kind on this site but that is clearly no longer the case.
 
 Today, instead of searching for tech subjects to write about, I just want to write and I want to write as authentically as possible.

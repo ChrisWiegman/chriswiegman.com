@@ -9,8 +9,8 @@ tags:
   - Apple
   - Linux
   - Tools
-
 ---
+
 I updated all my Apple devices and turned on [Advanced Data Protection][1] for my iCloud account today. It was super easy to enable this feature which, if it lives up to its promise, should do a lot to improve the security and privacy of iCloud users.
 That's not the only reason I'm excited about it though. It should also help push me to getting out of being so deep in the Apple ecosystem altogether. That is a major benefit.
 

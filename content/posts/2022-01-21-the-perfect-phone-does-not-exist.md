@@ -9,13 +9,13 @@ tags:
   - Rant
   - Reflection
   - Tools
-
 ---
+
 The other day [I wrote about being back on the iPhone for a year now][1]. For now, iPhone works for me. It isn't my first choice though.
 
 iPhone is over-priced, closed off and far too intrusive for my privacy. That said, I have no good alternative. This leaves me wondering what would make the perfect phone today? If I could have any features at all, what would they be?
 
-## The perfect phone is no phone at all {#h-the-perfect-phone-is-no-phone-at-all.wp-block-heading}
+## The perfect phone is no phone at all
 
 The perfect phone is an impossible wish as to me the perfect phone would be no phone at all?
 

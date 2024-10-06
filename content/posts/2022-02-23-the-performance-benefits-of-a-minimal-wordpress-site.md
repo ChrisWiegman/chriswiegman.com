@@ -8,8 +8,8 @@ categories:
 tags:
   - Performance
   - WordPress
-
 ---
+
 This week [I relaunched my site][1] on a very minimal WordPress theme. While the main goals of the project were to have a minimal theme I could be happy with and reduce the overall complexity of the site, I've found one other major benefit as well.
 
 The writing experience of the site is noticeably better.

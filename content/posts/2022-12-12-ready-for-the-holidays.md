@@ -9,8 +9,8 @@ categories:
 tags:
   - Holidays
   - Reflection
-
 ---
+
 It's Sunday as I write this, two weeks from today is Christmas, the only holiday I even notice anymore.
 
 I don't know what it is about Christmas that still captivates me at my age. I think it's a combination of the memories of the only holiday we regularly celebrated as kids, the start of winter (especially since I've been living in Florida) and the chance for a little rest. Whatever it is, it is the one holiday I look forward to every single year.

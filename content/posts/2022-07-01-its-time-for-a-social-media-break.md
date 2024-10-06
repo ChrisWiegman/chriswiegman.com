@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Social Media
-
 ---
+
 I’ve long used social media, particularly Twitter, as my water cooler, if you will. As I approach 9 full years as a remote software engineer social media has been a source of gossip, entertainment, news and, most of all, connection with real people that I wouldn’t otherwise get at home.
 
 For all the good it has brought me, however, social media’s dark side has long affected me as well.

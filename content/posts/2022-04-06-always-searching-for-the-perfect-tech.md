@@ -10,8 +10,8 @@ tags:
   - Android
   - Apple
   - Linux
-
 ---
+
 I've only been back on Mac for a few months and I already find myself looking at Linux machines again. On the one hand I tell myself I'm "just looking" but I realize it is that I really do miss working with Linux.
 
 I'm at the same point with my phone. The iPhone is OK. It does what I need it to do. I still miss my last Pixel phone though that just seemed more intuitive and more capable in so many little ways.

@@ -10,8 +10,8 @@ tags:
   - Apple
   - Hardware
   - Tools
-
 ---
+
 This past week marked one full year since [I received my Macbook Pro][1] and, as a result, one full year since I’ve fully been back in the Apple ecosystem. Today, for the most part, I’m content with all my Apple tech but the sentiment I felt back in 2017, [when I first moved away from Apple][2], is still there and I would still like to move to a more ethical tech stack if it was a realistic possibility.
 
 This post is my attempt to outline the good and bad of being back in Apple’s ecosystem this past year as there are plenty of both. While Apple works for me today, I still can’t say I’m happy with it, but I don’t know if I would be with anything else either.

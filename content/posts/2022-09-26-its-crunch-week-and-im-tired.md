@@ -10,8 +10,8 @@ tags:
   - Home
   - Remote Work
   - Weather
-
 ---
+
 Crunch week is here.
 
 It's not because of work (though that is exceptionally busy currently too) and not because of any personal thing but because of mother nature.

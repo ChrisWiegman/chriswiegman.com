@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 It's one thing to "just push publish" on a blog post. I've gotten pretty good at that over the years. It's another to do so, at least for me, on code. I'm getting really close to releasing a side project I've been working on for a few months but, rather than release it, I keep finding new ways to refine it.
 
 Call it imposter syndrome or call it something else but I can definitely say that I always fear putting new code out into the public. That's been the case for a long time but I do think that being in technical communities makes it more difficult.

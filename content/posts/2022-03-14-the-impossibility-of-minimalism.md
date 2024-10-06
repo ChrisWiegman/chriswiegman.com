@@ -9,8 +9,8 @@ categories:
 tags:
   - Minimalism
   - Reflection
-
 ---
+
 One of the first, and most enduring ethical movements I got involved with from minimalism.
 
 To be fair, I wouldn't even say I got involved with minimalism but that the idea of having less is something that has appealed to me my entire life. Even when I was a child my parents called me the "anti-packrat" as I was easily annoyed with any situation where I was surrounded by things I didn't need. Even today I believe my favorite living situation was probably the college dorms as they functioned as a community where we all did a lot while having very little.

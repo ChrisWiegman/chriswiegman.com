@@ -8,8 +8,8 @@ categories:
 tags:
   - Home
   - Reflection
-
 ---
+
 As I write this I'm still a refugee of sorts. We hope to return to our home this weekend and that will bring its own problems as there is no timetable as to when power, much less internet, will be restored.
 
 I'm lucky. I have a home to go home to and I had a place to stay in case I didn't. My heart goes out this week to those who have neither, from this disaster and all the others we see on TV on a nearly daily basis.

@@ -8,8 +8,8 @@ categories:
 tags:
   - Programming
   - Tools
-
 ---
+
 Pardon me today as I go on a rant that can probably best be categorized as "get off my lawn."
 
 I remember when I first learned to program. I used ASP Classic to build sites for the university I was working at. It was fun for me for almost a decade until ASP.NET licensing made keeping those sites running too difficult on our limited budget.

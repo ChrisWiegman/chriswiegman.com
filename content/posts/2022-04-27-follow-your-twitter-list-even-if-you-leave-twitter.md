@@ -9,8 +9,8 @@ categories:
 tags:
   - RSS
   - Twitter
-
 ---
+
 There's a lot of people leaving Twitter this week thanks to the service being sold to Elon Musk. The worst part of this, for a lot of people, is losing track of accounts you follow.
 
 Thankfully, there's a really old solution, RSS, that works with all the feed readers from FreshRSS to Feedly and more.

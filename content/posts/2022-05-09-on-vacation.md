@@ -9,8 +9,8 @@ categories:
 tags:
   - Reflection
   - Vacation
-
 ---
+
 I'm on vacation until 17 May.
 
 We're not going anywhere, just staying home. Already, though, I feel more rested and relaxed.

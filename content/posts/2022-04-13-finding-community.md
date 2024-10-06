@@ -8,8 +8,8 @@ categories:
 tags:
   - Home
   - Reflection
-
 ---
+
 If you were to ask my parents about me they would probably tell you something to the tune of I'm "restless" or similar. You see, I can't seem to ever be happy where I'm at. At least that's probably what it looks like from the outside anyway. To me it looks a little different. I know exactly what it would take for me to be happy, I just haven't managed to find it yet.
 
 That said, the history of it all should probably be enough to make anyone wonder if I could ever be happy. I've had more state driver's licenses than cars, over a dozen jobs and even, depending on how you count it, three different careers so I could see how one might think I don't know what I'm looking for. What I've learned, however, is that each change, whether location, company or career, has been sparked by the same basic desire to find a community I'm comfortable in.

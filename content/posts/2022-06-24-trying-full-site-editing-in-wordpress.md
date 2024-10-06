@@ -9,8 +9,8 @@ categories:
 tags:
   - Web Development
   - WordPress
-
 ---
+
 I spent some time this week trying Full Site Editing, FSE, in WordPress again.
 
 I managed to get the default header removed but I couldn't replace it with anything. I made a descent go of the post layouts though.

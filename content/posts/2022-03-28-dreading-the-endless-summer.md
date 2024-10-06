@@ -9,8 +9,8 @@ categories:
 tags:
   - Home
   - Reflection
-
 ---
+
 When I was a kid I started counting down the days to summer right after Christmas Break ended.
 
 When I got out of college I thought I wanted to live somewhere where Summer is endless and, up until long after moving here to Florida, I would have told you it was the weather that I looked forward to most.

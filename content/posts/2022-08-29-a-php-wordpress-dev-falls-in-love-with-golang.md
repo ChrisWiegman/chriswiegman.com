@@ -9,8 +9,8 @@ tags:
   - Development
   - Development Tools
   - GoLang
-
 ---
+
 It's been a long time since I've written about GoLang. [Last time I did so][1], over 3 and a half years ago, I was still picking it up for my work on [DevKit][2] at [WP Engine][3]. Unfortunately that project was ended not long after that post was written when WP Engine bought Flywheel and, thus, [Local][4].
 
 As I get back into my own personal projects one of the things I've had to think about is what I _want_ to work on these days. While I still have some thoughts about a WordPress plugin I would like to build, these days working in WordPress and even PHP really isn't high on my list of "interesting" prospects. Instead I've gone back to working with [GoLang][5] (Go) and I'm loving every minute of it.

@@ -10,8 +10,8 @@ tags:
   - Apple
   - NextDNS
   - Privacy
-
 ---
+
 Prior to moving back to Apple we had used a number of services to reduce our exposure to surveillance. This included Pi-hole, NextDNS and others. While each service has its pros and cons each failed pretty miserably at one level or another leaving me always searching, not just for something "better" but for something that simply works in the first place.
 
 Of course the ultimate solution to the problem would be sufficient regulation to outlaw the collection of data that so many companies feel entitled to but, let's face it, that isn't going to happen. It's up to us to do our best, as a result, to limit our exposure.

@@ -9,8 +9,8 @@ tags:
   - Hardware
   - MacOS
   - Software
-
 ---
+
 I spent yesterday evening updating both my personal Mac and my iPad to the newest OS versions (Ventura for the Mac, iPadOS 16 for the iPad). For the most part it was an easy update and that is a very good thing
 
 One thing that I did with each device that differs from what many folks will do is I wiped both devices to do the update. This freed up about 100GB on my Mac and about 80GB on my iPad, both without changing any data. I know a lot of y'all will say I don't need to do it that way but I've learned time and time again that complete cleanouts of any device will help performance and I've stuck with that over the years. With Mac, in particular, it tends to make a huge difference and keeps the machine feeling faster for much longer as updates otherwise seem to build and eventually slow things down.

@@ -10,13 +10,13 @@ tags:
   - Internet of Things
   - IoT
   - Smart Home
-
 ---
+
 It's probably not a secret that, for the most part, I've tried to avoid too many connected devices (AKA, the Internet of Things or IoT) in my home. I generally take the approach that if I don't _need_ the device or if it has a microphone or camera, I won't install it.
 
 That said, there have been a few exceptions to this rule over the years. Today we have our lights, thermostat, speakers and security system connected to the internet which has helped immensely with how we live. Here are the companies we've stuck to and why.
 
-## Phillips Hue {#h-phillips-hue.wp-block-heading}
+## Phillips Hue 
 
 The first devices we added to the house were Phillips Hue light bulbs. I didn't actually want them when we got them but it was cheaper than rewiring various rooms of the house.
 

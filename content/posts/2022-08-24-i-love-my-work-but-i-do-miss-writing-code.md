@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 Last December I stepped out of writing code for my day job and moved into a new role as an engineering manager helping lead a team that is developing a JavaScript framework to make building with headless WordPress easier.
 
 In most ways it was the right move for me. It lets me focus more on mentorship and lifting up those around me while also helping guide a product from an all new perspecitve. I’ve served as the lead engineer on many projects over the years but never from a place where I didn’t write code myself.

@@ -11,8 +11,8 @@ tags:
   - Hardware
   - Reflection
   - Technology
-
 ---
+
 For as long as I can remember I've favored having only one computer to do everything I need to do. Before starting at WP Engine this even included work for whichever company I was working for at the moment. This desire is a big part of what made me personally comfortable when going back to the Apple ecosystem and has driven a lot of how I interact with computers in general
 
 My work for WP Engine and blogging has changed this equation for the first time. Instead of using one computer for everything I find myself doing my day job work, per company policy, on a company issued Mac as well as most of my writing. While I've had no control over the first part of that equation, the latter has been a bit of a surprise (and, for the record, the only blogging I do is on this site which is already hosted by the company I work for).

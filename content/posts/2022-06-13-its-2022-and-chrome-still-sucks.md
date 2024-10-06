@@ -9,8 +9,8 @@ tags:
   - Chrome
   - Performance
   - Safari
-
 ---
+
 I tried, I really did.
 
 While I'm ideologically opposed to Chrome for many reasons, this post isn't about that. This post is about the fact that, for better or worse, Chrome is still the choice of my employer and is automatically installed on our work Macs.

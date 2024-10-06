@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 This past weekend I hit a new record for the year. I finished [my 100 book goal][1], beating my previous record (since I started keeping track anyway) and with two months to go.
 
 I’m pretty proud of this goal. It isn’t because the ”100” means anything but because I started out wanting to make reading a bigger part of my daily routine (as opposed to doomscrolling and other time wasting) and I pulled it off.

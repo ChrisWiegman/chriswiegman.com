@@ -12,11 +12,11 @@ tags:
   - Recording
   - Tools
   - Video
-
 ---
+
 Well, I took the plunge. After debating for months about upgrading the recording equipment in my office (I even wrote [a post about upgrading][1] few weeks ago) I've finished my 2022 office upgrade project. A few folks have asked what I've bought and why I've bought it so this post is my attempt to explain just that.
 
-## Why upgrade my home office studio? {#h-why-upgrade-my-home-office-studio.wp-block-heading}
+## Why upgrade my home office studio?
 
 The first question I want to answer is why I even bothered taking on this project in the first place. I am normally a minimalist and avoid extra equipment. As much as I would like to keep that ideal as a permanent fixture in my work it just doesn't cut it for everything.
 

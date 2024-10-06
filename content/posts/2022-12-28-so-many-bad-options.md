@@ -9,8 +9,8 @@ tags:
   - Apple
   - Google
   - Self-hosting
-
 ---
+
 With every app I investigate as an alternative to the Apple ecosystem I'm struck by two massive problems to which I'm not sure there is an alternative.
 First, most of what I'm looking at, Nextcloud, self-hosted Bitwarden and more is not easy for the other people, my family, who needs to use it. Ideology only goes so far when the tools I choose makes their daily lives harder and this isn't a road any of them are willing to come down again.
 

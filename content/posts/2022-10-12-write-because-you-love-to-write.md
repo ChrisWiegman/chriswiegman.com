@@ -9,8 +9,8 @@ tags:
   - Blogging
   - Reflection
   - Writing
-
 ---
+
 I've been writing here three times a week for 15 months now. As much as I would like to say it gets easier, I would be lying.
 
 I've written about this before but I really do believe it deserves repeating.

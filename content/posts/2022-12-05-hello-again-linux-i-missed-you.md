@@ -11,8 +11,8 @@ tags:
   - Hardware
   - Linux
   - Tools
-
 ---
+
 When I started moving back to Apple last year, both [with my mobile][1] and [my laptop][2], I promised myself it would be a temporary move as I really loved working [Pop!_OS][3] and Android. Today I'm deeper into the Apple ecosystem than I've ever been and, frankly I'm not too happy about it. Add to that projects like [Kana][4] work great in Mac but I'd like to at least make it available to Linux users and my all-Apple tech stack just doesn't sit will with me.
 The last time [I tried to leave Apple][5] I did pretty well until issued came up with the tech I share with my family. I moved too fast, pulling all my data out of both Apple and, later, Google and it made working with family extremely stressful for everyone. In part of coming back I tried to simplify things for my wife and parents even further and added them to a family iCloud account which now handles nearly every piece of data you can imagine. Email, reminders, calendar, music, TV, podcasts, photos, news, files, games, fitness, health data, even a lot of my purchases all go through Apple today and I don't think it's a safe place to keep that data but I can't just drop it all again. I need to move slowly and deliberately to make sure everyone can still work with me the way they need to.
 

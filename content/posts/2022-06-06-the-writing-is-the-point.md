@@ -9,8 +9,8 @@ tags:
   - Blogging
   - Reflection
   - Writing
-
 ---
+
 I find myself waffling on my writing a lot lately. I can build a solid streak for a few weeks where words and topics just flow but then I hit weeks like now where even the topics I want to write about seem impossible to tackle.
 
 In the past I've wondered if these are the times I should just give up blogging in general. My rational is always something along the lines of asking "what is the point?"

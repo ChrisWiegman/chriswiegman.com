@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 My parents have left and our house is back to the status quo.
 
 For some I realize visitors can be stressful and that can be true for me but I also love time with family. I think this is why I largely look so forward to Christmas every year.

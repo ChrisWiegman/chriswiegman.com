@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 On Friday I wrote [my review of 2021][1]. It wasn't an accident that it only looked backwards and not forwards. For as good as 2021 was to us I've hit the point where I don't know what I want out of 2022.
 
 That's probably a bad way to phrase it. For the most part I don't know if anything can change for 2022. I have a number of small goals but I largely feel like the big ones, the things I would really want to do or start doing, will never happen. Given that, I've spent a lot of time these past few days thinking about what I would like to accomplish in 2022 and, for my own sake, I think it is important that I put those on paper, so to speak.
@@ -20,23 +20,11 @@ When I read most yearly plan posts the thing that strikes me is that most people
 
 I guess I'm no different. That said there are some things I definitely want to keep going and others I really do want to change radically. For the former I think these can be mostly summed up as the "little things." These are the goals I've got the mindset, time and ability to already work to. All it takes is the will and a little luck.
 
-<ul class="wp-block-list">
-  <li>
-    Read 100 books
-  </li>
-  <li>
-    Break all my step records (all but my single day step record were set last year in 2021)
-  </li>
-  <li>
-    Get back to learning German (or another language other than English)
-  </li>
-  <li>
-    Write 150 posts for this site
-  </li>
-  <li>
-    Lose 10lbs
-  </li>
-</ul>
+* Read 100 books
+* Break all my step records (all but my single day step record were set last year in 2021)
+* Get back to learning German (or another language other than English)
+* Write 150 posts for this site
+* Lose 10lbs
 
 Pretty simple, right? I hit 94 books in 2020 so I would like to get back to that pace. As for the steps, since I bought the Apple Watch I've gotten much more into walking again. If the weather can cooperate (it doesn't get to hot) I'm hoping to do a lot of it before the summer hits.
 

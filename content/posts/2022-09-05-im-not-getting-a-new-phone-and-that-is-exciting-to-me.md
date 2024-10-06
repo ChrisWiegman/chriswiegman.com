@@ -10,8 +10,8 @@ tags:
   - Reflection
   - Sustainability
   - Technology
-
 ---
+
 For the first time I can remember we have no plans of upgrading our iPhones this week even though neither of have current models (I have a 12 Pro Max and Joy has a 12 Mini).
 
 In my twenties it seemed like I had a new phone every 6 months or so. This wasn't so much because I wanted something new but that I was super hard on my tech in general. I dropped phones from my pocket while riding my motorcycle, in pools and even lost one when it fell out of a Cessna 152 during flight after the door popped open. I couldn't even tell you how many phones I had even before smartphones came out but I can tell you that I never got a phone to last for more than a year.

@@ -8,8 +8,8 @@ categories:
 tags:
   - Smart Home
   - Tech
-
 ---
+
 I had started a post this evening on the project I was working on but, alas, our home tech had other ideas. This time it was our Phillips Hue lights which decided they were simply going to stop responding.
 
 We went with Hue about 5 years ago, not because we wanted smart-home features (we don’t) but because they were the only way to add usable light switches where we need them without a lot of work rewiring the house. For example, when you walk in our main door the first switch you see is an outside light and then, about 2 feet from the door, the garbage disposal. To actually turn on an inside light you have to cross 1/2 the kitchen. Our bedroom isn’t much better. There’s a switch to the ”den” (what they called it, but really just a 10 food hallway) behind the door to the bedroom but the only light switch to the bedroom itself is all the way through the hallway and 1/2 way across the room, about 20 feet total. In both cases, and plenty more, coming home after dark was a bit challenging when we first moved here.

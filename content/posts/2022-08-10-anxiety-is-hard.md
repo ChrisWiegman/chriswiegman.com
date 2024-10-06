@@ -8,8 +8,8 @@ categories:
 tags:
   - Anxiety
   - Mental Health
-
 ---
+
 Everyone has something that will trigger an anxious response. For me that something is, frankly, nearly everything leading to constant anxiety that can nearly shut me down completely on a bad day.
 
 While I've mostly been able to keep my anxiety in check over the years, this summer it has been a much more difficult endeavor. Between the news, minor health issues (my brain takes any and all symptoms, even those most common and benign, to their absolute worst conclusion) and the general state of the world it has been a far worse summer than normal, right as we're about to go into the worst time of year for it all.

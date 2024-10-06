@@ -8,8 +8,8 @@ categories:
   - Technical
 tags:
   - Apple
-
 ---
+
 Back in 2017 [I couldn't get away from Apple products fast enough][1]. My 2016 MacBook Pro was, to put it mildly, garbage. My iPhone 7 was, OK, but that's about the best I could say about it. Across the board Apple's products could be best described as nothing special, even though they still had a very premium price.
 
 For the most part I really liked what I replaced Apple with too. It took a while to get out of the Google ecosystem but, when I did, I found I actually really enjoyed working with Linux and Android for my daily drivers. I still enjoy Linux and Android, but what I like to use myself isn't always compatible with the people I need to work with. I started coming back to Apple [early last year][2] and finished the move back [last fall when I bought a new Mac][3].

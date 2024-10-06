@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Home
-
 ---
+
 Selling a house is never easy.
 
 I've done it twice, so far, in my life and I don't look forward to the third but, it's time.

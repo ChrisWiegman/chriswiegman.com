@@ -9,8 +9,8 @@ tags:
   - Blogging
   - Privacy
   - WordPress
-
 ---
+
 Last July [I re-introduced analytics to this site][1] for what I thought would be helpful insights to help guide future posts.
 
 It hasn't worked out that way.

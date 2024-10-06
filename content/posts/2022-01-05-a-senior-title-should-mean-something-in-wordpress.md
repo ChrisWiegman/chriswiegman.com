@@ -11,8 +11,8 @@ tags:
   - Education
   - Experience
   - WordPress
-
 ---
+
 The idea of a "senior" title, whether in WordPress, general tech, finance or any other field should tell a client or other stakeholder that the person holding the title has experience in their craft. It should convey they not only know the technicals of their profession but also how the industry itself works to a level that says their advice and guidance can be trusted.
 
 In WordPress, all too often, that is not the case.

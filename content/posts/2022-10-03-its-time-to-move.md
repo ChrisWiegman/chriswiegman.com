@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Home
-
 ---
+
 We're at our house again.
 
 I can't call it "home" as it really doesn't feel like that anymore, sometimes I don't think it ever did.

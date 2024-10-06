@@ -9,8 +9,8 @@ tags:
   - Consumerism
   - Reflection
   - Sustainability
-
 ---
+
 From news to travel to social media to food and so much more, how much is enough?
 
 With gas prices rising I'm listening to so many folks I know talk about how they couldn't possibly drive less even though they work from home. I look at others buying ever bigger homes, more stuff, more trips, more everything and listening to them talk as if they're doing the bare minimum they need to survive.

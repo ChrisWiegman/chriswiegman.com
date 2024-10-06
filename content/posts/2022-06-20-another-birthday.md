@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 When I was a kid I used to look forward to my birthday. We usually spent it on the beach in Panama City Beach and the family would go out to lunch or dinner together while I generally just enjoyed the day.
 
 These days I definitely don't look forward to it like I used to.

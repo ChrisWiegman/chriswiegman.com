@@ -11,8 +11,8 @@ tags:
   - Mastodon
   - Open-source
   - WordPress
-
 ---
+
 One thing I confess I've appreciated about [Mastodon][1] is that, at least for the years I've been there, there's been less WordPress there than on Twitter. I could pick and choose to engage with the WordPress community or not which, as my day job is in WordPress, could be a pretty handy feature.
 
 Those days are behind me and I'm OK with that. As more folks migrate from Twitter to [Fediverse][2] (the wider network of which Mastodon is just an app) projects like Mastodon I'm seeing a mixed reaction in the WordPress community and that saddens me. For all WordPress and its community claim to stand for we should be seeing WordPress professionals embrace the Fediverse and here's why:
@@ -50,5 +50,5 @@ It's time for WordPress as a whole community to embrace this and invest in makin
  [2]: https://en.wikipedia.org/wiki/Fediverse
  [3]: https://en.wikipedia.org/wiki/Surveillance_capitalism
  [4]: https://pixelfed.org
- [5]: https://twitter.com/photomatt/status/1594577983028740096?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1594577983028740096%7Ctwgr%5E3f4bf972db69d7250e7c70506741034345282a67%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Ftechcrunch.com%2F2022%2F11%2F21%2Ftumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps%2F
+ [5]: https://twitter.com/photomatt/status/1594577983028740096
  [6]: https://activitypub.rocks

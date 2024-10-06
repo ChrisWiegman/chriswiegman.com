@@ -8,8 +8,8 @@ categories:
 tags:
   - Finance
   - Tools
-
 ---
+
 With the exception of about 8 months where I used [YNAB][1] I could tell you nearly every purchase I've made going back to January of 2000.
 
 Will I ever need that data? Probably not. But I'm a sucker for keeping records and knowing where I spend my money so that I know what I can, and cannot, spend in the future.
@@ -37,17 +37,9 @@ As I write this I'm also playing with Gnucash again, particularly as I'm looking
 
 So why am I on a rant about this today? As the end of the year approaches I'm weighing my options again and I currently have 3 criteria:
 
-<ul class="wp-block-list">
-  <li>
-    The data has to be portable: I don't want to worry about switching platforms or devices again. I need to be able to access my data from every device I have now or might have in the future
-  </li>
-  <li>
-    I have to own the data: I just can't trust a SaaS service with this kind of data. It's too sensitive for one and SaaS services tend to induce lock-in which would break my first rule.
-  </li>
-  <li>
-    No "fad" products: Finally, I don't need the latest and greatest fad. I need an app that will be around for years to come.
-  </li>
-</ul>
+* The data has to be portable: I don't want to worry about switching platforms or devices again. I need to be able to access my data from every device I have now or might have in the future
+* I have to own the data: I just can't trust a SaaS service with this kind of data. It's too sensitive for one and SaaS services tend to induce lock-in which would break my first rule.
+* No "fad" products: Finally, I don't need the latest and greatest fad. I need an app that will be around for years to come.
 
 The last 2 items are actually fairly easy to hit. Quicken and Gnucash are both ancient (in software years) and allow me to own my data, even if Quicken's sync comes close to violating the 2nd item. The problem is that neither of these apps meet the first item completely. I can choose either an app that works on Linux or an app that works on mobile, not both. This week's goal will be to try to solve that problem.
 

@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Internet
-
 ---
+
 In 1998 I got broadband internet for the first time when I moved into the dorms at Southern Illinois University. It was amazing. I could actually watch video or download music without waiting all night for a single song.
 
 Most of all, though, the service was reliable as was the service in most places we lived over the next 17 years.

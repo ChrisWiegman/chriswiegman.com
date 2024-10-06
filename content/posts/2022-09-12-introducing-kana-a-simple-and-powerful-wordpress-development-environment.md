@@ -10,8 +10,8 @@ tags:
   - Development Tools
   - Kana
   - WordPress
-
 ---
+
 I've been on the hunt for the perfect WordPress development environment for a very long time. Not only have I tried just about every option on the market but I've even made a few of my own and even joined WP Engine to build such a tool before they bought Local. It's time for something new. It's time for Kana.
 
 ## What I want in a development tool
@@ -46,29 +46,13 @@ Of course, it can do a bit more than that too. You can currently see all the opt
 
 Of course I'm just getting started with Kana. Yesterday I tagged version 0.0.1 so, while I'm already using it with this site, it's got a long way to go. Currently the roadmap includes the following:
 
-<ol class="wp-block-list">
-  <li>
-    Improving testing (I wrote this for me so I didn't spend as much time here as I would like)
-  </li>
-  <li>
-    Improving CLI output so users know exactly what each command is doing, particularly some of the longer running commands
-  </li>
-  <li>
-    Squashing bugs
-  </li>
-  <li>
-    Building a better documentation site (you'll see the domain I've already bought when you use the product)
-  </li>
-  <li>
-    Expanding on default debugging and other capabilities for even more robust plugin and theme development where needed
-  </li>
-  <li>
-    Making it easier to install on Mac (probably via <a href="https://brew.sh">Homebrew</a>)
-  </li>
-  <li>
-    Expanding it to run on Linux and, if possible, maybe even Windows
-  </li>
-</ol>
+* Improving testing (I wrote this for me so I didn't spend as much time here as I would like)
+* Improving CLI output so users know exactly what each command is doing, particularly some of the longer running commands
+* Squashing bugs
+* Building a better documentation site (you'll see the domain I've already bought when you use the product)
+* Expanding on default debugging and other capabilities for even more robust plugin and theme development where needed
+*  Making it easier to install on Mac (probably via [Homebrew](https://brew.sh))
+* Expanding it to run on Linux and, if possible, maybe even Windows
 
 All in all, there's a lot I can do with this while still keeping it simple to use. The fact is, I like building such products, especially as they let me work in Go, so Kana is just getting started.
 

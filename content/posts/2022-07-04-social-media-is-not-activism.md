@@ -8,8 +8,8 @@ categories:
 tags:
   - Activism
   - Social Media
-
 ---
+
 For many years I've used social media like so many other people, as a substitute for real activism on issues I believe it. In the face of injustice, rather than protest, volunteer or otherwise work to bring about actual change I tweet.
 
 It might make me feel good but the simple truth is it is not activism. At best it might tell my circles, who are mostly of like-mind anyway, about an issue a few seconds before they see it from someone else. At worst none of my experience, energy or time goes to helping to fix the issue for anyone.

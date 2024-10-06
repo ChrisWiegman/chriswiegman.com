@@ -8,6 +8,6 @@ categories:
   - Personal
 tags:
   - Outdoors
-
 ---
+
 Today I just want to remind you all to step away from the computer whenever you can as you'll never know what you'll find. The featured image on this post is my own proof of that. I call them "fence ducks" and they love that spot a few blocks from my house.

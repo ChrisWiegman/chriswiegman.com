@@ -11,8 +11,8 @@ tags:
   - Volunteering
   - WordFest Live
   - WordPress
-
 ---
+
 This week I have the pleasure of working with the team at [Big Orange Heart][1] on [WordFest Live][2], a 24-hour, world-wide conference devoted to WordPress. I'm working with my friend Michelle Frechette as the speaker deputy helping her wrangle dozens of speakers spread over 6 continents into a coherent program to help educate the world on what WordPress is all about.
 
 It's been 2 years since I last work with such a conference, the last time being WordCamp US in 2020 (which was cancelled at a relatively early stage due to COVID). To say I missed it is a bit of an understatement.

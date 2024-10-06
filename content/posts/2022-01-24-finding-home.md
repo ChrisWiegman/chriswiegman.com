@@ -6,8 +6,8 @@ url: /2022/01/finding-home/
 featured_image: /images/2021/10/IMG_0095-5.jpg
 categories:
   - Personal
-
 ---
+
 Last week I wrote the quick post, [7 years][1], talking about our seven-year anniversary here in Florida. While we closed on this house on 14 Jan, 2015, we didn't drive away from Texas until 24 Jan, 7 years ago today.
 
 My how time flies.
@@ -28,7 +28,7 @@ The third bedroom is really nothing but a closet for most of the year. I don't t
 
 Next I don't want a stand-alone house at all. I would rather get a condo where outside and other maintenance can more easily be handled without our input and Joy can enjoy her time outside with a real garden of vegetables or whatever else she would want to grow. I've lived in apartments and condos a few times in my life, mostly before Joy and I met, and I miss it. A stand-alone house is quieter overall but the dynamics of a condo always felt more alive to me.
 
-## The neighborhood {#h-the-neighborhood.wp-block-heading}
+## The neighborhood
 
 One thing that hasn't changed in our needs is a walking neighborhood. In an ideal world I would love to move to a neighborhood where we didn't need a car at all. We have electric bikes which I never ride as the area is horrible for bikes and most everything we can't walk to requires a car. I wouldn't mind changing that. The perfect neighborhood would be just as good for walking but would be in an area where a bike could replace the car for most of the rest.
 

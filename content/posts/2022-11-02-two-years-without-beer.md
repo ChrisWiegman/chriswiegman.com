@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 Monday marked two years since I last had a beer.
 
 If you know me you know that's a pretty big deal for me. It was never that I really cared to drink (often times I really didn't like to at all) but beer, or more specifically going to our local pub, had become our only real escape from the house.

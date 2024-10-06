@@ -9,8 +9,8 @@ tags:
   - Headless
   - Web Development
   - WordPress
-
 ---
+
 Once upon a time I spent my days building large (thousands of logged in users, millions of pages, etc) websites for universities and various other enterprise clients. At first I used Drupal to do so but, as WordPress added Custom Post Types and Multisite into core I eventually adopted it for all my work and, for a good number of years it did a great job.
 
 Today I do most of my own work on this this site and other small projects where WordPress itself is quickly becoming more of a burden than a usable tool, but I still spend my days around large websites, even if I'm not developing for them anymore. This means I spend a lot of time thinking about how I would go about building a site if I needed to do so today. Would I choose WordPress? How would I put it together? What tools and technologies would I use today to create the most usable and sustainable site I could offer to a given client.

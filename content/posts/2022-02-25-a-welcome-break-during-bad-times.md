@@ -10,8 +10,8 @@ tags:
   - Entertainment
   - Reflection
   - TV
-
 ---
+
 I've never been much of a fan of TV. I can't really remember many shows from when I was a kid and, as I've gotten older, I couldn't even tell you what most shows are, much less have I seen them.
 
 During COVID I've actually tried to watch more TV but I just can't get into it. We do watch a lot of movies but I rarely can make it to the end of anything without losing interest. Instead I've primarily turned towards books and music to occupy my mind and my time.

@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Reflection
-
 ---
+
 As I write this I can't help but think of the death of the queen of England, which was announced a few hours ago. The idea that a single person could rule over anything for 70 years, nearly the lifespan of my retired parents, is amazing. I have no love for the concept of monarchy in general but the length of her reign is still an amazing feet.
 
 What does this have to do with a WordPress developer?

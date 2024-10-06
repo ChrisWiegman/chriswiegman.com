@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 I'm out of words for tonight. In what has been a very long week already (it's only Tuesday as I write this), I just don't have anything left in me this evening.
 
 Here's to a better tomorrow.

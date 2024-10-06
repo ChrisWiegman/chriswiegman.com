@@ -8,8 +8,8 @@ categories:
 tags:
   - Blogging
   - Reflection
-
 ---
+
 This week marks 1 year since I started blogging 3 days a week.
 
 For the most part I consider this site successful. I set out with a goal of writing more and on that I have absolutely succeeded.

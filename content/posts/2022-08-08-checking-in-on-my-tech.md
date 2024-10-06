@@ -9,8 +9,8 @@ tags:
   - Apple
   - Technology
   - Tools
-
 ---
+
 It's been almost a year since I added the last device to my personal tech stack, [an M1 Max MacBook Pro][1] that replaced a System76 Oryx Pro. It's no secret that I have a love-hate relationship with tech in general so, given that, I thought it a good time to check in and review how being back in Apple has been going for me.
 
 This post isn't intended to be a full use of all the tech I'm using. If you want a specific list of all of it, check out [my "uses" page][2]. Instead, this post is a check-in on my overall feeling with tech and how it works for me in general.

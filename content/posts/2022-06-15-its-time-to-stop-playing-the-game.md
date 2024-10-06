@@ -9,28 +9,18 @@ tags:
   - Gamification
   - Habits
   - Reflection
-
 ---
+
 Personal goals have been a struggle for me for a very long time.
 
 It took me years to quit soda, almost two decades to start blogging regularly and that's just the start of it.
 
 If there is one positive with the pandemic for me personally it has been the opportunity to reset and refocus on goals that I've been chasing for as long as I can remember. Some of my highlights so far are:
 
-<ul class="wp-block-list">
-  <li>
-    I haven't had a beer since Halloween of 2020 (something that was hard enough to do that I even wrote <a href="/2021/11/the-year-without-beer-for-real/">blog posts</a> about it).
-  </li>
-  <li>
-    I haven't had a soda since Halloween 2021 (with one exception at a place without other options). This was even harder for me than beer as, more than just a social habit, I was physically addicted to soda.
-  </li>
-  <li>
-    I've hit at least 10,000 steps almost every day since January 20, 2021.
-  </li>
-  <li>
-    I've published a blog post every Monday, Wednesday and Friday since July 2021.
-  </li>
-</ul>
+* I haven't had a beer since Halloween of 2020 (something that was hard enough to do that I even wrote [blog posts](/2021/11/the-year-without-beer-for-real/) about it).
+* I haven't had a soda since Halloween 2021 (with one exception at a place without other options). This was even harder for me than beer as, more than just a social habit, I was physically addicted to soda.
+* I've hit at least 10,000 steps almost every day since January 20, 2021.
+* I've published a blog post every Monday, Wednesday and Friday since July 2021.
 
 The list goes on and I'm pretty proud of all of these accomplishments but there is a dark side.
 

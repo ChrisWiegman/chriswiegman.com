@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Remote Work
-
 ---
+
 When I first started officially working remotely in 2013 I thought I was in heaven. Remote work had been a goal since I had learned it was a thing in grad school. It's not that I didn't like some of my offices it's just that I got so much more done when I wasn't in the office.
 
 When I was a great student I worked full-time for the university maintaining all the tech, especially the websites, for the aviation department. While I was officially tied to the office at the time it just wasn't practical for me to be there in person each day. I was allowed to take classes during the day so getting back and forth between the main campus and the airport, where my office was, was a real pain in the ass and, as a result, I started working remotely from campus in between classes.

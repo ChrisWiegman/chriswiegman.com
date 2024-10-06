@@ -8,8 +8,8 @@ categories:
 tags:
   - Hosting
   - Self-hosting
-
 ---
+
 I've long been a proponent of handling my hosting myself. Up until last year I had had at least 1 server running something for almost 20 years. I don't miss it.
 
 While I still like working with servers I don't miss the rush to fix them when things go wrong. What used to be "fun" no longer is and I'm OK with that.

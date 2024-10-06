@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - iPhone
-
 ---
+
 Yesterday, 9 Jan, marked the [15th anniversary of Steve Jobs' presentation showing the iPhone to the world][1]. For better or worse it has been one of the defining products of the 21st century. For most it is an indispensable link to the wider world. For some it has caused pain and misery, for others it has replaced the constructs and norms that had defined life before it.
 
 Whether you like the iPhone or not doesn't really matter. What matters is it is a device that has transformed all of our lives in some very important ways, both for better and worse.
@@ -27,7 +27,7 @@ Just like my first time with Android, though, Apple came calling back. After mor
 
 Last January I traded the Pixel in for an iPhone 12 Pro Max. Over the course of the year I added an Apple Watch 6, an iPad Pro (12.9&#8243;) and a new 16&#8243; MacBook Pro. It seems the Apple ecosystem is just something that, at least for me, there currently is no escape.
 
-## The iPhone is the best of the worst {#h-the-iphone-is-the-best-of-the-worst.wp-block-heading}
+## The iPhone is the best of the worst 
 
 So am I happy with my iPhone? As far as tech goes, I think the iPhone can best be summed up today as the best of the worst. It works, usually. The camera is great, I can contact whomever I need to with it and my family is happy they can FaceTime with us and generally exchange data with me much more easily.
 

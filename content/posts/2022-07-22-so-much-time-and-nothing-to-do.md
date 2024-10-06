@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 For all the hardship of the last two years I can say that, for me personally, I really don't have a lot to complain about. I've moved up in a career that hasn't been interrupted and I've learned to be happy without constant travel or other activities. I've read hundreds of books, written over a hundred blog posts and I'm healthier than I've ever been. Those are all great things.
 
 Today what I struggle with is time.

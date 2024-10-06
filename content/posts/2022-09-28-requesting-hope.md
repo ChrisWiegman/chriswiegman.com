@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Home
-
 ---
+
 If you're the praying type, please do so for my town today.
 
 If you're not, any good vibes you can send are welcome.

@@ -9,8 +9,8 @@ tags:
   - Hardware
   - Reflection
   - Tools
-
 ---
+
 I've written a lot over the years about my "ideal" tech but I never seem to find it. As I've jumped from device to device, tech stack to tech stack and even ecosystem to ecosystem it's become pretty clear that I'm always searching for something that simply doesn't exist. I believe I can do better.
 What would get me to stop searching?
 
@@ -24,41 +24,17 @@ First and foremost my tech needs to be able to do what I need it to do. That may
 
 It's not just about travel though. While I don't actually do a whole lot with my computers much of what I do seems to wind up requiring some very specific setups to work. I've been trying to come up with a list of what I want my tech to do lately and here's how I break it down:
 
-<ul class="wp-block-list">
-  <li>
-    I need to write code for WordPress, GoLang and other miscellaneous projects
-  </li>
-  <li>
-    I need to get my email
-  </li>
-  <li>
-    I need to browse the web
-  </li>
-  <li>
-    I need to be able to keep track of and manage my bank accounts
-  </li>
-  <li>
-    I need to be able to access my calendar and contacts
-  </li>
-  <li>
-    I need to be able to safely get to my files
-  </li>
-  <li>
-    I need to be able to write
-  </li>
-  <li>
-    I need to be able to manage my photos
-  </li>
-  <li>
-    I need to be able to listen to the music I enjoy on descent speakers throughout my home
-  </li>
-  <li>
-    I need to be able to use work tools such as Slack and Zoom
-  </li>
-  <li>
-    I need to be able to speak to people via Signal, text message and voice or video calls
-  </li>
-</ul>
+* I need to write code for WordPress, GoLang and other miscellaneous projects
+* I need to get my email
+* I need to browse the web
+* I need to be able to keep track of and manage my bank accounts
+* I need to be able to access my calendar and contacts
+* I need to be able to safely get to my files
+ * I need to be able to write
+* I need to be able to manage my photos
+* I need to be able to listen to the music I enjoy on descent speakers throughout my home
+* I need to be able to use work tools such as Slack and Zoom
+* I need to be able to speak to people via Signal, text message and voice or video calls
 
 Believe it or not that's a pretty comprehensive list of everything I need my tech to do. There are some "nice to haves," today we use HomeKit for our lights and more and my Apple Watch helps me meet my fitness goals, but it is the above list that I can't do without and, most of all, I need to be able to do from any and _all_ my devices.
 

@@ -9,8 +9,8 @@ categories:
 tags:
   - Android
   - iPhone
-
 ---
+
 This weekend, the 16th to be exact, will mark exactly one year since I came back to iPhone.
 
 When I moved to Google Pixel in 2017 I really didn't think I would be coming back to iPhone at all. The Pixel worked well, the service (Google Fi at the time) was great and, generally, I was pretty happy with the tech but, things change.

@@ -8,8 +8,8 @@ categories:
   - Technical
 tags:
   - Hardware
-
 ---
+
 I’ve had [my iPad][1] for just over a year now and, in that time, it’s been a great device for just about everything except the use case I had most wanted it for in the first place, writing.
 
 Sure, I have my laptop and the does well at every task I need it to but, frankly, that’s the problem. More often than not, when I grab my laptop with the intention to write, I find myself lost in a series of distractions from fixing bugs on this site to tweaking ”that one thing,” especially if I want my post to be at all technical.

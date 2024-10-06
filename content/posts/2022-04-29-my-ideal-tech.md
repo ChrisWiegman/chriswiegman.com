@@ -11,8 +11,8 @@ tags:
   - Solutions
   - Sustainability
   - Technology
-
 ---
+
 I'm a natural pessimist and cynic. I know that and, if you follow me on any kind of social media, you probably know that too. For a while now it's meant that I'm pretty down on a lot of technology, new and old. I tend to rant on everything from my most basic hardware to the software I use and the services I access because, as a good cynic, I tend to agree that all technology is shit.
 
 If your tech isn't spying on you it's probably designed to be obsolete quickly or has all the stability of your average earthquake fault line and that, to me, is a problem. While tech has absolutely changed our lives my contention is that it isn't always for the better. Tech has been responsible, at least in part, for a lot of the major problems we face in the world today from the decline of democracy to climate change and more.

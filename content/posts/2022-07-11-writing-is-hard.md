@@ -8,8 +8,8 @@ categories:
 tags:
   - Blogging
   - Reflection
-
 ---
+
 Lately, when I sit down to write posts for this site, I find myself without a single thing to say. It's a weird feeling for someone who has been rather outspoken for the past decade and more.
 
 While these posts might be shorter, and the content more personal, I do believe that keeping up on them is important. So many of the better posts I've written haven't been the result of spontaneous inspiration but of practice and patience through many blogging sessions complicated by writers' block.

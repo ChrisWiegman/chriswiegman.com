@@ -11,8 +11,8 @@ tags:
   - Hardware
   - Open-source
   - Software
-
 ---
+
 It’s been five full years since I first tried to leave the Apple ecosystem. My first attempt to escape started with [a Pixel 2XL][1] and followed with [a System76 Oryx Pro][2], a FitBit and a range of software to the point where I could all but delete my Apple account.
 
 At the time I was worried about my over-reliance on Apple as well as simply wanted to work with more open software and hardware. First [I went completely to Google’s ecosystem][3]. Then I spend the next few years [trying to leave big tech behind entirely][4], not just once but [twice][5], something I failed at miserably.

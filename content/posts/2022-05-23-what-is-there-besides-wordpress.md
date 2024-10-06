@@ -11,13 +11,13 @@ tags:
   - Content Management Systems
   - Web Development
   - WordPress
-
 ---
+
 I tried to step away from WordPress once. [In 2019 I moved this site to Hugo][1]. I was looking for a simpler workflow and more performant site but, while I found the latter, maintaining it was anything but simple and [I wound up back on WordPress][2] just a year later.
 
 Today I find myself generally content with WordPress but, after two years of using it again, I find myself once again looking for alternatives that are more performant with a simpler workflow.
 
-## What's wrong with WordPress? {#h-what-s-wrong-with-wordpress.wp-block-heading}
+## What's wrong with WordPress?
 
 My whole tech career has been in WordPress. It's a very flexible piece of software that is great for making a wide range of sites. While its approach is great for many use cases, my use case of a simple static blog with well structured content, is no longer really one of those.
 

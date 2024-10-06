@@ -8,8 +8,8 @@ categories:
 tags:
   - Money
   - Shopping
-
 ---
+
 I used to change car insurance companies an average of once a year, which was as often as I could find identical coverage cheaper at another provider. For most of my twenties and thirties I did this with everything from phone service to insurance and just about anything else with a recurring payment and it paid off.
 
 While the conventional wisdom we tell ourselves says it is cheaper to retain a custom than sign up a new one, the truth is usually just the opposite. Companies penalize loyalty and reward new customers with discounts and other benefits that loyalty just can't buy.

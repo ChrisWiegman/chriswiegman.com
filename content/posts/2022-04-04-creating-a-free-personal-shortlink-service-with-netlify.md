@@ -8,13 +8,13 @@ categories:
   - Technical
 tags:
   - Shortlinks
-
 ---
+
 For all their shortcomings, shortlinks still have their uses. In my case I've had a shortlink domain that, for years, I've used with everything from my resume ([cfw.li/resume][1]), my presentation slides and so many other little tasks where the main URL either changes over time or needs to be shared in the easiest way possible.
 
 To run my shortlinks I used [YOURLS][2] for years until I moved it all into WordPress about 3 years ago. Today that WordPress site is no more and all of them run off a free [Netlify][3] setup that is both effective and incredibly simple.
 
-## Why Netlify?  {#h-why-netlify.wp-block-heading}
+## Why Netlify?
 
 First, it's free. I originally moved to WordPress to avoid running a VPS for YOURLS as I could get much cheaper WordPress hosting than maintaining my YOURLS instance anywhere, even on a cheap $5 [DigitalOcean][4] droplet. While not a big expense, I don't keep a whole lot of shortlinks to start with so even the modest expense just didn't make a lot of sense.
 
@@ -32,24 +32,28 @@ This one should be pretty self-explanatory. If you're going to use a shortlink s
 
 Next, head on over to GitHub and create a repository for your shortlink site. You can find mine at <https://github.com/ChrisWiegman/cfw.li>. Once you have your repo you'll add a single __redirects_ file to it. You'll populate this file with your shortlinks with the format:
 
+``` html
 /_<shortlink>_ _<destination>_
+```
 
 Here's my __redirects_ file (note they're all public links, don't add passwords or anything else sensitive to yours)
 
-<pre class="wp-block-code" aria-describedby="shcb-language-146" data-shcb-language-name="PHP" data-shcb-language-slug="php"><span><code class="hljs language-php">/wowp0721 https:&lt;span class="hljs-comment">//slides.chriswiegman.com/wowp0721&lt;/span>
-/wproc0521 https:&lt;span class="hljs-comment">//slides.chriswiegman.com/wproc0521/index.html&lt;/span>
-/hiroy https:&lt;span class="hljs-comment">//hiroy.io/wall-lean&lt;/span>
-/talks https:&lt;span class="hljs-comment">//chriswiegman.com/speaking/&lt;/span>
-/hetzner https:&lt;span class="hljs-comment">//hetzner.cloud/?ref=5zzcyZC96UC7&lt;/span>
-/masto https:&lt;span class="hljs-comment">//mastodon.chriswiegman.com/@chris&lt;/span>
-/gpg https:&lt;span class="hljs-comment">//chriswiegman.com/public.asc&lt;/span>
-/resume https:&lt;span class="hljs-comment">//gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01#file-resume-md&lt;/span>
-/nextdns https:&lt;span class="hljs-comment">//nextdns.io/?from=tzsxrntw&lt;/span>
-/duolingo https:&lt;span class="hljs-comment">//invite.duolingo.com/BDHTZTB5CWWKSNILZFDWRSJNJY&lt;/span>
-/dnsmadeeasy https:&lt;span class="hljs-comment">//cp.dnsmadeeasy.com/u/94079&lt;/span>
-/digitalocean https:&lt;span class="hljs-comment">//m.do.co/c/c4c947f40d7b&lt;/span>
-/code https:&lt;span class="hljs-comment">//github.com/chriswiegman&lt;/span>
-&lt;span class="hljs-comment">/* /&lt;/span></code></span><small class="shcb-language" id="shcb-language-146"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">PHP</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">php</span><span class="shcb-language__paren">)</span></small></pre>
+``` bash
+/wowp0721 https://slides.chriswiegman.com/wowp0721
+/wproc0521 https://slides.chriswiegman.com/wproc0521/index.html
+/hiroy https://hiroy.io/wall-lean
+/talks https://chriswiegman.com/speaking/
+/hetzner https://hetzner.cloud/?ref=5zzcyZC96UC7
+/masto https://mastodon.chriswiegman.com/@chris
+/gpg https://chriswiegman.com/public.asc
+/resume https://gist.github.com/ChrisWiegman/8a89d7c2aca775884ae4227ca3b5be01#file-resume-md
+/nextdns https://nextdns.io/?from=tzsxrntw
+/duolingo https://invite.duolingo.com/BDHTZTB5CWWKSNILZFDWRSJNJY
+/dnsmadeeasy https://cp.dnsmadeeasy.com/u/94079
+/digitalocean https://m.do.co/c/c4c947f40d7b
+/code https://github.com/chriswiegman
+/* https://chriswiegman.com/
+```
 
 Finally, note the "_/*_" on the last redirect. This is a catch-all that sends any 404s for the domain to my own homepage. You can handle this anyway you want or leave it off entirely but it's just one handy, yet simple, option for handling any attempts to retrieve a link that doesn't exist.
 

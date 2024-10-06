@@ -10,8 +10,8 @@ tags:
   - Mastodon
   - Social Media
   - Twitter
-
 ---
+
 This past weekend I took a big step, at least for me. I removed the links to my Twitter profile from all my sites and profiles, made my Twitter profile private and set all the remaining content in my account to disappear after one month. For a site that has been my “water cooler” for over a decade that was a big decision and one I didn’t come to lightly.
 I’m not leaving the web, far from it in fact. I’m simply going to put the energy and time I have into a service that has largely been my favorite social space on the web for the pat 2-3 years, [my Mastodon account.][1]
 

@@ -10,8 +10,8 @@ tags:
   - Family
   - Reflection
   - Thanksgiving
-
 ---
+
 As I write this on the US Thanksgiving holiday I’m doing my best to try to look back and try to find what I can be thankful for this past year.
 
 To be honest, it hasn’t been easy. As we grow more and more uncomfortable in Florida I’ve found that where we’re living has taken up nearly all my mental energy in the form of anger and depression. It’s going to be a little while yet until we can change that. In the meantime I want to look back at what has been positive this past year and what I am thankful for.

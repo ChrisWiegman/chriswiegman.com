@@ -8,8 +8,8 @@ categories:
 tags:
   - Development Tools
   - WordPress
-
 ---
+
 Over the coming weeks I may, finally, hit a milestone I haven’t been able to accomplish in quite some time, I may actually launch a personal project.
 
 Ever since the DevKit project ended at WP Engine I’ve been in search of a good development environment for WordPress sites. While I don’t believe my needs are ridiculous, I haven’t been able to find a tool that really works for me so, for the last few months, I’ve been building my own.

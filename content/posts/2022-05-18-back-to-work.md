@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 Yesterday I went back to work after having been on vacation since 6 May.
 
 The first day back, no matter how much you like your job, is always a bit difficult. For me I spent most of the day playing catch-up and trying to figure out what all I missed. Those are never fun tasks.

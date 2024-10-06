@@ -7,8 +7,8 @@ categories:
   - Personal
 tags:
   - Networking
-
 ---
+
 This past weekend I was finally able to sign up for Frontier internet. That might not sound like a big deal but, if we actually get the service, it will hopefully mark the end of a battle that has taken the better part of the last 8 years since we moved here to Sarasota.
 
 ## Getting started on Verizon

@@ -9,8 +9,8 @@ categories:
 tags:
   - Development
   - Reflection
-
 ---
+
 I've had a desire to maintain an open-source project again for a very long time. Since the days of Better WP Security and Better Google Tasks I've wanted to build something that someone other than me would find interesting and useful as well as I've wanted to just have fun building something again.
 
 I've come close a few times, both personally with Primary Vagrant and professionally with DevKit and other projects but it was never the same. Especially with DevKit, while I really did enjoy my time on the project the profit motivation, even on a free product, was never ideal to me.

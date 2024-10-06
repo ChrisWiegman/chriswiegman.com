@@ -8,8 +8,8 @@ categories:
 tags:
   - Hardware
   - Tools
-
 ---
+
 If there is one truth to me and my relationship with tech it is that I will never be satisfied. As I’ve written about a lot lately, I’m actually pretty comfortable with all the Apple tech I have currently. It works for me and, more importantly lately, it works for everyone I need to interact with. Life should be good right?
 
 As much as I want to say “this works, let’s move on,” I still keep shopping for something _better_. I miss Linux and Android, both the UX of Pop_OS! and my Pixel phone as well as many of the features of my Pixel that just felt more polished, especially when working with other people.

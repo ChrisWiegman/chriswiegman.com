@@ -10,8 +10,8 @@ tags:
   - Apple
   - Linux
   - Tools
-
 ---
+
 Tonight I’m writing, once again, from my iPad. It isn’t because I don’t like [my new Linux laptop][1] but because I want to do more, right now, that just write. For as much as I enjoy working with Linux, for the moment it isn’t all that useful for anything except for code and writing for me and that’s a bit of a problem.
 
 As I sit here on this iPad, which can do pretty much anything I need it to do except for code, I can’t help but think about the daunting task I have ahead if I want to make non-Apple hardware work for me and, frankly, I’m not sure I have the energy for it right now.
