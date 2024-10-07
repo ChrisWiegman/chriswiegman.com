@@ -8,8 +8,8 @@ categories:
   - Technical
 tags:
   - Linux
-
 ---
+
 There are a lot of ways to handle development environments, and software in general, on Linux and, in my experience, most of them suck.
 From juggling PPAs to compiling from source and from hoping your channel might get the update to manually checking for an update yourself for all major parts of your tool chain, Linux software distribution sucks. Add to that configuration differences across each channel and completely different versions from a teammate using MacOS and Linux development can quickly become a nightmare.
 
@@ -19,7 +19,9 @@ If you’ve ever done development on a Mac you’re probably familiar with [Home
 
 For me, setting up the environments for the bulk of code I write, typically either PHP, Go or even some Node is as simple as writing the following command:
 
-<pre class="wp-block-code" aria-describedby="shcb-language-113" data-shcb-language-name="Bash" data-shcb-language-slug="bash"><span><code class="hljs language-bash">brew install composer hugo docker-compose git go php php-code-sniffer nvm</code></span><small class="shcb-language" id="shcb-language-113"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">Bash</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">bash</span><span class="shcb-language__paren">)</span></small></pre>
+``` bash
+brew install composer hugo docker-compose git go php php-code-sniffer nvm
+```
 
 This gives me full environments for pretty much every thing I need to do, with configurations equal to their Mac equivalents and the ability to keep it all up to date with `brew update &amp;&amp; brew upgrade`. Even cleaning up is as close as a single `brew cleanup` away.
 

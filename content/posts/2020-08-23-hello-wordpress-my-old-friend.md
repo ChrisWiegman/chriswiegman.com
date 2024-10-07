@@ -10,11 +10,12 @@ tags:
   - Reflection
   - Web Development
   - WordPress
-
 ---
+
 After just over a year on [Hugo][1] I've migrated this site back to WordPress.
 
 It wasn't an easy decision to do so. The truth is, I really liked [the workflow I had been using for Hugo][2] and the platform itself was _nearly_ perfect for my uses. That said, technology alone wasn't enough to keep me with it and here is why...
+
 ## The Technical Reasons
 
 As stated above, Hugo was _nearly_ perfect for my use case. That said, there were still a few annoyances and other things which WordPress still does better.

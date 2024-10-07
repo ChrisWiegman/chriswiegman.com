@@ -9,8 +9,8 @@ categories:
 tags:
   - 2020
   - Reflection
-
 ---
+
 Here I am, 31 December 2020, and all I feel is that something must be wrong with my calendar.
 
 I mean, it's still just March, right? It sure feels like it is.
@@ -54,23 +54,11 @@ One might ask if I'll go back to the bad habits of drinking and eating out too m
 
 Looking back on 2020, there really was a lot to be thankful for. While I've outlined the biggest wins already they weren't all of it for us. Here's a few other things I'm proud of in 2020:
 
-<ul class="wp-block-list">
-  <li>
-    I finished 94 books (according to Goodreads), 13 higher than my previous record in 2019
-  </li>
-  <li>
-    We finished replacing all the windows on our house with hurricane windows (a project we spread out over 3 years)
-  </li>
-  <li>
-    I somehow completed <a href="https://github.com/ChrisWiegman">1,329 activities on GitHub</a>. This is well below the 3,000 or more I had last year but still pretty awesome with everything going on
-  </li>
-  <li>
-    I moved this site back to WordPress and wrote my first <a href="https://github.com/ChrisWiegman/chriswiegman-theme">WordPress theme</a> from scratch, which is easily the most minimalist theme I've yet seen
-  </li>
-  <li>
-    Finally beat the main quest in Skyrim
-  </li>
-</ul>
+* I finished 94 books (according to Goodreads), 13 higher than my previous record in 2019
+* We finished replacing all the windows on our house with hurricane windows (a project we spread out over 3 years)
+* I somehow completed [1,329 activities on GitHub](https://github.com/ChrisWiegman). This is well below the 3,000 or more I had last year but still pretty awesome with everything going on
+* I moved this site back to WordPress and wrote my first [WordPress theme](https://github.com/ChrisWiegman/chriswiegman-theme) from scratch, which is easily the most minimalist theme I've yet seen
+* Finally beat the main quest in Skyrim
 
 All in all, I'll call this year a win for us in so many ways. We've not only been lucky enough to come out at the end with our health and our jobs but we managed to really make some dents in all kinds of things that will benefit us for years to come.
 
@@ -78,29 +66,13 @@ All in all, I'll call this year a win for us in so many ways. We've not only bee
 
 So what does 2021 bring? Honestly it looks like 2021 won't be much different than 2020 was. I don't foresee us being able to get a vaccine until at least the summer and, considering how many are saying they'll skip it or only get one dose, I'm not sure it will be effective enough to let us get back out into the world yet, especially from here in Florida. All is not lost though. As this is our new normal there are a few things I want to accomplish in 2021:
 
-<ul class="wp-block-list">
-  <li>
-    Get away from Twitter. I'm not going to close my account but I do need to be more intentional in how I use it
-  </li>
-  <li>
-    Spend more time blogging and reading. I know I say this every year but... THIS YEAR WILL BE DIFFERENT, lol
-  </li>
-  <li>
-    Lose 15lbs more. This will take me back to where I was around 2010. Combine this with a physical (I missed this year thanks to COVID) and my goal will be to avoid the annual lecture on my bad habits by my doctor
-  </li>
-  <li>
-    Replace our kitchen cabinets. They're old and starting to fall apart. It's time
-  </li>
-  <li>
-    Walk even more
-  </li>
-  <li>
-    Cut soda out of my life. This is one of my biggest remaining health vices. It's time to do something about it
-  </li>
-  <li>
-    Most of all, be more positive and find joy in all I can
-  </li>
-</ul>
+* Get away from Twitter. I'm not going to close my account but I do need to be more intentional in how I use it
+* Spend more time blogging and reading. I know I say this every year but... THIS YEAR WILL BE DIFFERENT, lol
+* Lose 15lbs more. This will take me back to where I was around 2010. Combine this with a physical (I missed this year thanks to COVID) and my goal will be to avoid the annual lecture on my bad habits by my doctor
+* Replace our kitchen cabinets. They're old and starting to fall apart. It's time
+* Walk even more
+* Cut soda out of my life. This is one of my biggest remaining health vices. It's time to do something about it
+* Most of all, be more positive and find joy in all I can
 
 For the record, these aren't resolutions. Instead they're promises and goals to help my make my life, and that of those around me, better.
 

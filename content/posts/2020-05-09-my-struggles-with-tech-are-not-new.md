@@ -12,10 +12,11 @@ tags:
   - Simplicity
   - Tech
   - Usability
-
 ---
+
 Tech stacks have always been a strange thing to me. I’ve switched up my workflow, and the software that makes up my personal tech stack, every couple of years for as long as I remember. In some cases this has been due to a change of rolls but, in most cases, it usually comes down to nagging issues that reach the point where the grass really does _seem_ greener on the other side.
-## My history with tech {#my-history-with-tech.wp-block-heading}
+
+## My history with tech
 
 It seems that each time I switch up my stack the catalyst is a change of focus for what I’m actually looking to do. For example, I went from Windows to Mac in 2008 when I started getting into WordPress and web development in general as it was easier to develop on when I was hosting my work on Linux servers.
 
@@ -31,7 +32,7 @@ Sure, my hardware was from different manufacturers with computers from Google an
 
 Finally, a little over a year ago, I woke up to the price of the “simplicity” I had been pursuing. From privacy (now a much bigger issue) to the dangers of putting all my eggs in one basket and from DRM to the impact of the devices and tools I use on others, all the principles I had abandoned in favor of simplicity were suddenly back in my mind. It was time to reconcile simplicity and privacy/ethics.
 
-## All tech still has problems {#all-tech-still-has-problems.wp-block-heading}
+## All tech still has problems
 
 In practice, it was a time for me to come to terms with what simplicity means. For example, using all Apple or Google services sounds great until something doesn’t quite think the way you do. When that happens the frustration of trying to be productive using someone else’s idea of how you should work can be overwhelming.
 
@@ -43,20 +44,10 @@ While these problems may just be a side-effect of “simplicity” the are still
 
 Today I have mostly moved away from big tech all together. From my email to nearly every other piece of data I’ve found solid alternatives I can live with using tools that I would be comfortable suggesting to nearly anyone. It feels good, I know it’s the right thing to do and, frankly, I’ve had a lot of fun doing it. Here are a few posts I’ve made on my own process if you’re looking to do similar.
 
-<ul class="wp-block-list">
-  <li>
-    <a href="/2020/04/limiting-my-exposure-to-surveillance-on-android/">Limiting My Exposure to Surveillance on Android</a>
-  </li>
-  <li>
-    <a href="/2019/09/leaving-big-tech-ecosystems-behind/">Leaving Big Tech Ecosystems Behind</a>
-  </li>
-  <li>
-    <a href="/2020/04/leaving-big-tech-behind-take-2/">Leaving Big Tech Behind Take 2</a>
-  </li>
-  <li>
-    <a href="/2019/10/how-i-mostly-removed-google-from-my-life/">How I Mostly Removed Google From My Life</a>
-  </li>
-</ul>
+* [Limiting My Exposer to Surveillance on Android](https://chriswiegman.com/2020/04/limiting-my-exposure-to-surveillance-on-android/)
+* [Leaving Big Tech Ecosystems Behind](/2019/09/leaving-big-tech-ecosystems-behind/)
+* [Leaving Big Tech Behind Take 2](/2020/04/leaving-big-tech-behind-take-2/)
+* [How I Mostly Removed Google From My Life](/2019/10/how-i-mostly-removed-google-from-my-life/)
 
 As much as I would like to say that is the end of the story, sadly, perhaps, it isn’t. As I’ve moved to more ethical tech I find myself in a situation where I’m spending much more of my time maintaining that tech. In addition, the universal access to data has, at least to an extent, been lost. This is particularly true when I travel.
 

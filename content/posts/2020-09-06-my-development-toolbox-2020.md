@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Development Tools
-
 ---
+
 Once a year I love to go through my devices and take inventory ([2019][1], [2018][2], [2017][3], [2016][4], [2015][5], [2014][6], [2013][7], [2012][8]). I've been writing this series since 2012 and, looking back, it always amazes me how things change over the years and this year is no exception.
 For many years my focus was solely on developing WordPress plugins and that was reflected in my toolbox. These days that isn't the case and my toolbox definitely reflects the change. Instead of working solely in the technologies behind WordPress, even while still at a WordPress company, today it isn't uncommon that, in a single week, I can find myself working in raw SQL, Python, Go, NodeJS, PHP, Ruby, Bash, Go and a host of other tech.
 
