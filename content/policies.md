@@ -3,8 +3,8 @@ title: Policies and Disclosures
 description: "Policies, credits and required disclosures for ChrisWiegman.com including my privacy policy."
 date: 2024-11-01T12:00:00+00:00
 type: page
-
 ---
+
 ## Who I Am {#who-i-am}
 
 I am Chris Wiegman and I am based in the United States.
