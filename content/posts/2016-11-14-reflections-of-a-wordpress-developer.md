@@ -9,11 +9,12 @@ tags:
   - Career Development
   - Self-improvement
   - WordPress
-
 ---
+
 It’s now been over six full years since I first started really working with WordPress. September 20th, 2010 is when I first opened my WordPress.org account to submit&nbsp;a small plugin I built that afternoon. Six years later I can say without reservation that I’m so glad I chose to get involved with the project both through my own&nbsp;successes and the failures as well as those of the project itself.
 
 It’s safe to say today that WordPress, both the project itself and the community around it, is not what it was six years ago. For the most part this evolution&nbsp;has been positive but of course it has had it’s road bumps as well. As I get more involved in my new position this fall and look forward to the next few years in WordPress and other technologies&nbsp;I’ve forced myself to sit bad and re-examine what WordPress means to me as both &nbsp;a WordPress developer and as simply a _developer_ looking to get the job done in the best way possible.
+
 ## WordPress is a Tool
 
 First and foremost, regardless of the emotional attachment many seem to have to the project, WordPress is still just a tool. I say this because at so many points over the years I’ve forgotten this myself leading to an immeasurable about of time and energy wasted on projects that became personal as I&nbsp;forgot who they were built for and how those people were using them.

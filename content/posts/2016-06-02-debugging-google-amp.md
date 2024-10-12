@@ -8,9 +8,10 @@ categories:
   - Technical
 tags:
   - Google
-
 ---
-There’s a lot of talk about <a href="https://www.ampproject.org" target="_blank" rel="noopener noreferrer">Google’s Accelerated Mobile Pages (AMP)</a> lately and a lot of developers rushing to catch up as it starts to make an impact on their sites and search rankings. One thing many aren’t doing however is really paying attention to the details of their code resulting in problems and other bugs that break the new format.
+
+There’s a lot of talk about [Google’s Accelerated Mobile Pages (AMP)](https://www.ampproject.org) lately and a lot of developers rushing to catch up as it starts to make an impact on their sites and search rankings. One thing many aren’t doing however is really paying attention to the details of their code resulting in problems and other bugs that break the new format.
+
 At it’s heart AMP is straightforward using mostly HTML to cache simple content for Google. The details of that simple HTML however aren’t as easy as everything from scripts to poorly encoded links and ads can break the page.
 
 This doesn’t need to be the case.

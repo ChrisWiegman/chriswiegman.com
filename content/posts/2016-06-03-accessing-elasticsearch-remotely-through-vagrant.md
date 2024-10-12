@@ -10,9 +10,10 @@ tags:
   - Development Tools
   - Elasticsearch
   - Vagrant
-
 ---
-I’ve been doing a lot of work on <a href="https://10up.com" target="_blank" rel="noopener noreferrer">10up’s</a> <a href="https://wordpress.org/plugins/elasticpress/" target="_blank" rel="noopener noreferrer">ElasticPress</a> project over the last year including implementation on various sites as well as work on the plugin itself. After stepping a way for a bit though I found a problem yesterday&nbsp;morning when while working on implementation for one of our larger clients.
+
+I’ve been doing a lot of work on [10up’s](https://10up.com) [ElasticPress](https://wordpress.org/plugins/elasticpress/) project over the last year including implementation on various sites as well as work on the plugin itself. After stepping a way for a bit though I found a problem yesterday&nbsp;morning when while working on implementation for one of our larger clients.
+
 ## The Issue
 
 Normally I develop entirely on [Primary Vagrant][1]. This means that in order to connect directly to Elasticsearch with a tool such as Paw or Postman I need to be able to connect to the box. Normally I simply input the url of the development site I work with and point it to port 9200 and I’m off and running. That wasn’t the case this morning. Yesterday morning, on a new install of the latest Elasticsearch and without any firewall or other software running it simply couldn’t connect.

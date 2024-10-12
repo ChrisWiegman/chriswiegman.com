@@ -8,9 +8,10 @@ categories:
   - Technical
 tags:
   - Vagrant
-
 ---
+
 After working with Vagrant for nearly three years and even [writing a post on how great it is][1] I can now say without hesitation that it is not the solution I thought it was. I don’t say that lightly either as I’m about to launch version 4.0 of my [Primary Vagrant][2] project. Instead I say it based on the expectations we have put on it as a development community combined with ecosystem (or lack thereof) of the tools we have been using to attempt to bend it to our will.
+
 ## Vagrant is not MAMP
 
 From VVV to Primary Vagrant we’ve all adopted Vagrant based environments for our local development as if they’re&nbsp;some sort of drop-in replacement for MAMP or AMPPS or any of the other tools that have traditionally allowed us to develop locally. This is the wrong approach.
@@ -33,7 +34,7 @@ I take for granted how much I enjoy devops and working with Primary Vagrant but 
 
 ## So what is the answer?
 
-As is evident with the existence of products like <a href="https://localwp.com/" target="_blank" rel="noreferrer noopener">Pressmatic</a> and <a href="https://www.mamp.info/en/" target="_blank" rel="noopener noreferrer">MAMP Pro 4</a> the issues I see are not unique. For less experienced developers or folks who are trying to just run a WordPress site locally I still recommend Desktop Server as it is both reliable and easy to get running for people of all skill levels.
+As is evident with the existence of products like [Pressmatic](https://localwp.com/) and [MAMP Pro 4](https://www.mamp.info/en/) the issues I see are not unique. For less experienced developers or folks who are trying to just run a WordPress site locally I still recommend Desktop Server as it is both reliable and easy to get running for people of all skill levels.
 
 For more advanced developers who are not part of a team or are working on numerous sites across a variety of environments I do recommend MAMP Pro 4 or Pressmatic both of which offer a flexibility that just isn’t&nbsp;practical in most of the Vagrant environments available for the task. Pressmatic, in particular, offers a very interesting approach in that it is basically a GUI put onto Docker containers which in theory could lead to nearly infinite configurations. The only thing it suffers from at the moment is that, at least in my experience, it is a bit too immature to be useful.
 

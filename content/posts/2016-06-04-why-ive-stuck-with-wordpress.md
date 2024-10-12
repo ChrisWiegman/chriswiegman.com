@@ -12,6 +12,7 @@ tags:
 
 ---
 One question I’ve been asked more often lately&nbsp;is why, considering all the newer technology that is available&nbsp;today, have I stuck with WordPress for my career and my side work? Well, there are 5 reasons for that to be honest…
+
 ## WordPress pays the bills
 
 Yep, the biggest reason I’ve stuck with WordPress as the primary tool I work in is because it pays the bills. That’s not to say I wouldn’t use it at all if I worked in a different technology but the obvious answer here is I wouldn’t be using it nearly as much if I worked in another stack. I’d like to say the top reason is something more glamorous but that just isn’t the case. At the end of the day WordPress is still what puts a roof over my head and food in my belly.
@@ -30,4 +31,4 @@ One thing that annoys me about many developers at times is that often they know 
 
 ## WordPress isn’t the only thing I’m working in lately
 
-While most of what I do goes back to WordPress in one fashion or another it isn’t the only thing I’ve actually been working in. In fact, my largest side project today, <a href="https://github.com/ChrisWiegman/primary-vagrant" target="_blank" rel="noreferrer noopener">Primary Vagrant</a>, is written completely in Puppet and Ruby (the language Vagrant itself uses). This year in particular I think I’ve put far more into that project than just about anything else.
+While most of what I do goes back to WordPress in one fashion or another it isn’t the only thing I’ve actually been working in. In fact, my largest side project today, [Primary Vagrant](https://github.com/ChrisWiegman/primary-vagrant), is written completely in Puppet and Ruby (the language Vagrant itself uses). This year in particular I think I’ve put far more into that project than just about anything else.

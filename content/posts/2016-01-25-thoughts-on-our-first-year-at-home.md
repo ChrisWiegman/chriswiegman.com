@@ -9,9 +9,10 @@ categories:
 tags:
   - Home
   - Reflection
-
 ---
+
 Today marks exactly one year since I first pulled up the moving truck to our house here In Sarasota, FL. Frankly, it feels like it was about three weeks ago rather than a year but that’s a whole other story. As I really do look back on this last year there really is only one conclusion I can come to…
+
 ### We’ve finally found home.
 
 First, and probably most importantly, we’ve finally found the walking neighborhood we’ve been looking for since we first moved in together over 11 years ago. In Gulf Gate, our new neighborhood in Sarasota, we can walk to everything from the grocery store to the library and from restaurants and bars to church and shopping. It’s been incredible. For the most part we don’t need to drive much at all and have actually reduced our driving to the point that we’ll be going to one car when the lease on our Nissan Leaf is up in September. That never would’ve happened in Carbondale or Austin or even Hawaii where to do pretty much anything (except the bars in Carbondale) we had to drive to it.

@@ -8,9 +8,10 @@ categories:
 tags:
   - Development Tools
   - Tools
-
 ---
+
 In what has become something of an annual tradition of mine about this time&nbsp;each year I take stock of the tools I use for my work each day, both as something of an “inventory” as well as to share as ideas with those whom I work with.
+
 ## What else has changed?
 
 This year, in many ways, I find the changes in my tools particularly interesting as, while many of the same software titles are still there, the way I use many of them and the additions I now compliment them with have changed considerably. For example, up until quite recently I wrote all my posts on my MacBook Pro which has been a workhorse since I bought&nbsp;it 4 years ago. Today I type this on an 9.7″ iPad Pro as I find using it for writing allows me to focus on what I’m writing rather than succumbing to the distractions that are all too easy to get to me when I work on posts on the same computer on which I write code and pretty much live the bulk of my life.

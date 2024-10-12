@@ -8,9 +8,10 @@ categories:
 tags:
   - Blogging
   - Reflection
-
 ---
+
 It’s been years since I really blogged on here regularly. Sure, I’ll get up a post or two every now and then but I haven’t really written anything since 2013-2014. The irony: for most of that time I’ve spent more time working on the code for this site than I ever have. These last few weeks, even as I’ve plotted and schemed to start writing more, I’ve put even more time to simply changing the site itself without a single post to show for it.&nbsp;This has left me asking why and, after even more time thinking about it than I’ve spent working on the site I think I finally have a descent grasp at what has been going on.
+
 ## The fallacy of perfection
 
 The first, and probably largest issue I’ve been facing is the fallacy of perfection. That is, if I see anything out of place on the site I cannot bring myself to write a single word until I fix it. As a result nothing ever gets written.

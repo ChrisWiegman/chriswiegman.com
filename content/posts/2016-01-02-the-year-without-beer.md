@@ -9,11 +9,12 @@ categories:
 tags:
   - Health
   - Self-improvement
-
 ---
+
 I’ve read so many posts these last few days of friends and colleagues reminiscing on the bast year and planning for this new year. So much opportunity and so much hope for something better is always a good thing.
 
 I can’t say that last year was all that bad for me. We moved into a place we love, I started work at a company I love and for the most part we’ve settled in quite nicely in a town we love. In fact I think it is safe to say that although there were a few road bumps 2015 was almost the perfect year for us.
+
 ### Almost
 
 See, there is one problem I have. I can’t stop drinking. Our days off, rather than being full of productivity or new experiences are often spent going from one hangover to another. By October we had even reached the point where we were averaging about $750.00 per month just on alcohol (and that doesn’t count the drinking I do with almost every meal as I simply don’t track it that way). All my plans for new projects, writing more and seeing more of our new home quickly evaporate in 3 or 4 liters (often per sitting) of whatever beer I choose to fill my glass with that day.

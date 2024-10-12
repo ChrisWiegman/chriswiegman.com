@@ -7,11 +7,12 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 It’s been right about 6 months since I wrote [The Year Without Beer][1] and I figure it’s time I check in.
 
 Truth be told… Not much has changed. I still drink too much (we’ve cut our total alcohol bills by about 1/3 since January but they’re still far more numerous than they should be). What has changed is I know a bit more why I do it (at least I think I do anyway). I know that there is more to it than just drinking, in fact I’ve learned that I really don’t care much for the actual drinking at all, not sure I ever did which probably explains why I’m always so interested in trying to quit.
+
 ## So why keep drinking?
 
 The answer to this I’ve realized has two parts:
