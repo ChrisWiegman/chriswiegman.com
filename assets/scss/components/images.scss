@@ -1,5 +1,4 @@
 img {
-  margin: 0;
   margin: 0 auto 2rem auto;
   max-width: 100%;
   height: auto;
@@ -31,14 +30,14 @@ figure {
   display: table;
   margin: 0 auto;
 
-  img {
+  img.with-caption {
     margin-bottom: 0;
   }
 
   figcaption {
     display: table-caption;
     caption-side: bottom;
-    margin: 0.5em 1em 1em 1em;
+    margin: 0.5em 1em 2em 1em;
     font-size: 0.8rem;
   }
 }

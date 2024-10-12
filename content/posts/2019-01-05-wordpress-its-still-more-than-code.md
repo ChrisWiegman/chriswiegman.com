@@ -7,20 +7,13 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
+
 I first installed WordPress around 10 years ago as a solution to build sites quickly and securely for the university I was working for at the time. In the years since I’ve built (and sold) one of the largest plugins on WordPress.org, I’ve built sites as an engineer for a premier WordPress agency as well as being a part of an enterprise WordPress team at a large university. I’ve worked for plugins shops and, now, a WordPress-centric web host. In other words, I’ve seen a lot of the WordPress world and there’s one thing that never ceases to disappoint me when I talk to people who want to get involved…
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
-  <p>
-    But I don’t know how to code
-  </p>
 
-  <p>
-    <cite>– Just about anyone I’ve ever talked to who is getting into WordPress</cite>
-  </p>
-
-  <cite>– Just about anyone I’ve ever talked to who is getting into WordPress</cite>
-</blockquote>
+> But I don’t know how to code
+>
+> > – Just about anyone I’ve ever talked to who is getting into WordPress
 
 I’ve heard it from students and veterans in the space, some new to WordPress and others who had been in similar roles already as everything from marketers to engineers and beyond. Yes, I’ve had self-proclaimed (and sometimes employed) engineers tell me they don’t know how to code. For the record, that one worries me but it is a story for another post.
 

@@ -8,48 +8,25 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 I started writing annual review posts after moving to [Florida in 2015][1] and every year I find it fascinating to go back and see what I did well and what I didn’t. Given that, here’s my recap of 2018 with a few hopes and dreams for 2019 sprinkled in for good measure.
+
 ## 2018 – What Went Right
 
 For the most part, 2018 was a pretty good year for me both personally and professionally. We traveled, a lot, and, for the first time in years, Joy got to go with me on nearly every trip including our biggest trip, a week in Utrecht, Netherlands to visit friends and give the keynote address for [WordCamp Utrecht][2]. A few of the other places we visited included:
 
-<ul class="wp-block-list">
-  <li>
-    Orlando, FL (multiple Disney visits and WordCamp Orlando)
-  </li>
-  <li>
-    Miami, FL (WordCamp Miami)
-  </li>
-  <li>
-    Panama City Beach, FL
-  </li>
-  <li>
-    Daytona Beach/St. Augustine, FL
-  </li>
-  <li>
-    Key West, FL
-  </li>
-  <li>
-    St. Louis, MO (WordCamp St. Louis)
-  </li>
-  <li>
-    Austin, TX (work and SXSW)
-  </li>
-  <li>
-    Chicago, IL
-  </li>
-  <li>
-    Gainesville, FL
-  </li>
-  <li>
-    Utrecht, Netherlands
-  </li>
-  <li>
-    Nashville, TN
-  </li>
-</ul>
+* Orlando, FL (multiple Disney visits and WordCamp Orlando)
+* Miami, FL (WordCamp Miami)
+* Panama City Beach, FL
+* Daytona Beach/St. Augustine, FL
+* Key West, FL
+* St. Louis, MO (WordCamp St. Louis)
+* Austin, TX (work and SXSW)
+* Chicago, IL
+* Gainesville, FL
+* Utrecht, Netherlands
+* Nashville, TN
 
 As many of these cities we visited more than once it was actually a pretty intense year on the road where I spent about 100 days total away from home.
 
@@ -65,29 +42,13 @@ Outside of my day job I was also offered the opportunity to speak at 4 conferenc
 
 Speaking of goals, to round out 2018 I wanted to [take a look back at the goals I set for myself last year][3] to see where I wound up. While I didn’t think they were all that ambitious my success, overall, was pretty mixed. Here’s how I did:
 
-<ul class="wp-block-list">
-  <li>
-    <strong><em>I’m going to mostly go dry. </em></strong>&nbsp;– We had a few quiet moments but didn’t really make any progress here. Once we got passed June and our travel schedule increased it all pretty much went to hell.
-  </li>
-  <li>
-    <strong><em>I want to finish 26 books.</em></strong> – I killed it here with 68 books read. I feel like I’ve hit a point where reading is one thing I look forward to the most on any given day and it feels great.
-  </li>
-  <li>
-    <strong><em>I want to finish 52 posts on this site.</em></strong> – Yeah, I failed pretty miserably at this one with only 9 posts completed.
-  </li>
-  <li>
-    <strong><em>I want to get my step goal back to 10,000 steps and keep it there.</em></strong> – I got there in June… and promptly lost it a few months later. I ended the year with a goal of 8,000 steps.
-  </li>
-  <li>
-    <strong><em>I want to get my weight under 180 lbs.</em></strong> – While my weight did change, it went up about 5 pounds over the year instead of down.
-  </li>
-  <li>
-    <strong><em>I want to start work on side projects again.</em></strong> – I only closed a bunch of side project up but this wasn’t a bad thing as I’ve started to shift my focus over the last year. I’m marking this as “unfinished” as, while I didn’t start and new ones, I did make progress in closing up others and have plenty of ideas.
-  </li>
-  <li>
-    <strong><em>I want to get back to Europe, this time with Joy.</em></strong> – We did and we loved it (we’re even talking about moving there at some point).
-  </li>
-</ul>
+* ***I’m going to mostly go dry. ***&nbsp;– We had a few quiet moments but didn’t really make any progress here. Once we got passed June and our travel schedule increased it all pretty much went to hell.
+* ***I want to finish 26 books.*** – I killed it here with 68 books read. I feel like I’ve hit a point where reading is one thing I look forward to the most on any given day and it feels great.
+* ***I want to finish 52 posts on this site.*** – Yeah, I failed pretty miserably at this one with only 9 posts completed.
+* ***I want to get my step goal back to 10,000 steps and keep it there.*** – I got there in June… and promptly lost it a few months later. I ended the year with a goal of 8,000 steps.
+* ***I want to get my weight under 180 lbs.*** – While my weight did change, it went up about 5 pounds over the year instead of down.
+* ***I want to start work on side projects again.*** – I only closed a bunch of side project up but this wasn’t a bad thing as I’ve started to shift my focus over the last year. I’m marking this as “unfinished” as, while I didn’t start and new ones, I did make progress in closing up others and have plenty of ideas.
+* ***I want to get back to Europe, this time with Joy.*** – We did and we loved it (we’re even talking about moving there at some point).
 
 So, in the end, I accomplished 2.5 out of 7 goals. Not great, but not bad either. The simple fact was that 2018 was simply far more busy than we had planned which wound up causing me to ignore progress on a lot of things, particularly with my heath (3 of the 4.5 goals I didn’t accomplish). I can and will do better.
 
@@ -95,26 +56,12 @@ So, in the end, I accomplished 2.5 out of 7 goals. Not great, but not bad either
 
 The last year was really pretty good to me in a lot of ways. While I have nothing to complain about I do have a lot of room for improvement this year, particularly with my health. That said, here are my personal goals for 2019:
 
-<ul class="wp-block-list">
-  <li>
-    <strong>Get my weight back to 180 lbs or less.</strong> – Sounds familiar, right? I didn’t do well at this last year and, as I write this, I can say I feel worse than I have in quite some time. Starting with both diet and exercise I’m working with Joy to make some lasting changes going into 2019 that will, with a bit of luck, finally see me getting to where I want to be physically.
-  </li>
-  <li>
-    <strong>Go almost completely dry.</strong> – One of the biggest obstacles to my weight is I still drink too damn much beer. The funniest part of this is, I really don’t care for most of the beer I drink. Going to the local bar has become our default “let’s get out of the house” activity after a long day of work, something that has gotten worse the last few months as we’re both working from home 100% of the time now. As such this goal is going to take a shift of mindset to find activities we can do and places we can relax that don’t just involve the local beer bar. Wish me luck.
-  </li>
-  <li>
-    <strong>Read 36 books.</strong> – I’ll probably ace this one again (I’ve done well the last two years) but I’m still keeping the goal rather low as I feel like the last few years have been a bit of a fluke on this one.
-  </li>
-  <li>
-    <strong>Write 52 posts.</strong> – Another carry-over but this time I’m doing it a bit different. Most of my posts simply stop after a long day at work or, when I do start writing, I wind up in a rabbit hole of code issues with this site or something related. To combat this I’ve done two things. First, I’ve got a Chromebook on order which will be here Thursday and will, hopefully, make it easier for me to separate my work on this computer from other endeavors like writing for this site. Second, I’ve removed nearly all of my custom code on this site and switched to a Genesis theme instead to reduce the temptation of tweaking things on here whenever I look at the site. I don’t know if this all will work but it seems like I’ve got a better shot at it than anything.
-  </li>
-  <li>
-    <strong>Continue to improve my German skills.</strong> – After Utrecht, I had actually abandoned German to start on Dutch but I’ve not made much progress. It’s time to switch back to German to see how far I can take it.
-  </li>
-  <li>
-    <strong>Relax more.</strong> – Hopefully, this will be an easy one. We’ve been too damn busy lately. In 2019 I want to slow that down a bit and just enjoy my time with Joy doing whatever we please.
-  </li>
-</ul>
+* *Get my weight back to 180 lbs or less.* – Sounds familiar, right? I didn’t do well at this last year and, as I write this, I can say I feel worse than I have in quite some time. Starting with both diet and exercise I’m working with Joy to make some lasting changes going into 2019 that will, with a bit of luck, finally see me getting to where I want to be physically.
+* *Go almost completely dry.* – One of the biggest obstacles to my weight is I still drink too damn much beer. The funniest part of this is, I really don’t care for most of the beer I drink. Going to the local bar has become our default “let’s get out of the house” activity after a long day of work, something that has gotten worse the last few months as we’re both working from home 100% of the time now. As such this goal is going to take a shift of mindset to find activities we can do and places we can relax that don’t just involve the local beer bar. Wish me luck.
+* *Read 36 books.* – I’ll probably ace this one again (I’ve done well the last two years) but I’m still keeping the goal rather low as I feel like the last few years have been a bit of a fluke on this one.
+* *Write 52 posts.* – Another carry-over but this time I’m doing it a bit different. Most of my posts simply stop after a long day at work or, when I do start writing, I wind up in a rabbit hole of code issues with this site or something related. To combat this I’ve done two things. First, I’ve got a Chromebook on order which will be here Thursday and will, hopefully, make it easier for me to separate my work on this computer from other endeavors like writing for this site. Second, I’ve removed nearly all of my custom code on this site and switched to a Genesis theme instead to reduce the temptation of tweaking things on here whenever I look at the site. I don’t know if this all will work but it seems like I’ve got a better shot at it than anything.
+* *Continue to improve my German skills.* – After Utrecht, I had actually abandoned German to start on Dutch but I’ve not made much progress. It’s time to switch back to German to see how far I can take it.
+* *Relax more.* – Hopefully, this will be an easy one. We’ve been too damn busy lately. In 2019 I want to slow that down a bit and just enjoy my time with Joy doing whatever we please.
 
 ## Here’s to a New Year and a new attitude
 

@@ -7,11 +7,12 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
+
 I don’t know if my experience could be considered “lucky” or not but, since starting with WordPress around a decade ago, I’ve had the chance to view the WordPress community from more different angles than most of those I’ve met in it. From plugins to themes, agencies to in-house development teams and freelancer to web host I’ve encountered teams of all sizes in work that touches nearly every aspect of the ecosystem.
 
 Given the breadth of my experience I’ve been thinking a lot, lately, about what the “best” role is or, for that matter, if there even is a “best” place to be in WordPress. Here’s my thoughts on some of these sectors of the WordPress community from my view as a developer.
+
 ## The In-house Team
 
 If there is one area that I think has benefited the most from the rise of WordPress and its ecosystem over the last decade it is the in-house team. During my time at [UF Health][1], [St. Edward’s University][2] and [Southern Illinois University (SIU)][3] I watched WordPress transform the landscape for the smaller in-house teams I was a member of as well as for the larger organization as a whole. Applications and builds that, previously, would’ve taken millions of dollars and years to roll out can now be done in a matter of months and a few hundred thousand dollars at most and, in many cases, can now be done for the existing salaries and time of the teams already in place. For universities and hospitals, the areas I know best, this has been a major win in an era of decreased funding and increased pressure.

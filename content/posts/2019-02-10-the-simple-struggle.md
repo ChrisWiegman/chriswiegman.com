@@ -8,8 +8,8 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 When I was a kid my mom (at least I think it was my mom) sometimes referred to me as an “anti-packrat.” This was, of course, in a time before “Minimalism” and its derivatives were a thing but the idea was the same. For as long as I can remember I’ve gravitated to simplicity over complexity in my life.
 The last few years have seen the idea of simplicity in our lives go mainstream with No Sidebar, Becoming Minimalist, The Minimalists and, most recently, Marie Kondo’s Netflix show (among others). For me their ideas have been inspiring in that, finally, I know I’m no the only one who doesn’t care about “having it all.”
 

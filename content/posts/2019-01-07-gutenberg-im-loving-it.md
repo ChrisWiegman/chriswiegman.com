@@ -10,9 +10,10 @@ tags:
   - Blogging
   - Gutenberg
   - WordPress
-
 ---
+
 I’ve avoided Gutenberg, the new WordPress default editor, for quite some time now. I installed it once on this site last June but after a few hours and a lot of messed up HTML around the site, I had to disable it. After WordCamp US, however, I decided it was time to give it another shot and, so far, I’m loving it.
+
 ## What I Love About Gutenberg
 
 So what’s so great about Gutenberg?

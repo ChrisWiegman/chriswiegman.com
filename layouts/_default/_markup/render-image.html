@@ -16,11 +16,12 @@
 {{- if .IsBlock -}}
 <figure>
     {{- if gt $image.Width 850 -}}
-    <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ . }}"
-        decoding="async" fetchpriority="high" srcset="{{ $imgSrcSet }}" sizes="{{ site.Params.imageSizeString }}" />
+    <img {{ with .Title }} class="with-caption" {{ end }} width="{{ $image.Width }}" height="{{ $image.Height }}"
+        src="{{ $image.RelPermalink }}" alt="{{ . }}" decoding="async" fetchpriority="high" srcset="{{ $imgSrcSet }}"
+        sizes="{{ site.Params.imageSizeString }}" />
     {{- else -}}
-    <img width="{{ $image.Width }}" height="{{ $image.Height }}" src="{{ $image.RelPermalink }}" alt="{{ . }}"
-        decoding="async" fetchpriority="high" />
+    <img{{ with .Title }} class="with-caption" {{ end }} width="{{ $image.Width }}" height="{{ $image.Height }}"
+        src="{{ $image.RelPermalink }}" alt="{{ . }}" decoding="async" fetchpriority="high" />
     {{- end -}}
     {{- with .Title }}<figcaption>{{ . }}</figcaption>{{- end -}}
 </figure>

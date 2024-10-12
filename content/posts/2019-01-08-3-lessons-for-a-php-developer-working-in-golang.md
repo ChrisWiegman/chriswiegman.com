@@ -8,9 +8,10 @@ categories:
 tags:
   - GoLang
   - PHP
-
 ---
+
 After working almost exclusively in WordPress and PHP since 2012 I’ve recently made the switch to [GoLang][1] for my day job. Frankly, it’s been an eye opening experience. If there is one thing I don’t recommend for a developer at any level it is to get to so deep into one language or library that you lose touch of the bigger picture. That said, while I’m still learning a lot after four months on the job there are three important lessons I’ve learned that I think will benefit anyone making a similar switch.
+
 ## Programming Doesn’t Require Expensive IDEs
 
 Over the last few years I had become quite a fanboy of [PhpStorm][2]. So much so that when I started with GoLang I ponied up and bought Jetbrains’ GoLand product as well. Turns out that was a mistake. PHP may offer robust libraries and other tools but it doesn’t compare with GoLang with its standard tools for unit testing, formatting code and more. Today I’ve switched to [VS Code][3] for pretty much all of my work. It’s fast, customizable and works great with a variety of languages, especially GoLang.
