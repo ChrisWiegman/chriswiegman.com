@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Primary Vagrant
-
 ---
+
 For the last four and a half years I’ve poured an awful lot of time into my local development environment which has morphed to one of my most popular projects of all time on GitHub. [Primary Vagrant][1] was my first real devops project that helped me learn technologies from Puppet to Ruby and from Vagrant to server architecture to a level of detail I never thought I would need.
 
 Today it is time for me to announce that I have shut down the project.

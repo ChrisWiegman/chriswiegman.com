@@ -8,29 +8,20 @@ categories:
 tags:
   - Privacy
   - Security
-
 ---
+
 This is the first post in a series I’m working on involving tailoring security and privacy to you. While there are best practices that apply to everyone a good part of our online security and privacy is a personal thing and can vary greatly depending on factors such as who we are, what we do for a living and others.
+
 ## The Threat Model
 
 According to [Wikipedia][1]: “The purpose of threat modeling is to provide defenders with a systematic analysis of the probable attacker’s profile, the most likely attack vectors, and the assets most desired by an attacker.” In other words, a threat model is knowing what the possible threats are and what they might want from you.
 
 To form a threat model we must ask four questions:
 
-<ol class="wp-block-list">
-  <li>
-    Where are the high-value assets?
-  </li>
-  <li>
-    Where am I most vulnerable to attack?
-  </li>
-  <li>
-    What are the most relevant threats?
-  </li>
-  <li>
-    Is there an attack vector that might go unnoticed?
-  </li>
-</ol>
+1. Where are the high-value assets?
+2. Where am I most vulnerable to attack?
+3. What are the most relevant threats?
+4. Is there an attack vector that might go unnoticed?
 
 At the scale of a company or a product these four questions can take a good amount of study and analysis to answer as the difference in threat models at scale can range from very simple to very complex as the number of people involved grows along with the complexity of the product or business doing the modeling.
 

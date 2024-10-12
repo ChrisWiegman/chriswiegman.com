@@ -10,22 +10,15 @@ tags:
   - Chrome
   - How-to
   - Tools
-
 ---
+
 In upcoming versions of Google Chrome, Google promises to make it easier to disable autoplay on videos. For now, however, it’s not quite as easy to get to but still available if you know where to look.
 
 To stop the autoplay nonsense in Chrome yourself here’s what you need to do:
-<ol class="wp-block-list">
-  <li>
-    Go to&nbsp;<em><strong>chrome://flags/#autoplay-policy</strong></em> in your browser
-  </li>
-  <li>
-    Under <em><strong>Autoplay policy</strong></em> select&nbsp;<em><strong>Document user activation is required.</strong></em>
-  </li>
-  <li>
-    Click <em><strong>RELAUNCH NOW</strong></em> at the bottom of your browser screen.
-  </li>
-</ol>
+
+1. Go to ***chrome://flags/#autoplay-policy*** in your browser
+2. Under ***Autoplay policy*** select ***Document user activation is required.***
+3. Click ***RELAUNCH NOW*** at the bottom of your browser screen.
 
 That’s it, you should now get far less annoying videos playing automatically as you browse the web.
 

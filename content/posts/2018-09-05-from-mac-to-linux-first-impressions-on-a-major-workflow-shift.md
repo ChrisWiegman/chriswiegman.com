@@ -9,9 +9,10 @@ categories:
 tags:
   - Development Tools
   - Hardware
-
 ---
+
 After 10 years with Apple I’ve finally taken a new direction and bought an Oryx Pro from System76 last week. While I’d love to say I’ve already fully-converted I would be lying. Between a weekend trip and a busy work week I haven’t been able to get nearly as far with it as I would have liked but I have used it enough to be able to determine how I think the project will work out for me. Here’s my initial thoughts on the transition and the machine in general.
+
 ## The Oryx Pro
 
 Although I’ve been a fan of Apple’s hardware for over a decade the simple fact is they don’t make them like they used to. I originally went to Mac as the high-end Windows laptops I had been using wouldn’t even last 2 years and cost nearly as much as my first Mac. Since buying my first Mac in 2008 I’ve gone through 3 machines so, at least until this one, I can say my initial goal of a more reliable machine worked pretty well.
@@ -22,11 +23,9 @@ For a new machine I looked at a few different machines from Dell, Lenovo and Sys
 
 I didn’t need to update much other than a faster hard drive (I only use 40GB total on my Mac so space isn’t an issue) and more RAM.<figure class="wp-block-image size-large">
 
-<img loading="lazy" decoding="async" width="500" height="256" src="/images/2018/09/oryx-pro-configuration-500x256-1.png" alt="Oryx Pro Configuration" class="wp-image-385" srcset="/images/2018/09/oryx-pro-configuration-500x256-1.png 500w, /images/2018/09/oryx-pro-configuration-500x256-1-400x205.png 400w" sizes="(max-width: 500px) 100vw, 500px" /> <figcaption>I didn’t need to update much other than a faster hard drive (I only use 40GB total on my Mac so space isn’t an issue) and more RAM.</figcaption></figure>
+![Oryx Pro Configuration](/images/2018/09/oryx-pro-configuration-500x256-1.png "I didn’t need to update much other than a faster hard drive (I only use 40GB total on my Mac so space isn’t an issue) and more RAM.")
 
-<div class="wp-block-image">
-  <figure class="alignright size-large"><img loading="lazy" decoding="async" width="150" height="150" src="/images/2018/09/oryx-pro-150x150-1.jpg" alt="Oryx pro closed" class="wp-image-386" /></figure>
-</div>
+![Oryx pro closed](/images/2018/09/oryx-pro-150x150-1.jpg)
 
 Of course, when I got the hardware I immediately compared it to my existing mac. The keyboard, hinges and trackpad all actually feel more solid than the Mac. Of course the screen isn’t as fancy but for my work the 1080 screen is plenty. It’s also slightly bigger but lighter than my existing Mac which has been a blessing. The case itself isn’t quite a nice and feels a bit cheaper even with its “super thin aluminum alloy design” but considering I’ve never been hard on my computers I’m not too worried about that part.
 

@@ -9,9 +9,10 @@ categories:
 tags:
   - FitBit
   - Health
-
 ---
+
 Keeping active, much less in shape, has been a challenge of mine for years but really ramped up four years ago when I started working at home. One of the best ways I’ve found to keep myself active when sitting at home all day is my [FitBit][1]. From it’s gamification to it’s step goal I’ve spend the better part of the last three years making it work for me and I can definitely say that it has helped me improve my health more than any other device or technique.
+
 ## Why FitBit
 
 I’ve had a FitBit since 2012 and, frankly, it really didn’t do much for me until I started setting appropriate goals in 2015. After two years of it actually helping motivate me to move I switched to an Apple Watch in April of this year. At first I thought its emphasis on calories as the main goal was helpful but by the end of November, as my weight had hit a new record, I looked over the months of data (I had imported all my FitBit data into Apple’s Health app when I moved to it) and realized that overall I was actually getting far less activity than I had before.
@@ -28,9 +29,7 @@ Before I get into how I make FitBit work for me I should point out that it didn�
 
 Setting appropriate goals was the single biggest change I made to how I use my FitBit. When you buy one it comes with a 10,000 step goal. Not only can that be difficult for you physically if you’re not used to it but if, like me, you try to keep to a fairly consistent routine the amount of extra time you could spend getting that many steps in per day might not be realistic at first. For example, I average somewhere between 5,000 and 6,000 steps per hour. To try to go straight from 3,000 steps to 10,000 steps means I need an additional hour and a half in my day to make my goal. That wasn’t going to happen.
 
-<p class="has-text-align-center">
-  <em><strong>Start at 5,000 steps</strong></em>
-</p>
+> Start at 5,000 steps
 
 Given 10,000 is too high I’ve set my FitBit&nbsp;to a 5,000 step per day goal. This is an extra 15-20 minutes of walking per day which is totally doable and I don’t feel tired from pushing myself all the way at the beginning.
 
@@ -42,13 +41,9 @@ If you average 1,000 steps per day now maybe starting at 3,000 steps per day is 
 
 Here’s how I re-evaluate my own step goal:
 
-<p class="has-text-align-center">
-  <em><strong>When I’ve hit my step goal every single day (no exceptions) for 4 weeks straight I raise it by 1,000 steps.</strong></em>
-</p>
+> When I’ve hit my step goal every single day (no exceptions) for 4 weeks straight I raise it by 1,000 steps.
 
-<p class="has-text-align-center">
-  <em><strong>If I go 4 weeks in a row where I’ve missed my step goal at least 1 day per week for each of those 4 weeks I lower it 1,000 steps.</strong></em>
-</p>
+> If I go 4 weeks in a row where I’ve missed my step goal at least 1 day per week for each of those 4 weeks I lower it 1,000 steps.
 
 This 4 week mark gives me plenty of time to adjust physically and mentally do simply doing more. When I started in July of 2015 it took me until December of 2016 to get to 10,000 steps. A year and a half. During that time I never once went down in my goal (that 4th week could sometimes be stressful but it was always worth it). When things were busy and I didn’t prioritize the goal it instead stayed right where it was and gave me a constant reminder to get out and try for it at a lever I knew darn well I could keep up with.
 

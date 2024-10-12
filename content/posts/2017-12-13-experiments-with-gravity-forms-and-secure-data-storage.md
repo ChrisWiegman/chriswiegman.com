@@ -9,19 +9,13 @@ tags:
   - Privacy
   - Security
   - WordPress
-
 ---
+
 One of the best aspects of my job at [UF Health][1] is we get to experiment and push boundaries if it means advancing the interests of our customers (in our case “customers” are the departments, labs and other units that build sites on one of our WordPress platforms.
 One of the tasks I’ve been asked to look into involves two parts:
 
-<ol class="wp-block-list">
-  <li>
-    Allow for personal data to be accepted via <a href="https://www.gravityforms.com/">Gravity Forms</a> while meeting full HIPAA/FERPA compliance
-  </li>
-  <li>
-    Allow for individual groups on our <a href="https://buddypress.org/">BuddyPress</a> intranet to handle personal and other sensitive data to meet HIPAA/FERPA compliance.
-  </li>
-</ol>
+1. Allow for personal data to be accepted via [Gravity Forms](https://www.gravityforms.com/) while meeting full HIPAA/FERPA compliance
+2. Allow for individual groups on our [BuddyPress](https://www.gravityforms.com/) intranet to handle personal and other sensitive data to meet HIPAA/FERPA compliance.
 
 While the latter is, I must admit, still a work in progress I have been able to make a working proof of concept that would allow for secure storage of Gravity Forms entries that will, hopefully, be able to meet our regulatory requirements.&nbsp;
 

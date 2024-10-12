@@ -8,8 +8,8 @@ categories:
 tags:
   - Hardware
   - Mobile
-
 ---
+
 Back in December [I wrote about an experiment I was doing][1] where I had started using a Google Pixel 2 XL on Google Fi along with my AT&T iPhone 8+.  Five months later I’m happy to report there was a clear winner in that little contest. In fact, within weeks it became clear to me that it wasn’t really a content at all and that my iPhone really couldn’t hold a candle to my Pixel.
 The funny thing about this all is that the original experiment wasn’t to get me to switch from iOS to Android. Frankly, while iPhone had plenty of quirks, it worked really well in my workflow where I consider my phone simply an extension of my laptop when my laptop isn’t handy. I don’t use them together rather when I put one down I want to be able to pick the other one up and just keep going. iPhone did that well. What I was looking for instead was a cell phone service that worked in my neighborhood which is a complete dead zone for AT&T and, at least in talking to friends, most other services. As such going to Android was a side effect of giving Project Fi a try as it seems like it had the best chance of making sure I could connect to anything when I’m not on the wi-fi in my house.
 

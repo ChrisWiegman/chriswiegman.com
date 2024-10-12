@@ -7,9 +7,10 @@ categories:
   - Personal
 tags:
   - Reflection
-
 ---
+
 Tomorrow I hit a big milestone in my life. I turn 40. Normally birthdays aren’t something I think too much of but this one hit me a little bit harder than I expected. My life today is, I must admit, vastly different from where I thought I would be at this point when I hit 20 or even when I hit 30. It’s even so much different from what I thought it would be even 5 years ago and, for the most part, that’s all a very good thing.
+
 ## Looking Back
 
 Twenty years ago I thought I had my life all planned out. I was about to start back to school to learn to fly airplanes and I really thought I was starting on something that would last a lifetime. I was looking forward to, what I thought at the time, was going to be something exciting and fulfilling and it seemed like nothing was going to slow me down.

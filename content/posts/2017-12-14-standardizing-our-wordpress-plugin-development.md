@@ -8,9 +8,10 @@ categories:
 tags:
   - Development Tools
   - WordPress
-
 ---
+
 We write a lot of plugins at work. On average I seem to build one or two a month myself and I’m one of a team of developers working on our site. With that much code getting built keeping all that code maintainable can be quite a chore. To make that chore a bit easier I’ve introduced the team to WordPress coding standards and other tools but it can still be a challenge to keep all the plugins organized.
+
 ## Enter [Yeoman][1]
 
 Yeoman is a scaffolding tool I was first introduced to during my tenure at [10up][2] who used it in a very similar fashion as what I needed. It creates a WordPress plugin that can be activated and comes complete with a Grunt build for handling assets, a base for PHP unit tests and enough other standards and tools to completely remove the burden of spinning up a project from our developers.

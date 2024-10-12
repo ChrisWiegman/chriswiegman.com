@@ -8,9 +8,10 @@ categories:
 tags:
   - Career Development
   - Development
-
 ---
+
 As a teacher and speaker one of the questions I’m often&nbsp;asked is which language/technique/etc should an aspiring developer learn first to get a job as fast as possible. Most of these folks are ambitious&nbsp;and capable but, in following many over the course of the years, I find few ever become great at what they do simply because they aspire to be a “super generalist,” that is, a developer who can write any code for any project on any timetable without question. What they aspire to is not to be a successful developer but to imitate, often in only months to a year or two, the careers of mentors and teachers who while having been in the industry for many more years are not up to the standards the student is expecting themselves.
+
 ## It isn’t their fault
 
 The idea of the generalist seems to be a badge of honor in an industry like tech where a list of required skills and knowledge for an entry level job can read as if the single position is for an entire team rather than a single, often underpaid, developer. In the&nbsp;10 years since I quit flying I’ve seen developers who claim to specialize in one technology one day and another the next all while building projects that never seem to have any goal other than the initial launch and, as long as it “works” any slop code put together is just fine.
@@ -29,17 +30,9 @@ On the other end, becoming a professional developer does not require a universit
 
 After answering&nbsp;the question of where to start there are 3 things I tell all aspiring developers. These are three skills that will not just allow a developer to get their first job but will help them continue to improve their craft to that of a professional, senior level developer.
 
-<ol class="wp-block-list">
-  <li>
-    <strong>How to study and learn individually</strong> <br />While this might sound self-evident all too many people are simply not capable of learning on their own as a result they rarely grow beyond their first position. This doesn’t mean one has to be taking formal courses or anything like that but, more often than not, simply manifests itself as simple interest in what they do and ambition to do more with it. Picking up side project outside of one’s comfort zone is a great way to learn and improve over time, but in new skills and even in tricks and techniques for one’s core competencies.
-  </li>
-  <li>
-    <strong>How to communicate effectively</strong> <br />If you can’t communicate what you’re doing and what you need help with you cannot grow as a developer. From simple code commits to documentation to project issues with other stakeholders many developers never become great simply because they cannot communicate with others around them.
-  </li>
-  <li>
-    <strong>The fundamentals of modern code</strong> <br />Once someone has the interest and ambition to learn and knows how to ask for and receive help a knowledge of the fundamentals of code will be better than any one specific language. Whether you work in Swift or JavaScript knowing how code works and is structured will cross languages, frameworks and projects helping make sure you the code you right is that of a true professional rather than a capable amateur.
-  </li>
-</ol>
+1. **How to study and learn individually** <br />While this might sound self-evident all too many people are simply not capable of learning on their own as a result they rarely grow beyond their first position. This doesn’t mean one has to be taking formal courses or anything like that but, more often than not, simply manifests itself as simple interest in what they do and ambition to do more with it. Picking up side project outside of one’s comfort zone is a great way to learn and improve over time, but in new skills and even in tricks and techniques for one’s core competencies.
+2. **How to communicate effectively** <br />If you can’t communicate what you’re doing and what you need help with you cannot grow as a developer. From simple code commits to documentation to project issues with other stakeholders many developers never become great simply because they cannot communicate with others around them.
+3. **The fundamentals of modern code** <br />Once someone has the interest and ambition to learn and knows how to ask for and receive help a knowledge of the fundamentals of code will be better than any one specific language. Whether you work in Swift or JavaScript knowing how code works and is structured will cross languages, frameworks and projects helping make sure you the code you right is that of a true professional rather than a capable amateur.
 
 ## In conclusion: the case for specialization
 

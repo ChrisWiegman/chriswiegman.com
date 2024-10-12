@@ -8,9 +8,10 @@ categories:
 tags:
   - Net Neutrality
   - Regulation
-
 ---
+
 There’s a lot of talk, understandably, about Net Neutrality right now after the FCC’s vote the other day. Some of it is legitimate, some of it is garbage and all of it, as with any other major change, leaves a lot of unknowns. More than most issues these days the issue of Net Neutrality worries me both professionally and personally due to a number of factors mostly centering on the potential implications it could have on our society as a whole over the course of the next few generations. Here are a few of my own thoughts as someone who has worked both in tech as well as some of the most regulated industries in our modern economy including aviation, healthcare and education.
+
 ## Removing the Title II classification is not deregulation
 
 First and foremost we have to wake up to the fact that removing the Title II classification, the bulk of what was done last week by the FCC, is not deregulation. The regulation imposed by a government is more than the number of words on paper and, as in this case, can take the form of a conscious choice to regulate an industry in favor of one set of players over another The FCC, in this case, has made a choice to regulate the internet in favor of the few large internet service providers that control the access to the internet for the vast majority of both American individuals and corporations. Selling this choice on the idea that less documented regulation is somehow deregulating the internet is nothing but a sideshow to win over the opinions of groups of people who tend to think anything the government puts on paper is bad.

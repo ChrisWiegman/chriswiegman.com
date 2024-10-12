@@ -10,8 +10,8 @@ tags:
   - Ecosystems
   - Google
   - Tools
-
 ---
+
 Yesterday I wrote about [an experiment I’m doing in trying out Google Pixel and Google Fi alongside my iPhone 8+ on AT&T][1]. While hardware has been part of the experiment it hasn’t been the only change I’ve made. In addition to switching hardware I’m giving up on my long-held mantra of trying to stick entirely with Apple’s native software on my devices rather than using the alternatives.
 To date I can’t say there has been anything bad about sticking with stock apps such as Reminders, Calendar, Safari, Mail and more. In fact, as all my devices have been Apple for quite some time it made things incredibly easy to do as these are the only apps that can really interact in iOS thanks to Apple’s limitations on the system. They mostly worked for me too. I was able to live with the weird limitations in each app when I never had to worry about them all syncing properly across devices.
 

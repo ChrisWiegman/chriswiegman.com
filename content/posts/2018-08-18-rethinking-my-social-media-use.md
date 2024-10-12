@@ -7,11 +7,12 @@ categories:
   - Personal
 tags:
   - Social Media
-
 ---
+
 Most of you who know me know that I’ve struggled for a while now with how social media currently fits into my life and how I would prefer it to fit into my life. Ten years ago it was nothing for me to sign up for every service and post to them like there was no tomorrow. Heck, during my days at SIU doing so was actually part of my job as I managed all the social media for the Aviation departments. It was fun, I guess.
 
 Today I’m not so sure if that was the right approach, or, for that matter, what the “right” approach even means. Over the last few months I’ve scrubbed or deleted most of my online accounts and worked to severely limit the time I’ve spent on the rest (often with even more limited success). I’ve done this not because I want to but, in many ways, because I feel like I have to for a number of reasons.
+
 ## Social Media Can Be Toxic
 
 First and foremost, social media can be a toxic cesspool of hate and ego. I’m obviously not immune to this one any more than anyone else is, particularly if I’ve had a few drinks first. I’ve lost friends over it and I’ve lost my respect for far more people than I could list in a single post.
