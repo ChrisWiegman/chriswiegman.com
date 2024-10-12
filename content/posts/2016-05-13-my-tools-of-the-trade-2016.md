@@ -10,13 +10,13 @@ tags:
   - Tools
 ---
 
-In what has become something of an annual tradition of mine about this time&nbsp;each year I take stock of the tools I use for my work each day, both as something of an “inventory” as well as to share as ideas with those whom I work with.
+In what has become something of an annual tradition of mine about this time each year I take stock of the tools I use for my work each day, both as something of an “inventory” as well as to share as ideas with those whom I work with.
 
 ## What else has changed?
 
-This year, in many ways, I find the changes in my tools particularly interesting as, while many of the same software titles are still there, the way I use many of them and the additions I now compliment them with have changed considerably. For example, up until quite recently I wrote all my posts on my MacBook Pro which has been a workhorse since I bought&nbsp;it 4 years ago. Today I type this on an 9.7″ iPad Pro as I find using it for writing allows me to focus on what I’m writing rather than succumbing to the distractions that are all too easy to get to me when I work on posts on the same computer on which I write code and pretty much live the bulk of my life.
+This year, in many ways, I find the changes in my tools particularly interesting as, while many of the same software titles are still there, the way I use many of them and the additions I now compliment them with have changed considerably. For example, up until quite recently I wrote all my posts on my MacBook Pro which has been a workhorse since I bought it 4 years ago. Today I type this on an 9.7″ iPad Pro as I find using it for writing allows me to focus on what I’m writing rather than succumbing to the distractions that are all too easy to get to me when I work on posts on the same computer on which I write code and pretty much live the bulk of my life.
 
-In addition to a new hardware setup I’ve also added tools that help me offload common tasks and focus on the work that really matters. From Todoist to Evernote and Ulysses&nbsp;to Paw I’ve found a number of tools that have helped me finally feel like I can stay connected while still maintaining focus on what I need to do.
+In addition to a new hardware setup I’ve also added tools that help me offload common tasks and focus on the work that really matters. From Todoist to Evernote and Ulysses to Paw I’ve found a number of tools that have helped me finally feel like I can stay connected while still maintaining focus on what I need to do.
 
 ## On to the apps
 

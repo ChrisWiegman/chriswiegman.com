@@ -16,7 +16,7 @@ Well, in nearly all cases the reason isn’t a problem at all but by design (I�
 
 The reason is wp-cron. This is WordPress’ task scheduler that takes care of things like checking for updates, publishing scheduled posts, and a whole lot of other functions depending on your configuration.
 
-Now by itself wp-cron isn’t a problem. In fact without it most sites would have a whole set of new problems. The problem with wp-cron that slows your site down however is two-fold. First, it runs on every single page load. This means that whether it is needed or not it is running and like all running scripts can take some time to process. Second, if the site hasn’t been loaded in a while it will have &nbsp;a whole lot of missed tasks to finish up which can greatly compound the loading time.
+Now by itself wp-cron isn’t a problem. In fact without it most sites would have a whole set of new problems. The problem with wp-cron that slows your site down however is two-fold. First, it runs on every single page load. This means that whether it is needed or not it is running and like all running scripts can take some time to process. Second, if the site hasn’t been loaded in a while it will have  a whole lot of missed tasks to finish up which can greatly compound the loading time.
 
 So how do we fix this? How can we get WordPress to run our tasks on a regular basis without doing so on every page load? The answer comes in two parts. First, we’ll disable wp-cron from running within WordPress whenever a user loads a page. Second, we’ll set up wp-cron to instead run at a regular interval in the background on our server. Put together this technique will speed up the load time for our users and make sure that wp-cron is running an maintenance tasks whether anyone has come to our site or not.
 
@@ -50,7 +50,7 @@ crontab -e
 
 c.) Schedule wp-cron.php to run every 10 minutes by entering the following command. Note that the path to your wp-cron.php and your path to php may be different.
 
-0,10,20,30,40,50 \* \* \* \* /usr/bin/php /home/webuser/public_html/wp-cron.php&nbsp;>/dev/null 2>&1
+0,10,20,30,40,50 \* \* \* \* /usr/bin/php /home/webuser/public_html/wp-cron.php >/dev/null 2>&1
 
 d.) save and exit (the procedure for this may vary depending on what text editor you’re using to edit crontab.
 

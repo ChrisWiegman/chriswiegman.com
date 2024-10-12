@@ -15,7 +15,7 @@ For as much bad as I’ve seen in 2016 I can say, at least for me, it wound up f
 
 ## 2016 in Review
 
-As much as I talk about having promise for next year I have to say that I had been thinking the same thing for 2016 when it started and I wound up spending most of it absolutely miserable. Some of the highlights of a year&nbsp;where my main goal was getting healthier:
+As much as I talk about having promise for next year I have to say that I had been thinking the same thing for 2016 when it started and I wound up spending most of it absolutely miserable. Some of the highlights of a year where my main goal was getting healthier:
 
 * I’m 1.1 lbs heavier today than I was on Dec 31, 2015
 * [We still average nearly $700.00/month on just beer](/2016/06/the-year-without-beer-my-progress-so-far/)

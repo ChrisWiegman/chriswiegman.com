@@ -17,7 +17,7 @@ Picking a good WordPress plugin or theme can often be more difficult than pickin
 
 ## <a title="Yoast" href="http://yoast.com" target="_blank" rel="noopener noreferrer">Joost de Valk</a>
 
-First up is Joost de Valk of yoast.com. Yoast produces some big plugins such as <a title="WordPress SEO" href="http://yoast.com/wordpress/seo/" target="_blank" rel="noopener noreferrer">WordPress SEO</a>, and <a title="Google Analytics for WordPress" href="http://yoast.com/wordpress/google-analytics/" target="_blank" rel="noopener noreferrer">Google Analytics for WordPress</a>. His code is top-notch, the feature sets are complete, and to date I haven’t had a single compatibility problem with anything I’ve used of his. Even if you’re already using the competition’s plugins check out what he has to offer and you won’t be&nbsp;disappointed.
+First up is Joost de Valk of yoast.com. Yoast produces some big plugins such as <a title="WordPress SEO" href="http://yoast.com/wordpress/seo/" target="_blank" rel="noopener noreferrer">WordPress SEO</a>, and <a title="Google Analytics for WordPress" href="http://yoast.com/wordpress/google-analytics/" target="_blank" rel="noopener noreferrer">Google Analytics for WordPress</a>. His code is top-notch, the feature sets are complete, and to date I haven’t had a single compatibility problem with anything I’ve used of his. Even if you’re already using the competition’s plugins check out what he has to offer and you won’t be disappointed.
 
 ## John Lee Saddington
 

@@ -11,4 +11,4 @@ tags:
   - WordCamp Providence
 
 ---
-Another great opportunity has presented itself to me this weekend. I am speaking not once but twice at WordCamp Providence in Providence, RI. In addition to my talk on “Securing WordPress the Right Way” I had the honor of presenting a 4-hour workshop on securing WordPress with&nbsp;Joseph Herbrandson of <a title="Sucuri" href="http://sucuri.net" target="_blank" rel="noopener noreferrer">Sucuri.net</a>&nbsp;which which went spectacularly yesterday and will hopefully start a series of such events as we move forward.
+Another great opportunity has presented itself to me this weekend. I am speaking not once but twice at WordCamp Providence in Providence, RI. In addition to my talk on “Securing WordPress the Right Way” I had the honor of presenting a 4-hour workshop on securing WordPress with Joseph Herbrandson of <a title="Sucuri" href="http://sucuri.net" target="_blank" rel="noopener noreferrer">Sucuri.net</a> which which went spectacularly yesterday and will hopefully start a series of such events as we move forward.

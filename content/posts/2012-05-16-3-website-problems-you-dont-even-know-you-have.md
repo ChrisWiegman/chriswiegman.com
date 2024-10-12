@@ -37,7 +37,7 @@ Most sites should really have no problem loading in less than 3 seconds yet all 
 
 Now, what to do with this information is the tricky part. First, if your site is slow because of too many images or other media this is easy and you can probably just <a title="8 Excellent Tools for Optimizing Your Images - SixRevisions.com" href="http://sixrevisions.com/tools/8-excellent-tools-for-optimizing-your-images/" target="_blank" rel="noopener noreferrer">optimize your media for faster load times</a>. If your issues are your host or server however this might get a little more complicated. Installing [caching][1], [combining scripts][2] and [reducing features][3] might help or you might have to go to a new host entirely depending on where the problem lies.
 
-While it may seem like a daunting task to improve your site load time remember that even a small speed improvement can really help. Keep this in mind and take your time in optimizing your site as&nbsp;each little step you take will bring results over the long term.
+While it may seem like a daunting task to improve your site load time remember that even a small speed improvement can really help. Keep this in mind and take your time in optimizing your site as each little step you take will bring results over the long term.
 
 ## 3.) Your site isn’t secure {#h-3-your-site-isn-t-secure.wp-block-heading}
 
@@ -47,7 +47,7 @@ While it may seem like a daunting task to improve your site load time remember t
 
 What will you do if your site gets hacked? I’ll tell you what your readers will do. Many of them won’t ever come back.
 
-If you’ve spent any time on this site you’ll know that with my [Better WP Security plugin][4] website security is a topic that is dear to me. The problem is for more site owners security is something someone else has to worry about as an attack will “never happen to me.” &nbsp;The facts however say otherwise. You see, attackers don’t care about how much traffic you get or what you write about. They care that your site can be another number in their bot network spreading malware and other nasties throughout the internet.
+If you’ve spent any time on this site you’ll know that with my [Better WP Security plugin][4] website security is a topic that is dear to me. The problem is for more site owners security is something someone else has to worry about as an attack will “never happen to me.”  The facts however say otherwise. You see, attackers don’t care about how much traffic you get or what you write about. They care that your site can be another number in their bot network spreading malware and other nasties throughout the internet.
 
 While nothing can make your site 100% secure there are a few things you should be doing to make it harder for attackers get in and to be able to recover with minimal loss should they get through your defenses.
 

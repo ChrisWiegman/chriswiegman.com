@@ -10,17 +10,17 @@ tags:
   - WordPress
 ---
 
-For the most part the idea that you can never have too much security rings true. A good firewall,&nbsp;smart account management, following coding standards and best practices… These are all good things but, as with anything else you can have too much of a good thing.
+For the most part the idea that you can never have too much security rings true. A good firewall, smart account management, following coding standards and best practices… These are all good things but, as with anything else you can have too much of a good thing.
 
-In this case I’m talking about proper escaping of content that is to be displayed in a WordPress site. This is as simple as saying every single time you echo data to a template or elsewhere on a WordPress site you need to escape it. This is so easy to do in WordPress with a [number of functions available to handle nearly any situation](https://codex.wordpress.org/Validating_Sanitizing_and_Escaping_User_Data). In fact it’s so easy to do that it isn’t uncommon in a plugin or theme&nbsp;made by a good developer to see the same data escaped two, three or even more times before it’s finally echoed. This is a problem.
+In this case I’m talking about proper escaping of content that is to be displayed in a WordPress site. This is as simple as saying every single time you echo data to a template or elsewhere on a WordPress site you need to escape it. This is so easy to do in WordPress with a [number of functions available to handle nearly any situation](https://codex.wordpress.org/Validating_Sanitizing_and_Escaping_User_Data). In fact it’s so easy to do that it isn’t uncommon in a plugin or theme made by a good developer to see the same data escaped two, three or even more times before it’s finally echoed. This is a problem.
 
 ## Escaping Costs Resources
 
-While escaping data is a rather cheap function as far as programming goes doing it over and over isn’t free. Each time you call an escaping function there is some cost as PHP must process that function searching for the characters to escape. On a small site this really isn’t noticeable but at scale all these calls can add up and&nbsp;may start to dominate profiles if not handled correctly. There simply isn’t a need to do this more than once if done right.
+While escaping data is a rather cheap function as far as programming goes doing it over and over isn’t free. Each time you call an escaping function there is some cost as PHP must process that function searching for the characters to escape. On a small site this really isn’t noticeable but at scale all these calls can add up and may start to dominate profiles if not handled correctly. There simply isn’t a need to do this more than once if done right.
 
 ## Escaping Early Isn’t Really Escaping At All
 
-More often than not what I see (and I’ve been guilty of this myself) is developers escaping the return value of every function as well as that same data within the function when called from elsewhere. While this may seem legitimate what often happens, particularly with common hooks such as the_content and others, is your hook quite possibly isn’t the last time the data will be modified. As soon as another hook you don’t control modifies your escaped data your escaping function becomes worthless. In other words, escaping only works if done after the data is&nbsp;completely done with processing,&nbsp;this point is difficult, at best, to determine before you echo the data itself.
+More often than not what I see (and I’ve been guilty of this myself) is developers escaping the return value of every function as well as that same data within the function when called from elsewhere. While this may seem legitimate what often happens, particularly with common hooks such as the_content and others, is your hook quite possibly isn’t the last time the data will be modified. As soon as another hook you don’t control modifies your escaped data your escaping function becomes worthless. In other words, escaping only works if done after the data is completely done with processing, this point is difficult, at best, to determine before you echo the data itself.
 
 ## Escaping Late Is All It Needs
 

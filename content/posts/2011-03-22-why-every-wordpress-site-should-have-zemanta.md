@@ -17,7 +17,7 @@ Taking the time to write a good blog article is crucial. You must have your fact
 
 Linking is something that is often overlooked often to the detriment of the author. I’ve read many articles referring to an obscure software package or website only to be annoyed when the author didn’t bother linking back to it. Maybe they were short of time, maybe they were just lazy. I don’t know, but it doesn’t raise my confidence in their content.
 
-So how can a time-pressed blogger link back to referenced content easily and quickly? With the use of&nbsp;<a href="http://wordpress.org/extend/plugins/zemanta/" target="_blank" rel="noopener noreferrer">Zemanta</a>.
+So how can a time-pressed blogger link back to referenced content easily and quickly? With the use of <a href="http://wordpress.org/extend/plugins/zemanta/" target="_blank" rel="noopener noreferrer">Zemanta</a>.
 
 Zemanta is a built-in feature for <a href="http://www.wordpress.com" target="_blank" rel="noopener noreferrer">WordPress.com</a> users and a plugin for those of us on <a href="http://www.wordpress.org" target="_blank" rel="noopener noreferrer">WordPress.org</a>. It looks at your post as you type and provides links, related articles, and suggested images for you to insert in your post with a single click.
 

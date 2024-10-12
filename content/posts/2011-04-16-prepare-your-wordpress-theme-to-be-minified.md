@@ -9,7 +9,7 @@ tags:
   - WordPress
 
 ---
-Minifying your [WordPress][1] themes is one of the best things you can do to help reduce the number of http calls made to the server and thus help reduce the loading time of your site. There are two excellent plugins which can do the actual work for you, [W3 Total Cache][2] and WP Minify&nbsp;both of which will take the Javascript files and style sheets in your theme and plugin output and combine them into a single javascript file and a single stylesheet. In the case of a complex theme or a site with many plugins this technique alone can easily save 10 or more http requests and provide a&nbsp;noticeable&nbsp;decrease in load times.
+Minifying your [WordPress][1] themes is one of the best things you can do to help reduce the number of http calls made to the server and thus help reduce the loading time of your site. There are two excellent plugins which can do the actual work for you, [W3 Total Cache][2] and WP Minify both of which will take the Javascript files and style sheets in your theme and plugin output and combine them into a single javascript file and a single stylesheet. In the case of a complex theme or a site with many plugins this technique alone can easily save 10 or more http requests and provide a noticeable decrease in load times.
 
 Unfortunately this isn’t always so easy. Many themes and even some plugins will hard-code style sheets and javascript files into the header preventing them from being minified. Fortunately the fix for this is pretty easy.
 
@@ -17,7 +17,7 @@ Let’s start with themes:
 
 First, make a list of all the css and js files hardcoded into the header.php file. Don’t have a header.php in your theme? Just look for the php file in your theme with \[html\]\[/html\] and \[html\]\[/html\] and make your list from there. For this example we’re going to assume you had two css files listed, style.css and style2.css.
 
-Next open the functions.php file in your theme. &nbsp;Here’s where we are going to list the files. Start by making sure that these don’t load in the WordPress backend by entering:
+Next open the functions.php file in your theme.  Here’s where we are going to list the files. Start by making sure that these don’t load in the WordPress backend by entering:
 
 <pre class="wp-block-code" aria-describedby="shcb-language-8" data-shcb-language-name="PHP" data-shcb-language-slug="php"><span><code class="hljs language-php">&lt;span class="hljs-keyword">if&lt;/span> ( ! is_admin() ) {</code></span><small class="shcb-language" id="shcb-language-8"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">PHP</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">php</span><span class="shcb-language__paren">)</span></small></pre>
 

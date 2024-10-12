@@ -29,7 +29,7 @@ The second solution is just to load both style.css and your new stylesheet in th
 
 ### The problem with Genesis and style.css
 
-On most themes not loading style.css is actually rather easy. You can just de-register and dequeue it with WordPress’ built-in functions <a title="wp_deregister_style() in the WordPress Codex" href="http://codex.wordpress.org/Function_Reference/wp_deregister_style" target="_blank" rel="noopener noreferrer">wp_deregister_style()</a> and&nbsp;_<a title="wp_dequeue_style in the WordPress codex" href="http://codex.wordpress.org/Function_Reference/wp_dequeue_style" target="_blank" rel="noopener noreferrer">wp_dequeue_style()</a>.&nbsp;_
+On most themes not loading style.css is actually rather easy. You can just de-register and dequeue it with WordPress’ built-in functions <a title="wp_deregister_style() in the WordPress Codex" href="http://codex.wordpress.org/Function_Reference/wp_deregister_style" target="_blank" rel="noopener noreferrer">wp_deregister_style()</a> and _<a title="wp_dequeue_style in the WordPress codex" href="http://codex.wordpress.org/Function_Reference/wp_dequeue_style" target="_blank" rel="noopener noreferrer">wp_dequeue_style()</a>. _
 
 If you use The Genesis Framework for your theme this won’t work. Genesis doesn’t add the stylesheet in the normal way and instead uses its own hook to add style.css to your theme’s header.
 

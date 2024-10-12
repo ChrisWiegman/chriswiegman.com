@@ -25,7 +25,7 @@ I see this all the time. XYZ restaurant wants to be my friend on Facebook or Fou
 
 There’s nothing quite like having your account deleted after you’ve spent time and money on it simply because someone just didn’t know what they were doing. In this case your expert was almost anything but.
 
-### 3. Their own social profiles are full of plenty of&nbsp;insightful&nbsp;articles… by other people
+### 3. Their own social profiles are full of plenty of insightful articles… by other people
 
 One of the great benefits of all the major networks is the ability to share content created by others with your fans/friends/followers/etc. When this is all your expert does however it might be time to question their credentials. Where is the original content? What can they contribute to your customers and your community?
 

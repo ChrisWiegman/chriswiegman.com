@@ -18,7 +18,7 @@ There are actually 3 signs that your site has too many features. While these 3 c
 
 ## 1.) Site Load Time
 
-One of the first ways to tell if your site has too many features is [site load time][2]. Take a look at <a title="Webpagetest.org" href="http://webpagetest.org" target="_blank" rel="noopener noreferrer">webpagetest.org</a>. How long does your site take to load? How many objects is it loading?&nbsp;If you’re loading hundreds of javascripts, css style sheets, and images you might have a problem. If you’re site takes 20 seconds or more to load you might also have a problem.
+One of the first ways to tell if your site has too many features is [site load time][2]. Take a look at <a title="Webpagetest.org" href="http://webpagetest.org" target="_blank" rel="noopener noreferrer">webpagetest.org</a>. How long does your site take to load? How many objects is it loading? If you’re loading hundreds of javascripts, css style sheets, and images you might have a problem. If you’re site takes 20 seconds or more to load you might also have a problem.
 
 The issue here is that all those fancy social media and other widgets have a cost. They might not cost you real money to install but they add to the load time of your website which in turn costs you on Google rankings and user satisfaction. Look hard at the results page from webpagetest.org. Are all the files loaded by your site necessary or, in the worst case, do you even recognize everything that loads when a user hits your page?
 

@@ -13,7 +13,7 @@ tags:
   <figure class="alignright"><img decoding="async" src="/images/2011/09/10-Things-About-Google-225x179-1.jpg" alt="Google" class="wp-image-2145" title="10 Things About Google" /></figure>
 </div>
 
-Everyone is familiar with <a title="Google" href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a> on a personal level, but as a website owner we must go beyond the services we’re familiar with and take advantage of a host of new (to us) services designed to help us promote, monetize, and&nbsp;gauge&nbsp;the effectiveness of our websites. These 5 services are products that you’ve probably never used in a professional way until building your own websites, but if you ask any experienced website owner you’ll quickly learn that they are more valuable than just about anything else Google offers.
+Everyone is familiar with <a title="Google" href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a> on a personal level, but as a website owner we must go beyond the services we’re familiar with and take advantage of a host of new (to us) services designed to help us promote, monetize, and gauge the effectiveness of our websites. These 5 services are products that you’ve probably never used in a professional way until building your own websites, but if you ask any experienced website owner you’ll quickly learn that they are more valuable than just about anything else Google offers.
 
 ### 1.) Google Apps {#h-1-google-apps.wp-block-heading}
 

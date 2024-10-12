@@ -26,11 +26,11 @@ In higher ed this can be rough, departments tend to operate in almost a tribal s
 
 ## 3.) Offer help back
 
-I am currently working on completing a server setup for the journalism department here at SIU as they lack the expertise to implement it themselves. As professionals we need to be&nbsp;conscious&nbsp;of those in our community and offer help where we can. Not only will the other group/department/etc benefit from your assistance, but in a cash strapped environment a returned favor later might be just what you need.
+I am currently working on completing a server setup for the journalism department here at SIU as they lack the expertise to implement it themselves. As professionals we need to be conscious of those in our community and offer help where we can. Not only will the other group/department/etc benefit from your assistance, but in a cash strapped environment a returned favor later might be just what you need.
 
-## 4.) Establish a&nbsp;running&nbsp;dialog
+## 4.) Establish a running dialog
 
-Whether it be through social media, informal lunches, or formal meetings be a leader in your community and establish a way for the web people around you to communicate. Not only might you find ways to help each other, but in many fragmented communities the&nbsp;camaraderie&nbsp;alone might be just what one needs to boost their spirits.
+Whether it be through social media, informal lunches, or formal meetings be a leader in your community and establish a way for the web people around you to communicate. Not only might you find ways to help each other, but in many fragmented communities the camaraderie alone might be just what one needs to boost their spirits.
 
 In the end what it comes down to is even the best web professionals can benefit from the experience of others. If your community doesn’t foster communication naturally among your peers that take the reigns yourself and start a working dialog. Not only might those around you benefit greatly, but you might learn a trick or two yourself.
 

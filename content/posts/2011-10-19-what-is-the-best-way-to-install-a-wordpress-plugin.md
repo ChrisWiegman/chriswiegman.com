@@ -29,7 +29,7 @@ Their are 2 drawbacks to this method. First, it takes longer than just using the
 
 The last method to install a plugin involves downloading the plugin from WordPress.org or another site in the same manner in which you would if you were to use the built-in “Upload” function in WordPress. The difference here is that instead of having WordPress upload and extract the file for you instead you extract it on your machine and upload the plugin folder and its content to the plugin folder on your WordPress installation (usually wp-content/plugins). Then you go back to the plugins page on your WordPress installation and press the “Activate” button.
 
-While this take a little more work than having WordPress install it for you it will also help you ensure the quality of the plugin yourself while not taking&nbsp;unnecessary&nbsp;space on your server. You have the advantage of seeing all the information from the plugin site and you can easily browse the code yourself if you would like making sure that everything is up to your standards.
+While this take a little more work than having WordPress install it for you it will also help you ensure the quality of the plugin yourself while not taking unnecessary space on your server. You have the advantage of seeing all the information from the plugin site and you can easily browse the code yourself if you would like making sure that everything is up to your standards.
 
 ### So which is best?
 

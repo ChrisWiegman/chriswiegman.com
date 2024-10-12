@@ -42,7 +42,7 @@ Outside of my day job I was also offered the opportunity to speak at 4 conferenc
 
 Speaking of goals, to round out 2018 I wanted to [take a look back at the goals I set for myself last year][3] to see where I wound up. While I didn’t think they were all that ambitious my success, overall, was pretty mixed. Here’s how I did:
 
-* ***I’m going to mostly go dry. ***&nbsp;– We had a few quiet moments but didn’t really make any progress here. Once we got passed June and our travel schedule increased it all pretty much went to hell.
+* ***I’m going to mostly go dry. *** – We had a few quiet moments but didn’t really make any progress here. Once we got passed June and our travel schedule increased it all pretty much went to hell.
 * ***I want to finish 26 books.*** – I killed it here with 68 books read. I feel like I’ve hit a point where reading is one thing I look forward to the most on any given day and it feels great.
 * ***I want to finish 52 posts on this site.*** – Yeah, I failed pretty miserably at this one with only 9 posts completed.
 * ***I want to get my step goal back to 10,000 steps and keep it there.*** – I got there in June… and promptly lost it a few months later. I ended the year with a goal of 8,000 steps.

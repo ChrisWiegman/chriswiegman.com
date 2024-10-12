@@ -19,7 +19,7 @@ Yep, that’s right, if you’re already a [Jetpack][3] user you can offload sit
 
 First, make sure each of your users has an account on WordPress.com, preferably with the same email address as their local account.
 
-To make Secure Sign On available via Jetpack navigate to _Jetpack -> Settings -> Security_ and turn on&nbsp;_Allow users to log into this site using WordPress.com accounts_ (see the screenshot below). You can also set options to automatically match accounts by email address and/or require WordPress.com users to enable two-factor authentication on their accounts. For security I would highly recommend turning on this last option.
+To make Secure Sign On available via Jetpack navigate to _Jetpack -> Settings -> Security_ and turn on _Allow users to log into this site using WordPress.com accounts_ (see the screenshot below). You can also set options to automatically match accounts by email address and/or require WordPress.com users to enable two-factor authentication on their accounts. For security I would highly recommend turning on this last option.
 
 ![Enable Jetpack secure sign on](/images/2017/12/enable-jetpack-secure-sign-on.jpg "Go to your Jetpack Security settings and turn on WordPress.com logins and their associated options.")
 

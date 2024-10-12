@@ -9,7 +9,7 @@ tags:
   - Security
 
 ---
-When I was working for a university in Illinois it wasn’t uncommon for me to get phone calls along the lines of “the xxx department website is playing&nbsp;_foreign_ music.” or “there’s religious propaganda replacing department y’s website.” These are some pretty obvious signs that the website was hacked and something needs to be done about it.
+When I was working for a university in Illinois it wasn’t uncommon for me to get phone calls along the lines of “the xxx department website is playing _foreign_ music.” or “there’s religious propaganda replacing department y’s website.” These are some pretty obvious signs that the website was hacked and something needs to be done about it.
 
 Unfortunately today most attacks aren’t so obvious. Most hacks today result in websites becoming infected and then spreading that infection to unaware users and possibly even other servers. Trust me when I say you don’t want to be in this boat. It can take quite a bit of time to clean up a mess that may have been there long before you discovered it. I still remember getting a call from the central campus IT just before I left that Illinois school asking if I would have some availability to help them clean a site. I asked them if they would like me to stop by one day that week and they told me they would need me until February (it was October when I took the call). Yikes. Whatever they had managed to find its way throughout not just one site but hundreds or more before it was discovered. It was too late.
 
@@ -21,7 +21,7 @@ How can a person or organization know when their website has been compromised be
   <figure class="alignright size-large"><img loading="lazy" decoding="async" width="150" height="150" src="/images/2013/06/sucuri-results-150x150-1.png" alt="Sucuri scan results" class="wp-image-365" /><figcaption>Sucuri will scan your site and tell you if there is a problem</figcaption></figure>
 </div>
 
-<a title="Sucuri SiteCheck" href="http://sitecheck.sucuri.net/scanner/" target="_blank" rel="noopener noreferrer">Sucuri SiteCheck</a>&nbsp;is a service provided by Sucuri that will scan your website against a database of known problems to determine if it has been hacked. It looks for viruses, redirects, spam and seven other items to make sure your site is safe. While a manual scan is free you can also sign up for their paid service which, for $89.99/year for one site will scan it regularly and clean it for you should the worst happen.
+<a title="Sucuri SiteCheck" href="http://sitecheck.sucuri.net/scanner/" target="_blank" rel="noopener noreferrer">Sucuri SiteCheck</a> is a service provided by Sucuri that will scan your website against a database of known problems to determine if it has been hacked. It looks for viruses, redirects, spam and seven other items to make sure your site is safe. While a manual scan is free you can also sign up for their paid service which, for $89.99/year for one site will scan it regularly and clean it for you should the worst happen.
 
 ### 2.) Better WP Security {#h-2-better-wp-security.wp-block-heading}
 
@@ -45,7 +45,7 @@ What you’re looking for here, in the case of PHP files, is “hidden” or obf
 
 ### 6.) The Bonus {#h-6-the-bonus.wp-block-heading}
 
-Another common trick hackers often employ is to schedule a task in the background to re-infect&nbsp;the site should you clean it up or perform some other malicious chore. Look at your CRON jobs on your server or in your hosting environment and make certain there is nothing scheduled that you don’t know about. This is an easy check on most commercial hosting providers as there is often a CRON scheduler in CPanel or whatever control panel your host is using. If you have your own server just check crontab periodically to make sure nothing has been altered.
+Another common trick hackers often employ is to schedule a task in the background to re-infect the site should you clean it up or perform some other malicious chore. Look at your CRON jobs on your server or in your hosting environment and make certain there is nothing scheduled that you don’t know about. This is an easy check on most commercial hosting providers as there is often a CRON scheduler in CPanel or whatever control panel your host is using. If you have your own server just check crontab periodically to make sure nothing has been altered.
 
 ### Some closing thoughts {#h-some-closing-thoughts.wp-block-heading}
 

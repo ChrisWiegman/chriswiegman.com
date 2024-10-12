@@ -26,13 +26,13 @@ To do the ID go the the “Categories” menu item under posts. Click “edit”
   <figure class="aligncenter size-large"><img loading="lazy" decoding="async" width="350" height="128" src="/images/2013/05/copy-the-category-id-350x128-1.jpg" alt="Copy the category ID from the URL" class="wp-image-362" /><figcaption>Copy the category ID from the URL</figcaption></figure>
 </div>
 
-#### 2.) Open you theme’s&nbsp;_functions.php_ file.
+#### 2.) Open you theme’s _functions.php_ file.
 
 If your theme doesn’t have one you may need to create it.
 
 #### 3.) Add a function to remove the category.
 
-Now we’re going to create a function to remove the category from the blog page. This is what does the heavy lifting. Notice the&nbsp;_-230_ on my example. The minus tells WordPress to remove the category where 230 is the category ID. Replace 230 with the ID you copied from step 1.
+Now we’re going to create a function to remove the category from the blog page. This is what does the heavy lifting. Notice the _-230_ on my example. The minus tells WordPress to remove the category where 230 is the category ID. Replace 230 with the ID you copied from step 1.
 
 <pre class="wp-block-code" aria-describedby="shcb-language-44" data-shcb-language-name="PHP" data-shcb-language-slug="php"><span><code class="hljs language-php">&lt;span class="hljs-comment">// Exclude category from homepage.&lt;/span>
 &lt;span class="hljs-function">&lt;span class="hljs-keyword">function&lt;/span> &lt;span class="hljs-title">my_exclude_category&lt;/span>&lt;span class="hljs-params">( $query )&lt;/span> &lt;/span>{
@@ -47,11 +47,11 @@ Now we’re going to create a function to remove the category from the blog page
 
 #### 4.) Tell WordPress to run your function
 
-Just because we’ve added a function doesn’t mean WordPress will use it. A function by itself does nothing if not call from somewhere so we’re going to&nbsp;_hook_ it into WordPress and tell it to run before WordPress gets our posts from the database. Use the following code, either before or after the function you created in _functions.php&nbsp;_to tell WordPress to run it.
+Just because we’ve added a function doesn’t mean WordPress will use it. A function by itself does nothing if not call from somewhere so we’re going to _hook_ it into WordPress and tell it to run before WordPress gets our posts from the database. Use the following code, either before or after the function you created in _functions.php _to tell WordPress to run it.
 
 <pre class="wp-block-code" aria-describedby="shcb-language-45" data-shcb-language-name="PHP" data-shcb-language-slug="php"><span><code class="hljs language-php">add_filter( &lt;span class="hljs-string">'pre_get_posts'&lt;/span>, &lt;span class="hljs-string">'my_exclude_category'&lt;/span> );</code></span><small class="shcb-language" id="shcb-language-45"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">PHP</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">php</span><span class="shcb-language__paren">)</span></small></pre>
 
-Note the&nbsp;_pre\_get\_posts.&nbsp;_This tells WordPress when to run the hook, in this case before getting the posts from the database. Next&nbsp;_my\_exclude\_category_ tells WordPress what function to run at&nbsp;_pre\_get\_posts.&nbsp;_This is how WordPress hooks work and is used throughout WordPress themes and plugins. Every time you see an&nbsp;_add_action_ line in your code the first part is where to run the action and the second is the action to run.
+Note the _pre\_get\_posts. _This tells WordPress when to run the hook, in this case before getting the posts from the database. Next _my\_exclude\_category_ tells WordPress what function to run at _pre\_get\_posts. _This is how WordPress hooks work and is used throughout WordPress themes and plugins. Every time you see an _add_action_ line in your code the first part is where to run the action and the second is the action to run.
 
 #### 5.) Check your blog page.
 

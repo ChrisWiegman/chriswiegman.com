@@ -37,7 +37,7 @@ Fortunately, when it comes to monitoring your site you’re not on your own. Man
     <a title="Pingdom" href="http://pingdom.com/" target="_blank" rel="noopener noreferrer">Pingdom</a> can help you find problems by reporting outages to you with their phone app, email, or text message.
   </li>
   <li>
-    Google Analytics can help you find&nbsp;anomalies&nbsp;in traffic to your site. Often times, when your site has been hijacked for malicious use you may not see any outward changes on your homepage. Analytics can show you the problem which will often show up as a large traffic site to an old or relatively unused part of your website.
+    Google Analytics can help you find anomalies in traffic to your site. Often times, when your site has been hijacked for malicious use you may not see any outward changes on your homepage. Analytics can show you the problem which will often show up as a large traffic site to an old or relatively unused part of your website.
   </li>
   <li>
     <a title="Google" href="https://www.google.com/" target="_blank" rel="noopener noreferrer">Google</a> or <a title="Bing" href="http://www.bing.com" target="_blank" rel="noopener noreferrer">Bing</a> can help you discover hidden links injected into your site by an attacker by simply searching through for the name of your site along with common link-bait terms such as “pills,” “casino,” or any of a host of other terms that shouldn’t appear anywhere in your content.

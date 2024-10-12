@@ -39,7 +39,7 @@ If, like me, you manage <a title="MySQL" href="http://www.mysql.com/" target="_b
 
 ## <a title="Adobe Photoshop" href="http://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">7.) Adobe Photoshop</a> {#h-7-adobe-photoshop.wp-block-heading}
 
-This is one of the older tools in my toolbox and although I find it bloated and cumbersome for many tasks there is still no good alternative. I use Photoshop for all sorts of basic image manipulation and optimization and, unless something major changes, I will continue to use it for the&nbsp;foreseeable&nbsp;future.
+This is one of the older tools in my toolbox and although I find it bloated and cumbersome for many tasks there is still no good alternative. I use Photoshop for all sorts of basic image manipulation and optimization and, unless something major changes, I will continue to use it for the foreseeable future.
 
 ## <a title="Google Chrome" href="http://www.google.com/chrome" target="_blank" rel="noopener noreferrer">8.) Google Chrome</a> {#h-8-google-chrome.wp-block-heading}
 

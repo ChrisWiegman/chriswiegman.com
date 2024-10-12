@@ -17,7 +17,7 @@ I first installed WordPress around 10 years ago as a solution to build sites qui
 
 I’ve heard it from students and veterans in the space, some new to WordPress and others who had been in similar roles already as everything from marketers to engineers and beyond. Yes, I’ve had self-proclaimed (and sometimes employed) engineers tell me they don’t know how to code. For the record, that one worries me but it is a story for another post.
 
-More than fifteen years after the WordPress project began the perception still exists that one can’t be involved unless they know how to code. Sure, some of them _want&nbsp;_to become developers and engineers and that’s great. I’ve spent a lot of time personally mentoring those folks. If WordPress, however, was only developers and engineers there would be no WordPress as we know it today and all to many people still don’t understand this. That’s a problem, and one all of us in WordPress need to be a little more careful of.
+More than fifteen years after the WordPress project began the perception still exists that one can’t be involved unless they know how to code. Sure, some of them _want _to become developers and engineers and that’s great. I’ve spent a lot of time personally mentoring those folks. If WordPress, however, was only developers and engineers there would be no WordPress as we know it today and all to many people still don’t understand this. That’s a problem, and one all of us in WordPress need to be a little more careful of.
 
 ## I couldn’t do other jobs
 

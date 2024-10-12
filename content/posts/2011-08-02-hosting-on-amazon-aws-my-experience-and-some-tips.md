@@ -29,7 +29,7 @@ The free tier for Amazon AWS applies only to new accounts. If you try to use an 
 
 For that matter, you’re responsible for everything. Make snapshots of your EBS volume and make them often! There’s nothing like starting from scratch when you realized a stupid mistake as completely locked you out of your entire server.
 
-### Optimization&nbsp;is even more important {#h-optimization-is-even-more-important.wp-block-heading}
+### Optimization is even more important {#h-optimization-is-even-more-important.wp-block-heading}
 
 Install a good cache system like <a title="W3 Total Cache" href="http://wordpress.org/extend/plugins/w3-total-cache/" target="_blank" rel="noopener noreferrer">w3 Total Cache</a> and make sure your service is appropriately configured with APC and other CPU saving technologies. The biggest weakness of AWS micro instances is that you can easily max out the CPU under a heavy load, but with enough prep work you will never hit that point.
 

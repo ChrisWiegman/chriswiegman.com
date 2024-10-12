@@ -25,7 +25,7 @@ If a website takes 20 seconds to load then I will probably not stay there. Webpa
 
 3.) Watch your code
 
-While CMS applications are&nbsp;notorious&nbsp;for sloppy code that doesn’t mean you can’t do something about it. Clean up your code with minimization and other techniques or at least make sure it isn’t using techniques that went out of favor with AOL keywords.
+While CMS applications are notorious for sloppy code that doesn’t mean you can’t do something about it. Clean up your code with minimization and other techniques or at least make sure it isn’t using techniques that went out of favor with AOL keywords.
 
 4.) Mind your design
 

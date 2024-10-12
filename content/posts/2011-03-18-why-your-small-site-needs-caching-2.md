@@ -22,7 +22,7 @@ In some cases the limits of a shared hosting account might not be all that visib
 
 Regardless of how severe the infraction might be however rest assured that <a href="http://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html" target="_blank" rel="noopener noreferrer">Google and others notice</a> and take it into account when ranking your site on search results.
 
-So how then can a small site owner &nbsp;make use of caching on their site?
+So how then can a small site owner  make use of caching on their site?
 
 If you’re using <a class="zem_slink" title="WordPress" href="http://wordpress.org" rel="homepage">WordPress</a> as your CMS than the answer is with a couple of plugins <a href="http://wordpress.org/extend/plugins/wp-super-cache/" target="_blank" rel="noopener noreferrer">WP Super Cache</a> or <a href="http://wordpress.org/extend/plugins/w3-total-cache/" target="_blank" rel="noopener noreferrer">W3 Total Cache</a>. While Super Cache is easier to install and can be done with only a couple of clicks, Total Cache takes a little more setup but provides advanced functions that can help speed your site up even more.
 

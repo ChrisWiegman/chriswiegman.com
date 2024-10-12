@@ -15,7 +15,7 @@ Yesterday [W3 Total Cache][2], a popular and effective WordPress caching plugin,
 
 Broken plugins and add-ons are not by any measurement a new thing in open-source software. For the most part though authors of the more popular plugins tend to do a little more testing before releasing a new version thereby preventing any major issues. Every once in a while though, as in this case, something does get through testing and, without a good backup, can lead to a lot of frustration.
 
-If there is a lesson&nbsp;learned here it is that no matter how many successful updates you’ve done to your software in the past, always assume it will not go well and take a backup ahead of time to prevent problems and server outages.
+If there is a lesson learned here it is that no matter how many successful updates you’ve done to your software in the past, always assume it will not go well and take a backup ahead of time to prevent problems and server outages.
 
  [1]: http://wordpress.org
  [2]: http://wordpress.org/extend/plugins/w3-total-cache/

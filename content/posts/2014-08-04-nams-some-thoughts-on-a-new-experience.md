@@ -13,7 +13,7 @@ tags:
 It’s no secret that the last couple of years I’ve been something of a <a title="WordCamp Central" href="http://wordcamp.org" target="_blank" rel="noopener noreferrer">WordCamp</a> addict. I’ve attended about a dozen since the beginning of 2013 and I’ve even had the privilege of [speaking][1] at a few (with a few more coming up). WordCamps are wonderful but it is weekends like this that remind me that not only are their other shows out there but there are other shows that can, even for a WordPress developer, be just as important (if not more so) than any WordCamp I’ve attended.
 For the last year or two Regina Smola of <a title="WPSecurityLock" href="http://wpsecuritylock.com" target="_blank" rel="noopener noreferrer">WPSecurityLock</a> has been working hard to get me to a conference that, frankly, wouldn’t have otherwise peaked my interest. This new conference, a bi-annual marketing workshop known as <a title="MyNAMS" href="http://mynams.com" target="_blank" rel="noopener noreferrer">NAMS</a> (Novice to Advanced Marketing System) in Atlanta, that focuses not on the tools themselves (like <a title="WordPress.org" href="http://wordpress.org" target="_blank" rel="noopener noreferrer">WordPress</a>) but how to leverage those tools towards a much bigger goal.
 
-I finally attended this weekend as both an instructor and an attendee and not only have I been impressed but I’ve been flat out blown away by what what I was missing and, in many cases, what I had forgotten or simply taken for granted&nbsp;in my own work.
+I finally attended this weekend as both an instructor and an attendee and not only have I been impressed but I’ve been flat out blown away by what what I was missing and, in many cases, what I had forgotten or simply taken for granted in my own work.
 
 ### Tools Are Meant To Build With
 
@@ -23,9 +23,9 @@ As wonderful as the journey has been one of the biggest things I’ve been force
 
 Really all I can say here is that I had forgotten this lesson somewhere along the way and in doing so I’ve lost site of the end goal not just of the tool itself but of what my own customers who use WordPress as a tool in their own businesses are trying to accomplish.
 
-Whether it is a blog, a membership&nbsp;site or an online store people build things _with_ WordPress while&nbsp;I’ve focused on building things _for_ WordPress. This is a lesson I think many of us in the WordPress developer community have lost and as a result I don’t believe the work we do is as good as it can be.
+Whether it is a blog, a membership site or an online store people build things _with_ WordPress while I’ve focused on building things _for_ WordPress. This is a lesson I think many of us in the WordPress developer community have lost and as a result I don’t believe the work we do is as good as it can be.
 
-I was a popular person here this weekend talking about a product that many of these folks use from a company many of them could benefit more from if they knew what we were doing and we knew what they were trying to do with our products. For example&nbsp;when I talk to WordCamps about iThemes Security I simply list what it _can_ do. Here questions for the crowd forced me to think not just about what it can do but also _why_ they would want that on large sites that already make them money.
+I was a popular person here this weekend talking about a product that many of these folks use from a company many of them could benefit more from if they knew what we were doing and we knew what they were trying to do with our products. For example when I talk to WordCamps about iThemes Security I simply list what it _can_ do. Here questions for the crowd forced me to think not just about what it can do but also _why_ they would want that on large sites that already make them money.
 
 For most WordPress developers doing client work I think this lesson is probably a little more apparent (at least for the good ones) but for those of us who are concerned only about the tool itself this lesson is something we need to be reminded of once in a while to make sure that the growth of the tool we build can best meet the needs of those who are going to use it.
 
@@ -33,7 +33,7 @@ For most WordPress developers doing client work I think this lesson is probably 
 
 The open-source world is great. Information and software flow without expectation of a return on investment directly from the act of sharing itself. For example, most WordCamp speakers are excited to be there to help someone else learn a lesson they’ve been forced to study themselves while at the same time talking about the latest lessons and techniques over a few meals and other networking opportunities.
 
-Conferences don’t have to always be like this. People attend conferences as an investment of their time with hopes of a return, a fact that many developers who aren’t trying to meet client deadlines&nbsp;often miss resulting in an atmosphere at WordCamps of “sharing” with little regard for why or how such sharing can help us in the future.
+Conferences don’t have to always be like this. People attend conferences as an investment of their time with hopes of a return, a fact that many developers who aren’t trying to meet client deadlines often miss resulting in an atmosphere at WordCamps of “sharing” with little regard for why or how such sharing can help us in the future.
 
 NAMS is different. Here instructors invest their time with the full expectation that those in the audience are looking to not use their fancy new software tool but to use leverage such a tool to the tune of a hefty monetary return. From affiliate marketing to consulting and more people at NAMS are here to make money and help each other make money in one of the friendliest environments I’ve ever seen.
 
@@ -45,7 +45,7 @@ Don’t get me wrong. A lot of us have taken an awful lot away from WordCamps. H
 
 ### WordPress Doesn’t Have a Lock on Community
 
-Finally, NAMS has served as a reminder that WordPress doesn’t have a lock on community. Constantly we in the WordPress community cite&nbsp;its greatest strength as the community itself and refer to&nbsp;that strength as the reason many of us are here rather than in developing for more monetarily lucrative software tools that exist all around us.
+Finally, NAMS has served as a reminder that WordPress doesn’t have a lock on community. Constantly we in the WordPress community cite its greatest strength as the community itself and refer to that strength as the reason many of us are here rather than in developing for more monetarily lucrative software tools that exist all around us.
 
 The NAMS community of folks here to learn to make use of tools is just as strong and, in some ways, even stronger (probably due to its size). Like <a title="HighEdWeb" href="http://www.highedweb.org" target="_blank" rel="noopener noreferrer">HighEdWeb</a> (another group very dear to my heart) NAMS is a group that acts more as an extended family rather than a bunch of strangers. It is a place where best selling authors, millionaire marketers, mommy bloggers and security developers can join forces and share strengths to invest in each other and that is something I shall not forget.
 

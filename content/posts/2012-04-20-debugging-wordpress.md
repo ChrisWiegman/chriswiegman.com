@@ -10,7 +10,7 @@ tags:
   - WordPress
 
 ---
-How “good” is the code behind your WordPress site? Are plugins or themes causing out errors you don’t even know about? Is there anything&nbsp;inherently&nbsp;wrong that is slowing your site down, causing security problems, or just generally being a nuisance? How can you tell?
+How “good” is the code behind your WordPress site? Are plugins or themes causing out errors you don’t even know about? Is there anything inherently wrong that is slowing your site down, causing security problems, or just generally being a nuisance? How can you tell?
 
 Here’s how to turn on debug mode and log all errors to files or display them on the screen (if you’re so inclined):
 

@@ -10,13 +10,13 @@ tags:
   - Reflection
 ---
 
-It’s been years since I really blogged on here regularly. Sure, I’ll get up a post or two every now and then but I haven’t really written anything since 2013-2014. The irony: for most of that time I’ve spent more time working on the code for this site than I ever have. These last few weeks, even as I’ve plotted and schemed to start writing more, I’ve put even more time to simply changing the site itself without a single post to show for it.&nbsp;This has left me asking why and, after even more time thinking about it than I’ve spent working on the site I think I finally have a descent grasp at what has been going on.
+It’s been years since I really blogged on here regularly. Sure, I’ll get up a post or two every now and then but I haven’t really written anything since 2013-2014. The irony: for most of that time I’ve spent more time working on the code for this site than I ever have. These last few weeks, even as I’ve plotted and schemed to start writing more, I’ve put even more time to simply changing the site itself without a single post to show for it. This has left me asking why and, after even more time thinking about it than I’ve spent working on the site I think I finally have a descent grasp at what has been going on.
 
 ## The fallacy of perfection
 
 The first, and probably largest issue I’ve been facing is the fallacy of perfection. That is, if I see anything out of place on the site I cannot bring myself to write a single word until I fix it. As a result nothing ever gets written.
 
-As someone who has worked on hundreds of projects over the years and even managed to build a few large products of my own the idea that it’s all or nothing, if you will, seems foreign to even me but it’s there. What’s worse is I’ve taken it past what is&nbsp;_broken_ to also cover anything I simply don’t like or, more accurately, anything I’m not completely happy with. A perfect example of this is the theme for the site itself which I’ve completely refactored numerous times and tweaked far more over the last few months even as I haven’t managed to make use of any of it.
+As someone who has worked on hundreds of projects over the years and even managed to build a few large products of my own the idea that it’s all or nothing, if you will, seems foreign to even me but it’s there. What’s worse is I’ve taken it past what is _broken_ to also cover anything I simply don’t like or, more accurately, anything I’m not completely happy with. A perfect example of this is the theme for the site itself which I’ve completely refactored numerous times and tweaked far more over the last few months even as I haven’t managed to make use of any of it.
 
 In other words, I’ve forgotten how to get things done and that all projects, this site included, are in fact works in progress. This is a lesson I need to remind myself of going forward.
 
@@ -38,6 +38,6 @@ Of course, not all writing has to be about professional interests either. For al
 
 ## It’s time to write again
 
-So with all that… It’s time to recognize that this site will always be a work in progress (including the content on it) just as much as any other product has been. It’s&nbsp;also time to remember I have a voice and that voice doesn’t have to only about WordPress. I’m&nbsp;still learning every day and now I need to remind myself it’s OK and, in fact, good to share those lessons.
+So with all that… It’s time to recognize that this site will always be a work in progress (including the content on it) just as much as any other product has been. It’s also time to remember I have a voice and that voice doesn’t have to only about WordPress. I’m still learning every day and now I need to remind myself it’s OK and, in fact, good to share those lessons.
 
 I can’t wait.

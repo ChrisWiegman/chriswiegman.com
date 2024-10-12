@@ -21,6 +21,6 @@ Most of the unlimited hosting accounts in use by small website are what are call
 
 While in the days of manually creating websites in HTML files the RAM and CPU requirement was negligible, today with the advent of WordPress and other software it can be rather significant. It is not uncommon for instance to have require up to 256MB of ram to generate a single WordPress page on an un-optimized website. If that site receives a spike in traffic where maybe 5,000 people visit it in one day this could quickly consume far more resources than your host has available. On shared hosting this problem is amplified as when one site eats up the resources in question it can easily effect all the sites hosted on the same server.
 
-**So is shared hosting worth it?&nbsp;**
+**So is shared hosting worth it? **
 
 For a new site or one without a lot of traffic shared hosting is still a very cost-effective way to get started. When looking at shared hosts however it does become important to pick a reputable host that isn’t known for putting too many sites on a single server or other problems. In addition, if you plan to grow your site I wouldn’t recommend a long-term commitment to a host as at some point you will outgrow it and will have to move to a plan with a little more power.

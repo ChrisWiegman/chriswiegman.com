@@ -16,8 +16,8 @@ While Vagrant and Puppet brought a lot to the table the fact is that I’ve spen
 
 What does this mean?
 
-Well, if you’re using it it will continue to work for now as long as you don’t update your Vagrant software past version 2.0.3. If you want to fork it and continue the work yourself it will also continue to live in an archive on GitHub.&nbsp;
+Well, if you’re using it it will continue to work for now as long as you don’t update your Vagrant software past version 2.0.3. If you want to fork it and continue the work yourself it will also continue to live in an archive on GitHub.
 
-As for what I’m using now I’ve moved on to Docker where I’ve been working on a flexible solution for my work and that of my team and it’s darn close to a spot where I can share it with the world.&nbsp;
+As for what I’m using now I’ve moved on to Docker where I’ve been working on a flexible solution for my work and that of my team and it’s darn close to a spot where I can share it with the world.
 
  [1]: https://github.com/ChrisWiegman/primary-vagrant

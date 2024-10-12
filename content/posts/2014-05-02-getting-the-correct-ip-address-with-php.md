@@ -12,7 +12,7 @@ tags:
 ---
 If you do much work on a WordPress site or other PHP app sooner or later you’re going to need to get the end user’s IP address. It used to be easy. We used to be able to just get _$\_SERVER[‘REMOTE\_ADDR’]_ and go on our way.
 
-Today it isn’t so easy. For both performance and security many web servers put some sort of proxy in front of the web server which means that if you’re using a load balancer or <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer noopener">CloudFlare</a> or <a href="https://www.varnish-cache.org/" target="_blank" rel="noreferrer noopener">Varnish</a>&nbsp;_$\_SERVER[‘REMOTE\_ADDR’]&nbsp;_will only return the IP address of the proxy, not the IP address of the user trying to access your site. This means that as far your application is concerned the only user it will ever see is the proxy service itself.
+Today it isn’t so easy. For both performance and security many web servers put some sort of proxy in front of the web server which means that if you’re using a load balancer or <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer noopener">CloudFlare</a> or <a href="https://www.varnish-cache.org/" target="_blank" rel="noreferrer noopener">Varnish</a> _$\_SERVER[‘REMOTE\_ADDR’] _will only return the IP address of the proxy, not the IP address of the user trying to access your site. This means that as far your application is concerned the only user it will ever see is the proxy service itself.
 
 Fortunately there is a way around this using the <a href="http://en.wikipedia.org/wiki/X-Forwarded-For" target="_blank" rel="noreferrer noopener">X-Forwarded-For</a> header. This is a server header set by the proxy to pass through the IP address of the end user where necessary. This means that while REMOTE_ADDR still exists the X-Forwarded-For header is the one that is actually tied to the user so we need to use it instead. Here’s some code to get you there:
 
@@ -52,19 +52,19 @@ So let’s break it down.
 
 <ol class="wp-block-list">
   <li>
-    We start by creating a function called&nbsp;<em>get_ip()</em> which we can use and re-use to get the user’s IP address.
+    We start by creating a function called <em>get_ip()</em> which we can use and re-use to get the user’s IP address.
   </li>
   <li>
-    After we create the function we get&nbsp;the server headers using PHP’s <a href="http://us3.php.net/manual/en/function.apache-request-headers.php" target="_blank" rel="noreferrer noopener"><em>apache_request_headers()</em></a> function if it exists or just falling back to <a href="http://www.php.net/manual/en/reserved.variables.server.php" target="_blank" rel="noreferrer noopener"><em>$_SERVER</em></a> otherwise.
+    After we create the function we get the server headers using PHP’s <a href="http://us3.php.net/manual/en/function.apache-request-headers.php" target="_blank" rel="noreferrer noopener"><em>apache_request_headers()</em></a> function if it exists or just falling back to <a href="http://www.php.net/manual/en/reserved.variables.server.php" target="_blank" rel="noreferrer noopener"><em>$_SERVER</em></a> otherwise.
   </li>
   <li>
-    Next we look for the presence of&nbsp;<em>X-Forwarded-For&nbsp;</em>or&nbsp;<em>HTTP_X_FORWARDED_FOR </em>(<a href="http://stackoverflow.com/questions/3834083/http-headers-what-is-the-difference-between-x-forwarded-for-x-forwarded-for-a" target="_blank" rel="noreferrer noopener">they’re actually interchangeable</a>)&nbsp;in order to use one of them if present.
+    Next we look for the presence of <em>X-Forwarded-For </em>or <em>HTTP_X_FORWARDED_FOR </em>(<a href="http://stackoverflow.com/questions/3834083/http-headers-what-is-the-difference-between-x-forwarded-for-x-forwarded-for-a" target="_blank" rel="noreferrer noopener">they’re actually interchangeable</a>) in order to use one of them if present.
   </li>
   <li>
-    Finally we just&nbsp;<em>REMOTE_ADDR</em> if neither of the others are available.
+    Finally we just <em>REMOTE_ADDR</em> if neither of the others are available.
   </li>
   <li>
-    Note that at each step we pass the header through PHP’s&nbsp;<a href="http://www.php.net/manual/en/function.filter-var.php" target="_blank" rel="noreferrer noopener"><em>filter_var()</em></a> function to make sure the value is a valid IPv4 address.
+    Note that at each step we pass the header through PHP’s <a href="http://www.php.net/manual/en/function.filter-var.php" target="_blank" rel="noreferrer noopener"><em>filter_var()</em></a> function to make sure the value is a valid IPv4 address.
   </li>
   <li>
     Finally we return the IP we attained.

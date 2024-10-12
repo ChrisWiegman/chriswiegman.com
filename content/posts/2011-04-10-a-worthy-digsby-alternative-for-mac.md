@@ -23,7 +23,7 @@ I’ve taken two approaches to this problem for my own use. First, the IM. Here 
 
 Although I’ve used Trillian for my email at times I do like having something fast and more full-featured. I don’t want to have to open a web client or anything else to mark a message as spam, delete it or, in my case as a Google Apps user, to archive it. Fortunately, if you use Firefox or Chrome as your browser there is a good solution for you.
 
-For Firefox try <s>Gmail Manager</s>. For Chrome use&nbsp;[Checker Plus for GMail][1]. Both off notifications, previews, and basic message handling directly from within your browser. In addition, unlike Digsby, both can be set to handle email links directly with GMail you won’t have to cut and paste an email address to send an email.
+For Firefox try <s>Gmail Manager</s>. For Chrome use [Checker Plus for GMail][1]. Both off notifications, previews, and basic message handling directly from within your browser. In addition, unlike Digsby, both can be set to handle email links directly with GMail you won’t have to cut and paste an email address to send an email.
 
 While my Mac solution might not seem as easy as using a one-stop application like Digsby I’ve found that in practice my solution actually works better. Digsby was SLOW for one, and for two email links were never easy. Now I have clients for email and messaging that are far faster and combined offer more features than I had before. All-in-all I would call the situation a win.
 

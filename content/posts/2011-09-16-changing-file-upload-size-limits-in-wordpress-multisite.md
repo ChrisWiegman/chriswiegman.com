@@ -29,4 +29,4 @@ Save the file and restart apache. In Ubuntu use the following command
 
 _sudo /etc/init.d/apache2 restart_
 
-Next, go to your network admin settings and change the&nbsp;_Max upload file size_ box accordingly. Note that while the settings in your php.ini can be larger than your WordPress settings, you cannot set your WordPress settings to a value larger than those in your php.ini.
+Next, go to your network admin settings and change the _Max upload file size_ box accordingly. Note that while the settings in your php.ini can be larger than your WordPress settings, you cannot set your WordPress settings to a value larger than those in your php.ini.

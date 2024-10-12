@@ -18,11 +18,11 @@ Although I now find myself firmly entrenched as a developer for various websites
 
 ### Teamwork
 
-When you’re flying commercially you have to rely on your crew for information not just&nbsp;pertinent&nbsp;to your job, but is in fact vital to it. Whether you’re a first officer or a captain you need to trust fully in the crew member sitting next to you.
+When you’re flying commercially you have to rely on your crew for information not just pertinent to your job, but is in fact vital to it. Whether you’re a first officer or a captain you need to trust fully in the crew member sitting next to you.
 
-As I moved on from flying I’ve learned that I can’t just rely on my own skills to accomplish every job. I need to rely on those around me to help me fulfill my task. I have to trust that not only is their judgement correct, but that my own knowledge and&nbsp;judgment&nbsp;is incomplete without help from others. In short, I have to put my ego aside and team up with others in the industry to produce the best product I can.
+As I moved on from flying I’ve learned that I can’t just rely on my own skills to accomplish every job. I need to rely on those around me to help me fulfill my task. I have to trust that not only is their judgement correct, but that my own knowledge and judgment is incomplete without help from others. In short, I have to put my ego aside and team up with others in the industry to produce the best product I can.
 
-For many in development this isn’t the norm. It’s so easy to ignore the advice from others and just pursue our own ideal of what our project should be like especially in situations on which we are the sole developer. in practice however we can never see the full picture on our own. We must not just trust the input given to us by others but we must act on that info as the end result of our product&nbsp;relies&nbsp;on it.
+For many in development this isn’t the norm. It’s so easy to ignore the advice from others and just pursue our own ideal of what our project should be like especially in situations on which we are the sole developer. in practice however we can never see the full picture on our own. We must not just trust the input given to us by others but we must act on that info as the end result of our product relies on it.
 
 ### Every Landing Counts
 
@@ -34,9 +34,9 @@ So my project doesn’t appeal to every person on the planet, just like each lan
 
 ### Don’t Overlook the Small Stuff
 
-Over the years I spent as a pilot I had a number of flights that didn’t go due to some&nbsp;seemingly&nbsp;small detail. Perhaps it was a sound in the plane, perhaps it was something else so seemingly unimportant that the airline told me to ignore it and go anyway. In the end my job was based on the details. If I ignored a sound or a regulation the lives of real people were at risk. This wasn’t something I could live with.
+Over the years I spent as a pilot I had a number of flights that didn’t go due to some seemingly small detail. Perhaps it was a sound in the plane, perhaps it was something else so seemingly unimportant that the airline told me to ignore it and go anyway. In the end my job was based on the details. If I ignored a sound or a regulation the lives of real people were at risk. This wasn’t something I could live with.
 
-Today, each and every project I do must receive the same care. If something, no matter how small, isn’t right it is my job as a professional to do something about it. To leave even the smallest detail to chance is a mistake made only by&nbsp;amateurs&nbsp;and fools and no one wants either label to apply to them as a professional.
+Today, each and every project I do must receive the same care. If something, no matter how small, isn’t right it is my job as a professional to do something about it. To leave even the smallest detail to chance is a mistake made only by amateurs and fools and no one wants either label to apply to them as a professional.
 
 ### Love What You Do
 

@@ -10,7 +10,7 @@ tags:
   - Software
 ---
 
-It’s the time of year, again, to take inventory of what I’m working with and share it for others who might be looking to update their own toolbox. This is the 7th year ([2017][1], [2016][2],&nbsp;[2015][3],&nbsp;[2014][4],&nbsp;[2013][5],&nbsp;[2012][6]) I’ve been doing this and this year marks one of the bigger changes in my tooling since I started the series.
+It’s the time of year, again, to take inventory of what I’m working with and share it for others who might be looking to update their own toolbox. This is the 7th year ([2017][1], [2016][2], [2015][3], [2014][4], [2013][5], [2012][6]) I’ve been doing this and this year marks one of the bigger changes in my tooling since I started the series.
 
 Most years it seems, especially after looking over the older posts today, that not much changes from year to year and I guess, in some ways, there’s some truth to that this year as a number of the tools I use have been with me for a long time at this point. What has changed this year is how I use them and many of the supporting tools I’ve relied on for years. In changing my workflow I’ve managed to pare down my apps from what I had previously as well as learn to better use the available features in others. So far it seems to be paying off for me.
 ## My Computer
@@ -54,7 +54,7 @@ As far as applications are concerned, my biggest change this year has been movin
 
 The biggest change to my mobile this year is that it’s now a Pixel 2 XL on Google FI. If you’re interested in how my experience to go the platform went [I’ve written a fairly long post on it recently][7]. For the most part, as with my older iPhones, I stick to the stock apps. The screenshot above actually has every app installed on it visible.
 
-For me my phone is simply an extension of my laptop allowing me to access whatever I might need when I’m not near the laptop. It’s worked so well in this role that, in the last year, I’ve dumped my iPad and Apple Watch (replacing the latter with a [Fitbit Versa][8] which I absolutely love) resulting in a much more streamlined tech footprint&nbsp;for me overall.
+For me my phone is simply an extension of my laptop allowing me to access whatever I might need when I’m not near the laptop. It’s worked so well in this role that, in the last year, I’ve dumped my iPad and Apple Watch (replacing the latter with a [Fitbit Versa][8] which I absolutely love) resulting in a much more streamlined tech footprint for me overall.
 
 ## What’s on Your Computer?
 

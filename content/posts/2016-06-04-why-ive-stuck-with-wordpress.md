@@ -11,7 +11,7 @@ tags:
   - WordPress
 
 ---
-One question I’ve been asked more often lately&nbsp;is why, considering all the newer technology that is available&nbsp;today, have I stuck with WordPress for my career and my side work? Well, there are 5 reasons for that to be honest…
+One question I’ve been asked more often lately is why, considering all the newer technology that is available today, have I stuck with WordPress for my career and my side work? Well, there are 5 reasons for that to be honest…
 
 ## WordPress pays the bills
 

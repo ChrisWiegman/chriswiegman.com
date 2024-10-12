@@ -31,7 +31,7 @@ Setting appropriate goals was the single biggest change I made to how I use my F
 
 > Start at 5,000 steps
 
-Given 10,000 is too high I’ve set my FitBit&nbsp;to a 5,000 step per day goal. This is an extra 15-20 minutes of walking per day which is totally doable and I don’t feel tired from pushing myself all the way at the beginning.
+Given 10,000 is too high I’ve set my FitBit to a 5,000 step per day goal. This is an extra 15-20 minutes of walking per day which is totally doable and I don’t feel tired from pushing myself all the way at the beginning.
 
 Don’t worry about starting even lower
 

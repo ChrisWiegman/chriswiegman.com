@@ -24,7 +24,7 @@ Note that I’m not paid to promote Dyn, I just believe that they really do make
 
 ## 2.) Set up your development domain in Dyn
 
-Set up your <a href="http://dyn.com" target="_blank" rel="noreferrer noopener">dyn</a> account with an extra domain for development. When you’ve entered the domain add an alias of *.\[yourdomain.whatever\] (that’s an&nbsp;asterisk) pointing to your original domain. This is a wildcard domain which will allow you to create multiple subdomains on your development machine very easily.
+Set up your <a href="http://dyn.com" target="_blank" rel="noreferrer noopener">dyn</a> account with an extra domain for development. When you’ve entered the domain add an alias of *.\[yourdomain.whatever\] (that’s an asterisk) pointing to your original domain. This is a wildcard domain which will allow you to create multiple subdomains on your development machine very easily.
 
 ## 3.) Buy a copy of MAMP PRO
 
@@ -79,4 +79,4 @@ Just press the _Apply_ button at the bottom of the MAMP PRO screen and the _Star
 
 Two things to note here. One, you will get an SSL error in your browser. This is fine. Just ignore it. Two, it can take up to 60 seconds for your domain names to update via dyn. This means that after your server is running it can take up to a full minute before you can view your site.
 
-Once your setup you shouldn’t have to worry about this again and you can just keep adding hosts for each site you need to work on (just remember to set up&nbsp;separate&nbsp;hosts for http and https if you need to test both).
+Once your setup you shouldn’t have to worry about this again and you can just keep adding hosts for each site you need to work on (just remember to set up separate hosts for http and https if you need to test both).

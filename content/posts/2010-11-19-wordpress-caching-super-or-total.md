@@ -17,7 +17,7 @@ This is a completely unscientific comparison of the two most popular <a href="ht
 
 I’ve been running this site on WordPress using various shared hosts for a few years now. For the most part the combination has served my modest means fairly well. This site gets on average about 80 hits a day with only occasional spikes (the record was a little over 20,000 hits one day due to a Digg. In addition I run numerous other WordPress sites none of which receive any real amount of traffic. As such my needs for optimization are more concerned with the limited CPU and memory available on the shared hosts I have been using as well as payload optimization to reduce the impact on slower user’s connections.
 
-Given these modest performance requirements I also have 2 other requirements. First, any solution must be simple and require little maintenance. Two, any solution must not break what I have installed. Finally, I must be able to transfer the solution easily to other sites I run. This last requirement is based off the premise that&nbsp;consistency&nbsp;is a good thing when talking about back-end web development.
+Given these modest performance requirements I also have 2 other requirements. First, any solution must be simple and require little maintenance. Two, any solution must not break what I have installed. Finally, I must be able to transfer the solution easily to other sites I run. This last requirement is based off the premise that consistency is a good thing when talking about back-end web development.
 
 **The Solutions**
 

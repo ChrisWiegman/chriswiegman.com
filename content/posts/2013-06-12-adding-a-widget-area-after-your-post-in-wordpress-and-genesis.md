@@ -13,7 +13,7 @@ tags:
 ---
 The space after your post on <a href="http://www.wordpress.org" target="_blank" rel="noreferrer noopener">WordPress</a> is a great place to display information to your audience for maximum exposure and, hopefully, high click-through rates. It can be a place to post advertising, link folks to other posts, or add just about anything else you want. For example, this site uses the area after the post to link to other relevant articles using the nRelate related content system. Just by adding this little section I was able to drop the bounce rate of this site almost 10% overnight. It really can be that effective.
 
-So how do you add content after the post and, more importantly, how do you add content after the post that can be changed and updated as needed? If you’re using WordPress and the <a href="http://www.shareasale.com/r.cfm?b=255468&u=527416&m=28169&urllink=&afftrack=" target="_blank" rel="noreferrer noopener">Genesis Framework</a>&nbsp;_(affiliate link)_&nbsp;it’s easy. This tutorial will walk you through adding a widget area to your post right after the post content itself just as the related content section is used on this site.
+So how do you add content after the post and, more importantly, how do you add content after the post that can be changed and updated as needed? If you’re using WordPress and the <a href="http://www.shareasale.com/r.cfm?b=255468&u=527416&m=28169&urllink=&afftrack=" target="_blank" rel="noreferrer noopener">Genesis Framework</a> _(affiliate link)_ it’s easy. This tutorial will walk you through adding a widget area to your post right after the post content itself just as the related content section is used on this site.
 
 ### 1.) Open your theme’s functions.php file.
 

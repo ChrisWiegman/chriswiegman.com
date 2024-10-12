@@ -21,13 +21,13 @@ HTML really is the heart of the web. If you wanted to you could write an entire 
 
 Currently, modern browsers support <a title="HTML5 on Wikipedia" href="http://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer">HTML 5</a>. This is the most recent usable version of HTML and provides tags for everything from basic formatting to sections of your website including <header>, <article>, and <footer> tags to links to other pages and media such as images and video.
 
-For more information on HTML and the tags available take a look at the <a title="W3C" href="http://www.w3.org/" target="_blank" rel="noopener noreferrer">W3C</a>. This is the organization that&nbsp;officially&nbsp;defines the HTML language.
+For more information on HTML and the tags available take a look at the <a title="W3C" href="http://www.w3.org/" target="_blank" rel="noopener noreferrer">W3C</a>. This is the organization that officially defines the HTML language.
 
 ### CSS
 
 CSS, or Cascading Style Sheets, is the language used to apply formatting to an HTML document. It defines rules used to format each of the tags used in our markup. For example, it can change the size of a heading, apply a background to our document or specify columns and other areas of our site.
 
-10 years ago if you wanted to make your text bold you would use a <b></b> tag around the text in your HTML. While this was effective it was also very limiting. Today it is still possible to apply some formatting with HTML but it is much more common to move all of it into a CSS style sheet. For example, let’s say you want everything in your <footer> tag to be bold. You could define a CSS rule like this: footer {font-weight: bold;}. This would ensure that all text in the footer, regardless of what other tags are used, displays in a bold font. To do this in HTML you would have needed&nbsp;separate&nbsp;<b></b (or <strong></strong> tags throughout the footer.
+10 years ago if you wanted to make your text bold you would use a <b></b> tag around the text in your HTML. While this was effective it was also very limiting. Today it is still possible to apply some formatting with HTML but it is much more common to move all of it into a CSS style sheet. For example, let’s say you want everything in your <footer> tag to be bold. You could define a CSS rule like this: footer {font-weight: bold;}. This would ensure that all text in the footer, regardless of what other tags are used, displays in a bold font. To do this in HTML you would have needed separate <b></b (or <strong></strong> tags throughout the footer.
 
 CSS is an extremely powerful tool. It can control everything from the layout of your site by setting columns, backgrounds, and colors, to how an individual tag such as a link displays throughout your site. While a really well done site requires no CSS to be readable, the best sites will use CSS to increase usability by making the site far more pleasing to the user.
 

@@ -9,14 +9,14 @@ tags:
   - Development
   - PHP
   - WordPress
-
 ---
+
 PHP has some pretty great functions for handling the file system, mkdir, and rmdir particularly come to mind as, for the most part, they do the job quite well.
 
 As a WordPress developer however that doesn’t mean they’re both your best choice.
 WordPress actually has a function that will do this better (especially considering the unpredictability of file structures on many WordPress sites.
 
-Enter <a href="https://codex.wordpress.org/Function_Reference/wp_mkdir_p" target="_blank" rel="noopener noreferrer">wp_mkdir_p()</a>
+Enter [wp_mkdir_p()](https://codex.wordpress.org/Function_Reference/wp_mkdir_p)
 
 wp\_mkdir\_p( $target ) takes the guess work out of creating a directory by not only recursively trying to create the directory you specify in the _$target_ but also by trying to make sure that the permissions are correct for WordPress (so no 0777 or unable to read/write errors later).
 

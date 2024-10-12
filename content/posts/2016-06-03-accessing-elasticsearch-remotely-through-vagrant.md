@@ -12,7 +12,7 @@ tags:
   - Vagrant
 ---
 
-I’ve been doing a lot of work on [10up’s](https://10up.com) [ElasticPress](https://wordpress.org/plugins/elasticpress/) project over the last year including implementation on various sites as well as work on the plugin itself. After stepping a way for a bit though I found a problem yesterday&nbsp;morning when while working on implementation for one of our larger clients.
+I’ve been doing a lot of work on [10up’s](https://10up.com) [ElasticPress](https://wordpress.org/plugins/elasticpress/) project over the last year including implementation on various sites as well as work on the plugin itself. After stepping a way for a bit though I found a problem yesterday morning when while working on implementation for one of our larger clients.
 
 ## The Issue
 
@@ -37,6 +37,6 @@ _network.host: 0.0.0.0_
 3.) Restart Elasticsearch
 _sudo service elasticsearch restart_
 
-Now, you should&nbsp;be able to query Elasticsearch directly from your host machine with a client like Paw or anything else you might need to get at it with.
+Now, you should be able to query Elasticsearch directly from your host machine with a client like Paw or anything else you might need to get at it with.
 
  [1]: https://github.com/ChrisWiegman/primary-vagrant

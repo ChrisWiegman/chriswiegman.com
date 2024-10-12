@@ -28,4 +28,4 @@ As I mentioned before the job change opens up the opportunity for me to spend so
 
 ## Getting healthy
 
-Finally, and maybe most importantly, I’ve made changes to my lifestyle to really start using my Fitbit and improving things like diet and other areas to really get healthy.&nbsp;While I still drink more beer and soda than I should even those areas are getting better and with continued work, combined with more exercise, better sleep, etc I look forward to turning 40 in two years in better health than I was when I turned 30.
+Finally, and maybe most importantly, I’ve made changes to my lifestyle to really start using my Fitbit and improving things like diet and other areas to really get healthy. While I still drink more beer and soda than I should even those areas are getting better and with continued work, combined with more exercise, better sleep, etc I look forward to turning 40 in two years in better health than I was when I turned 30.

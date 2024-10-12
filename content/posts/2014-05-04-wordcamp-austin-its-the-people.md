@@ -14,7 +14,7 @@ Last weekend I had the opportunity to participate in <a title="WordCamp Austin 2
 
 WordCamps are a strange beast, if you haven’t been to one it basically a one or two day WordPress conference comprised mostly (or maybe ideally) of local speakers and attendees who get together **and** discuss all things WordPress. That said they don’t have a local “feel” at all like many similar events. Instead WordCamps, for about $20 a ticket, tend to be one of the most engaging and best planned conferences I’ve ever been to.
 
-This wasn’t my first WordCamp and in fact last year alone I also attended WordCamps in <a title="WordCamp Miami 2013" href="http://2013.miami.wordcamp.org" target="_blank" rel="noopener noreferrer">Miami</a>, <a title="WordCamp San Francisco 2013" href="http://2013.sf.wordcamp.org" target="_blank" rel="noopener noreferrer">San Francisco</a> and <a title="WordCamp London 2013" href="http://2013.london.wordcamp.org" target="_blank" rel="noopener noreferrer">London</a>.&nbsp;While all WordCamps have some great aspects there are three things this year that really helped set WordCamp Austin apart.
+This wasn’t my first WordCamp and in fact last year alone I also attended WordCamps in <a title="WordCamp Miami 2013" href="http://2013.miami.wordcamp.org" target="_blank" rel="noopener noreferrer">Miami</a>, <a title="WordCamp San Francisco 2013" href="http://2013.sf.wordcamp.org" target="_blank" rel="noopener noreferrer">San Francisco</a> and <a title="WordCamp London 2013" href="http://2013.london.wordcamp.org" target="_blank" rel="noopener noreferrer">London</a>. While all WordCamps have some great aspects there are three things this year that really helped set WordCamp Austin apart.
 
 **WordCamp Austin Took a Chance on New Speakers**
 
@@ -32,7 +32,7 @@ Content is wonderful but it isn’t the sole purpose of any conference. Heck in 
 
 WordCamp Austin this year didn’t disappoint. With attendees ranging in age from 2 to 82 and from as many backgrounds as one can imagine the folks at WordCamp this year didn’t disappoint.
 
-I was exceptionally fortunate this year in this regard. With the <a title="iThemes.com" href="http://ithemes.com" target="_blank" rel="noopener noreferrer">iThemes</a> crew in attendance I spent most of the weekend catching up with them outside of Edmund, OK (a rare occurrence) as well as both meeting new folks&nbsp;and catching up with old friends.
+I was exceptionally fortunate this year in this regard. With the <a title="iThemes.com" href="http://ithemes.com" target="_blank" rel="noopener noreferrer">iThemes</a> crew in attendance I spent most of the weekend catching up with them outside of Edmund, OK (a rare occurrence) as well as both meeting new folks and catching up with old friends.
 
 <div class="wp-block-image">
   <figure class="alignleft"><img decoding="async" src="/images/2014/05/WordCamp-Austin-Audience-150x150-1.jpg" alt="WordCamp Austin Keynote" class="wp-image-6618" /></figure>
@@ -44,4 +44,4 @@ Of course old friends were there too and WordCamp itself wouldn’t have been po
 
 Finally there were the friends from other WordCamps and WordPress in general who graciously donated their time and money to helping make WordCamp Austin a success. Folks like <a title="Ryan Duff" href="http://www.ryanduff.net" target="_blank" rel="noopener noreferrer">Ryan Duff</a>, <a title="Chris Lema" href="http://chrislema.com" target="_blank" rel="noopener noreferrer">Chris Lema</a>, <a title="Joe Casabona" href="http://casabona.org" target="_blank" rel="noopener noreferrer">Joe Casabona</a> and <a title="Carrie Dils" href="http://www.carriedils.com" target="_blank" rel="noopener noreferrer">Carrie Dills</a> all traveled to Austin to share their knowledge with the locals. With folks like this how could an event go wrong?
 
-In the end while the content was great it was the people, both old and new to the WordPress community, that made WordCamp Austin a success and helped me realize just how fortunate&nbsp;I was to be a part of it.
+In the end while the content was great it was the people, both old and new to the WordPress community, that made WordCamp Austin a success and helped me realize just how fortunate I was to be a part of it.

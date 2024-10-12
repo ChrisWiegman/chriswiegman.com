@@ -9,18 +9,17 @@ categories:
 tags:
   - WordCamp
   - WordCamp US
-
 ---
-This past weekend I had the opportunity to do something familiar in attending another WordCamp, <a href="https://2015.us.wordcamp.org" target="_blank" rel="noopener noreferrer">WordCamp US</a>, this time in Philadelphia, PA. Although it was my 6th WordCamp of 2015 but it was anything but typical and will stand for some time as one of the most interesting conferences I’ve ever attended. In fact, if I was to sum up the experience in just one word I would have to just say it was&nbsp;_awesome._
+
+This past weekend I had the opportunity to do something familiar in attending another WordCamp, [WordCamp US](https://2015.us.wordcamp.org), this time in Philadelphia, PA. Although it was my 6th WordCamp of 2015 but it was anything but typical and will stand for some time as one of the most interesting conferences I’ve ever attended. In fact, if I was to sum up the experience in just one word I would have to just say it was _awesome._
+
 ### WordCamp US Isn’t a Normal WordCamp
 
-To start with WordCamp US wasn’t a normal WordCamp (as if any of the dozens of great conferences folks put on around the world each year could ever be considered “normal”).&nbsp;Instead of a local or regional conference, the intended audience for most WordCamps, WordCamp US was truly a world-wide conference. While normally a large WordCamp might hit 750 people and bring in some travelers WordCamp US had over 1,800 from all parts of the world and the scale was apparent almost from the moment I stepped off the airplane.
+To start with WordCamp US wasn’t a normal WordCamp (as if any of the dozens of great conferences folks put on around the world each year could ever be considered “normal”). Instead of a local or regional conference, the intended audience for most WordCamps, WordCamp US was truly a world-wide conference. While normally a large WordCamp might hit 750 people and bring in some travelers WordCamp US had over 1,800 from all parts of the world and the scale was apparent almost from the moment I stepped off the airplane.
 
-<div class="wp-block-image">
-  <figure class="alignright"><img decoding="async" src="/images/2020/07/carl-alexander.jpg" alt="Carl Alexander presenting on Unit tests" class="wp-image-7921" /></figure>
-</div>
+![Carl Alexander presenting on Unit tests](/images/2020/07/carl-alexander.jpg)
 
-It wasn’t just the attendees that made WordCamp awesome though, it was everyone who was involved. The volunteers, organizers and speakers were some of the best in the business. Sure, I’ve seen Andrew Nacin and Helen and Matt all speak before, but never at the same WordCamp. Put them in with folks like <a href="http://ten-321.com" target="_blank" rel="noopener noreferrer">Curtiss Grymala</a> and <a href="https://carlalexander.ca" target="_blank" rel="noopener noreferrer">Carl Alexander</a> and the speakers&nbsp;were like a WordCamp all-star team.
+It wasn’t just the attendees that made WordCamp awesome though, it was everyone who was involved. The volunteers, organizers and speakers were some of the best in the business. Sure, I’ve seen Andrew Nacin and Helen and Matt all speak before, but never at the same WordCamp. Put them in with folks like [Curtiss Grymala](http://ten-321.com) and [Carl Alexander](https://carlalexander.ca) and the speakers were like a WordCamp all-star team.
 
 ### Hallway Track #FTW
 
@@ -30,12 +29,12 @@ Truth be told if I was to complain about anything at all this weekend it would b
 
 ### It’s Still About The Community
 
-Of course whether it was the hallway track during the day, a session I attended or a dinner with some good people it was still the community more than anything else that made WordCamp worth it. Sure it’s neat to hear the latest and greatest first but that doesn’t make for a winning conference. Instead it’s knowing that, unlike nearly every other conference I’ve attended, pretty much everyone at WordCamp US is awesome and worth some great conversation. No one is trying to sell me their start-up and no one is just hanging out to get drunk or party. The community is instead their to learn&nbsp;and to really network and that is a great change of pace.
+Of course whether it was the hallway track during the day, a session I attended or a dinner with some good people it was still the community more than anything else that made WordCamp worth it. Sure it’s neat to hear the latest and greatest first but that doesn’t make for a winning conference. Instead it’s knowing that, unlike nearly every other conference I’ve attended, pretty much everyone at WordCamp US is awesome and worth some great conversation. No one is trying to sell me their start-up and no one is just hanging out to get drunk or party. The community is instead their to learn and to really network and that is a great change of pace.
 
 ### It Was the Perfect Opportunity
 
 Finally, if I can say nothing else about WordCamp US this year I can say that it was the perfect opportunity to improve myself at my craft with some wonderful people and I’m truly grateful I got to be a part of it.
 
-Of course I didn’t just attend, I also had the honor of doing some teaching with my own full session on Extending WP-CLI (<a href="http://slides.chriswiegman.com/wcus15/#/" target="_blank" rel="noopener noreferrer">you can check out the slides if your interested</a>).
+Of course I didn’t just attend, I also had the honor of doing some teaching with my own full session on Extending WP-CLI ([you can check out the slides if your interested](http://slides.chriswiegman.com/wcus15/#/)).
 
 So it is safe to say that putting together the learning, the networking, the teaching and the community, WordCamp US was pretty much the perfect WordCamp.

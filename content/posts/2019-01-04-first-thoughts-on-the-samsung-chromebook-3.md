@@ -29,7 +29,7 @@ Really, all it comes down to is [the “Squirrel” effect][2] is alive and well
 
 So on to the new toy, the [Samsung Chromebook 3][1]. I ordered it from Best Buy as it was on sale for $189 for the latest version and, at that price, an experiment to see if it could help me focus seemed more than worth it.
 
-### Why the Samsung&nbsp;Chromebook 3?
+### Why the Samsung Chromebook 3?
 
 After comparing relatively similar machines from Acer, HP, and Samsung this machine simply gave me the most bang for the buck. It’s well built and just powerful enough to be a solid blogging machine without enough power to distract me with other tasks such as getting into the code of this site or something other rabbit hole.
 

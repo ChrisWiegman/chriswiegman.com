@@ -25,9 +25,9 @@ Think about what you put around your content and how you put it there. I know th
   <img loading="lazy" decoding="async" title="Google Malware Warning" width="150" height="150" class="size-thumbnail wp-image-4156  " src="/images/2012/04/google-malware-warning-150x150-1.jpg" alt="Google Malware Warning" /><br />Do you go to a site you don’t know after seeing this?
 </p>
 
-Would you fill your house with million-dollar&nbsp;furniture&nbsp;and then leave the front door open? Then why would you fill your website with million-dollar content and leave security holes big enough for an elephant to fit through?
+Would you fill your house with million-dollar furniture and then leave the front door open? Then why would you fill your website with million-dollar content and leave security holes big enough for an elephant to fit through?
 
-Nothing will scare readers away from your site faster than a Google malware warning and in most cases making sure it doesn’t happen [really doesn’t take a whole lot.][1]&nbsp;Add to that what it can cost to get your site back (I could easily take a nice vacation on the consulting requests I get to fix hacked sites)&nbsp; and a minimal effort can quickly pay back far more than any single post or other piece of content.
+Nothing will scare readers away from your site faster than a Google malware warning and in most cases making sure it doesn’t happen [really doesn’t take a whole lot.][1] Add to that what it can cost to get your site back (I could easily take a nice vacation on the consulting requests I get to fix hacked sites)  and a minimal effort can quickly pay back far more than any single post or other piece of content.
 
 ## 3.) Navigation
 

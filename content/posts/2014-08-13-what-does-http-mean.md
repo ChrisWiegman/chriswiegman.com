@@ -12,9 +12,9 @@ tags:
 We all know that there is something called HTTP when we go to a website, for most of us it’s the four (or five if you’re using https) letters in the beginning of a website address. For example, if you look at the whole address of this site it is [https://www.chriswiegman.com][1]. What does this really mean though?
 ## Hypertext Transfer Protocol
 
-In the simplest terms HTTP&nbsp;stands for Hypertext Transfer Protocol. This is a fancy name for a set of rules (also known as a protocol) that computers use to transfer a specific kind of information, in this case the HTML documents (and others) that make up a website.
+In the simplest terms HTTP stands for Hypertext Transfer Protocol. This is a fancy name for a set of rules (also known as a protocol) that computers use to transfer a specific kind of information, in this case the HTML documents (and others) that make up a website.
 
-In other words HTTP&nbsp;is a language used by a network to transfer information from a web server to your browser.
+In other words HTTP is a language used by a network to transfer information from a web server to your browser.
 
 ## A Bit of History
 
@@ -30,11 +30,11 @@ To facilitate this data transfer HTTP actually has a number of request methods w
 
 While these have various uses for the most part, particularly in an application like <a title="WordPress.org" href="http://wordpress.org" target="_blank" rel="noopener noreferrer">WordPress</a> it is the GET and POST methods we use the most.
 
-GET is how information is retrieved*. We put in a url and we _get_ data back. On the other hand POST is how we send&nbsp;or _post&nbsp;_data back to the server. When you log into WordPress or another site your login information is, most likely, sent as a POST request back to the server.
+GET is how information is retrieved*. We put in a url and we _get_ data back. On the other hand POST is how we send or _post _data back to the server. When you log into WordPress or another site your login information is, most likely, sent as a POST request back to the server.
 
 ## What does this actually mean to me?
 
-So that’s a lot of technical talk what it really means is that when you put _http_ into a website address what you’re doing is telling the browser that you’re going to communicate with a server using the HTTP protocol. Today it’s expected. A few years ago there were other ways to communicate in the browser such as _<a title="the gopher protocol on Wikipedia" href="http://en.wikipedia.org/wiki/Gopher_(protocol)" target="_blank" rel="noopener noreferrer">gopher</a>_, _ftp_ and others. Perhaps one day we’ll have an alternative to HTTP and have to pay more attention to it again, perhaps not.&nbsp;In the meantime, whenever you see HTTP know that you’re telling the server you want a webpage or something related to a webpage that will be transferred in such a way that both your browser and the site you want to get can communicate effectively.
+So that’s a lot of technical talk what it really means is that when you put _http_ into a website address what you’re doing is telling the browser that you’re going to communicate with a server using the HTTP protocol. Today it’s expected. A few years ago there were other ways to communicate in the browser such as _<a title="the gopher protocol on Wikipedia" href="http://en.wikipedia.org/wiki/Gopher_(protocol)" target="_blank" rel="noopener noreferrer">gopher</a>_, _ftp_ and others. Perhaps one day we’ll have an alternative to HTTP and have to pay more attention to it again, perhaps not. In the meantime, whenever you see HTTP know that you’re telling the server you want a webpage or something related to a webpage that will be transferred in such a way that both your browser and the site you want to get can communicate effectively.
 
 _*Note: information can be sent via GET but it is not the standard. Developers should always use POST to send information to a server._
 

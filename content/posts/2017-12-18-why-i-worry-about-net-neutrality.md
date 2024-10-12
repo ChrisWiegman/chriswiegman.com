@@ -32,7 +32,7 @@ Net Neutrality will, instead, kill the internet in the same way one would boil a
 
 Facebook, Google, Twitter… They’re not going anywhere nor is your access to them. We all know it would simply be impossible for our internet providers to enforce a direct monetary cost to consumers on something that we’ve become accustomed to for “free.” They’ll still have to pay for delivery but those costs will be passed on to consumers in the form of more ads and other methods that don’t directly go after our credit cards.
 
-The thing here is we&nbsp;_have_ those services already. While a scenario of bundling access to sites like cable tv is possible, as appears to be the case in countries like Portugal, it isn’t likely here. The marketing of such a change would never get the approval of the end users. In other words, things you have today, especially the services offered by giant companies such as Facebook, Google, Time Warner and others aren’t going anywhere anytime soon. The cost in public relations would far outweigh the benefits over all but the longest of terms.
+The thing here is we _have_ those services already. While a scenario of bundling access to sites like cable tv is possible, as appears to be the case in countries like Portugal, it isn’t likely here. The marketing of such a change would never get the approval of the end users. In other words, things you have today, especially the services offered by giant companies such as Facebook, Google, Time Warner and others aren’t going anywhere anytime soon. The cost in public relations would far outweigh the benefits over all but the longest of terms.
 
 ## Innovation will suffer the most
 

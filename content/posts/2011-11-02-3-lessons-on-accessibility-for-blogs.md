@@ -18,7 +18,7 @@ For as many topics as I see on blogging and bloggers one of the most overlooked,
 
 ### 1.) Accessibility is about more than the blind
 
-This is perhaps one of the most overlooked aspects of accessibility in all areas of the web not just blogging. When we do think about accessibility on our blogs we will nearly always think of it in terms of making our blog readable to those who are blind or otherwise vision impaired. While this is necessary it leaves out so many others who’s needs are equally as problematic when it comes to reading and understanding out content. This includes the hearing impaired, those with learning&nbsp;disabilities, and even in some cases something as seemingly simple as a viewer with 20/20 vision who is colorblind.
+This is perhaps one of the most overlooked aspects of accessibility in all areas of the web not just blogging. When we do think about accessibility on our blogs we will nearly always think of it in terms of making our blog readable to those who are blind or otherwise vision impaired. While this is necessary it leaves out so many others who’s needs are equally as problematic when it comes to reading and understanding out content. This includes the hearing impaired, those with learning disabilities, and even in some cases something as seemingly simple as a viewer with 20/20 vision who is colorblind.
 
 When you develop your blog and its content try to remember that if you want everyone to read your writing than you must in fact write for everyone. In addition, while media such as videos might be interesting to some, videos without captions immediately exclude an entire portion of the population from your content without even trying.
 
@@ -30,7 +30,7 @@ Making our content available to everyone might take a little extra work but as t
 
 In the defense of many bloggers I know, most do think of accessibility at some point in the design process. The catch is most think of accessibility as a component of or an extension to SEO.
 
-While both SEO and accessibility are elements of UI that cannot be separated, putting them together can be just as dangerous. SEO is the art of making your content readable to a machine, namely a search bot. Accessibility on the other hand is the art of making your content both readable and understandable to all people regardless of physical or developmental limitations. In the end, as it is the people we wish to have read our content, lumping your&nbsp;accessibility&nbsp;practices into your SEO might help for a few but it will never&nbsp;fulfill&nbsp;the needs of all users who could otherwise gain insight from your work.
+While both SEO and accessibility are elements of UI that cannot be separated, putting them together can be just as dangerous. SEO is the art of making your content readable to a machine, namely a search bot. Accessibility on the other hand is the art of making your content both readable and understandable to all people regardless of physical or developmental limitations. In the end, as it is the people we wish to have read our content, lumping your accessibility practices into your SEO might help for a few but it will never fulfill the needs of all users who could otherwise gain insight from your work.
 
 ### 3.) Never underestimate your forms
 

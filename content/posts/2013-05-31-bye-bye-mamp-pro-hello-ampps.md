@@ -15,7 +15,7 @@ tags:
 
 Ironically, only 2 days after [writing about how MAMP Pro would be the next app I would dump][1] I find myself with a new development stack for my local machines. <a title="MAMP Pro" href="http://www.mamp.info/en/mamp-pro/" target="_blank" rel="noopener noreferrer">MAMP Pro</a> was just getting outdated and, combined with their inability to offer any kind of support, it was time to move on.
 
-As of today&nbsp;[AMPPS][2] is my new development stack.
+As of today [AMPPS][2] is my new development stack.
 
 After almost four years with MAMP Pro matching it’s ease of configuring virtual hosts wasn’t easy. I’ve tried (in no particular order)
 
@@ -49,7 +49,7 @@ Third, **it’s portable**. I’ve put AMPPS in my <a title="Dropbox" href="http
 
 Finally, **it’s free**. I’ve spent a lot of time and money on MAMP Pro over the years so finding a replacement that is actually free is rather impressive. The fact that it can do even more than the expensive paid software is just incredible.
 
-_**So why are you still messing with MAMP Pro? Give AMPPS a try. You won’t be&nbsp;disappointed.&nbsp;**_
+_**So why are you still messing with MAMP Pro? Give AMPPS a try. You won’t be disappointed. **_
 
  [1]: /2013/05/bit51s-development-tools-2013-edition/
  [2]: http://www.ampps.com/ "Softaculous AMPPS"

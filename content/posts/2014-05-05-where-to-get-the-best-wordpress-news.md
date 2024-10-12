@@ -11,7 +11,7 @@ tags:
 ---
 Is it just me or are WordPress blogs a dime-a-dozen? It seems like everyone (including me) is on the blogging kick lately. While I’ll never complain about people getting involved and trying to educate others simply trying to keep up with WordPress news, tutorials and other posts in the inevitable noise that comes with so much content can be crazy.
 
-Frankly I’ve given up trying to get emails or follow blogs directly. For the most part I haven’t even been to the sites of some of my favorite blogs in months (which can get really awkward after a redesign when you find out how similar your site looks to some of them).&nbsp;I’ve been able to do this with a few free tools that&nbsp;have allowed me to track about 400 blogs and sites while really paying attention to the 1/2 dozen or so I find most informative.
+Frankly I’ve given up trying to get emails or follow blogs directly. For the most part I haven’t even been to the sites of some of my favorite blogs in months (which can get really awkward after a redesign when you find out how similar your site looks to some of them). I’ve been able to do this with a few free tools that have allowed me to track about 400 blogs and sites while really paying attention to the 1/2 dozen or so I find most informative.
 
 ### Tools and Sources
 
@@ -40,13 +40,13 @@ Of course tools are just part of it. These days I pretty much just scan headline
     <strong><a title="Konstantin Kovshenin" href="http://kovshenin.com" target="_blank" rel="noopener noreferrer">Konstantin Kovshenin</a></strong> – Konstantin is a lead developer at WordPress.org and one of the nicest guys in the business. Every post he has is a lesson into some part of WordPress core and the rationale behind how some of it works. If you code you definitely need to check it out.
   </li>
   <li>
-    <strong><a title="Bourn Creative" href="http://www.bourncreative.com" target="_blank" rel="noopener noreferrer">Jennifer Bourn</a></strong>&nbsp;– Bourn Creative, a dev studio ran by Jennifer and her husband Brian, puts out some quality content on topics related to dev and just about everything else WordPress. They’ve become my goto source for content creation and blog marketing.
+    <strong><a title="Bourn Creative" href="http://www.bourncreative.com" target="_blank" rel="noopener noreferrer">Jennifer Bourn</a></strong> – Bourn Creative, a dev studio ran by Jennifer and her husband Brian, puts out some quality content on topics related to dev and just about everything else WordPress. They’ve become my goto source for content creation and blog marketing.
   </li>
   <li>
     <strong><a title="BobWP" href="http://bobwp.com" target="_blank" rel="noopener noreferrer">Bob Dunn</a> </strong>– Bob is a jack-of-all-trades and a hell of a nice guy. His WordPress tutorials are top-notch and cover nearly all aspects of WordPress. While often not as deep as some of the dev blogs his content never fails to show me some trick or item that I either missed or just don’t normally use.
   </li>
   <li>
-    <a title="Chris Lema" href="http://chrislema.com" target="_blank" rel="noopener noreferrer"><strong>Chris Lema</strong></a> – While I might be able to hold my own on my own projects, mainly writing code and teaching, I don’t know jack about business. Fortunately with Chris’ content I don’t need to. I’ve learned more about the business of WordPress from Chris in the last year than I did in a few more&nbsp;years trying to run a WordPress business&nbsp;myself. If you want to make money in WordPress listen to him. It really is that simple.
+    <a title="Chris Lema" href="http://chrislema.com" target="_blank" rel="noopener noreferrer"><strong>Chris Lema</strong></a> – While I might be able to hold my own on my own projects, mainly writing code and teaching, I don’t know jack about business. Fortunately with Chris’ content I don’t need to. I’ve learned more about the business of WordPress from Chris in the last year than I did in a few more years trying to run a WordPress business myself. If you want to make money in WordPress listen to him. It really is that simple.
   </li>
   <li>
     <strong><a title="WPTavern" href="http://wptavern.com" target="_blank" rel="noopener noreferrer">WPTavern</a></strong> – While not a single blogger (it’s actually owned by Automattic <a title="Audrey Capital" href="http://audrey.co" target="_blank" rel="noopener noreferrer">Audrey Capital</a>), WPTaven is an excellent source on whats going on in the WordPress community. I’ve taken to turning to Jeff and Sarah for confirmation on nearly any WordPress news story I hear elsewhere. They’ve got the pulse of the overall community like no one else.

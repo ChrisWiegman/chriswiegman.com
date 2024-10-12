@@ -28,7 +28,7 @@ Times change and so does the value of <a href="http://www.wordpress.org" target=
     <strong><strong><strong><strong><a href="http://www.w3-edge.com/wordpress-plugins/w3-total-cache/" target="_blank" rel="noopener noreferrer">W3 Total Cache</a><br />I’ve wavered on this in the past and I will say that it isn’t the best solution for every site. However, in my case it has taken the place of 3 plugins (DB Cache Reloaded, WP-Minify, and WP Super Cache) and it seems to do an excellent job of making sure my site is delivered quickly and efficiently. </strong></strong></strong></strong>
   </li>
   <li>
-    <strong><strong><strong><strong><strong><a href="http://wordpress.org/extend/plugins/wp-portfolio/" target="_blank" rel="noopener noreferrer">WordPress Portfolio Plugin</a></strong><br /><strong>While not everyone has a website portfolio, for those who do this plugin can’t be beat. It can categorize and order sites, take automatic screen shots, and work&nbsp;seamlessly&nbsp;into any theme.</strong></strong></strong></strong></strong>
+    <strong><strong><strong><strong><strong><a href="http://wordpress.org/extend/plugins/wp-portfolio/" target="_blank" rel="noopener noreferrer">WordPress Portfolio Plugin</a></strong><br /><strong>While not everyone has a website portfolio, for those who do this plugin can’t be beat. It can categorize and order sites, take automatic screen shots, and work seamlessly into any theme.</strong></strong></strong></strong></strong>
   </li>
 </ul>
 

@@ -19,9 +19,9 @@ While I’ve wanted to make money (who doesn’t) I haven’t wanted to be obnox
 
 ## What is working {#h-what-is-working.wp-block-heading}
 
-Unfortunately, the income I’m generating from this site is falling far short of paying the associated bills. I’ve made enough for basic hosting but when you add the startup costs and other&nbsp;miscellaneous&nbsp;expenses I’m realizing that my efforts to date are, at best, inadequate.
+Unfortunately, the income I’m generating from this site is falling far short of paying the associated bills. I’ve made enough for basic hosting but when you add the startup costs and other miscellaneous expenses I’m realizing that my efforts to date are, at best, inadequate.
 
-Of course not all of this is the fault of my strategy. Those of you who know me and have been reading this site know that, only a couple of months after launching, [I had to walk away from it][1]&nbsp;due to too many other things going on in my life. While this doesn’t help the income situation, it does give me hope that, as I start to give this site the attention it deserves, I will be able to pick up a little more income without too many tweaks while, at the same time, lowering some of my costs as most of the start-up costs have already been paid.
+Of course not all of this is the fault of my strategy. Those of you who know me and have been reading this site know that, only a couple of months after launching, [I had to walk away from it][1] due to too many other things going on in my life. While this doesn’t help the income situation, it does give me hope that, as I start to give this site the attention it deserves, I will be able to pick up a little more income without too many tweaks while, at the same time, lowering some of my costs as most of the start-up costs have already been paid.
 
 As for the ads and donation boxes themselves, the donation boxes within the WordPress dashboards have by far been my most lucrative source of income. Affiliate programs have come in second, followed by Google Adsense, and then donation boxes on Bit51.com.
 
@@ -43,10 +43,10 @@ While this site has started to pay for part of it’s own way, it has not as of 
 
 <ul class="wp-block-list">
   <li>
-    <strong>So how do you monetize your websites?&nbsp;</strong>
+    <strong>So how do you monetize your websites? </strong>
   </li>
   <li>
-    <strong>Is your strategy working?&nbsp;</strong>
+    <strong>Is your strategy working? </strong>
   </li>
   <li>
     <strong>How would you improve your own efforts?</strong>

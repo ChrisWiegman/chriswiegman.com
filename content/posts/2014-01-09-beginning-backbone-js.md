@@ -14,7 +14,7 @@ I’m happy to announce the second book I tech-reviewed was released last month.
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
   <p>
-    <em>Beginning Backbone.js</em>&nbsp;is your step-by-step guide to learning and using the Backbone.js library in your web projects. Backbone.js is one of the most popular JavaScript libraries among web developers, used to create modular, single-page web apps. This book takes you from downloading Backbone.js and its dependencies all the way to using more advanced libraries to structure your application architecture, and everything in between.
+    <em>Beginning Backbone.js</em> is your step-by-step guide to learning and using the Backbone.js library in your web projects. Backbone.js is one of the most popular JavaScript libraries among web developers, used to create modular, single-page web apps. This book takes you from downloading Backbone.js and its dependencies all the way to using more advanced libraries to structure your application architecture, and everything in between.
   </p>
 
   <p>
@@ -22,7 +22,7 @@ I’m happy to announce the second book I tech-reviewed was released last month.
   </p>
 
   <p>
-    With the explosion of JavaScript-based applications on the web, the need for more structured approaches&nbsp;to code management is more important than ever. &nbsp;Backbone.js helps create applications that separate models from views, enabling developers to avoid spaghetti code.&nbsp;<em>Beginning Backbone.js&nbsp;</em>will gently guide you into this amazingly powerful library, and help you ramp up to building professional applications. Integrate Backbone.js into your work today with this indispensable book.
+    With the explosion of JavaScript-based applications on the web, the need for more structured approaches to code management is more important than ever.  Backbone.js helps create applications that separate models from views, enabling developers to avoid spaghetti code. <em>Beginning Backbone.js </em>will gently guide you into this amazingly powerful library, and help you ramp up to building professional applications. Integrate Backbone.js into your work today with this indispensable book.
   </p>
 
   <p>
