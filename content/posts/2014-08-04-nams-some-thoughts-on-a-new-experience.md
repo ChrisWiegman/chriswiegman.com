@@ -8,16 +8,16 @@ categories:
   - Technical
 tags:
   - NAMS
-
 ---
-It’s no secret that the last couple of years I’ve been something of a <a title="WordCamp Central" href="http://wordcamp.org" target="_blank" rel="noopener noreferrer">WordCamp</a> addict. I’ve attended about a dozen since the beginning of 2013 and I’ve even had the privilege of [speaking][1] at a few (with a few more coming up). WordCamps are wonderful but it is weekends like this that remind me that not only are their other shows out there but there are other shows that can, even for a WordPress developer, be just as important (if not more so) than any WordCamp I’ve attended.
-For the last year or two Regina Smola of <a title="WPSecurityLock" href="http://wpsecuritylock.com" target="_blank" rel="noopener noreferrer">WPSecurityLock</a> has been working hard to get me to a conference that, frankly, wouldn’t have otherwise peaked my interest. This new conference, a bi-annual marketing workshop known as <a title="MyNAMS" href="http://mynams.com" target="_blank" rel="noopener noreferrer">NAMS</a> (Novice to Advanced Marketing System) in Atlanta, that focuses not on the tools themselves (like <a title="WordPress.org" href="http://wordpress.org" target="_blank" rel="noopener noreferrer">WordPress</a>) but how to leverage those tools towards a much bigger goal.
+
+It’s no secret that the last couple of years I’ve been something of a [WordCamp](http://wordcamp.org) addict. I’ve attended about a dozen since the beginning of 2013 and I’ve even had the privilege of [speaking][1] at a few (with a few more coming up). WordCamps are wonderful but it is weekends like this that remind me that not only are their other shows out there but there are other shows that can, even for a WordPress developer, be just as important (if not more so) than any WordCamp I’ve attended.
+For the last year or two Regina Smola of [WPSecurityLock](http://wpsecuritylock.com) has been working hard to get me to a conference that, frankly, wouldn’t have otherwise peaked my interest. This new conference, a bi-annual marketing workshop known as [NAMS](http://mynams.com) (Novice to Advanced Marketing System) in Atlanta, that focuses not on the tools themselves (like [WordPress](http://wordpress.org)) but how to leverage those tools towards a much bigger goal.
 
 I finally attended this weekend as both an instructor and an attendee and not only have I been impressed but I’ve been flat out blown away by what what I was missing and, in many cases, what I had forgotten or simply taken for granted in my own work.
 
 ### Tools Are Meant To Build With
 
-WordPress is great. For the last few years WordPress has been a big part of my life as I’ve worked hard to make Better WP Security (and now <a title="iThemes Security Pro" href="http://ithemes.com/security" target="_blank" rel="noopener noreferrer">iThemes Security</a>) one of the largest plugins and the best security plugin in the WordPress ecosystem.
+WordPress is great. For the last few years WordPress has been a big part of my life as I’ve worked hard to make Better WP Security (and now [iThemes Security](http://ithemes.com/security)) one of the largest plugins and the best security plugin in the WordPress ecosystem.
 
 As wonderful as the journey has been one of the biggest things I’ve been forced to remember this weekend is that WordPress is, first and foremost, a tool to be used to do bigger things.
 
@@ -37,7 +37,7 @@ Conferences don’t have to always be like this. People attend conferences as an
 
 NAMS is different. Here instructors invest their time with the full expectation that those in the audience are looking to not use their fancy new software tool but to use leverage such a tool to the tune of a hefty monetary return. From affiliate marketing to consulting and more people at NAMS are here to make money and help each other make money in one of the friendliest environments I’ve ever seen.
 
-OK, not everything is like WordCamps. I spoke at <a title="South by Southwest" href="http://sxsw.com" target="_blank" rel="noopener noreferrer">South by Southwest</a> this last Spring where everyone is there chasing money and parties. At South by Southwest I’ve often thought the very soul of the event has been compromised by the search for a quick buck and a few beers.
+OK, not everything is like WordCamps. I spoke at [South by Southwest](http://sxsw.com) this last Spring where everyone is there chasing money and parties. At South by Southwest I’ve often thought the very soul of the event has been compromised by the search for a quick buck and a few beers.
 
 NAMS doesn’t work like either. If an attendee needs your services and you can help them a six figure sale on the spot isn’t out of the question nor is me asking a room of 80 people to go out and by my software during my session where I will then show them how to use it. On the flip side not a single person I’ve spoken with here has been here for the quick dollar or the party. They’re here to invest in their reputation and the future of their businesses by folks who really know what their doing and can offer more than a good story.
 
@@ -47,7 +47,7 @@ Don’t get me wrong. A lot of us have taken an awful lot away from WordCamps. H
 
 Finally, NAMS has served as a reminder that WordPress doesn’t have a lock on community. Constantly we in the WordPress community cite its greatest strength as the community itself and refer to that strength as the reason many of us are here rather than in developing for more monetarily lucrative software tools that exist all around us.
 
-The NAMS community of folks here to learn to make use of tools is just as strong and, in some ways, even stronger (probably due to its size). Like <a title="HighEdWeb" href="http://www.highedweb.org" target="_blank" rel="noopener noreferrer">HighEdWeb</a> (another group very dear to my heart) NAMS is a group that acts more as an extended family rather than a bunch of strangers. It is a place where best selling authors, millionaire marketers, mommy bloggers and security developers can join forces and share strengths to invest in each other and that is something I shall not forget.
+The NAMS community of folks here to learn to make use of tools is just as strong and, in some ways, even stronger (probably due to its size). Like [HighEdWeb](http://www.highedweb.org) (another group very dear to my heart) NAMS is a group that acts more as an extended family rather than a bunch of strangers. It is a place where best selling authors, millionaire marketers, mommy bloggers and security developers can join forces and share strengths to invest in each other and that is something I shall not forget.
 
 In short NAMS has been one of the most rewarding events I’ve attended in quite a long time for reasons very different yet complimentary to the WordCamps I’ve grown to look forward to as much as I’ll be looking forward to my next NAMS experience
 

@@ -9,8 +9,8 @@ categories:
 tags:
   - Reflection
   - WordPress
-
 ---
+
 Before I get into the meat of this post I want to point out that I’ve written and re-written this post a few times over the last eight months in order to better reflect on the whole thing myself.
 
 ### The Beginnings of Better WP Security

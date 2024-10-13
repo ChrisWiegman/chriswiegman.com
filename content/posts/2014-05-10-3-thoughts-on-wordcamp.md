@@ -8,8 +8,8 @@ categories:
 tags:
   - Reflection
   - WordCamp
-
 ---
+
 I’m sitting here at lunch at WordCamp Miami. This is my 2nd time at this event after who knows how many other WordCamps and similar events. While this is always a positive camp there are a few things about Miami and WordCamps in general that I’ve found unique of all the conferences I’ve been to.
 
 ### WordCamps do a great job of bringing new folks to WordPress

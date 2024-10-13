@@ -7,9 +7,10 @@ categories:
   - Technical
 tags:
   - Site News
-
 ---
+
 While it took me a while to implement, I’m happy to say this site is now running completely on HTTPS with a new stack behind it which, with a little luck, will make it both more secure and faster when I get the bugs worked out.
+
 ### Why HTTPS?
 
 It’s simple. There is simply no reason not to anymore. Protecting the privacy of users and the integrity of this site is my main goal and one small way I can do that is to make sure that everything you send and receive from this site is encrypted to the best of my ability.

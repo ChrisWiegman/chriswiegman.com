@@ -7,9 +7,9 @@ categories:
   - Technical
 tags:
   - Software
-
 ---
-As some of you have pointed out to me Better Google Tasks, the Google Tasks extension that had <a title="Getting things done with Google Tasks - mattcutts.com" href="http://www.mattcutts.com/blog/todo-list-tips/" target="_blank" rel="noopener noreferrer">recently been mentioned by Matt Cutts</a>, is no longer in the Google Play Market.
+
+As some of you have pointed out to me Better Google Tasks, the Google Tasks extension that had [recently been mentioned by Matt Cutts](http://www.mattcutts.com/blog/todo-list-tips/), is no longer in the Google Play Market.
 
 The short answer as to why: I really don’t know what happened to it on the market.
 
