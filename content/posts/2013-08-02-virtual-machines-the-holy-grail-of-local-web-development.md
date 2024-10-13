@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Vagrant
-
 ---
+
 I’ve been developing websites for quite a long time, since the 90s to be exact, and over that time the way I work on a project has changed pretty dramatically.
 
 Like so many other developers I started out working on plain HTML sites on my local computer and then using FTP to send them to a remote server where the world could get to them. That worked great until dynamic sites came around and I could no longer test my code locally resulting in a, well, less than perfect workflow. You see, once I start getting into dynamic sites (I started with Cold Fusion and ASP classic) I developed a habit of developing directly on a remote server, usually the production site, with tools like [Dreamweaver][1] that allowed me to connect and work directly on the remote machine. It was in fact this workflow that kept me a loyal Dreamweaver user for the better part of a decade as nothing else at the time could compete with this type of workflow very well.
@@ -25,36 +25,18 @@ Finally, last weekend [Mark Jaquith][7] changed my opinion on all of this with h
 
 The Holy Grail of development environments has been found and it doesn’t require a whole heck of a lot get started.
 
-<ol class="wp-block-list">
-  <li>
-    Install <a title="Virtualbox" href="http://www.virtualbox.org">Virtualbox and its Guest Additions</a>. This is the virtualization engine that will allow your new development environment to run.
-  </li>
-  <li>
-    Install <a title="Vagrant" href="http://www.vagrantup.com/">Vagrant</a>. It doesn’t matter what your OS is, this is a free and easy download package that serves as a wrapper around the Virtual machine in Virtualbox. Once configured it will download the image you need, set up the virtual machine and pass it off to a provisioning script to make sure everything you need is installed and configured.
-  </li>
-  <li>
-    Get a base configuration. This is easy with sites like https://puphpet.com/ which allow you to configure what you need for a basic development environment. I started with it and then customized it to meet my needs. Mostly I just changed a few variables to make sure it worked for me a little easier out of the box. You can find <a href="https://github.com/ChrisWiegman/primary-vagrant">my modified configuration on GitHub</a> if you’re interested.
-  </li>
-  <li>
-    Start working. Once you have a script getting a development environment is as easy as going to the location of the script you downloaded and typing <em>vagrant up</em> in the terminal.
-  </li>
-</ol>
+1. Install [Virtualbox and its Guest Additions](http://www.virtualbox.org "Virtualbox"). This is the virtualization engine that will allow your new development environment to run.
+2. Install [Vagrant](http://www.vagrantup.com/ "Vagrant"). It doesn’t matter what your OS is, this is a free and easy download package that serves as a wrapper around the Virtual machine in Virtualbox. Once configured it will download the image you need, set up the virtual machine and pass it off to a provisioning script to make sure everything you need is installed and configured.
+3. Get a base configuration. This is easy with sites like https://puphpet.com/ which allow you to configure what you need for a basic development environment. I started with it and then customized it to meet my needs. Mostly I just changed a few variables to make sure it worked for me a little easier out of the box. You can find [my modified configuration on GitHub](https://github.com/ChrisWiegman/primary-vagrant) if you’re interested.
+4. Start working. Once you have a script getting a development environment is as easy as going to the location of the script you downloaded and typing _vagrant up_ in the terminal.
 
 ### Why Use Virtual Machines?
 
 Yeah, it’s a bit of work to set this all up but once you do there are some serious benefits to this workflow.
 
-<ol class="wp-block-list">
-  <li>
-    If you’re in a team <strong>everyone will be developing on the same environment</strong>. We’re not there at my day job yet but we’re getting there. Once implemented it won’t matter if folks are on Windows, Mac or Linux. The development environment will be the same throughout allowing us to spend far less time as a team debugging.
-  </li>
-  <li>
-    <strong>Your development environment can match your production environment</strong>. If you’re deploying to a given environment why not work in that same environment? Again this saves time and sanity in debugging as you’re no longer changing configurations as you push your project up the line.
-  </li>
-  <li>
-    <strong>Speed and efficiency</strong>. Once you have Vagrant, an install script, and Virtualbox you can switch machines, run up or down new environments and generally get to coding a lot faster without having to spend hours tweaking your local setup to match your servers as closely as possible. For me this is the real benefit at the moment. I can work on any machine I happen to have handy and I no longer have to worry about either setup or whether I’ve configured the new machine to match the old. It just works.
-  </li>
-</ol>
+1. If you’re in a team **everyone will be developing on the same environment**. We’re not there at my day job yet but we’re getting there. Once implemented it won’t matter if folks are on Windows, Mac or Linux. The development environment will be the same throughout allowing us to spend far less time as a team debugging.
+2. **Your development environment can match your production environment**. If you’re deploying to a given environment why not work in that same environment? Again this saves time and sanity in debugging as you’re no longer changing configurations as you push your project up the line.
+3. **Speed and efficiency**. Once you have Vagrant, an install script, and Virtualbox you can switch machines, run up or down new environments and generally get to coding a lot faster without having to spend hours tweaking your local setup to match your servers as closely as possible. For me this is the real benefit at the moment. I can work on any machine I happen to have handy and I no longer have to worry about either setup or whether I’ve configured the new machine to match the old. It just works.
 
 ### Room to Improve
 

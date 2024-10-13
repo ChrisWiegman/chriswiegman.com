@@ -9,8 +9,8 @@ tags:
   - Genesis
   - Web Development
   - WordPress
-
 ---
+
 Genesis is a great framework for theming WordPress (I use it on almost every site I build) but it does make some decisions I don’t agree with. For example, it loads the style.css of the child theme you’re using by using its own action rather than the _wp\_register\_style_ and _wp\_enqueue\_style_ functions provided by WordPress. If you don’t want to load the default style.css this could make getting rid of it rather tricky.
 
 ### Why would you not load style.css?
@@ -23,13 +23,13 @@ Fast forward to today and the dual purpose of theme information and theme styles
 
 Modern technology just broke your theme.
 
-The answer to solving this is to split your styles into separate files and use style.css either as just the meta information or to load the styles from other files with an @import statement. While this seems like an valid way to go the very reason most people compress files is performance and @import in your CSS will defeat this purpose (<a title="Don't use @import" href="http://www.stevesouders.com/blog/2009/04/09/dont-use-import/" target="_blank" rel="noopener noreferrer">check out this excellent, if not dated, writeup on why not to use @import</a>).
+The answer to solving this is to split your styles into separate files and use style.css either as just the meta information or to load the styles from other files with an @import statement. While this seems like an valid way to go the very reason most people compress files is performance and @import in your CSS will defeat this purpose ([check out this excellent, if not dated, writeup on why not to use @import](http://www.stevesouders.com/blog/2009/04/09/dont-use-import/ "Don't use @import")).
 
 The second solution is just to load both style.css and your new stylesheet in the header of your site. This will work too and is slightly less troublesome than @import but you’re still loading another file every time a user hits your site. When even the smallest change in load time matters you really don’t want to be loading anything you don’t need. As your users don’t need your themes style.css why load it at all? Why not just use the compressed CSS compiled from your source styles?
 
 ### The problem with Genesis and style.css
 
-On most themes not loading style.css is actually rather easy. You can just de-register and dequeue it with WordPress’ built-in functions <a title="wp_deregister_style() in the WordPress Codex" href="http://codex.wordpress.org/Function_Reference/wp_deregister_style" target="_blank" rel="noopener noreferrer">wp_deregister_style()</a> and _<a title="wp_dequeue_style in the WordPress codex" href="http://codex.wordpress.org/Function_Reference/wp_dequeue_style" target="_blank" rel="noopener noreferrer">wp_dequeue_style()</a>. _
+On most themes not loading style.css is actually rather easy. You can just de-register and dequeue it with WordPress’ built-in functions [wp\_deregister\_style()](http://codex.wordpress.org/Function_Reference/wp_deregister_style "wp_deregister_style() in the WordPress Codex") and _[wp\_dequeue\_style()](http://codex.wordpress.org/Function_Reference/wp_dequeue_style "wp_dequeue_style in the WordPress codex")._
 
 If you use The Genesis Framework for your theme this won’t work. Genesis doesn’t add the stylesheet in the normal way and instead uses its own hook to add style.css to your theme’s header.
 

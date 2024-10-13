@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Security
-
 ---
+
 There’s a myth among website owners that real security involves preventing problems and nothing more. While of course you want to [do your best to make sure no one gets into your site][1], if you stop at prevention you’re going to get in trouble. Instead, real security depends on two other areas at least as and, in some cases, more important than prevention. Take away any of the three and you’re asking for the kind of trouble that can cost you far more than a headache. You’re asking for the kind of trouble that can cost you your customers.
 
 **Nothing Can Prevent Every Attack On Your Site**
@@ -23,7 +23,7 @@ When your best defenses are breached you need to know about it and you need to k
 
 Until you know that your site has been hacked there is nothing you, as the site owner, can do about the situation. On the other hand, if your customers discover they’ve been compromised by your site or Google finds malware on your site before you do you’re going to be in for a very bumpy ride.
 
-The key to detection is vigilance. You know your site better than anyone and it is therefore up to you to monitor it for anything out of the ordinary. Is it suddenly running slow? Are you suddenly being bombarded by spam comments or emails? These are all signs that there is a problem. The moment something feels off run or there is something strange in the [Better WP Security][2] logs or those of another product run your site through a scanning service such as <a title="Sucuri Sitecheck" href="http://sitecheck.sucuri.net/scanner/" target="_blank" rel="noopener noreferrer">Sucuri</a> to see for certain if something is wrong.
+The key to detection is vigilance. You know your site better than anyone and it is therefore up to you to monitor it for anything out of the ordinary. Is it suddenly running slow? Are you suddenly being bombarded by spam comments or emails? These are all signs that there is a problem. The moment something feels off run or there is something strange in the \[Better WP Security\]\[2\] logs or those of another product run your site through a scanning service such as [Sucuri](http://sitecheck.sucuri.net/scanner/ "Sucuri Sitecheck") to see for certain if something is wrong.
 
 ### Recover Your Site
 

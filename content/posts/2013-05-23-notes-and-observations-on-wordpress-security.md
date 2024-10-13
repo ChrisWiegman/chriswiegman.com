@@ -8,11 +8,9 @@ categories:
 tags:
   - Security
   - WordPress
-
 ---
 
-
-WordPress security has become a popular topic as there have been a number of posts lately talking about just how secure <a title="WordPress.org" href="http://www.wordpress.org" target="_blank" rel="noopener noreferrer">WordPress</a> is or is not. From what I’ve read so far just about all of them boil down to one of two things: 1.) the author has a stake in WordPress as part or all of his/her business so it’s secure and, 2.) my site got hacked so WordPress is not secure. Add to that a number of posts on how to improve WordPress security and the ever-growing number of security plugins in the WordPress.org plugins repository and it can all get pretty confusing. So who is right? Is WordPress secure or isn’t it?
+WordPress security has become a popular topic as there have been a number of posts lately talking about just how secure [WordPress](http://www.wordpress.org "WordPress.org") is or is not. From what I’ve read so far just about all of them boil down to one of two things: 1.) the author has a stake in WordPress as part or all of his/her business so it’s secure and, 2.) my site got hacked so WordPress is not secure. Add to that a number of posts on how to improve WordPress security and the ever-growing number of security plugins in the WordPress.org plugins repository and it can all get pretty confusing. So who is right? Is WordPress secure or isn’t it?
 
 Before I start the flame war a post like this is sure to become let me point out that over the last 3 years of developing what has become one of the biggest security plugins in the WordPress.org repository I find the answers to these questions tend to be quite a bit more complex then just the code on which WordPress runs. It is far easier to measure security based on the strengths or weaknesses of a single variable than it is to do so on the strengths and weaknesses of 100 variables. That aside I do see some significant trends which contribute to to both sides of the argument and no matter what either I or anyone else write the only security that really matters is how secure your site is. If your site is compromised, no matter the reason, it is safe to say that a combination of both a vulnerability and a threat has made your site insecure.
 

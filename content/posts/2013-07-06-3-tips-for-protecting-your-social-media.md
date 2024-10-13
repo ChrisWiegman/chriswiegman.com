@@ -8,8 +8,8 @@ categories:
 tags:
   - Security
   - Social Media
-
 ---
+
 I talk a lot about website security. While securing your website is obviously a passion of mine there is another part of your business and your brand that I haven’t been paying enough attention to. Your social media accounts are often just as, if not more so, important than your actual website? Do you know how to keep them safe as well?
 
 ### What are people thinking?
@@ -32,11 +32,11 @@ Keeping your social media on devices you own doesn’t just apply to you public 
 
 ### 2.) Use two-factor authentication
 
-One way many social media accounts are hacked is weak passwords or passwords shared with other compromised sites. While using a strong password and using different passwords for each site has become a lot easier with services like <a title="Lastpass" href="https://lastpass.com/" target="_blank" rel="noopener noreferrer">Lastpass</a> there is still a better way to secure most of the big social networking sites.
+One way many social media accounts are hacked is weak passwords or passwords shared with other compromised sites. While using a strong password and using different passwords for each site has become a lot easier with services like [Lastpass](https://lastpass.com/ "Lastpass") there is still a better way to secure most of the big social networking sites.
 
-You see, a password is just something you _know_. Unfortunately, if you know it so can someone else which leads to a major weakness in the whole idea of password security. Two-factor authentication increases the security of your accounts with both something you _know_ and something you _have_. In other words, to get into a site protected with two-factor authentication you’ll need your password and, in most cases, to _have_ your phone physically with you for an app like <a title="Google Authenticator on Wikipedia" href="http://en.wikipedia.org/wiki/Google_Authenticator" target="_blank" rel="noopener noreferrer">Google Authenticator</a> which will give you a code that is only good for a few seconds.
+You see, a password is just something you \_know\_. Unfortunately, if you know it so can someone else which leads to a major weakness in the whole idea of password security. Two-factor authentication increases the security of your accounts with both something you \_know\_ and something you \_have\_. In other words, to get into a site protected with two-factor authentication you’ll need your password and, in most cases, to \_have\_ your phone physically with you for an app like [Google Authenticator](http://en.wikipedia.org/wiki/Google_Authenticator "Google Authenticator on Wikipedia") which will give you a code that is only good for a few seconds.
 
-Most of the big networks including <a title="Facebook login approvals" href="https://www.facebook.com/note.php?note_id=10150172618258920" target="_blank" rel="noopener noreferrer">Facebook</a>, <a title="Twitter Login Verification" href="https://blog.twitter.com/2013/getting-started-login-verification" target="_blank" rel="noopener noreferrer">Twitter</a>, <a title="Google Two Factor Authentication" href="https://support.google.com/accounts/answer/180744?hl=en" target="_blank" rel="noopener noreferrer">Google</a>, <a title="LinkedIn Two Factor Authentication" href="http://blog.linkedin.com/2013/05/31/protecting-your-linkedin-account-with-two-step-verification/" target="_blank" rel="noopener noreferrer">LinkedIn</a>, App.net and others all support two-factor authentication in one way or another. Facebook allows you to do it right through the Facebook app on your phone or text message, Twitter and LinkedIn use text messages and App.net and Google both use Google Authenticator. It’s easy to set up, it’s easy to use and it really does work.
+Most of the big networks including [Facebook](https://www.facebook.com/note.php?note_id=10150172618258920 "Facebook login approvals"), [Twitter](https://blog.twitter.com/2013/getting-started-login-verification "Twitter Login Verification"), [Google](https://support.google.com/accounts/answer/180744?hl=en "Google Two Factor Authentication"), [LinkedIn](http://blog.linkedin.com/2013/05/31/protecting-your-linkedin-account-with-two-step-verification/ "LinkedIn Two Factor Authentication"), App.net and others all support two-factor authentication in one way or another. Facebook allows you to do it right through the Facebook app on your phone or text message, Twitter and LinkedIn use text messages and App.net and Google both use Google Authenticator. It’s easy to set up, it’s easy to use and it really does work.
 
 Of course, as with any security measure two-factor authentication isn’t perfect but if you value your accounts and, more importantly, you value your friends and anyone else you contact with your accounts two-factor authentication can take your security far beyond a basic password.
 
