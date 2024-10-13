@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Windows
-
 ---
+
 I won’t go back to Windows with the newest version.
 
 To be fair actually I won’t go back to it on my personal machines either at work or at home. Instead I’ll stick with the latest incarnations of OSX and Mac respectively. I have tried Windows 7 and am in fact running it on a test machine for the department, but I find it to be little more than a major service pack for Vista.

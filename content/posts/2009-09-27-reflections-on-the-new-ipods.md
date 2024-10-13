@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Hardware
-
 ---
+
 I’ve been an iPod user for four years now. My first iPod was the iPod Video 60GB which has by far been one of the best pieces of electronic wizardry I’ve ever owned. I’ve used it everywhere from my bedroom to the cockpit of the planes I used to fly for a living and it is still a rock-solid piece of equipment.
 
 While the iPod Video is the best I’ve had it isn’t the only MP3 player I’ve owned. I bought my first MP3 player way back in 1998 or 1999 and it was a 32MB gizmo from RIO. In addition my wife and I each own 1GB iPod Shuffles that we use for the gym and other places in which bringing the larger classic doesn’t make sense.

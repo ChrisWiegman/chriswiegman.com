@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Development Tools
-
 ---
+
 There us plenty of software out there for those who develop for the web and every developer has their favorites. For the last almost 15 years I’ve used everything from Adobe’s Photoshop and Dreamweaver to notepad and nearly everything in between. Through my experiences I have formed a couple of necessary criterion with which to pick my tools as a developer. First, they must work on all the major platforms, Win, Mac, and Linux. Second, they must have good community support (I don’t like calling a phone center so forums and similar support methods are a must). Finally, I must be able to get my tools running quickly in an unfamiliar environment,( i.e. when I’m on a computer other than my own) as I tend to do a lot of consulting on the use of the tools themselves.
 
 **1.) Aptana Studio**

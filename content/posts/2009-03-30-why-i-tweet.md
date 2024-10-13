@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Social Media
-
 ---
+
 There’s a lot of buzz about Twitter lately and a lot of people out there trying to explain what it’s good for. For the most part the uses fall into two categories: self-promotion and celebrity stalking. In other words, many would say to make the best use of Twitter you need to excel either in vanity or in creepiness. Personally I disagree.
 
 I’m on Twitter for two very different reasons. First and foremost I’m there to learn. My job doesn’t give me the luxury of attending numerous conferences or interacting with too many others here in this small town, and although I can learn a lot from a Google Search you are still often limited by your own imagination. Twitter gives me the power to follow others in my industry and gain all sorts of ideas from the links they post and sometimes even the posts themselves. For instance, following a lot of Joomla tweeters has lead me to believe that Joomla is the way for me to go with my own sites. Also, when I was looking for a new web-host Twitter gave me numerous real-time feedback on a number of hosts I would not have otherwise considered.

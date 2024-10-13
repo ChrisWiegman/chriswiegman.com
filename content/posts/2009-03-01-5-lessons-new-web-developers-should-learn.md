@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Career Development
-
 ---
+
 1.) **Don’t be afraid to ask**
 
 Thankfully programming is one of those areas in which help is just a few keystrokes away. This is important not only when you’re stuck on an algorithm, but also in the planning stages for many of the aspects of your project. Questions such as “What are others doing” and “Is there a better way of doing this for my users” should always be at the top of a good developers mind. Not only can your questions get you out of a jam quick, but they can also bring up ideas and other important considerations that you might not have even thought of before.
@@ -23,7 +23,7 @@ When I first started with web development in the 90’s I tried to help a friend
 
 As developers we must remember our goal is to turn out the highest quality product we possibly can. To do so requires the use of numerous techniques many or which have already been perfected. As you’re starting out don’t be afraid to use other’s code where applicable. Not only can it save you time but as you work with the code you will learn from it as well.
 
-Also, in many cases getting ideas from another source and incorporating those ideas into your own site can help your users understand your work better. For instance if you’re building a blog, starting with a common platform such as <a href="http://www.wodpress.org" target="_blank" rel="noopener noreferrer">WordPress</a> can provide a level of familiarity to your users that will translate even across the wide variety of themes that can be utilized by the product.
+Also, in many cases getting ideas from another source and incorporating those ideas into your own site can help your users understand your work better. For instance if you’re building a blog, starting with a common platform such as [WordPress](http://www.wodpress.org) can provide a level of familiarity to your users that will translate even across the wide variety of themes that can be utilized by the product.
 
 One caution here however is don’t take someone’s work and try to pass it off as your own. Instead, make sure you have permission to use the code (in most cases PHP code is posted so you can use it) and then make sure you give credit back to the author! As your skills progress perhaps they will then return the favor to you.
 

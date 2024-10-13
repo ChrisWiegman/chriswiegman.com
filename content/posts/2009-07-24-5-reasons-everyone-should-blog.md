@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Blogging
-
 ---
+
 **1.) Blogging forces you to research and learn**
 
 Day in and day out we go through our lives at work and home without much reason to change. Although what we are doing now might work, we often don’t have much incentive to learn anything new. Blogging helps by forcing you to learn something new as you investigate material for your writing. For example, us techie bloggers can find all sorts of new tricks and tools in the quest to research the topic of our latest post. More often than not these can be some pretty cool items we would never have heard about otherwise.

@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Windows
-
 ---
+
 Well, I know I said I wouldn’t even bother trying it, however the allure of “new” was just too much to pass up and as a result I’ve been running 7 in my office since it came out to Enterprise customers in August. As of this point (about 7 weeks in) all I can say is I’m just waiting for Ubuntu 9.10 to be released in a couple of weeks so that I may switch back.
 
 Here are the highlights of my experience so far:
