@@ -7,15 +7,13 @@ categories:
   - Technical
 tags:
   - Social Media
-
 ---
-<div class="wp-block-image">
-  <figure class="alignleft"><img decoding="async" src="/images/2011/08/Google-Plus-Logo-207x225-1.jpg" alt="Google Plus" class="wp-image-2987" title="Google Plus" /></figure>
-</div>
 
-To Google not all customers are created equal. In fact, some are [as yet] forbidden from even using certain products such as <a title="Google Profiles" href="http://profiles.google.com" target="_blank" rel="noopener noreferrer">profiles</a> and <a title="Google Plus" href="http://plus.google.com" target="_blank" rel="noopener noreferrer">Google Plus</a>. Unlike most products however where paying customers are often allowed to try things first, with Google it is the paying customers that are excluded.
+![Google Plus](/images/2011/08/Google-Plus-Logo-207x225-1.jpg)
 
-Who are these customers? They are those who use <a title="Google Apps" href="https://workspace.google.com/" target="_blank" rel="noopener noreferrer">Google Apps</a>, a service which brings <a title="GMail" href="http://gmail.com" target="_blank" rel="noopener noreferrer">GMail</a> and other Google services to one’s own domain. Due to the power of branding and the price of the service ($50/user/year for a premium account) I use Google Apps for all of my domains, both personal and business. Even the Aviation department I work for at SIU uses Google Apps for our email. This means that I can’t be involved with Google Plus, Google Profiles, or a host of other services.
+To Google not all customers are created equal. In fact, some are \[as yet\] forbidden from even using certain products such as [profiles](http://profiles.google.com "Google Profiles") and [Google Plus](http://plus.google.com "Google Plus"). Unlike most products however where paying customers are often allowed to try things first, with Google it is the paying customers that are excluded.
+
+Who are these customers? They are those who use [Google Apps](https://workspace.google.com/ "Google Apps"), a service which brings [GMail](http://gmail.com "GMail") and other Google services to one’s own domain. Due to the power of branding and the price of the service ($50/user/year for a premium account) I use Google Apps for all of my domains, both personal and business. Even the Aviation department I work for at SIU uses Google Apps for our email. This means that I can’t be involved with Google Plus, Google Profiles, or a host of other services.
 
 I don’t think I would find this so frustrating if it wasn’t for the fact that myself and so many others I know who use the service do so because we understand both the power of Google’s services and the power of branding. For those of us who use it for personal use (as opposed to just using a standard GMail account) we do so because it is the use of our own domain that demonstrates to others that we know what we’re doing when it comes to marketing ourselves.
 

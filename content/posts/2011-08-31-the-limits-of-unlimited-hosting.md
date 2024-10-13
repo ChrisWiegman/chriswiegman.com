@@ -7,13 +7,13 @@ categories:
   - Technical
 tags:
   - Web Development
-
 ---
+
 Anyone who has looked for a host for their website in the last few years has surely seen the advertisements for “unlimited hosting.” These ads are something of a window back to the days when web hosts limited the amount of disk space and bandwidth (the amount of data transferred over the internet) you received due to the expense of both commodities. Today things are a little different though. Both bandwidth and disk space has become so cheap that almost no one even changes you for them. Instead nearly every host in the business will offer you “unlimited” hosting in which bandwidth and disk space aren’t even measured for somewhere around $5 a month.
 
 So what’s the catch? If these hosts are truly unlimited why are so few large sites using them? I mean couldn’t every site on the web sign up for a Hostgator account and be done with it?
 
-While bandwidth and disk space costs have become far cheaper for hosts to offer, the computing power actually consumed by most websites has not. Yes computers are much more powerful and offer much more RAM than they did 10 years ago, but at the same time thanks to the use of software such as <a title="Wordpress" href="http://wordpress.org" target="_blank" rel="noopener noreferrer">WordPress</a> and <a title="Drupal" href="http://drupal.org" target="_blank" rel="noopener noreferrer">Drupal</a> they consume even more than has been added.
+While bandwidth and disk space costs have become far cheaper for hosts to offer, the computing power actually consumed by most websites has not. Yes computers are much more powerful and offer much more RAM than they did 10 years ago, but at the same time thanks to the use of software such as [WordPress](http://wordpress.org "Wordpress") and [Drupal](http://drupal.org "Drupal") they consume even more than has been added.
 
 The result: **unlimited hosting accounts are limited by the amount of cpu and RAM (memory) on the host server.**
 

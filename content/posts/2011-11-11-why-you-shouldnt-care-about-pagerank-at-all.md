@@ -7,9 +7,9 @@ categories:
   - Technical
 tags:
   - Blogging
-
 ---
-If you run a website you have by now probably heard that <a title="Google Search Algorithm Change For Freshness To Impact 35% Of Searches; Twitter Firehose Remains Off" href="http://searchengineland.com/google-search-algorithm-change-for-freshness-to-impact-35-of-searches-99856" target="_blank" rel="noopener noreferrer">Google changed the way they rank websites again</a>. As happens every few months folks all over the web go crazy when their <a title="PageRank on Wikipedia" href="http://en.wikipedia.org/wiki/PageRank" target="_blank" rel="noopener noreferrer">PageRank</a> drops or celebrate like they’ve “made it” if it goes up a little.
+
+If you run a website you have by now probably heard that [Google changed the way they rank websites again](http://searchengineland.com/google-search-algorithm-change-for-freshness-to-impact-35-of-searches-99856 "Google Search Algorithm Change For Freshness To Impact 35% Of Searches; Twitter Firehose Remains Off"). As happens every few months folks all over the web go crazy when their [PageRank](http://en.wikipedia.org/wiki/PageRank "PageRank on Wikipedia") drops or celebrate like they’ve “made it” if it goes up a little.
 
 Here’s the question I’ll ask you. **_Why bother looking at your PageRank at all?_**
 
@@ -35,4 +35,4 @@ From comments on your blog to comments on social networks who is talking about y
 
 ### Conclusion
 
-In the end too many folks are busy salting their work with keywords to get picked up by a search engine who’s PageRank _algorithm_ will rank them between 0 and 10 and change it next month based on whatever new metric Google decides to include. While a higher rank might be neat it simply misses the big picture. None of it matters if you’re not meeting your own goals of if you’re driving people away or if simply no one cares enough to talk about your work. Put your energy into my 3 metrics and not only will you be happier for it, but in the end, with some high quality content and visitors, you might even see your PageRank climb a litte (if you’re even watching it anymore).
+In the end too many folks are busy salting their work with keywords to get picked up by a search engine who’s PageRank _algorithm_ will rank them between 0 and 10 and change it next month based on whatever new metric Google decides to include. While a higher rank might be neat it simply misses the big picture. None of it matters if you’re not meeting your own goals of if you’re driving people away or if simply no one cares enough to talk about your work. Put your energy into my 3 metrics and not only will you be happier for it, but in the end, with some high quality content and visitors, you might even see your PageRank climb a little (if you’re even watching it anymore).

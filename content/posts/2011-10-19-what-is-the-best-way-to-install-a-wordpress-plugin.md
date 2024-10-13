@@ -7,9 +7,9 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
-As anyone who is familiar with a <a title="WordPress.org" href="http://wordpress.org" target="_blank" rel="noopener noreferrer">WordPress.org</a> install can tell you there are 3 primary ways to install a plugin in WordPress. You can have it download automatically by searching for it and clicking install in the WordPress back-end. You can download the zip file and upload it into WordPress by selecting “Add New” in the plugins page and the selecting “Upload.” Or, you can manually install it yourself via FTP/SSH. So is there any difference? Yes, actually there is. Here’s a breakdown of what each does and why you might want to choose one over the other.
+
+As anyone who is familiar with a [WordPress.org](http://wordpress.org "WordPress.org") install can tell you there are 3 primary ways to install a plugin in WordPress. You can have it download automatically by searching for it and clicking install in the WordPress back-end. You can download the zip file and upload it into WordPress by selecting “Add New” in the plugins page and the selecting “Upload.” Or, you can manually install it yourself via FTP/SSH. So is there any difference? Yes, actually there is. Here’s a breakdown of what each does and why you might want to choose one over the other.
 
 ### Using the “Search” function on the Install Plugins page
 
@@ -33,14 +33,14 @@ While this take a little more work than having WordPress install it for you it w
 
 ### So which is best?
 
-Personally I use the “Search” function for known plugins that I use on every site and I manually install anything else. I’m a research freak when it comes to plugins and I try to be very careful that anything I install is still in development and won’t cause any problems on my site. Here’s a quick breakdown though on all the methods available.<figure class="wp-block-table is-style-stripes">
+Personally I use the “Search” function for known plugins that I use on every site and I manually install anything else. I’m a research freak when it comes to plugins and I try to be very careful that anything I install is still in development and won’t cause any problems on my site. Here’s a quick breakdown though on all the methods available.
 
 | Attribute                   | **WordPress "Search** | **WordPress "Upload"** | **Manual Install** |
 | --------------------------- | --------------------------- | ---------------------------------- | ------------------ |
 | **Speed of installation**   | Fastest                     | Middle                             | Slowest            |
 | **Pre-install information** | Limited                     | Full                               | Full               |
 | **Compatibility Test***     | Yes                         | No                                 | No                 |
-| **Leaves Files Behind**     | No                          | Yes                                | No                 |</figure>
+| **Leaves Files Behind**     | No                          | Yes                                | No                 |
 
 *Note that the compatibility test only checks to see whether the plugin was tested with your version of WordPress. Your results my very.
 

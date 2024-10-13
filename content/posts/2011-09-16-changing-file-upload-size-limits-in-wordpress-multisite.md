@@ -7,11 +7,11 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
-Just changing the file upload limit in <a title="Create a network in the WordPress Codex" href="http://codex.wordpress.org/Create_A_Network" target="_blank" rel="noopener noreferrer">WordPress multisite</a> may not give you the results you desire. Instead it becomes necessary to change the file size limits on your server as well as WordPress can only handle files as big as what your server can handle. Fortunately this is a very easy process. Note that some of the syntax below may change based on your Linux distribution the lines to change in php.ini will be the same regardless.
 
-On your server find and edit your php.ini file. In <a title="Ubuntu" href="http://www.ubuntu.com/" target="_blank" rel="noopener noreferrer">Ubuntu</a> using <a href="/2010/06/running-apachefastcgisuexec-in-ubuntu-10-04-without-var-www/" target="_blank" rel="noreferrer noopener">suexec and fastcgi</a> use the command:
+Just changing the file upload limit in [WordPress multisite](http://codex.wordpress.org/Create_A_Network "Create a network in the WordPress Codex") may not give you the results you desire. Instead it becomes necessary to change the file size limits on your server as well as WordPress can only handle files as big as what your server can handle. Fortunately this is a very easy process. Note that some of the syntax below may change based on your Linux distribution the lines to change in php.ini will be the same regardless.
+
+On your server find and edit your php.ini file. In [Ubuntu](http://www.ubuntu.com/ "Ubuntu") using [suexec and fastcgi](/2010/06/running-apachefastcgisuexec-in-ubuntu-10-04-without-var-www/) use the command:
 
 _sudo nano /etc/php5/cgi/php.ini_
 

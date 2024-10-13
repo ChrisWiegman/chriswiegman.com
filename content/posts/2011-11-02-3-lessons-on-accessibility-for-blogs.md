@@ -8,13 +8,11 @@ categories:
 tags:
   - Accessibility
   - Web Development
-
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><img decoding="async" src="/images/2011/11/Website-Accessibility-225x168-1.jpg" alt="Website Accessibility" class="wp-image-3455" title="Website Accessibility" /></figure>
-</div>
 
-For as many topics as I see on blogging and bloggers one of the most overlooked, yet perhaps most important topics I rarely see talked about is accessibility. While this is by no means a simple topic nor is a perfectly accessible site something that can be derived with ease, there are a few things every blogger should (but usually doesn’t) remember about accessibilty.
+![Website Accessibility](/images/2011/11/Website-Accessibility-225x168-1.jpg)
+
+For as many topics as I see on blogging and bloggers one of the most overlooked, yet perhaps most important topics I rarely see talked about is accessibility. While this is by no means a simple topic nor is a perfectly accessible site something that can be derived with ease, there are a few things every blogger should (but usually doesn’t) remember about accessibility.
 
 ### 1.) Accessibility is about more than the blind
 

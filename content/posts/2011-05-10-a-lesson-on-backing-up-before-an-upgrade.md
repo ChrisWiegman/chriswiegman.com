@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
+
 Quite a few people yesterday learned an important lesson: no matter how prominent the [WordPress][1] plugin you use is, you should still never upgrade without first backing up.
 
 Yesterday [W3 Total Cache][2], a popular and effective WordPress caching plugin, was updated to version 0.9.2. While updates for this plugin have been fairly regular and without problems in the past this one was different. For many the new version completely broke their sites leading to a lot of painful reconfiguring and downtime.

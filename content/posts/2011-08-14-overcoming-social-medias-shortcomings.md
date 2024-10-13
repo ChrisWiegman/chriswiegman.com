@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Social Media
-
 ---
+
 To anyone who hasn’t been living in a cave for the last 5 years social media is where it’s at. From Facebook to YouTube to LinkedIn social media has not only become where we share out data, for many it has become an integral part of both their personal and professional lives.
 
 ### The Problem
@@ -31,7 +31,7 @@ Personally, I keep my Facebook list to no more than about 500 people and I frien
 
 #### 2. Participate In Real Life
 
-Whether it be an organization like <a href="http://socialmediaclub.org/" target="_blank" rel="noreferrer noopener">Social Media Club</a>, a conference, or a social Tweetup get out and meet the people you interact with in social media. Not only will this add some level of legitimacy to what both of you have to say, but it will make the relationship more “real” in that when you see that person online you’ll see them as the person they are rather than just pixels on the screen.
+Whether it be an organization like [Social Media Club](http://socialmediaclub.org/), a conference, or a social Tweetup get out and meet the people you interact with in social media. Not only will this add some level of legitimacy to what both of you have to say, but it will make the relationship more “real” in that when you see that person online you’ll see them as the person they are rather than just pixels on the screen.
 
 In my own life I’m helping form a local chapter of Social Media Club here in Southern Illinois. In addition I’ve attended numerous conferences and other events designed to put real faces to the pictures I see online. Finally, I make it part of my mission to both speak on the topics I talk about online as well as to attend the lectures of others whose topics relate to mine.
 

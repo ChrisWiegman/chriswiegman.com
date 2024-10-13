@@ -7,18 +7,12 @@ categories:
   - Technical
 tags:
   - Social Media
-
 ---
-_Professionalism (from <a title="Professionalism - Definitiion" href="http://www.merriam-webster.com/dictionary/professionalism" target="_blank" rel="noopener noreferrer">Merriam-Webster</a>):_
 
-<ol class="wp-block-list">
-  <li>
-    <em>the conduct, aims, or qualities that characterize or mark a profession or a professional person (see 1professional)</em>
-  </li>
-  <li>
-    <em>the following of a profession (as athletics) for gain or livelihood</em>
-  </li>
-</ol>
+_Professionalism (from [Merriam-Webster](http://www.merriam-webster.com/dictionary/professionalism "Professionalism - Definitiion")):_
+
+1.  _the conduct, aims, or qualities that characterize or mark a profession or a professional person (see 1professional)_
+2.  _the following of a profession (as athletics) for gain or livelihood_
 
 In times past those who knew this definition were easy to identify. You could identify a professional by their clothing, their work ethic, their speech, and a host of other factors. All of these factors contributed to the “qualities that characterize of mark a profession or a professional.” In short, all of these factors were signs of professionalism. From the moment you met a professional you knew their status in their chosen field without a resume, a profile, or any other formal description of their work. You knew it by the way they presented themselves and from the very words they spoke.
 
@@ -26,7 +20,7 @@ Today we find ourselves in a much different position when defining professionali
 
 ### Every Word Counts
 
-First and foremost, to distinguish yourself as a professional in the age of social media you must watch every word you say. Whether it be [Twitter][1], <a href="https://www.facebook.com/" target="_blank" rel="noreferrer noopener">Facebook</a>, <a title="LinkedIn" href="http://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>, or a host of other services every word has a far greater meaning when there are so few words by which someone may get to know you.
+First and foremost, to distinguish yourself as a professional in the age of social media you must watch every word you say. Whether it be [Twitter][1], [Facebook](https://www.facebook.com/), [LinkedIn](http://linkedin.com "LinkedIn"), or a host of other services every word has a far greater meaning when there are so few words by which someone may get to know you.
 
 In addition, negative posts such as those talking about drinking, insults, or other unprofessional activities can quickly multiply your industry’s negative perception of you. Simply put, every word you type has to be of the same quality as the first sentence of a cover letter in application for your dream job. Each tweet, status update, etc has to be at a level that would make your boss proud.
 

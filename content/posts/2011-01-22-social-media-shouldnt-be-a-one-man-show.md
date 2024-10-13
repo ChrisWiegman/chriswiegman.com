@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Social Media
-
 ---
+
 My department has been active in Social Media for 4 years now since our first MySpace and Facebook attempts. That said, we have had periods with a lot of success as well as periods where success was a little hard to come by. Throughout all of it the common thread was participation on the part of the department. When I have help it shows.
 
 For example, during our career days our ambassador students have tweeted the progress of the events to help parents and students coordinate as well as to ease the fears of parents who, for the most part, are sending their children on their first flight on their own. In addition, we have an entire Twitter accounted devoted to our weather call system which helps instructors and students determine their lesson for the day as well as helps them plan upcoming lessons and other activities. Finally, when we have a social media employee who’s job it is to talk online and be an evangelist for our department we can see the results in applications and other forms of contact. The common theme here, all of the content is added and monitored by those who are in charge of the content, not by a single person who is removed from the day-to-day operations that generate the content in question.

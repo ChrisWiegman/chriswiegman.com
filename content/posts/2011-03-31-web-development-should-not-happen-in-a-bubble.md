@@ -8,8 +8,8 @@ categories:
 tags:
   - Career Development
   - Web Development
-
 ---
+
 Why is it so many web people, both developers and designers, operate in a bubble? Especially in higher ed it seems that not only is it every man for himself, but each of those must make sure they do so without any input from anyone else.
 
 Web development is a broad topic, and with the advent of social media and other new media a single person cannot expect to succeed on the web without help and input. Anyone who tells you they can do it all is not someone I would want to hire myself.

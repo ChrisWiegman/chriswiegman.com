@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Web Development
-
 ---
+
 Over the last few weeks I’ve seen more instances of CMS success in higher education than I have since coming back to higher ed full-time 4 years ago. From departments to a a whole school I’ve been reminded again why higher-ed, more than any industry I’ve been involved in, needs to make use of a CMS for not only recruiting and retention, but also for alumni relations, politics, and general survival.
 
 Of the dozen or so examples I’ve seen in the last few weeks there are two that really stick out in my mind as instances where the implementation of a CMS has really paid our own department back in ways that were barely even considered before.

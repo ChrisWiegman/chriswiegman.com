@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Social Media
-
 ---
+
 Lately it seems as if everyone is an expert at social media. If they have a Facebook account or a Twitter account they’re automatically an expert who can solve all of your problems. The catch is, when it comes right down to it, many of these experts might be great at selling themselves on their own Twitter account which is being followed by old friends and relatives, but when it comes to being an expert in the sense that you would want to hire them to manage their online presence their skills tend to fall very short.
 
 So how do you know if your local expert is all they claim to be? Here’s 5 tips that can help prove that their expertise exists far beyond their own egos.

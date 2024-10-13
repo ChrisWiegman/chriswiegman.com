@@ -7,19 +7,17 @@ categories:
   - Technical
 tags:
   - Software
-
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><a href="/images/2011/04/Digsby-logo.png"><img decoding="async" src="/images/2011/04/Digsby-logo.png" alt="A Worthy Digsby Alternative For the Mac" class="wp-image-2141" title="A Worthy Digsby Alternative For the Mac" /></a></figure>
-</div>
 
-Back when I was still a <a href="http://www.windows.com" target="_blank" rel="noopener noreferrer">Windows</a> user I relied heavily on <a class="zem_slink" title="Digsby " href="http://www.digsby.com/" rel="homepage">Digsby</a> as both an instant messaging client and as a good way to check my email. In fact, I relied on it so much myself that when I needed a good email checker for my company after we switched to Google Apps we picked Digsby as our goto application. However, now that I’ve completely given up all Windows computers I can no longer use Digsby as my go-to client.
+![A Worthy Digsby Alternative For the Mac](/images/2011/04/Digsby-logo.png)
+
+Back when I was still a [Windows](http://www.windows.com) user I relied heavily on [Digsby](http://www.digsby.com/ "Digsby ") as both an instant messaging client and as a good way to check my email. In fact, I relied on it so much myself that when I needed a good email checker for my company after we switched to Google Apps we picked Digsby as our goto application. However, now that I’ve completely given up all Windows computers I can no longer use Digsby as my go-to client.
 
 Now according to Digsby’s website there are technically clients in the works for both Mac and Linux, however after using the product for at least the last 2 and a half years I can tell you an actual release seems about as likely as a Cubs world series championship (I’m from the Northwest side of Chicago and I die-hard Cubs fan, but also a realist).
 
 So what alternative is there?
 
-I’ve taken two approaches to this problem for my own use. First, the IM. Here <a class="zem_slink" title="Trillian" href="http://www.ceruleanstudios.com/" rel="homepage">Trillian</a> for really shines. It’s faster than Digsby ever was, supports multiple protocols, syncs accounts, and best of all it’s freely available in the <a class="zem_slink" title="Mac App Store" href="http://www.apple.com/mac/app-store" rel="homepage">Mac App Store</a>. If you share an email service with your social network it can handle that too although it only notifies you of new messages and doesn’t let you handle them from within.
+I’ve taken two approaches to this problem for my own use. First, the IM. Here [Trillian](http://www.ceruleanstudios.com/ "Trillian") for really shines. It’s faster than Digsby ever was, supports multiple protocols, syncs accounts, and best of all it’s freely available in the [Mac App Store](http://www.apple.com/mac/app-store "Mac App Store"). If you share an email service with your social network it can handle that too although it only notifies you of new messages and doesn’t let you handle them from within.
 
 Although I’ve used Trillian for my email at times I do like having something fast and more full-featured. I don’t want to have to open a web client or anything else to mark a message as spam, delete it or, in my case as a Google Apps user, to archive it. Fortunately, if you use Firefox or Chrome as your browser there is a good solution for you.
 

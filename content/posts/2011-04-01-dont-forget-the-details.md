@@ -7,21 +7,21 @@ categories:
   - Technical
 tags:
   - Blogging
-
 ---
+
 How many times have you gone to a site and realized that something was missing? Maybe the site was just too slow, maybe you bookmarked it and realized it didn’t have a fancy icon like everyone else, maybe it just didn’t seem to be complete…
 
-The list can go on and on but the point is always the same. No matter how small your site is it is important that you mind the details. For example I’ve been to so many “professional” bloggers and other sites as I’ve strived to improve my own craft but nothing will turn me away from a blogger fast than no <a class="zem_slink" title="Favicon" href="http://en.wikipedia.org/wiki/Favicon" rel="wikipedia">favicon</a>.
+The list can go on and on but the point is always the same. No matter how small your site is it is important that you mind the details. For example I’ve been to so many “professional” bloggers and other sites as I’ve strived to improve my own craft but nothing will turn me away from a blogger fast than no [favicon](http://en.wikipedia.org/wiki/Favicon "Favicon").
 
 So what are the most important details for a small site to get?
 
 1.) Use a favicon
 
-The favicon is the little icon that appears in the tab bar of your browser or next to the bookmark of your site. It is easy to make and even easier to implement it yet so many bloggers and others just miss it. For those of you in this boat and who want to add a favicon <a href="https://codex.wordpress.org/Creating_a_Favicon" target="_blank" rel="noopener noreferrer">here is a good article to get you started</a>.
+The favicon is the little icon that appears in the tab bar of your browser or next to the bookmark of your site. It is easy to make and even easier to implement it yet so many bloggers and others just miss it. For those of you in this boat and who want to add a favicon [here is a good article to get you started](https://codex.wordpress.org/Creating_a_Favicon).
 
 2.) Don’t forget caching
 
-If a website takes 20 seconds to load then I will probably not stay there. Webpagetest.org is a great little tool to determine how fast or slow your own site is as well as provide you with tips to improve. In addition, if you’re on <a class="zem_slink" title="WordPress" href="http://wordpress.org" rel="homepage">WordPress</a> check out <a class="zem_slink" title="W3 Total Cache" href="http://WordPress.org/extend/plugins/w3-total-cache/" rel="homepage">W3 Total Cache</a> and <a class="zem_slink" title="WP-Optimize" href="http://www.ruhanirabin.com/wp-optimize/" rel="homepage">WP Optimize</a>. You might be amazed at how much faster your site can load.
+If a website takes 20 seconds to load then I will probably not stay there. Webpagetest.org is a great little tool to determine how fast or slow your own site is as well as provide you with tips to improve. In addition, if you’re on [WordPress](http://wordpress.org "WordPress") check out [W3 Total Cache](http://WordPress.org/extend/plugins/w3-total-cache/ "W3 Total Cache") and [WP Optimize](http://www.ruhanirabin.com/wp-optimize/ "WP-Optimize"). You might be amazed at how much faster your site can load.
 
 3.) Watch your code
 

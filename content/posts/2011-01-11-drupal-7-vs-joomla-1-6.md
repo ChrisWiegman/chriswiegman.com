@@ -7,11 +7,9 @@ categories:
   - Technical
 tags:
   - Development Tools
-
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><img decoding="async" src="/images/2011/01/Drupal-vs-Joomla-195x225-1.jpg" alt="Drupal vs Joomla" class="wp-image-2216" title="Drupal vs Joomla" /></figure>
-</div>
+
+![Drupal vs Joomla](/images/2011/01/Drupal-vs-Joomla-195x225-1.jpg)
 
 We’re only in the second week of the new year and already us web CMS geeks have a lot to keep us busy. First, last week [Drupal][1] released the long awaited Drupal 7 and today [Joomla][2] 1.6 was released. Both are major upgrades to some of the most popular CMS system. As I’m not someone who is ever married to a tech product and I believe each contender must be re-evaluated with the release of a major update I’ve decided I need to re-evaluate both for the lead role as my CMS of choice for larger products. I’ve been using Drupal 6 for some time, but perhaps Joomla has finally caught up.
 
@@ -21,7 +19,7 @@ My criteria is based on my primary use for our current CMS as a higher-ed recrui
 
 #### Joomla – 8
 
-<img loading="lazy" decoding="async" class="size-medium wp-image-2218 " title="Joomla Web Installer" src="/images/2011/01/Joomla-Web-Installer-225x190-1.jpg" alt="Joomla Web Installer" width="225" height="190" /> The placement of the sample data installer leaves a little to be desired
+![Joomla Web Installer](/images/2011/01/Joomla-Web-Installer-225x190-1.jpg "The placement of the sample data installer leaves a little to be desired")
 
 Joomla’s installation is pretty straight forward. First make sure your database and hosting space is available, copy the files to your server, open the site in a browser, and follow the instructions on the screen. There are only two usability issues I see in the process. First, it asks for FTP credentials for “some” servers (it indicates you may not need them). If you’re using SSH however instead of FTP for file transfer and need this feature (I’ve installed on many servers and have never found one that needs it) you are out of luck. Second, if you’re going fast it may be easy to miss the sample data installer (see graphic) as it is not on it’s own page and is instead included at the bottom of the main configuration page. For beginners installing sample data can be handy as it gives you a sample set of data to see where everything is and provide an example of how you might want to set up your own data. What is nice however is the ability to provide the meta description and keywords for the site directly in the installer thus eliminating the need to do so later.
 
@@ -31,7 +29,7 @@ Overall the experience of installing Joomla is on par with that of Drupal, WordP
 
 #### Drupal – 7
 
-<img loading="lazy" decoding="async" class="size-medium wp-image-2221 " title="Drupal Installation" src="/images/2011/01/Drupal-Installation-225x193-1.png" alt="Drupal Installation" width="225" height="193" /> Select a Drupal installation profile
+![Drupal Installation](/images/2011/01/Drupal-Installation-225x193-1.png "Select a Drupal installation profile")
 
 Like Joomla, installing Drupal is rather easy. First the user must copy the files to their host. Next though Drupal adds a rather strange requirement that the user copy the default settings file and rename it in order to continue the installation. This could be a problem for newbies unfamiliar with the file system as it takes a little more than just moving files and deleting extras.
 
@@ -45,7 +43,7 @@ Finally, when the installer script is complete you are finished. There is nothin
 
 #### Joomla -4
 
-<img loading="lazy" decoding="async" class="size-medium wp-image-2223 " title="Joomla Administration Screen" src="/images/2011/01/Joomla-Administration-Screen-225x186-1.png" alt="Joomla Administration Screen" width="225" height="186" /> The main Joomla administration screen
+![Joomla Administration Screen](/images/2011/01/Joomla-Administration-Screen-225x186-1.png "The main Joomla administration screen")
 
 First I have to point out that Joomla’s administration has gotten better since 1.5 (which in fact seems to be one of the major goals of the project). Like previous versions it requires a separate backend similar to that of WordPress in which all functions are stored.
 
@@ -61,7 +59,7 @@ Finally, no server administration is complete without the ability to quickly rec
 
 #### Drupal – 9
 
-<img loading="lazy" decoding="async" class="size-medium wp-image-2225 " title="Drupal System Status Report" src="/images/2011/01/Drupal-System-Status-Report-225x193-1.png" alt="Drupal System Status Report" width="225" height="193" /> Drupal System Status Report
+![Drupal System Status Report](/images/2011/01/Drupal-System-Status-Report-225x193-1.png "Drupal System Status Report")
 
 Administration is one place where Drupal shines. From reports on system status to updates Drupal makes a site administrators life very easy.
 

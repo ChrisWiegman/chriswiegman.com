@@ -9,15 +9,14 @@ tags:
   - Social Media
 
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><img decoding="async" src="/images/2011/09/creative-qr-code-message-225x225-1.png" alt="A Creative Message With a QR Code" class="wp-image-3226" title="A Creative Message With a QR Code" /></figure>
-</div>
+
+![A Creative Message With a QR Code](/images/2011/09/creative-qr-code-message-225x225-1.png)
 
 QR Codes are all the rage for businesses. They are used in products from magazines, billboards, and lately even TV commercials. What few people seem to realize however is that QR codes don’t have to be just for business and can in fact be an effective way to boost your own personal “brand” or just to help your friends/family figure out some details. However you use it though remember to be creative by adding value to someone scanning it with their phone. [Just linking to your website which could have probably been typed in in less time than it took to scan your QR code is a bad idea][1].
 
 ### Your Business Card
 
-If the point of a business card is getting your information to where someone can use it than a business card is the perfect place to start. You can put your contact information using the <a title="VCard on Wikipedia" href="http://en.wikipedia.org/wiki/VCard" target="_blank" rel="noopener noreferrer">VCard</a> format, a video or other link providing more pertinent information, or something else entirely. As a business card is the only information someone is going to have on you as a person when you meet them at a meeting, conference, etc a QR Code is the best way to increase the value of your business card by either making it easier for the recipient to save your data or by providing them with more information than can be contained on a tiny card.
+If the point of a business card is getting your information to where someone can use it than a business card is the perfect place to start. You can put your contact information using the [VCard](http://en.wikipedia.org/wiki/VCard "VCard on Wikipedia") format, a video or other link providing more pertinent information, or something else entirely. As a business card is the only information someone is going to have on you as a person when you meet them at a meeting, conference, etc a QR Code is the best way to increase the value of your business card by either making it easier for the recipient to save your data or by providing them with more information than can be contained on a tiny card.
 
 ### Your Resume
 

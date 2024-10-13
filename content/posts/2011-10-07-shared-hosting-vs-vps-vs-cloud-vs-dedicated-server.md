@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Web Development
-
 ---
+
 Have you shopped around for website hosting lately? Whether you’re building your first site or your 101st site there are a lot more options for hosting it than there used to be.
 
 When I first started developing websites in the mid-90s about the only services available to the masses to host a website fell along the lines of GeoCities. They were clumsy, ugly, and really didn’t give you a whole lot of options. By 2002 website hosting finally started to come of age and offered choices like Linux or windows for about $9 a month or you could rent a whole server for substantially more.
@@ -43,7 +43,7 @@ I put cloud hosting last here for a very different reason. Cloud hosting, as use
 
 Cloud hosting isn’t for the faint of heart. It requires a rather heavy knowledge of web server software to handle effectively. In addition, due to its scalable nature you have to be diligent when using cloud hosting as resources are often billed by the hour and can easily exceed your budget if you don’t pay attention.
 
-On the positive, cloud hosting can be very cheap (currently hosting this site is <a title="Amazon AWS Free Tier" href="http://aws.amazon.com/free/" target="_blank" rel="noopener noreferrer">free for the 1st year</a> on <a title="Amazon Web Services" href="http://aws.amazon.com" target="_blank" rel="noopener noreferrer">Amazon AWS</a> and will be about $15 a month after that), reliable, and very customizable. Cloud hosting essentially lets you scale the resources you need when you need them and only changes you for what you have used. For a site that is growing rapidly or subject to severe traffic fluctuations the cloud can be a very effective solution.
+On the positive, cloud hosting can be very cheap (currently hosting this site is [free for the 1st year](http://aws.amazon.com/free/ "Amazon AWS Free Tier") on [Amazon AWS](http://aws.amazon.com "Amazon Web Services") and will be about $15 a month after that), reliable, and very customizable. Cloud hosting essentially lets you scale the resources you need when you need them and only changes you for what you have used. For a site that is growing rapidly or subject to severe traffic fluctuations the cloud can be a very effective solution.
 
 In the end the type of hosting you pick depends on both your experience level and the number of visitors you plan on seeing at your site. The higher either one of those variables gets the more it will cost you.
 

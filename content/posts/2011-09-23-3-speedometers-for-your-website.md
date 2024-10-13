@@ -7,15 +7,15 @@ categories:
   - Technical
 tags:
   - Web Development
-
 ---
+
 A lot has been said lately about the impact of speed on search engine rankings. The bottom line is that slow sites will not only lose visitors who are impatient, but they will lose position on Google and other search engines as well.
 
 A really good website, one with little overhead in terms of images and other media and a great host, can often get their load times down to 1 or 2 seconds. Most good blogs, by the time social plugins and other add-ons are accounted for, will take around 4 – 5 seconds to load. Anything slower than 10 seconds and your readers are long gone.
 
 So how fast is your website? Using a stopwatch and clicking “Go” in your browser isn’t a good way to tell (I actually had somebody tell me this week that this is what they do). Instead, use one of these 3 tools to really know how fast your website goes and, more importantly, what you can do to improve it.
 
-### 1.) <a title="WebPagetest.org" href="http://www.webpagetest.org/" target="_blank" rel="noopener noreferrer">WebPagetest.org</a>
+### 1.) [WebPagetest.org](http://www.webpagetest.org/ "WebPagetest.org")
 
 WebPagetest.org is the best website speed test tool out there. It measures the load time of your site and every item that is downloaded with it. It then breaks this information down into 6 categories including First Time Byte, Keep-alive Enabled, Compress Text, Compress Images, Cache Static Content, and CDN Detected. Each of these, except for CDN Detected, it then grades you on giving you a scale from A to F (CDN Detected just presents a check mark for yes or no).
 
@@ -23,7 +23,7 @@ Beyond its own detailed grading WebPagetest.org also gives you your Google Page 
 
 As a pure speedometer we could just stop here as WebPagetest.org really is the best at telling you how fat your site is. Unfortunately however it is really then up to you to do something about it making it more difficult to interpret and utilize for folks without a strong background on the development side of websites.
 
-### 2.) <a title="WebSiteOptimization.com" href="http://www.websiteoptimization.com/services/analyze/" target="_blank" rel="noopener noreferrer">WebSiteOptimization.com</a>
+### 2.) [WebSiteOptimization.com](http://www.websiteoptimization.com/services/analyze/ "WebSiteOptimization.com")
 
 WebsiteOptimization.com works in a similar, yet simpler fashion than WebPagetest.org. Instead of giving you the option of where you would like your site tested from and with which browser it simply allows for the input of your URL (once you submit it do not navigate to another tab or window right away as it will ask you to complete a CAPTCHA code on the next page).
 
@@ -31,7 +31,7 @@ Also, unlike Webpagetest.org, it will only run through a single pass of your sit
 
 While I can’t say I use this service nearly as much as WebPagetest, I do find it valuable as a tool to double-check results and report back very quickly (WebPagetest can take minutes for a report whereas WebSiteOptimization.com will be done in only a few seconds). Overall it is a great backup resource to help find problems with the loading of your site and will give you one more perspective from another server.
 
-### 3.) <a title="Googles Page Speed Online" href="https://developers.google.com/speed/pagespeed/insights/" target="_blank" rel="noopener noreferrer">Google’s Page Speed Online</a>
+### 3.) [Google’s Page Speed Online](https://developers.google.com/speed/pagespeed/insights/ "Googles Page Speed Online")
 
 This newer service is very simple like WebSiteOptimization.com in that it takes only your URL to get started (it doesn’t even require a CAPTCHA which is nice). In addition, after generating its report, Page Speed Online will give you the option of checking your site on a mobile device, something neither of the other services will do.
 

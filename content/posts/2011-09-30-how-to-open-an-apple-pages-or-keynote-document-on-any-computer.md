@@ -7,11 +7,9 @@ categories:
   - Technical
 tags:
   - Tools
-
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><img decoding="async" src="/images/2011/09/iWork09-225x223-1.jpg" alt="iWork09" class="wp-image-3290" /></figure>
-</div>
+
+![iWork09](/images/2011/09/iWork09-225x223-1.jpg)
 
 Have your Apple friends ever sent you a document made in Pages or Keynote? Fear not, it is actually easier to view the contents of either of these documents than it is to open something made by nearly any other office app.
 

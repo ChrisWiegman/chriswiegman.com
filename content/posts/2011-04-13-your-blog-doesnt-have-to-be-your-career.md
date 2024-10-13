@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Blogging
-
 ---
+
 I’ll say it again. You’re blog doesn’t have to be your career.
 
 Now, what does that mean?

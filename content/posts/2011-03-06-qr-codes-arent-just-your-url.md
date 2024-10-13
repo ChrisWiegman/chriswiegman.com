@@ -7,11 +7,9 @@ categories:
   - Technical
 tags:
   - Social Media
-
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><a href="/images/2011/03/Bit51-QR-Code.png"><img decoding="async" src="/images/2011/03/Bit51-QR-Code.png" alt="QR Code For Bit51.com" class="wp-image-2198" title="QR Code For Bit51.com" /></a></figure>
-</div>
+
+![QR Code For Bit51.com](/images/2011/03/Bit51-QR-Code.png)
 
 Many marketers are using QR codes lately. Unfortunately of those same marketers aren’t getting the most out of those same QR codes.
 

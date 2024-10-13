@@ -10,7 +10,7 @@ tags:
   - Web Development
 ---
 
-![MAMP PRO Logo](/images/2012/02/mamp-logo-150x150-1.gif)
+![MAMP PRO Logo](/images/2012/02/mamp-logo-150x150-1.png)
 
 If you develop websites with a Mac you’ve probably used [MAMP or MAMP PRO](http://www.mamp.info/en/index.html). Mamp is a self-contained server environment similar to [XAMPP](https://www.apachefriends.org) which is commonly used by Linux and Windows developers. While it’s an excellent tool, setting it up can be a little tricky, particularly if you need to use SSL. So then here’s the best way to set up your MAMP PRO virtualhosts to use SSL without pulling your hair out.
 
@@ -57,7 +57,7 @@ Configure your domain name as your primary MAMP PRO host. Set it up with dyndns 
 
 While you could of course work directly on your primary domain name it often makes a lot more sense to set up subdomains for each site you want to edit. The catch here, with SSL is that the SSL switch in MAMP PRO isn’t an “and” switch. That is, checking it will not give you an SSL site AND a regular http site. Instead it is an OR switch meaning that to have both http and https on your domain you will need to create two hosts.
 
-![Set up the http site](/images/2012/02/http-site-350x245-1.pn "Set up your first site as http only (don’t check ssl)")
+![Set up the http site](/images/2012/02/http-site-350x245-1.png "Set up your first site as http only (don’t check ssl)")
 
 ![Set up your host again this time choosing SSL](/images/2012/02/https-site-350x245-1.png "Set up your host again this time choosing SSL")
 

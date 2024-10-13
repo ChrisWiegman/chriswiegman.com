@@ -8,11 +8,9 @@ categories:
 tags:
   - Aviation
   - Career Development
-
 ---
-<div class="wp-block-image">
-  <figure class="aligncenter"><a href="/images/2011/09/Airline-days.jpg"><img decoding="async" src="/images/2011/09/Airline-days.jpg" alt="Me next to one of the last planes I flew professionally." class="wp-image-3113" title="Airline Days" /></a></figure>
-</div>
+
+![Me next to one of the last planes I flew professionally.](/images/2011/09/Airline-days.jpg)
 
 Although I now find myself firmly entrenched as a developer for various websites this wasn’t always the case. Five years ago I was a captain for a small airline moving people and cargo from island to island in Hawaii. Before that I was a pilot on a corporate jet move very highly accomplished people around North America. While in the end the pilot lifestyle wasn’t for me, there are a number of lessons I learned that help guide me through my current career and, ultimately, help make me a better developer.
 
