@@ -3,7 +3,7 @@
     <div class="container">
         <div class="content-header">
             {{if eq .Section "posts"}}
-            <div class="meta"><time class="dt-published">{{ dateFormat "Monday, January 2nd, 2006" .Date }}</time></div>
+            <div class="meta"><time class="dt-published">{{ dateFormat "Monday, 2 January, 2006" .Date }}</time></div>
             {{ end }}
             <h1 class="post-titlee" itemprop="name headline">{{ .Title }}</h1>
             {{if eq .Section "posts"}}{{if .Params.tags }}
