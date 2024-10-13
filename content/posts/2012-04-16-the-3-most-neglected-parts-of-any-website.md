@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Web Development
-
 ---
+
 Every time I see a guide to building a website or a workshop on getting your product on the web I hear about content. Everything is about content which, they say, is king.
 
 While it’s hard to argue against content as king, after all a website without content is like a car without an engine, there is more to a website than just the content on the page. If you can’t provide your readers with a safe and pleasant experience in an efficient manner even the best content will be eventually ignored. That said, as I browse the web on a regular basis there are three areas I see ignored or nearly ignored so often that bad sites have become more of the norm than good sites. I don’t know how many sites I won’t bother following because, even though they had a good post that brought me in, other factors keep me from coming back. Here are the three biggest areas I see folks ignoring at their own peril.
@@ -17,13 +17,11 @@ While it’s hard to argue against content as king, after all a website without 
 
 I don’t know how many sites I’ve clicked away from because they take forever to load. I’m more patient than most folks but if I have to wait a full 30 seconds for your 200 ads to load before I see the content I’m not going to hang around long.
 
-Think about what you put around your content and how you put it there. I know that all those ads might bring you in a couple of bucks a month or your social widget looks really cool but what good is it if folks leave? Even better, take a few minutes to put your site into <a title="WebPageTest.org" href="http://webpagetest.org" target="_blank" rel="noopener noreferrer">webpagetest.org</a>. If it takes more than 10 seconds to load on the first try then you really should clean it up a bit. It’s amazing how many folks will appreciate the effort.
+Think about what you put around your content and how you put it there. I know that all those ads might bring you in a couple of bucks a month or your social widget looks really cool but what good is it if folks leave? Even better, take a few minutes to put your site into [webpagetest.org](http://webpagetest.org "WebPageTest.org"). If it takes more than 10 seconds to load on the first try then you really should clean it up a bit. It’s amazing how many folks will appreciate the effort.
 
 ## 2.) Security
 
-<p class="has-text-align-center">
-  <img loading="lazy" decoding="async" title="Google Malware Warning" width="150" height="150" class="size-thumbnail wp-image-4156  " src="/images/2012/04/google-malware-warning-150x150-1.jpg" alt="Google Malware Warning" /><br />Do you go to a site you don’t know after seeing this?
-</p>
+![Google Malware Warning](/images/2012/04/google-malware-warning-150x150-1.jpg "Do you go to a site you don’t know after seeing this?")
 
 Would you fill your house with million-dollar furniture and then leave the front door open? Then why would you fill your website with million-dollar content and leave security holes big enough for an elephant to fit through?
 

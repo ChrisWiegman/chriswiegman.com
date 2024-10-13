@@ -7,11 +7,11 @@ categories:
   - Technical
 tags:
   - Mental Health
-
 ---
+
 you’re working on your latest post one of the best things you can possibly do is to step away from the computer before you publish it for the world to see. Get up, leave the room, close the browser, and forget about all that work you just put in.
 
-Forgetting that we’re all human and make mistakes is one of the biggest mistakes a blogger can make. Typos, bad grammer, and posts that just don’t make any sense are far too easy to create when we’re in a hurry to publish and for that reason we must step away from our computers before we publish our work.
+Forgetting that we’re all human and make mistakes is one of the biggest mistakes a blogger can make. Typos, bad grammar, and posts that just don’t make any sense are far too easy to create when we’re in a hurry to publish and for that reason we must step away from our computers before we publish our work.
 
 How many times have you gone back to your old work after a day, a week, or even longer only to find something in that didn’t work. Maybe it was a simple mistake, maybe it was something more serious, but in the end it doesn’t matter. The act of revisiting our work after we have removed it from our minds is often enough in and of itself to find problems with what we wrote.
 

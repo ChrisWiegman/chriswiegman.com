@@ -8,8 +8,8 @@ categories:
 tags:
   - Web Development
   - WordPress
-
 ---
+
 If you’ve been using WordPress for a while you’ve probably noticed that when you upload an image WordPress automatically creates the associated thumbnails for use throughout your site. This is great, but what happens if you want a different image size for your thumbnail or you need multiple versions of the image for different places in your site?
 
 Here’s an easy tutorial for adding a new image size to your WordPress theme.
@@ -32,4 +32,4 @@ This will add an image size called _my-image-type_ that is 300px x 300px and wil
 
 ## 4.) Update your existing images.
 
-This is a big one. You will need to update all your existing images if you want this to work. Fortunately there is a good plug-in for this. <a href="http://wordpress.org/extend/plugins/regenerate-thumbnails/" target="_blank" rel="noreferrer noopener">Regenerate Thumbnails</a> will automatically take care of updating every single image in your media library automatically so you won’t have to worry about doing it yourself (this is especially handy if you’re changing themes).
+This is a big one. You will need to update all your existing images if you want this to work. Fortunately there is a good plug-in for this. [Regenerate Thumbnails](http://wordpress.org/extend/plugins/regenerate-thumbnails/) will automatically take care of updating every single image in your media library automatically so you won’t have to worry about doing it yourself (this is especially handy if you’re changing themes).

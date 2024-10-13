@@ -7,11 +7,9 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
-<div class="wp-block-image">
-  <figure class="alignright"><img decoding="async" src="/images/2012/05/logo-225x180-1.png" alt="Jetpack by WordPress.com" class="wp-image-4270" title="Jetpack" /></figure>
-</div>
+
+![Jetpack by WordPress.com](/images/2012/05/logo-225x180-1.png)
 
 [Jetpack][1], with almost [1.5 million downloads][2], is one of the most popular plugins out there. This project, which was launched in early 2011, is an attempt by [Automattic][3] to bring many of the features of [WordPress.com][4] to self-hosted [WordPress.org][5] websites and blogs. While I used it before Bit51.com, since Bit51’s launch I have moved on to other solutions and haven’t looked back….
 
@@ -23,7 +21,9 @@ Two days ago, while trying to put my session slides from [WordCamp Austin][7] on
 
 Enter Jetpack.
 
-<img loading="lazy" decoding="async" class="size-medium wp-image-4271  " title="SlideShare WordPress Shortcode" src="/images/2012/05/slideshare-wordpress-shortcode-225x150-1.jpg" alt="SlideShare WordPress Shortcode" width="225" height="150" /> Getting a WordPress shortcode to use with Jetpack is easy
+![SlideShare WordPress Shortcode](/images/2012/05/slideshare-wordpress-shortcode-225x150-1.jpg)
+
+Getting a WordPress shortcode to use with Jetpack is easy
 
 It turns out Jetpack has a Shortcode feature that includes, among quite a few other services, SlideShare making embeding my presentation super easy (SlideShare actually gives you the shortcode on their own site when you click embed). So I installed Jetpack and that problem was solved.
 

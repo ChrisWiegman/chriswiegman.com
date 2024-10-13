@@ -8,8 +8,8 @@ categories:
 tags:
   - Web Development
   - WordPress
-
 ---
+
 Have you ever notices that sometimes WordPress can load slow? This is particularly true if no one has gone to your page in a while and you try to log into the WordPress Dashboard. Why is this? Is it a cache issue? Is something wrong with my site? Why does it stall on the first page?
 
 Well, in nearly all cases the reason isn’t a problem at all but by design (I’ll leave room here for the rare cases when something is actually wrong but that’s for a different day).

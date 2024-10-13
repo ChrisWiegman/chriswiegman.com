@@ -7,13 +7,13 @@ categories:
   - Technical
 tags:
   - Blogging
-
 ---
+
 If you follow Bit51 regularly you’ll know it’s been a quiet week without a post (up until this point). You’ll probably also know this goes against my normal schedule of three posts per week which I’ve been mildly successful at for most of the life of this site.
 
 While my goal is three posts per week sometimes this just isn’t prudent and sometimes there is room for an extra post or two. Is this a problem? Should I even set a goal for posts per week? This brings up the topic of today’s post. How often should you blog?
 
-It doesn’t take more than a few seconds to realize everybody has an opinion and many have a <a href="http://weblogs.about.com/od/startingablog/qt/BlogPostingFreq.htm" target="_blank" rel="noreferrer noopener">formula</a> that they say should fit your blog. The catch is every blog is different. What works for them, even in the same niche, might not be right for you for more reasons than I could possibly list in a single post.
+It doesn’t take more than a few seconds to realize everybody has an opinion and many have a [formula](http://weblogs.about.com/od/startingablog/qt/BlogPostingFreq.htm) that they say should fit your blog. The catch is every blog is different. What works for them, even in the same niche, might not be right for you for more reasons than I could possibly list in a single post.
 
 In my own experience what works for me is three posts per week. This gives me a goal to shoot for in any given week and helps serve as a benchmark for me to help determine if I’m keeping up with this site. The important thing to remember here is that while it is a goal it isn’t a goal that I should chastise myself over if I fail to meet it. For example I’ve been sick this week and the combination of medicines I’ve been on would have made any post up until this point a bad idea. Other weeks I find myself with such inspiration that I feel I could right a novel. These are the weeks when keeping to my goal of three posts can help me pace that inspiration for use when things are slower.
 

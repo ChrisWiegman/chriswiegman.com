@@ -8,8 +8,8 @@ categories:
 tags:
   - Blogging
   - Social Media
-
 ---
+
 With so many social networks available for businesses as well as individuals how many should you post your blog on? Is it really better to be on as many as possible or should you target where you post?
 
 While the answer to this question can vary based on the size and genre of any blog, there are still 3 simple rules you should follow when deciding what social networks you want to publish on.

@@ -7,11 +7,9 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
-<p class="has-text-align-left">
-  While there are plenty of ways you can make your <a title="WordPress" href="http://wordpress.org" target="_blank" rel="noopener noreferrer">WordPress</a> installation more secure with plugins, server tweaks, and more, one of the simplest ways doesn’t require much at all.
-</p>
+
+While there are plenty of ways you can make your [WordPress](http://wordpress.org "WordPress") installation more secure with plugins, server tweaks, and more, one of the simplest ways doesn’t require much at all.
 
 Your wp-config.php file contains a lot of sensitive data including locations of your data and, most importantly, the username/password of your WordPress database. The fact that by default it lives in the same folder as the rest of your WordPress installation means that it is also available for the world to see along with all of it’s important data.
 

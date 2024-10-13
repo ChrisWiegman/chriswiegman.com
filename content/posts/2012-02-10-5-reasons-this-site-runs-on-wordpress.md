@@ -8,17 +8,15 @@ categories:
 tags:
   - Blogging
   - WordPress
-
 ---
-<p class="has-text-align-left">
-  <br />So it doesn’t take much to realize this site runs on <a title="WordPress" href="http://wordpress.org" target="_blank" rel="noopener noreferrer">WordPress</a>. But why is that? Why did I pick WordPress to build Bit51 and why should you pick WordPress to build your site? Here are the top 5 reasons for running any new site on WordPress.
-</p>
+
+So it doesn’t take much to realize this site runs on [WordPress](http://wordpress.org "WordPress"). But why is that? Why did I pick WordPress to build Bit51 and why should you pick WordPress to build your site? Here are the top 5 reasons for running any new site on WordPress.
 
 ## 1.) It’s Easy To Learn
 
 While other content management systems may have more options in terms of content organization and other factors, there is something to be said for ease of use and in that arena WordPress is king.
 
-I’ve set up a lot of sites for a lot of people over the years and without exception the learning curve for WordPress is lower than that of anything else. For example, in both my current and previous day-jobs I’ve used <a title="Drupal" href="http://drupal.org" target="_blank" rel="noopener noreferrer">Drupal</a>, WordPress, <a title="Mediawiki" href="http://www.mediawiki.org" target="_blank" rel="noopener noreferrer">MediaWiki</a>, <a title="Joomla" href="http://joomla.org" target="_blank" rel="noopener noreferrer">Joomla</a>, and others. Of all those WordPress is the only one that my non-techie users were able to pick up quickly and use on their own after only a bare minimum of instruction. In addition, when the time comes to update content, WordPress is the only system I don’t have to provide retraining for as folks are able to get back into it easier than any of the other systems in use.
+I’ve set up a lot of sites for a lot of people over the years and without exception the learning curve for WordPress is lower than that of anything else. For example, in both my current and previous day-jobs I’ve used [Drupal](http://drupal.org "Drupal"), WordPress, [MediaWiki](http://www.mediawiki.org "Mediawiki"), [Joomla](http://joomla.org "Joomla"), and others. Of all those WordPress is the only one that my non-techie users were able to pick up quickly and use on their own after only a bare minimum of instruction. In addition, when the time comes to update content, WordPress is the only system I don’t have to provide retraining for as folks are able to get back into it easier than any of the other systems in use.
 
 ## 2.) It’s Expandable
 
@@ -30,7 +28,7 @@ While it is true that WordPress sites do get hacked, it takes relatively less ef
 
 ## 4.) It’s Free
 
-Well, it can be free anyway. Like Drupal and other systems WordPress can be downloaded for free and installed by you anywhere you want. Unlike the others however WordPress also has a free hosted solution, <a title="WordPress.com" href="http://wordpress.com" target="_blank" rel="noopener noreferrer">WordPress.com</a>, that can get a new blog up and running for absolutely no investment other than your time. This opens the product up to so many more folks and helps keep the development of WordPress more cutting-edge than that of it’s competition who’s user base will never hit that of WordPress.
+Well, it can be free anyway. Like Drupal and other systems WordPress can be downloaded for free and installed by you anywhere you want. Unlike the others however WordPress also has a free hosted solution, [WordPress.com](http://wordpress.com "WordPress.com"), that can get a new blog up and running for absolutely no investment other than your time. This opens the product up to so many more folks and helps keep the development of WordPress more cutting-edge than that of it’s competition who’s user base will never hit that of WordPress.
 
 ## 5.) The Community
 

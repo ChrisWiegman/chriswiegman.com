@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Security
-
 ---
+
 If you have ever used a free public wi-fi connection to do work your website chances are you’re exposing your site to an attack. The local coffee shop, library, etc might seem like a great place to work and it while it might be great for your productivity as a web developer/blogger/etc it is also a great place for attackers to steal the login credentials to your website (and many other sites you use) exposing both your site and yourself to a major security hole that can lead to compromised websites, spam, and in some cases even identity theft.
 
 ## Here’s the problem

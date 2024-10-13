@@ -7,24 +7,24 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
+
 Summer is right around the corner and for those of you who develop in higher education or a similar seasonal industry here are 3 developers you should follow to help make the most of your summer:
 
-## 1.) <a title="Brian Gardner" href="http://www.briangardner.com/" target="_blank" rel="noopener noreferrer">Brian Gardner</a>
+## 1.) [Brian Gardner](http://www.briangardner.com/ "Brian Gardner")
 
-Brian is the founder of <a title="Studiopress" href="http://www.studiopress.com/" target="_blank" rel="noopener noreferrer">StudioPress</a>, the makers of the <a title="Genesis Framework" href="http://www.shareasale.com/r.cfm?b=242694&u=527416&m=28169&urllink=&afftrack=" target="_blank" rel="noopener noreferrer">Genesis Framework</a> (affiliate link) which powers this site and <a title="Studiopress showcase" href="http://www.studiopress.com/showcase" target="_blank" rel="noopener noreferrer">so many others</a>. If you work with WordPress his blog has some excellent ideas to help with design and development as well as some excellent tips.
+Brian is the founder of [StudioPress](http://www.studiopress.com/ "Studiopress"), the makers of the [Genesis Framework](http://www.shareasale.com/r.cfm?b=242694&u=527416&m=28169&urllink=&afftrack= "Genesis Framework") (affiliate link) which powers this site and [so many others](http://www.studiopress.com/showcase "Studiopress showcase"). If you work with WordPress his blog has some excellent ideas to help with design and development as well as some excellent tips.
 
-**Twitter: <a title="Brian Gardner on Twitter" href="https://twitter.com/#!/bgardner" target="_blank" rel="noopener noreferrer">@bgardner</a>**
+**Twitter: [@bgardner](https://twitter.com/#!/bgardner "Brian Gardner on Twitter")**
 
-## 2.) <a title="Nick Denardis" href="http://nickdenardis.com/" target="_blank" rel="noopener noreferrer">Nick Denardis</a>
+## 2.) [Nick Denardis](http://nickdenardis.com/ "Nick Denardis")
 
-Nick is the Associate Director of Web Communications at <a title="Wayne State University" href="http://wayne.edu/" target="_blank" rel="noopener noreferrer">Wayne State University</a> as well as the owner of <a title="EDU Checkup" href="http://educheckup.com/" target="_blank" rel="noopener noreferrer">EDU Checkup</a>, a video review of higher education websites which can give insights into usability and code applicable to all sites, not just high-ed sites, by pointing out what some very large sites do right as well as what they do wrong.
+Nick is the Associate Director of Web Communications at [Wayne State University](http://wayne.edu/ "Wayne State University") as well as the owner of [EDU Checkup](http://educheckup.com/ "EDU Checkup"), a video review of higher education websites which can give insights into usability and code applicable to all sites, not just high-ed sites, by pointing out what some very large sites do right as well as what they do wrong.
 
-**Twitter: <a title="Nick Denardis on Twitter" href="https://twitter.com/#!/nickdenardis" target="_blank" rel="noopener noreferrer">@nickdenardis</a>**
+**Twitter: [@nickdenardis](https://twitter.com/#!/nickdenardis "Nick Denardis on Twitter")**
 
-## 3.) <a title="Ozh Richard" href="http://planetozh.com/" target="_blank" rel="noopener noreferrer">Ozh Richard</a>
+## 3.) [Ozh Richard](http://planetozh.com/ "Ozh Richard")
 
-Ozh is one of  the authors of <a title="Professional WordPress Plugin Development on Amazon.com" href="http://www.amazon.com/gp/product/B004PGMI2I/ref=as_li_ss_tl?ie=UTF8&tag=bit51com-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004PGMI2I" target="_blank" rel="noopener noreferrer">Professional WordPress Plugin Development</a> (affiliate link) as well as the author of <a title="Yourls" href="http://yourls.org/" target="_blank" rel="noopener noreferrer">Yourls</a> which is a self-hosted alternative to popular link-shortener services like <a title="bit.ly" href="http://bit.ly" target="_blank" rel="noopener noreferrer">bit.ly </a>(as well as quite a few other projects).
+Ozh is one of the authors of [Professional WordPress Plugin Development](http://www.amazon.com/gp/product/B004PGMI2I/ref=as_li_ss_tl?ie=UTF8&tag=bit51com-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004PGMI2I "Professional WordPress Plugin Development on Amazon.com") (affiliate link) as well as the author of [Yourls](http://yourls.org/ "Yourls") which is a self-hosted alternative to popular link-shortener services like [bit.ly](http://bit.ly "bit.ly") (as well as quite a few other projects).
 
-**Twitter: <a title="Ozh Richard on Twitter" href="http://twitter.com/ozh" target="_blank" rel="noopener noreferrer">@ozh</a>**
+**Twitter: [@ozh](http://twitter.com/ozh "Ozh Richard on Twitter")**
