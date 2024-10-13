@@ -2,6 +2,7 @@
 title: Introducing Kana – A Simple and Powerful WordPress Development Environment
 date: 2022-09-12T12:21:48+00:00
 featured_image: /images/2022/07/meet-kana.jpg
+draft: false
 categories:
   - Technical
 tags:

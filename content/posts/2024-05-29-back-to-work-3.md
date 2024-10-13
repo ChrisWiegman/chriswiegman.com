@@ -1,6 +1,7 @@
 ---
 title: Back to Work
 date: 2024-05-29T12:26:38+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Life is Hard
 date: 2023-04-10T12:26:24+00:00
+draft: false
 categories:
   - Personal
 tags:

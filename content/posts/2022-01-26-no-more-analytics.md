@@ -1,6 +1,7 @@
 ---
 title: No More Analytics
 date: 2022-01-26T13:13:21+00:00
+draft: false
 categories:
   - Technical
 tags:

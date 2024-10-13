@@ -1,6 +1,7 @@
 ---
 title: Good Riddance, August
 date: 2024-08-30T13:22:32+00:00
+draft: false
 categories:
   - Personal
 tags:

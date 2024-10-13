@@ -1,6 +1,7 @@
 ---
 title: A “Senior” Title Should Mean Something in WordPress
 date: 2022-01-05T13:41:14+00:00
+draft: false
 categories:
   - Technical
 tags:

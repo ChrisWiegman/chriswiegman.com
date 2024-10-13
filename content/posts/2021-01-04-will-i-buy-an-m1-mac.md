@@ -2,6 +2,7 @@
 title: Will I Buy an M1 Mac?
 date: 2021-01-04T16:15:11+00:00
 featured_image: /images/2021/01/will-i-buy-an-m1-mac.png
+draft: false
 categories:
   - Technical
 tags:

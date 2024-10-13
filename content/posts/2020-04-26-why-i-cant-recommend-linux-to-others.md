@@ -1,6 +1,7 @@
 ---
 title: Why I Can’t Recommend Linux to Others
 date: 2020-04-26T15:04:00+00:00
+draft: false
 categories:
   - Technical
 tags:

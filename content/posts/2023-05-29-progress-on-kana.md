@@ -1,6 +1,7 @@
 ---
 title: Progress on Kana
 date: 2023-05-29T13:42:22+00:00
+draft: false
 categories:
   - Technical
 tags:

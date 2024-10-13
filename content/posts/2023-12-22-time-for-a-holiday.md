@@ -1,6 +1,7 @@
 ---
 title: Time for a Holiday
 date: 2023-12-22T15:39:50+00:00
+draft: false
 categories:
   - Personal
 tags:

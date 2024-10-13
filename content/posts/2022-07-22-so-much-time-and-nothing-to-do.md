@@ -1,6 +1,7 @@
 ---
 title: So Much Time and Nothing To Do
 date: 2022-07-22T12:35:53+00:00
+draft: false
 categories:
   - Personal
 tags:

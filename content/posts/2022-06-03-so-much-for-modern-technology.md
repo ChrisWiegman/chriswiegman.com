@@ -1,6 +1,7 @@
 ---
 title: So Much For Modern Technology
 date: 2022-06-03T12:48:12+00:00
+draft: false
 categories:
   - Personal
 tags:

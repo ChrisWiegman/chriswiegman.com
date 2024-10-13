@@ -1,6 +1,7 @@
 ---
 title: Web Development Should Not Happen In A Bubble
 date: 2011-03-31T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

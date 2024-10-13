@@ -1,6 +1,7 @@
 ---
 title: Moving Past Apple?
 date: 2024-05-24T12:42:12+00:00
+draft: false
 categories:
   - Technical
 tags:

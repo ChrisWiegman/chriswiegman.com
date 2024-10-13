@@ -2,6 +2,7 @@
 title: How and Why to Setup NextDNS for Your Home
 date: 2020-04-18T14:59:00+00:00
 featured_image: /images/2020/08/how-and-why-to-setup-nextdns-for-your-home.png
+draft: false
 categories:
   - Technical
 tags:

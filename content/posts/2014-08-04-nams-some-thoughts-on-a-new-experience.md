@@ -2,6 +2,7 @@
 title: NAMS – Some Thoughts On A New Experience
 date: 2014-08-04T00:00:00+00:00
 featured_image: /images/2014/08/mynams.jpg
+draft: false
 categories:
   - Technical
 tags:

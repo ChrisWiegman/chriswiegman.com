@@ -1,6 +1,7 @@
 ---
 title: Joomla Joins the 21st Century With Rapid Release Cycle
 date: 2011-08-04T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

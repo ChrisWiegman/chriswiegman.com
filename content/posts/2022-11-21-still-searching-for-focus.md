@@ -1,6 +1,7 @@
 ---
 title: Still Searching for Focus
 date: 2022-11-21T11:25:33+00:00
+draft: false
 categories:
   - Personal
 tags:

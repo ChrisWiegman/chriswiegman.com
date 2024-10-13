@@ -1,6 +1,7 @@
 ---
 title: A Shortcut for Installing Go Versions
 date: 2023-07-24T12:08:21+00:00
+draft: false
 categories:
   - Technical
 tags:

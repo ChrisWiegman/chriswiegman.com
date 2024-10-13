@@ -1,6 +1,7 @@
 ---
 title: Wednesday, 20 September, 2023
 date: 2023-09-20T11:39:01+00:00
+draft: false
 categories:
   - Personal
 tags:

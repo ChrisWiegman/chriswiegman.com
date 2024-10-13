@@ -1,6 +1,7 @@
 ---
 title: WordCamp San Francisco… That’s a Wrap
 date: 2013-07-31T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

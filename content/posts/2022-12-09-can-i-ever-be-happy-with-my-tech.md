@@ -1,6 +1,7 @@
 ---
 title: Can I Ever Be Happy With My Tech?
 date: 2022-12-09T14:28:39+00:00
+draft: false
 categories:
   - Technical
 tags:

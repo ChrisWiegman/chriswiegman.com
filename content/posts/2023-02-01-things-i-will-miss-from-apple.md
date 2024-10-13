@@ -1,6 +1,7 @@
 ---
 title: Things I will miss from Apple
 date: 2023-02-01T13:32:02+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -3,6 +3,7 @@ title: WordCamp Orlando 2019 Recap
 date: 2019-08-26T20:30:53+00:00
 description: "Reflections on another great year at WordCamp Orlando."
 featured_image: /images/2020/08/wordcamp-orlando-2019.jpg
+draft: false
 categories:
   - Technical
 tags:

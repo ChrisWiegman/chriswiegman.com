@@ -1,6 +1,7 @@
 ---
 title: Three Projects For When I Have A Laptop Again
 date: 2021-10-27T12:59:39+00:00
+draft: false
 categories:
   - Technical
 tags:

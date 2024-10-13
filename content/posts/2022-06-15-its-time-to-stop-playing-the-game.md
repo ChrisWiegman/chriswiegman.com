@@ -1,6 +1,7 @@
 ---
 title: It’s Time To Stop Playing The Game
 date: 2022-06-15T15:26:41+00:00
+draft: false
 categories:
   - Personal
 tags:

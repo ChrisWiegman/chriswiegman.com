@@ -2,6 +2,7 @@
 title: On Vacation
 date: 2022-05-09T10:54:01+00:00
 featured_image: /images/2021/12/finding-your-groove-as-a-remote-worker-on-vacation.jpeg
+draft: false
 categories:
   - Personal
 tags:

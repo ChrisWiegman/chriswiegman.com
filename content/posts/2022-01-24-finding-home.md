@@ -2,6 +2,7 @@
 title: Finding Home
 date: 2022-01-24T13:24:00+00:00
 featured_image: /images/2021/10/IMG_0095-5.jpg
+draft: false
 categories:
   - Personal
 ---

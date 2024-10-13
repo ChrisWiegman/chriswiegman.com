@@ -2,6 +2,7 @@
 title: WordCamp US – That’s a Wrap
 date: 2015-12-09T18:58:56+00:00
 featured_image: /images/2020/07/WordCamp-US.jpg
+draft: false
 categories:
   - Technical
 tags:

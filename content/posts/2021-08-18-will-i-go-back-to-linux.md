@@ -1,6 +1,7 @@
 ---
 title: Will I Go Back to Linux
 date: 2021-08-18T13:28:32+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -2,6 +2,7 @@
 title: Using PHPCS with Homebrew On MacOS Monterey
 date: 2021-12-29T14:16:06+00:00
 featured_image: /images/2020/08/homebrew-is-the-missing-package-manager-for-linux.png
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Privacy or Accessibility… Most People Can’t Have Both
 date: 2021-10-11T12:14:58+00:00
+draft: false
 categories:
   - Technical
 tags:

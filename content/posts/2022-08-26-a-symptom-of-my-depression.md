@@ -1,6 +1,7 @@
 ---
 title: A Symptom of My Depression
 date: 2022-08-26T13:16:07+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: DNS is Hard
 date: 2023-12-18T13:49:11+00:00
+draft: false
 categories:
   - Personal
 tags:

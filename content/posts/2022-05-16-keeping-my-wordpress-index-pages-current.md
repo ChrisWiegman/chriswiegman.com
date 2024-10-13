@@ -2,6 +2,7 @@
 title: Keeping My WordPress Index Pages Current
 date: 2022-05-16T13:25:12+00:00
 featured_image: /images/2022/02/its-time-for-a-new-wordpress-theme.jpg
+draft: false
 categories:
   - Technical
 tags:

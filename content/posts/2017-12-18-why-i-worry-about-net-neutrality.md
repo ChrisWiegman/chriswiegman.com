@@ -1,6 +1,7 @@
 ---
 title: Why I Worry About Net Neutrality
 date: 2017-12-18T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

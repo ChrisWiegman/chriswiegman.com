@@ -1,6 +1,7 @@
 ---
 title: How to Get LiveFyre to Work With Studiopress Focus/Genesis
 date: 2011-08-02T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

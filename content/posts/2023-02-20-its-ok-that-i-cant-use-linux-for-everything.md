@@ -1,6 +1,7 @@
 ---
 title: It’s OK that I can’t use Linux for everything
 date: 2023-02-20T13:42:29+00:00
+draft: false
 categories:
   - Personal
 tags:

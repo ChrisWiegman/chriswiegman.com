@@ -1,6 +1,7 @@
 ---
 title: Apple OS Updates are Boring – and That is Good
 date: 2022-10-26T15:25:20+00:00
+draft: false
 categories:
   - Technical
 tags:

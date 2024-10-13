@@ -1,6 +1,7 @@
 ---
 title: I’m OK With No Tech Posts
 date: 2022-10-21T14:08:07+00:00
+draft: false
 categories:
   - Personal
 tags:

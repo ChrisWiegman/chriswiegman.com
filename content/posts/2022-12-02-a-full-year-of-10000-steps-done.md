@@ -1,6 +1,7 @@
 ---
 title: 'A Full Year of 10,000 Steps: Done'
 date: 2022-12-02T11:29:10+00:00
+draft: false
 categories:
   - Personal
 tags:

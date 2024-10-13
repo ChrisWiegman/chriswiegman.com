@@ -1,6 +1,7 @@
 ---
 title: Running An Update Function In Your WordPress Plugin
 date: 2021-10-20T12:06:46+00:00
+draft: false
 categories:
   - Technical
 tags:

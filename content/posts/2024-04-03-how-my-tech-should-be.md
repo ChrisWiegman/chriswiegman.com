@@ -1,6 +1,7 @@
 ---
 title: How my tech should be
 date: 2024-04-03T12:15:40+00:00
+draft: false
 categories:
   - Personal
 tags:

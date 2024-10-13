@@ -1,6 +1,7 @@
 ---
 title: Prepare Your WordPress Theme To Be Minified
 date: 2011-04-16T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

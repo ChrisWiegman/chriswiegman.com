@@ -1,6 +1,7 @@
 ---
 title: All Tech Is Garbage
 date: 2022-08-22T12:47:19+00:00
+draft: false
 categories:
   - Personal
 tags:

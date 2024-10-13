@@ -2,6 +2,7 @@
 title: 'The State of Kana: A Status Report'
 date: 2024-05-06T11:53:25+00:00
 featured_image: /images/2024/05/Kana-on-GitHub.jpg
+draft: false
 categories:
   - Technical
 tags:

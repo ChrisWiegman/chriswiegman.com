@@ -1,6 +1,7 @@
 ---
 title: How Much Is Enough?
 date: 2022-03-09T14:32:08+00:00
+draft: false
 categories:
   - Personal
 tags:

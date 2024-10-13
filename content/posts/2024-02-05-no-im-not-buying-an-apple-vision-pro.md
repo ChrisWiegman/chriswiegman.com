@@ -1,6 +1,7 @@
 ---
 title: No, I’m not buying an Apple Vision Pro
 date: 2024-02-05T12:19:04+00:00
+draft: false
 categories:
   - Personal
 tags:

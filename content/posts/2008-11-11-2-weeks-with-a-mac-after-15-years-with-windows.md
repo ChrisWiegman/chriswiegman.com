@@ -1,6 +1,7 @@
 ---
 title: 2 Weeks With a Mac (After 15 Years With Windows)
 date: 2008-11-11T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

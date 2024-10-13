@@ -2,6 +2,7 @@
 title: Moving This Site to Netlify
 date: 2020-01-18T15:35:39+00:00
 featured_image: /images/2020/08/moving-this-site-to-netlify.jpg
+draft: false
 categories:
   - Technical
 tags:

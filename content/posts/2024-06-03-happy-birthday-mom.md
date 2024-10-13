@@ -2,6 +2,7 @@
 title: Happy Birthday, Mom
 date: 2024-06-03T11:50:06+00:00
 featured_image: /images/2023/04/i-miss-you-mom.jpg
+draft: false
 categories:
   - Personal
 tags:

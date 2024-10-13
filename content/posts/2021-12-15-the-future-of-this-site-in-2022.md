@@ -1,6 +1,7 @@
 ---
 title: The Future of This Site in 2022
 date: 2021-12-15T13:40:14+00:00
+draft: false
 categories:
   - Technical
 tags:

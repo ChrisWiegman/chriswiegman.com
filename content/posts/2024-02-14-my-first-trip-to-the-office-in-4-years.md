@@ -1,6 +1,7 @@
 ---
 title: My First Trip To The Office In 4 Years
 date: 2024-02-14T09:09:49+00:00
+draft: false
 categories:
   - Technical
 tags:

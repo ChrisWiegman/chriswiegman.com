@@ -1,6 +1,7 @@
 ---
 title: Meet Lindy
 date: 2022-07-15T12:08:24+00:00
+draft: false
 categories:
   - Personal
 tags:

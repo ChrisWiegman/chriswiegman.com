@@ -1,6 +1,7 @@
 ---
 title: Yes, I over-engineered my office
 date: 2023-05-05T12:48:11+00:00
+draft: false
 categories:
   - Personal
 tags:

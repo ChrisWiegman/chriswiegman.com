@@ -2,6 +2,7 @@
 title: Launching New Sites on Astro
 date: 2024-05-03T11:52:26+00:00
 featured_image: /images/2024/05/astro-framework.jpg
+draft: false
 categories:
   - Technical
 tags:

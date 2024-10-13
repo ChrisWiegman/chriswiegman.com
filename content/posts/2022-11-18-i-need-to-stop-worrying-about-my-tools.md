@@ -1,6 +1,7 @@
 ---
 title: I need to stop worrying about my tools
 date: 2022-11-18T13:37:33+00:00
+draft: false
 categories:
   - Personal
 tags:

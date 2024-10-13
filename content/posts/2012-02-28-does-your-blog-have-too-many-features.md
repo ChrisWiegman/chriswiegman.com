@@ -1,6 +1,7 @@
 ---
 title: Does Your Blog Have Too Many Features?
 date: 2012-02-28T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

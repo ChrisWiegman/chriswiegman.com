@@ -1,6 +1,7 @@
 ---
 title: A PHP (WordPress) Dev Falls in Love with GoLang
 date: 2022-08-29T12:26:44+00:00
+draft: false
 categories:
   - Technical
 tags:

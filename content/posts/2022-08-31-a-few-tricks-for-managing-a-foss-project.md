@@ -2,6 +2,7 @@
 title: A Few Tricks For Managing a FOSS Project
 date: 2022-08-31T12:33:05+00:00
 featured_image: /images/2021/11/my-office-2021.jpeg
+draft: false
 categories:
   - Technical
 tags:

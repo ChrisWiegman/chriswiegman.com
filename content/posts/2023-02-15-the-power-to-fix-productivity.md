@@ -1,6 +1,7 @@
 ---
 title: The power to fix productivity
 date: 2023-02-15T13:16:03+00:00
+draft: false
 categories:
   - Personal
 tags:

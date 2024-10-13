@@ -3,6 +3,7 @@ title: Tools of the Trade 2019
 date: 2019-08-15T20:26:30+00:00
 description: "A breakdown of my development tools for 2019."
 featured_image: /images/2020/08/tools-of-the-trade-2019.jpg
+draft: false
 categories:
   - Technical
 tags:

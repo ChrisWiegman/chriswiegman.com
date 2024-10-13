@@ -1,6 +1,7 @@
 ---
 title: Bad Habits
 date: 2024-03-13T13:02:14+00:00
+draft: false
 categories:
   - Personal
 tags:

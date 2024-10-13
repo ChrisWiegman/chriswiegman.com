@@ -1,6 +1,7 @@
 ---
 title: Getting Media on Your Local WordPress Site
 date: 2016-02-02T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

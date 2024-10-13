@@ -1,6 +1,7 @@
 ---
 title: Life is Looking Up
 date: 2024-04-22T12:01:12+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Weekdays are Hard
 date: 2024-01-24T14:36:23+00:00
+draft: false
 categories:
   - Personal
 tags:

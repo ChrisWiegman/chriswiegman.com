@@ -1,6 +1,7 @@
 ---
 title: WordCamp Austin – It’s the People!
 date: 2014-05-04T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Time is Weird
 date: 2024-01-15T16:40:31+00:00
+draft: false
 categories:
   - Personal
 tags:

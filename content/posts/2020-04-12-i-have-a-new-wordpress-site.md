@@ -2,6 +2,7 @@
 title: I Have a New WordPress Site
 date: 2020-04-12T15:56:00+00:00
 featured_image: /images/2020/08/I-have-a-new-site-in-WordPress.png
+draft: false
 categories:
   - Personal
 tags:

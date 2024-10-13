@@ -1,6 +1,7 @@
 ---
 title: Add Code To Your WordPress Posts With Crayon Syntax Highlighter
 date: 2012-05-07T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

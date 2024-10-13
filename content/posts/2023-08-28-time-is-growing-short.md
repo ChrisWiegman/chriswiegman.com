@@ -1,6 +1,7 @@
 ---
 title: Time is Growing Short
 date: 2023-08-28T12:14:20+00:00
+draft: false
 categories:
   - Personal
 tags:

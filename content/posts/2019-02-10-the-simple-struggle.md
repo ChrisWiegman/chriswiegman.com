@@ -2,6 +2,7 @@
 title: The Simple Struggle
 date: 2019-02-10T00:00:00+00:00
 featured_image: /images/2019/02/IMG_0012-22.jpg
+draft: false
 categories:
   - Personal
 tags:

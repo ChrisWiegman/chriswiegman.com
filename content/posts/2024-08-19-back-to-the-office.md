@@ -1,6 +1,7 @@
 ---
 title: Back to the Office
 date: 2024-08-19T12:38:42+00:00
+draft: false
 categories:
   - Personal
 tags:

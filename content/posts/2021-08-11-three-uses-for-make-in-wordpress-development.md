@@ -2,6 +2,7 @@
 title: Three Uses For Make in WordPress Development
 date: 2021-08-11T13:28:42+00:00
 featured_image: /images/2021/08/using-parameters-in-a-make-target.png
+draft: false
 categories:
   - Technical
 tags:

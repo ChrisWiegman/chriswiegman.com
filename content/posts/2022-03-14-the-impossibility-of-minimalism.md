@@ -2,6 +2,7 @@
 title: The Impossibility of Minimalism
 date: 2022-03-14T11:54:15+00:00
 featured_image: /images/2020/08/travel-and-wordcamps-and-conferences-oh-my.jpg
+draft: false
 categories:
   - Personal
 tags:

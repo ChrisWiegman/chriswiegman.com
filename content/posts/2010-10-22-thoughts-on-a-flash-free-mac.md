@@ -1,6 +1,7 @@
 ---
 title: Thoughts on a Flash-free Mac
 date: 2010-10-22T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

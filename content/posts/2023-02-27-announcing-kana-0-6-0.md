@@ -1,6 +1,7 @@
 ---
 title: Announcing Kana 0.6.0
 date: 2023-02-27T13:22:19+00:00
+draft: false
 categories:
   - Technical
 tags:

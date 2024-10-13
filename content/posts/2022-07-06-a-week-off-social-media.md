@@ -1,6 +1,7 @@
 ---
 title: A Week Off Social Media
 date: 2022-07-06T13:42:37+00:00
+draft: false
 categories:
   - Personal
 tags:

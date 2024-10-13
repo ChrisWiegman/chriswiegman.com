@@ -1,6 +1,7 @@
 ---
 title: Taking Apart My Space
 date: 2023-09-29T12:13:55+00:00
+draft: false
 categories:
   - Personal
 tags:

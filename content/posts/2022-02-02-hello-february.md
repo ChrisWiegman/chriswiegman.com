@@ -1,6 +1,7 @@
 ---
 title: Hello February
 date: 2022-02-02T13:00:36+00:00
+draft: false
 categories:
   - Personal
 tags:

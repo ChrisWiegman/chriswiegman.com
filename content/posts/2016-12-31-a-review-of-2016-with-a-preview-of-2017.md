@@ -2,6 +2,7 @@
 title: A Review of 2016 with a Preview of 2017
 date: 2016-12-31T18:58:57+00:00
 featured_image: /images/2020/07/2016-2017-time-to-focus.jpg
+draft: false
 categories:
   - Personal
 tags:

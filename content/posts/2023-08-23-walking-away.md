@@ -1,6 +1,7 @@
 ---
 title: Walking Away
 date: 2023-08-23T11:42:02+00:00
+draft: false
 categories:
   - Personal
 tags:

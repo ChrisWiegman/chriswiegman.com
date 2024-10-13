@@ -1,6 +1,7 @@
 ---
 title: All Tech is Bad
 date: 2024-03-08T14:58:38+00:00
+draft: false
 categories:
   - Personal
 tags:

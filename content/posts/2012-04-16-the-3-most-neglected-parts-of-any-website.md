@@ -1,6 +1,7 @@
 ---
 title: The 3 Most Neglected Parts of Any Website
 date: 2012-04-16T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

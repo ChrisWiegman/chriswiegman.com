@@ -1,6 +1,7 @@
 ---
 title: So Long Coda, Hello Espresso
 date: 2011-11-07T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

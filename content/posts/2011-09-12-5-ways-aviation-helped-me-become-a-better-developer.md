@@ -1,6 +1,7 @@
 ---
 title: 5 Ways Aviation Helped Me Become A Better Developer
 date: 2011-09-12T00:00:00+00:00
+draft: false
 categories:
   - Personal
 tags:

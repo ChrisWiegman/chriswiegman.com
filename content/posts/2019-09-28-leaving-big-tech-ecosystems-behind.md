@@ -1,6 +1,7 @@
 ---
 title: Leaving Big Tech Ecosystems Behind
 date: 2019-09-28T20:40:50+00:00
+draft: false
 categories:
   - Technical
 tags:

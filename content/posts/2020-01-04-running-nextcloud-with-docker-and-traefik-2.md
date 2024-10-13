@@ -2,6 +2,7 @@
 title: Running Nextcloud With Docker and Traefik 2
 date: 2020-01-04T15:25:15+00:00
 featured_image: /images/2020/08/running-nextcloud-with-docker-and-traefik-2.jpg
+draft: false
 categories:
   - Technical
 tags:

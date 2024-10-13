@@ -1,6 +1,7 @@
 ---
 title: 5 WordPress Plugins I Can’t Live Without – 2012 Edition
 date: 2012-04-11T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

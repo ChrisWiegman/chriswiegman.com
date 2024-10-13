@@ -1,6 +1,7 @@
 ---
 title: Announcing Kana 0.0.3
 date: 2022-09-19T12:21:08+00:00
+draft: false
 categories:
   - Technical
 tags:

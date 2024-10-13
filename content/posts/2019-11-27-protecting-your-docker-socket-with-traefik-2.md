@@ -3,6 +3,7 @@ title: Protecting Your Docker Socket With Traefik 2
 date: 2019-11-27T22:11:42+00:00
 description: "How to protect your Docker host with Traefik 2.0."
 featured_image: /images/2020/08/serving-your-docker-apps-with-https-and-traefik-2.jpg
+draft: false
 categories:
   - Technical
 tags:

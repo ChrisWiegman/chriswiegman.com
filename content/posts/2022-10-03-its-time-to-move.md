@@ -1,6 +1,7 @@
 ---
 title: It’s Time To Move
 date: 2022-10-03T12:53:39+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Introducing Primary Vagrant
 date: 2014-03-14T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

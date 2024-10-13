@@ -1,6 +1,7 @@
 ---
 title: Why Static Site Generators Aren’t for Blogging
 date: 2021-08-20T14:04:19+00:00
+draft: false
 categories:
   - Technical
 tags:

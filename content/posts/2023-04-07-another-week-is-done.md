@@ -1,6 +1,7 @@
 ---
 title: Another Week is Done
 date: 2023-04-07T10:21:16+00:00
+draft: false
 categories:
   - Personal
 tags:

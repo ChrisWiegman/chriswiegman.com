@@ -1,6 +1,7 @@
 ---
 title: Preparing for New Tech
 date: 2023-09-22T12:59:48+00:00
+draft: false
 categories:
   - Personal
 tags:

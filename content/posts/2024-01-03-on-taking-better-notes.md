@@ -1,6 +1,7 @@
 ---
 title: On Taking Better Notes
 date: 2024-01-03T13:34:46+00:00
+draft: false
 categories:
   - Technical
 tags:

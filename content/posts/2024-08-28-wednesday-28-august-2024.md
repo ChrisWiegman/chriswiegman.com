@@ -1,6 +1,7 @@
 ---
 title: Wednesday, 28 August, 2024
 date: 2024-08-28T14:09:44+00:00
+draft: false
 categories:
   - Personal
 tags:

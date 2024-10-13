@@ -1,6 +1,7 @@
 ---
 title: Enjoying the Long Weekend
 date: 2023-07-03T12:24:25+00:00
+draft: false
 categories:
   - Personal
 tags:

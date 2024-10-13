@@ -1,6 +1,7 @@
 ---
 title: WordPress, you’re getting very hard to love
 date: 2023-02-08T13:31:10+00:00
+draft: false
 categories:
   - Technical
 tags:

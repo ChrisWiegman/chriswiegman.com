@@ -2,6 +2,7 @@
 title: Ready For A Break
 date: 2022-12-21T11:09:25+00:00
 featured_image: /images/2022/10/the-future-is-very-dark.jpg
+draft: false
 categories:
   - Personal
 tags:

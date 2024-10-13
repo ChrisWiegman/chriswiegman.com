@@ -2,6 +2,7 @@
 title: Why Visual Studio Code
 date: 2021-08-27T12:51:02+00:00
 featured_image: /images/2021/08/why-vscode.jpg
+draft: false
 categories:
   - Technical
 tags:

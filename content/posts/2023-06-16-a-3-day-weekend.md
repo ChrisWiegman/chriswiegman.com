@@ -1,6 +1,7 @@
 ---
 title: A 3-day Weekend
 date: 2023-06-16T12:13:19+00:00
+draft: false
 categories:
   - Personal
 tags:

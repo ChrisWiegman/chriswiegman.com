@@ -2,6 +2,7 @@
 title: Thoughts On Mastodon and Twitter
 date: 2022-11-07T13:21:56+00:00
 featured_image: /images/2022/11/twitter-vs-mastodon.jpg
+draft: false
 categories:
   - Personal
 tags:

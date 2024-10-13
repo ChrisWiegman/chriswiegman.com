@@ -1,6 +1,7 @@
 ---
 title: Bye Bye Dev Work and Hello Engineering Management
 date: 2021-12-01T13:31:53+00:00
+draft: false
 categories:
   - Personal
 tags:

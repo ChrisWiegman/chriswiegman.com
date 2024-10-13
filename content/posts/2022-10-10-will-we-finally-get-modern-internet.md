@@ -1,6 +1,7 @@
 ---
 title: Will We Finally Get Modern Internet?
 date: 2022-10-10T12:31:41+00:00
+draft: false
 categories:
   - Personal
 tags:

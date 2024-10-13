@@ -1,6 +1,7 @@
 ---
 title: Successes and Failures of a Large Free Plugin – WordCamp Miami 2014
 date: 2014-05-12T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

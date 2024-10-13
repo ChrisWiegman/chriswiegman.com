@@ -2,6 +2,7 @@
 title: My Blogging Workflow With Hugo
 date: 2020-04-12T14:53:31+00:00
 featured_image: /images/2020/08/my-blogging-workflow-with-hugo.png
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: We Found a Condo
 date: 2023-09-11T15:33:29+00:00
+draft: false
 categories:
   - Personal
 tags:

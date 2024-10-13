@@ -1,6 +1,7 @@
 ---
 title: Revisiting My Thoughts on Remote Work
 date: 2023-04-05T12:11:43+00:00
+draft: false
 categories:
   - Technical
 tags:

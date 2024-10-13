@@ -2,6 +2,7 @@
 title: Updating GitHub Profiles with WordPress and Go
 date: 2023-02-06T13:32:09+00:00
 featured_image: /images/2023/02/updating-your-github-profile-with-wordpress-and-go.jpg
+draft: false
 categories:
   - Technical
 tags:

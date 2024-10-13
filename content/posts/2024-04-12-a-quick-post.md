@@ -1,6 +1,7 @@
 ---
 title: A Quick Post
 date: 2024-04-12T11:44:27+00:00
+draft: false
 categories:
   - Personal
 tags:

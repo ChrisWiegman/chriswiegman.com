@@ -1,6 +1,7 @@
 ---
 title: We’re Not There Yet
 date: 2022-10-07T17:17:49+00:00
+draft: false
 categories:
   - Personal
 tags:

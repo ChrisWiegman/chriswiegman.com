@@ -1,6 +1,7 @@
 ---
 title: Our New Normal
 date: 2024-03-04T14:08:27+00:00
+draft: false
 categories:
   - Personal
 tags:

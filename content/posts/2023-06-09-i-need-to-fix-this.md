@@ -1,6 +1,7 @@
 ---
 title: I Need to Fix This
 date: 2023-06-09T10:27:18+00:00
+draft: false
 categories:
   - Personal
 tags:

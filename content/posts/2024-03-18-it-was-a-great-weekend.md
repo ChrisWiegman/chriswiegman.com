@@ -1,6 +1,7 @@
 ---
 title: It was a great weekend
 date: 2024-03-18T16:53:58+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: My Frustration With Tech
 date: 2024-01-26T13:59:17+00:00
+draft: false
 categories:
   - Personal
 tags:

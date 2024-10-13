@@ -1,6 +1,7 @@
 ---
 title: Virtual Machines… The Holy Grail of Local Web Development
 date: 2013-08-02T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

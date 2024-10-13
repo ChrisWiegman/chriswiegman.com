@@ -2,6 +2,7 @@
 title: 'Making FitBit Work for Me: How FitBit Really Has Made Me More Fit'
 date: 2017-12-10T18:58:57+00:00
 featured_image: /images/2020/07/how-i-make-fitbit-work-for-me.jpg
+draft: false
 categories:
   - Technical
 tags:

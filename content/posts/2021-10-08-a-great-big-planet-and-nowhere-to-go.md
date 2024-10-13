@@ -1,6 +1,7 @@
 ---
 title: A Great Big Planet… and Nowhere To Go
 date: 2021-10-08T12:26:40+00:00
+draft: false
 categories:
   - Personal
 tags:

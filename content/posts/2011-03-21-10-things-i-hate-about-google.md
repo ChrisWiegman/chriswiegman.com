@@ -1,6 +1,7 @@
 ---
 title: 10 Things I Hate About Google
 date: 2011-03-21T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

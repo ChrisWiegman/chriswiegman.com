@@ -1,6 +1,7 @@
 ---
 title: Stop wp-cron (WordPress cron Jobs) From Firing on Every Page Load
 date: 2012-04-06T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

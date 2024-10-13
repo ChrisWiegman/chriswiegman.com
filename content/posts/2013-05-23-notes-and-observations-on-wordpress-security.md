@@ -1,6 +1,7 @@
 ---
 title: Notes and Observations on WordPress Security
 date: 2013-05-23T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Another Trip Around the Sun is Complete
 date: 2024-06-21T14:49:54+00:00
+draft: false
 categories:
   - Personal
 tags:

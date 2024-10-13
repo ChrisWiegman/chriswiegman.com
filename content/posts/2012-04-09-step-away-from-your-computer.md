@@ -1,6 +1,7 @@
 ---
 title: Step Away From Your Computer
 date: 2012-04-09T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

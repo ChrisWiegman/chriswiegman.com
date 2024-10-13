@@ -1,6 +1,7 @@
 ---
 title: In Sickness and In Cold
 date: 2024-01-17T14:33:14+00:00
+draft: false
 categories:
   - Personal
 tags:

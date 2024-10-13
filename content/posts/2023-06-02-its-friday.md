@@ -1,6 +1,7 @@
 ---
 title: It’s Friday
 date: 2023-06-02T12:11:01+00:00
+draft: false
 categories:
   - Personal
 tags:

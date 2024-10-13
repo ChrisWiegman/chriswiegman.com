@@ -1,6 +1,7 @@
 ---
 title: Hello WordPress, My Old Friend
 date: 2020-08-23T14:41:10+00:00
+draft: false
 categories:
   - Technical
 tags:

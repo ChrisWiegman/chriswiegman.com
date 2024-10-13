@@ -2,6 +2,7 @@
 title: A Short Post
 date: 2022-12-07T11:12:53+00:00
 featured_image: /images/2022/10/the-future-is-very-dark.jpg
+draft: false
 categories:
   - Personal
 tags:

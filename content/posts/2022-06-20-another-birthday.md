@@ -1,6 +1,7 @@
 ---
 title: Another Birthday
 date: 2022-06-20T13:55:55+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: The Best Tech I Ever Had
 date: 2024-03-29T12:52:08+00:00
+draft: false
 categories:
   - Personal
 tags:

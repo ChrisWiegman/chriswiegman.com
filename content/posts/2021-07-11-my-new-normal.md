@@ -2,6 +2,7 @@
 title: My New Normal
 date: 2021-07-11T22:10:14+00:00
 featured_image: /images/2021/07/my-new-normal.jpg
+draft: false
 categories:
   - Personal
 tags:

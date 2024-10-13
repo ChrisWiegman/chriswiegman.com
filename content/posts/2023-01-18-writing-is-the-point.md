@@ -1,6 +1,7 @@
 ---
 title: Writing Is The Point
 date: 2023-01-18T16:59:38+00:00
+draft: false
 categories:
   - Personal
 tags:

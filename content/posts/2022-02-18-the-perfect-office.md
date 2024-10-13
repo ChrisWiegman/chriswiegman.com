@@ -2,6 +2,7 @@
 title: The Perfect Office?
 date: 2022-02-18T14:14:42+00:00
 featured_image: /images/2022/02/the-perfect-office.jpeg
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Using a Custom wp-signup Page With WordPress MU
 date: 2010-02-26T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

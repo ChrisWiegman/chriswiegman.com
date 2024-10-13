@@ -2,6 +2,7 @@
 title: Hiding boosts in Ivory for Mastodon
 date: 2023-03-29T12:32:35+00:00
 featured_image: /images/2023/03/Screenshot-2023-03-28-at-15.29.42.jpg
+draft: false
 categories:
   - Personal
 tags:

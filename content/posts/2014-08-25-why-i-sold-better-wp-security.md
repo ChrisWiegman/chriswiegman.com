@@ -2,6 +2,7 @@
 title: Why I Sold Better WP Security
 date: 2014-08-25T00:00:00+00:00
 featured_image: /images/2014/08/better-wp-security.jpg
+draft: false
 categories:
   - Personal
 tags:

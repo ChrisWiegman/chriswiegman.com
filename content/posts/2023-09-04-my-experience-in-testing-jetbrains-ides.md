@@ -1,6 +1,7 @@
 ---
 title: My Experience in Testing JetBrains’ IDEs
 date: 2023-09-04T11:02:37+00:00
+draft: false
 categories:
   - Technical
 tags:

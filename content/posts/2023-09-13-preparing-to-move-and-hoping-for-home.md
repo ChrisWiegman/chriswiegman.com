@@ -1,6 +1,7 @@
 ---
 title: Preparing to Move and Hoping for Home
 date: 2023-09-13T12:08:15+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -2,6 +2,7 @@
 title: Thoughts On Our First Year At Home
 date: 2016-01-25T18:58:56+00:00
 featured_image: /images/2020/07/thoughts-on-home.jpg
+draft: false
 categories:
   - Personal
 tags:

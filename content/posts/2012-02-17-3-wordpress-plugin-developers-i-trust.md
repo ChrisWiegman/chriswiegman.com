@@ -1,6 +1,7 @@
 ---
 title: 3 WordPress Plugin Developers I Trust
 date: 2012-02-17T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

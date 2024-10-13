@@ -2,6 +2,7 @@
 title: A Welcome Break During Bad Times
 date: 2022-02-25T13:36:55+00:00
 featured_image: /images/2022/02/a-welcome-break-during-bad-times.jpeg
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Pausing is Hard
 date: 2023-04-12T13:05:27+00:00
+draft: false
 categories:
   - Personal
 tags:

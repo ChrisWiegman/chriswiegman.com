@@ -2,6 +2,7 @@
 title: Ready for the Holidays
 date: 2022-12-12T13:06:44+00:00
 featured_image: /images/2022/12/christmas-at-home.jpeg
+draft: false
 categories:
   - Personal
 tags:

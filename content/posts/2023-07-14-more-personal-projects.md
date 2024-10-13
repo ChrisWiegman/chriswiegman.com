@@ -1,6 +1,7 @@
 ---
 title: More Personal Projects
 date: 2023-07-14T12:10:42+00:00
+draft: false
 categories:
   - Technical
 tags:

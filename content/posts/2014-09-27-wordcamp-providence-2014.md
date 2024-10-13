@@ -2,6 +2,7 @@
 title: WordCamp Providence 2014
 date: 2014-09-27T00:00:00+00:00
 featured_image: /images/2014/09/wordcamp-providence-2014.png
+draft: false
 categories:
   - Technical
 tags:

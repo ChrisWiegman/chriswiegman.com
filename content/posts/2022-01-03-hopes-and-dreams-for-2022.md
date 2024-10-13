@@ -2,6 +2,7 @@
 title: Hopes and Dreams for 2022
 date: 2022-01-03T14:33:05+00:00
 featured_image: /images/2020/07/thoughts-on-home.jpg
+draft: false
 categories:
   - Personal
 tags:

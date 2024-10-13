@@ -2,6 +2,7 @@
 title: Mailpit, an updated alternative to Mailhog
 date: 2023-03-15T07:38:14+00:00
 featured_image: /images/2023/03/screenshot-of-mailpit.jpg
+draft: false
 categories:
   - Technical
 tags:

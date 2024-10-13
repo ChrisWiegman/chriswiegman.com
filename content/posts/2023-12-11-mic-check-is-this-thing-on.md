@@ -1,6 +1,7 @@
 ---
 title: Mic Check… Is this thing on?
 date: 2023-12-11T12:25:01+00:00
+draft: false
 categories:
   - Personal
 tags:

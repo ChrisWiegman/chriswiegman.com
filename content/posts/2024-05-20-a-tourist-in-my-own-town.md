@@ -1,6 +1,7 @@
 ---
 title: A Tourist In My Own Town
 date: 2024-05-20T13:16:41+00:00
+draft: false
 categories:
   - Personal
 tags:

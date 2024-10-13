@@ -3,6 +3,7 @@ title: Looking Back on a Decade of Progress With an Eye to the Future
 date: 2019-12-25T22:27:25+00:00
 description: "My year-end review looking back at 2019 and the decade while setting some plans for the future."
 featured_image: /images/2020/08/chris-wiegman-speaking.jpg
+draft: false
 categories:
   - Personal
 tags:

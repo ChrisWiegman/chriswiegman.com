@@ -1,6 +1,7 @@
 ---
 title: 3 Thoughts on WordCamp
 date: 2014-05-10T00:00:00+00:00
+draft: false
 categories:
   - Personal
 tags:

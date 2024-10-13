@@ -1,6 +1,7 @@
 ---
 title: Taking Time Off
 date: 2024-05-15T12:28:00+00:00
+draft: false
 categories:
   - Personal
 tags:

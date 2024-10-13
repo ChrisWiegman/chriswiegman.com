@@ -2,6 +2,7 @@
 title: Day After Day
 date: 2022-10-28T13:52:20+00:00
 featured_image: /images/2022/10/visiting-family.jpg
+draft: false
 categories:
   - Personal
 tags:

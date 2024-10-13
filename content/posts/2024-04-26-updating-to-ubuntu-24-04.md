@@ -1,6 +1,7 @@
 ---
 title: Updating to Ubuntu 24.04
 date: 2024-04-26T12:23:38+00:00
+draft: false
 categories:
   - Technical
 tags:

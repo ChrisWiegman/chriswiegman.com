@@ -2,6 +2,7 @@
 title: Trying Full Site Editing in WordPress
 date: 2022-06-24T19:23:06+00:00
 featured_image: /images/2022/02/its-time-for-a-new-wordpress-theme.jpg
+draft: false
 categories:
   - Technical
 tags:

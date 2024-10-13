@@ -2,6 +2,7 @@
 title: The New Sonos App is a Welcome Upgrade
 date: 2024-05-08T12:08:23+00:00
 featured_image: /images/2024/05/play-sonos-com-screenshot.jpg
+draft: false
 categories:
   - Personal
 tags:

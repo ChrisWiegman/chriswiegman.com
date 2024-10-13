@@ -1,6 +1,7 @@
 ---
 title: Thoughts on Remote Work
 date: 2022-08-12T13:30:13+00:00
+draft: false
 categories:
   - Technical
 tags:

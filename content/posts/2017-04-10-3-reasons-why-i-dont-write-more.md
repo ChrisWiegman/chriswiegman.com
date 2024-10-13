@@ -1,6 +1,7 @@
 ---
 title: 3 Reasons Why I Don’t Write More
 date: 2017-04-10T17:58:00+00:00
+draft: false
 categories:
   - Personal
 tags:

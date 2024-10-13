@@ -1,6 +1,7 @@
 ---
 title: From Study to Action
 date: 2022-02-16T11:05:26+00:00
+draft: false
 categories:
   - Technical
 tags:

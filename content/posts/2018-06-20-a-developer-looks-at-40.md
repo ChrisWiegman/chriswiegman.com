@@ -1,6 +1,7 @@
 ---
 title: A Developer Looks at 40
 date: 2018-06-20T00:00:00+00:00
+draft: false
 categories:
   - Personal
 tags:

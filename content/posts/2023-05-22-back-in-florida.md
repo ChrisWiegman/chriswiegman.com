@@ -1,6 +1,7 @@
 ---
 title: Back in Florida
 date: 2023-05-22T12:08:08+00:00
+draft: false
 categories:
   - Personal
 tags:

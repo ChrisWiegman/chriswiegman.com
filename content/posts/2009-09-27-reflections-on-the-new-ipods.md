@@ -1,6 +1,7 @@
 ---
 title: Reflections on the New iPods
 date: 2009-09-27T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

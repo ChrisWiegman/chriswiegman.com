@@ -1,6 +1,7 @@
 ---
 title: Beginning Backbone.js
 date: 2014-01-09T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

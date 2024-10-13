@@ -1,6 +1,7 @@
 ---
 title: Design is more than visuals
 date: 2023-01-30T13:33:54+00:00
+draft: false
 categories:
   - Technical
 tags:

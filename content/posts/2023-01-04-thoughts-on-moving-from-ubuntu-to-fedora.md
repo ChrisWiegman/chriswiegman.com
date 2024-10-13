@@ -1,6 +1,7 @@
 ---
 title: Thoughts on moving from Ubuntu to Fedora
 date: 2023-01-04T13:43:24+00:00
+draft: false
 categories:
   - Technical
 tags:

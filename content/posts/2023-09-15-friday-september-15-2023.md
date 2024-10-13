@@ -1,6 +1,7 @@
 ---
 title: Friday, September 15, 2023
 date: 2023-09-15T13:33:28+00:00
+draft: false
 categories:
   - Personal
 tags:

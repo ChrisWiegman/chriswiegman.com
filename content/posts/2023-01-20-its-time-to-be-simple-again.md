@@ -1,6 +1,7 @@
 ---
 title: It’s time to be simple again
 date: 2023-01-20T14:19:31+00:00
+draft: false
 categories:
   - Personal
 tags:

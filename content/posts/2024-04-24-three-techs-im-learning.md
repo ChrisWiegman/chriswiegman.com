@@ -1,6 +1,7 @@
 ---
 title: Three Techs I’m Learning
 date: 2024-04-24T11:57:21+00:00
+draft: false
 categories:
   - Technical
 tags:

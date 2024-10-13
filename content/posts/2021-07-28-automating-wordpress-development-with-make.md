@@ -1,6 +1,7 @@
 ---
 title: Automating WordPress Development with Make
 date: 2021-07-28T12:42:50+00:00
+draft: false
 categories:
   - Technical
 tags:

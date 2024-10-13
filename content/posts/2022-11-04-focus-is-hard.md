@@ -1,6 +1,7 @@
 ---
 title: Focus is Hard
 date: 2022-11-04T20:29:17+00:00
+draft: false
 categories:
   - Personal
 tags:

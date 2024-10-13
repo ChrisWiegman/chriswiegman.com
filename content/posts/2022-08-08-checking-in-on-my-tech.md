@@ -1,6 +1,7 @@
 ---
 title: Checking In On My Tech
 date: 2022-08-08T12:27:36+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -2,6 +2,7 @@
 title: It’s Time for a New Site
 date: 2021-07-20T22:45:08+00:00
 featured_image: /images/2021/07/its-time-for-a-new-site.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: 5 Reasons Why Free Software Can’t Replace Everything
 date: 2008-08-20T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

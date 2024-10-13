@@ -2,6 +2,7 @@
 title: Yes, I Do Have Much to be Thankful For
 date: 2022-11-25T12:59:41+00:00
 featured_image: /images/2022/02/three-months-soda-free.jpg
+draft: false
 categories:
   - Personal
 tags:

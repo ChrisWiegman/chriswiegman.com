@@ -1,6 +1,7 @@
 ---
 title: Generating New Blog Post Ideas
 date: 2021-12-08T15:48:00+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: When Will You Upgrade To PHP 5.4?
 date: 2012-03-02T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

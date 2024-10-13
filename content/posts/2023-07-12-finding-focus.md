@@ -1,6 +1,7 @@
 ---
 title: Finding Focus
 date: 2023-07-12T12:30:26+00:00
+draft: false
 categories:
   - Personal
 tags:

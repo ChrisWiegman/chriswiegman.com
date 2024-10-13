@@ -1,6 +1,7 @@
 ---
 title: No more fighting my tech
 date: 2023-05-31T12:16:53+00:00
+draft: false
 categories:
   - Personal
 tags:

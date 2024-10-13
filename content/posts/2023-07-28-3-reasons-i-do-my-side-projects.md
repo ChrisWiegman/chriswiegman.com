@@ -1,6 +1,7 @@
 ---
 title: 3 Reasons I Do My Side Projects
 date: 2023-07-28T12:08:31+00:00
+draft: false
 categories:
   - Technical
 tags:

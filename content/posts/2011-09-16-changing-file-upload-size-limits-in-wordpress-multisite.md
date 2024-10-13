@@ -1,6 +1,7 @@
 ---
 title: Changing File Upload Size Limits in WordPress Multisite
 date: 2011-09-16T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

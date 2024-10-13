@@ -1,6 +1,7 @@
 ---
 title: Looking for New Habits
 date: 2024-08-12T12:13:48+00:00
+draft: false
 categories:
   - Personal
 tags:

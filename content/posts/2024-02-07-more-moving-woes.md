@@ -1,6 +1,7 @@
 ---
 title: More Moving Woes
 date: 2024-02-07T13:35:52+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Don’t Use PHP’s Mkdir in WordPress
 date: 2015-09-10T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

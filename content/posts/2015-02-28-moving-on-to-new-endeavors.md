@@ -1,6 +1,7 @@
 ---
 title: Moving On To New Endeavors
 date: 2015-02-28T00:00:00+00:00
+draft: false
 categories:
   - Personal
 tags:

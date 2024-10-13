@@ -2,6 +2,7 @@
 title: Finding Peace At Home
 date: 2022-07-29T12:11:34+00:00
 featured_image: /images/2020/08/home.jpg
+draft: false
 categories:
   - Personal
 tags:

@@ -2,6 +2,7 @@
 title: I Want to Talk Again
 date: 2022-07-27T11:58:28+00:00
 featured_image: /images/2020/08/chris-wiegman-speaking.jpg
+draft: false
 categories:
   - Technical
 tags:

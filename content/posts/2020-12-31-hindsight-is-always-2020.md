@@ -2,6 +2,7 @@
 title: Hindsight is Always 2020
 date: 2020-12-31T17:11:47+00:00
 featured_image: /images/2020/12/hindsight-is-always-2020.jpeg
+draft: false
 categories:
   - Personal
 tags:

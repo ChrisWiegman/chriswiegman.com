@@ -2,6 +2,7 @@
 title: Welcome Back, Fall
 date: 2021-11-10T13:03:47+00:00
 featured_image: /images/2021/11/welcome-back-fall.jpg
+draft: false
 categories:
   - Personal
 tags:

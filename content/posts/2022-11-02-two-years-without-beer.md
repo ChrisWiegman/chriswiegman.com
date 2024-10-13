@@ -1,6 +1,7 @@
 ---
 title: Two Years Without Beer
 date: 2022-11-02T12:17:39+00:00
+draft: false
 categories:
   - Personal
 tags:

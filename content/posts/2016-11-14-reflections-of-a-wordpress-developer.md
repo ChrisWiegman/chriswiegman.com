@@ -1,6 +1,7 @@
 ---
 title: Reflections of a WordPress Developer
 date: 2016-11-14T18:58:57+00:00
+draft: false
 categories:
   - Technical
 tags:

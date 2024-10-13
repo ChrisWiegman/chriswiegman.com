@@ -1,6 +1,7 @@
 ---
 title: Hosting on Amazon AWS – My Experience and Some Tips
 date: 2011-08-02T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

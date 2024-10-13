@@ -2,6 +2,7 @@
 title: The Pros and Cons of Apple OS Updates
 date: 2022-04-01T17:21:46+00:00
 featured_image: /images/2022/04/the-pros-and-cons-of-apple-os-updates.png
+draft: false
 categories:
   - Technical
 tags:

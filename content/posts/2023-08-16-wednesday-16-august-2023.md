@@ -1,6 +1,7 @@
 ---
 title: Wednesday, 16 August 2023
 date: 2023-08-16T12:09:13+00:00
+draft: false
 categories:
   - Personal
 tags:

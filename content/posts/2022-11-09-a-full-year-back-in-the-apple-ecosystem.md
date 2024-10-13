@@ -2,6 +2,7 @@
 title: A Full Year Back in the Apple Ecosystem
 date: 2022-11-09T14:07:52+00:00
 featured_image: /images/2021/11/first-impressions-of-my-m1-macbook-pro.jpeg
+draft: false
 categories:
   - Technical
 tags:

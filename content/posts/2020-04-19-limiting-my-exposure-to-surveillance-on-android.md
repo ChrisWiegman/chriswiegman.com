@@ -2,6 +2,7 @@
 title: Limiting My Exposure to Surveillance on Android
 date: 2020-04-19T15:02:00+00:00
 featured_image: /images/2020/08/limiting-my-exposure-to-surveillance-on-android.png
+draft: false
 categories:
   - Technical
 tags:

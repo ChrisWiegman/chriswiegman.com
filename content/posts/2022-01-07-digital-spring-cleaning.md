@@ -1,6 +1,7 @@
 ---
 title: Digital Spring Cleaning
 date: 2022-01-07T13:35:02+00:00
+draft: false
 categories:
   - Technical
 tags:

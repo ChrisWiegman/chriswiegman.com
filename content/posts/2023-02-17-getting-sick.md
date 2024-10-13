@@ -1,6 +1,7 @@
 ---
 title: Getting Sick
 date: 2023-02-17T14:47:52+00:00
+draft: false
 categories:
   - Personal
 tags:

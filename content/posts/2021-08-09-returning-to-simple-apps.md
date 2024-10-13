@@ -1,6 +1,7 @@
 ---
 title: Returning To Simple Apps
 date: 2021-08-09T14:17:45+00:00
+draft: false
 categories:
   - Technical
 tags:

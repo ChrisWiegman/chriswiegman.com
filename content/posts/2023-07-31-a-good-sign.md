@@ -1,6 +1,7 @@
 ---
 title: A Good Sign?
 date: 2023-07-31T12:08:07+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Safari Is Still My Favorite Browser
 date: 2024-02-12T08:53:32+00:00
+draft: false
 categories:
   - Personal
 tags:

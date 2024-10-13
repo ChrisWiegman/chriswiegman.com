@@ -2,6 +2,7 @@
 title: New doesn’t mean “more productive”
 date: 2023-03-13T21:19:02+00:00
 featured_image: /images/2021/06/two-weeks-with-the-ipad.jpg
+draft: false
 categories:
   - Personal
 tags:

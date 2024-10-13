@@ -1,6 +1,7 @@
 ---
 title: Some Thoughts on Blogging
 date: 2008-08-07T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

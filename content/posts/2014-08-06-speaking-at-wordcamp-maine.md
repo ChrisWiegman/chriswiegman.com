@@ -2,6 +2,7 @@
 title: Speaking at WordCamp Maine
 date: 2014-08-06T00:00:00+00:00
 featured_image: /images/2014/08/wordcamp-maine.jpg
+draft: false
 categories:
   - Technical
 tags:

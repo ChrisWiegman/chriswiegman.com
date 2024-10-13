@@ -1,6 +1,7 @@
 ---
 title: So Much Tech and So Little Work
 date: 2022-03-16T17:13:00+00:00
+draft: false
 categories:
   - Technical
 tags:

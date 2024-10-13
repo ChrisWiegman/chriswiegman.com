@@ -1,6 +1,7 @@
 ---
 title: Heading Home
 date: 2024-02-16T12:20:25+00:00
+draft: false
 categories:
   - Personal
 tags:

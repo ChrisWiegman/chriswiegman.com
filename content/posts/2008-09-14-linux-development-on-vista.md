@@ -1,6 +1,7 @@
 ---
 title: Linux Development on Vista
 date: 2008-09-14T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Tuning Out is Hard
 date: 2023-02-24T13:12:04+00:00
+draft: false
 categories:
   - Personal
 tags:

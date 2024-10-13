@@ -2,6 +2,7 @@
 title: Blog Comments Are Hard
 date: 2021-10-22T12:09:49+00:00
 featured_image: /images/2021/10/blog-comments-are-hard.png
+draft: false
 categories:
   - Technical
 tags:

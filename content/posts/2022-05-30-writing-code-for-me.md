@@ -1,6 +1,7 @@
 ---
 title: Writing Code For Me
 date: 2022-05-30T13:21:23+00:00
+draft: false
 categories:
   - Personal
 tags:

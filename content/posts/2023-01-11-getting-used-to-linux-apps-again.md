@@ -1,6 +1,7 @@
 ---
 title: Getting Used To Linux Apps Again
 date: 2023-01-11T16:11:08+00:00
+draft: false
 categories:
   - Personal
 tags:

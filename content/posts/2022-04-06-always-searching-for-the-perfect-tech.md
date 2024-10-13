@@ -2,6 +2,7 @@
 title: Always Searching for the Perfect Tech
 date: 2022-04-06T13:59:07+00:00
 featured_image: /images/2021/11/my-office-2021.jpeg
+draft: false
 categories:
   - Technical
 tags:

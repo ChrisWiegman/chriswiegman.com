@@ -1,6 +1,7 @@
 ---
 title: My Relationship with My Data
 date: 2022-04-11T12:18:57+00:00
+draft: false
 categories:
   - Technical
 tags:

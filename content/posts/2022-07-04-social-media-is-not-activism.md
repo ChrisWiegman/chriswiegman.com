@@ -1,6 +1,7 @@
 ---
 title: Social Media Is Not Activism
 date: 2022-07-04T12:56:38+00:00
+draft: false
 categories:
   - Personal
 tags:

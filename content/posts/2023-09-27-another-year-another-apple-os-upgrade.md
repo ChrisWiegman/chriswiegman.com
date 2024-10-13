@@ -1,6 +1,7 @@
 ---
 title: Another Year, Another Apple OS Upgrade
 date: 2023-09-27T10:28:46+00:00
+draft: false
 categories:
   - Personal
 tags:

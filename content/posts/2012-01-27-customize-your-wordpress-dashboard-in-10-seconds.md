@@ -1,6 +1,7 @@
 ---
 title: Customize Your WordPress Dashboard in 10 Seconds
 date: 2012-01-27T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

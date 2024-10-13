@@ -1,6 +1,7 @@
 ---
 title: Building a New Website… in Astro
 date: 2024-03-20T17:03:52+00:00
+draft: false
 categories:
   - Technical
 tags:

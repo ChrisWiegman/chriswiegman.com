@@ -1,6 +1,7 @@
 ---
 title: Thoughts on Building a Fitness Habit with Technology
 date: 2021-11-12T13:04:03+00:00
+draft: false
 categories:
   - Personal
 tags:

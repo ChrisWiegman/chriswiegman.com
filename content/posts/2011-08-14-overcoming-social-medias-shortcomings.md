@@ -1,6 +1,7 @@
 ---
 title: Overcoming Social Media’s Shortcomings
 date: 2011-08-14T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

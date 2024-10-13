@@ -2,6 +2,7 @@
 title: The Year Without Beer
 date: 2016-01-02T18:58:56+00:00
 featured_image: /images/2020/07/the-year-without-beer.jpg
+draft: false
 categories:
   - Personal
 tags:

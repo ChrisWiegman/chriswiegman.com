@@ -2,6 +2,7 @@
 title: The Changing WordPress Ecosystem
 date: 2021-08-02T13:49:42+00:00
 featured_image: /images/2021/08/the-changing-wordpress-ecosystem.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: What’s the Point?
 date: 2022-08-05T12:28:26+00:00
+draft: false
 categories:
   - Personal
 tags:

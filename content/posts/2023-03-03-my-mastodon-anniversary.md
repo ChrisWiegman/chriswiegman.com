@@ -2,6 +2,7 @@
 title: My Mastodon Anniversary
 date: 2023-03-03T11:24:06+00:00
 featured_image: /images/2023/02/my-mastodon-anniversary.png
+draft: false
 categories:
   - Personal
 tags:

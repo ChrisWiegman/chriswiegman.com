@@ -3,6 +3,7 @@ title: Anonymizing Nginx Logs
 date: 2019-09-02T20:33:47+00:00
 description: "How to protect your users' privacy by anonymizing Nginx log files."
 featured_image: /images/2020/08/anonymize-nginx-logs.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -2,6 +2,7 @@
 title: The Future is Very Dark
 date: 2022-10-17T22:36:32+00:00
 featured_image: /images/2022/10/the-future-is-very-dark.jpg
+draft: false
 categories:
   - Personal
 tags:

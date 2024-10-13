@@ -1,6 +1,7 @@
 ---
 title: A New Work Computer
 date: 2024-02-23T14:08:02+00:00
+draft: false
 categories:
   - Personal
 tags:

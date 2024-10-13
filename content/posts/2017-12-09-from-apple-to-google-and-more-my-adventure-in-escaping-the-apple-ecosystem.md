@@ -1,6 +1,7 @@
 ---
 title: 'From Apple to Google (and more): My Adventure in Escaping the Apple Ecosystem'
 date: 2017-12-09T18:58:57+00:00
+draft: false
 categories:
   - Technical
 tags:

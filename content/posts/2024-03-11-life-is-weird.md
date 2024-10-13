@@ -1,6 +1,7 @@
 ---
 title: Life is Weird
 date: 2024-03-11T13:11:45+00:00
+draft: false
 categories:
   - Personal
 tags:

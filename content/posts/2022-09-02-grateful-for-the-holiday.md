@@ -1,6 +1,7 @@
 ---
 title: Grateful For The Holiday
 date: 2022-09-02T12:25:28+00:00
+draft: false
 categories:
   - Personal
 tags:

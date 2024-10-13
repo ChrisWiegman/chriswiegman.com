@@ -1,6 +1,7 @@
 ---
 title: 'WordPress Plugin Developers: Clean Up After Yourself'
 date: 2012-04-04T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

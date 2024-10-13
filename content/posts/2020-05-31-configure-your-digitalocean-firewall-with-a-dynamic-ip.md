@@ -2,6 +2,7 @@
 title: Configure Your DigitalOcean Firewall With a Dynamic IP
 date: 2020-05-31T15:09:00+00:00
 featured_image: /images/2020/08/configure-your-digital-ocean-firewall-with-a-dynamic-ip.png
+draft: false
 categories:
   - Technical
 tags:

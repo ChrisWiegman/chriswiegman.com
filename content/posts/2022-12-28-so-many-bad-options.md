@@ -1,6 +1,7 @@
 ---
 title: So Many Bad Options
 date: 2022-12-28T12:25:42+00:00
+draft: false
 categories:
   - Personal
 tags:

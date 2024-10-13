@@ -2,6 +2,7 @@
 title: Leaving Twitter for Mastodon is Easy
 date: 2022-04-15T15:13:34+00:00
 featured_image: /images/2022/04/leaving-twitter-for-mastodon-is-easy.jpg
+draft: false
 categories:
   - Technical
 tags:

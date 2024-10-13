@@ -1,6 +1,7 @@
 ---
 title: A New Phone and a New Watch
 date: 2023-09-25T12:08:47+00:00
+draft: false
 categories:
   - Personal
 tags:

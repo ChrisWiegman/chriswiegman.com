@@ -2,6 +2,7 @@
 title: Managing Projects with VS Code
 date: 2021-09-17T14:38:54+00:00
 featured_image: /images/2021/09/managing-project-with-vs-code.png
+draft: false
 categories:
   - Technical
 tags:

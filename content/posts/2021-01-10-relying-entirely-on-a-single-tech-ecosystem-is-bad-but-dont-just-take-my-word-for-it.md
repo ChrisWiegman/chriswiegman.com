@@ -1,6 +1,7 @@
 ---
 title: Relying Entirely on a Single Tech Ecosystem is Bad… But Don’t Just Take My Word For It
 date: 2021-01-10T14:46:04+00:00
+draft: false
 categories:
   - Technical
 tags:

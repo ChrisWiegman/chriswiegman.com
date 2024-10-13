@@ -1,6 +1,7 @@
 ---
 title: Can 2023 Just End Already?
 date: 2023-06-26T12:13:16+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -2,6 +2,7 @@
 title: Merry Christmas
 date: 2021-12-24T13:03:40+00:00
 featured_image: /images/2021/12/merry-christmas.jpeg
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Customize WordPress Login Page Logo
 date: 2012-03-20T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

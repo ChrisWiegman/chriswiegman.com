@@ -1,6 +1,7 @@
 ---
 title: My Tools of My Trade – 2018 Edition
 date: 2018-07-14T17:58:00+00:00
+draft: false
 categories:
   - Technical
 tags:

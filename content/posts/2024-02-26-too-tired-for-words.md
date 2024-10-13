@@ -1,6 +1,7 @@
 ---
 title: Too Tired for Words
 date: 2024-02-26T12:10:10+00:00
+draft: false
 categories:
   - Personal
 tags:

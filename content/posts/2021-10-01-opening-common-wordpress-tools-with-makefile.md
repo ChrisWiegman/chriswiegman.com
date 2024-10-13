@@ -1,6 +1,7 @@
 ---
 title: Opening Common WordPress Tools with Makefile
 date: 2021-10-01T12:48:51+00:00
+draft: false
 categories:
   - Technical
 tags:

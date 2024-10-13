@@ -1,6 +1,7 @@
 ---
 title: I miss my office
 date: 2023-05-17T12:54:27+00:00
+draft: false
 categories:
   - Personal
 tags:

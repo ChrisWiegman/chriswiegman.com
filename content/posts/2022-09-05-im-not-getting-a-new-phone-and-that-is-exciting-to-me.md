@@ -1,6 +1,7 @@
 ---
 title: I’m Not Getting A New Phone… And That Is Exciting To Me
 date: 2022-09-05T11:15:11+00:00
+draft: false
 categories:
   - Personal
 tags:

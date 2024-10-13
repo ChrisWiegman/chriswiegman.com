@@ -3,6 +3,7 @@ title: The Real Cost of Leaving Google Behind
 date: 2019-10-26T20:59:43+00:00
 description: "I break down of what it has cost me, so far, to leave Google behind as well as some thoughts on the other costs of getting there."
 featured_image: /images/2020/08/the-real-cost-of-leaving-google-behind.jpg
+draft: false
 categories:
   - Technical
 tags:

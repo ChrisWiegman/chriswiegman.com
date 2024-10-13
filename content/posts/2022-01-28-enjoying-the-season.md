@@ -2,6 +2,7 @@
 title: Enjoying the Season
 date: 2022-01-28T15:12:53+00:00
 featured_image: /images/2020/08/home.jpg
+draft: false
 categories:
   - Personal
 tags:

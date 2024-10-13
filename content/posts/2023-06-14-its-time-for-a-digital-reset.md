@@ -1,6 +1,7 @@
 ---
 title: It’s Time for a Digital Reset
 date: 2023-06-14T12:09:05+00:00
+draft: false
 categories:
   - Personal
 tags:

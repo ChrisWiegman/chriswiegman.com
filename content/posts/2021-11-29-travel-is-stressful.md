@@ -2,6 +2,7 @@
 title: Travel Is Stressful
 date: 2021-11-29T13:07:08+00:00
 featured_image: /images/2021/11/14e46aea-8b12-4fbd-913c-c576e6140174.jpeg
+draft: false
 categories:
   - Personal
 tags:

@@ -2,6 +2,7 @@
 title: I am Thankful
 date: 2021-12-10T13:53:43+00:00
 featured_image: /images/2021/12/to-be-more-thankful.jpg
+draft: false
 categories:
   - Personal
 tags:

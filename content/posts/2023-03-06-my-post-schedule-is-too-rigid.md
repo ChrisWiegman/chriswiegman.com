@@ -1,6 +1,7 @@
 ---
 title: My post schedule is too rigid
 date: 2023-03-06T17:54:31+00:00
+draft: false
 categories:
   - Personal
 tags:

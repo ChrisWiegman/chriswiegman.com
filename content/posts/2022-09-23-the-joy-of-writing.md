@@ -1,6 +1,7 @@
 ---
 title: The Joy of Writing
 date: 2022-09-23T18:32:49+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Escaping Late Doesn’t Require Escaping Often
 date: 2016-11-15T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

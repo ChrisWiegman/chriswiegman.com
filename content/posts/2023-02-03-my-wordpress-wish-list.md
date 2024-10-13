@@ -1,6 +1,7 @@
 ---
 title: My WordPress wish list
 date: 2023-02-03T11:24:07+00:00
+draft: false
 categories:
   - Technical
 tags:

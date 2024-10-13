@@ -1,6 +1,7 @@
 ---
 title: Happy Birthday Dad
 date: 2024-05-22T14:07:31+00:00
+draft: false
 categories:
   - Personal
 tags:

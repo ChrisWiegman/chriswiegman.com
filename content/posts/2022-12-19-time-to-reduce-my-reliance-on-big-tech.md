@@ -2,6 +2,7 @@
 title: Time To Reduce My Reliance On Big Tech
 date: 2022-12-19T13:23:17+00:00
 featured_image: /images/2018/09/my-new-setup.jpg
+draft: false
 categories:
   - Personal
 tags:

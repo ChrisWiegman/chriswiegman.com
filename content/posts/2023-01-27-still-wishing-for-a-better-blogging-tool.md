@@ -1,6 +1,7 @@
 ---
 title: Still wishing for a better blogging tool
 date: 2023-01-27T13:56:30+00:00
+draft: false
 categories:
   - Technical
 tags:

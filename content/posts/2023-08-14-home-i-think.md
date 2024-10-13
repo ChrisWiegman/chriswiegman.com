@@ -1,6 +1,7 @@
 ---
 title: Home, I think?
 date: 2023-08-14T11:10:21+00:00
+draft: false
 categories:
   - Personal
 tags:

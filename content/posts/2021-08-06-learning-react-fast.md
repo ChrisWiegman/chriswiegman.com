@@ -2,6 +2,7 @@
 title: Learning React Fast
 date: 2021-08-06T12:47:34+00:00
 featured_image: /images/2021/08/learning-react-fast.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Adding A New Daily Habit
 date: 2022-07-25T13:15:17+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: My Ideal Tech
 date: 2022-04-29T12:15:54+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Changes And Festivities
 date: 2024-06-28T12:14:49+00:00
+draft: false
 categories:
   - Personal
 tags:

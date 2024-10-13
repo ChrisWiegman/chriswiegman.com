@@ -1,6 +1,7 @@
 ---
 title: There are Many Paths In WordPress
 date: 2021-12-06T14:51:12+00:00
+draft: false
 categories:
   - Technical
 tags:

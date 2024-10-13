@@ -1,6 +1,7 @@
 ---
 title: My Tech is Actually Working for Me
 date: 2023-06-12T10:38:35+00:00
+draft: false
 categories:
   - Technical
 tags:

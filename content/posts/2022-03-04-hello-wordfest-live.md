@@ -2,6 +2,7 @@
 title: Hello WordFest Live
 date: 2022-03-04T14:36:21+00:00
 featured_image: /images/2022/02/hello-wordfest-live.jpg
+draft: false
 categories:
   - Technical
 tags:

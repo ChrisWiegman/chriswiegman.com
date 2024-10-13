@@ -1,6 +1,7 @@
 ---
 title: Chicago is Getting Real
 date: 2023-08-21T12:10:42+00:00
+draft: false
 categories:
   - Personal
 tags:

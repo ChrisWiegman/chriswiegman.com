@@ -1,6 +1,7 @@
 ---
 title: Google’s Second Class Customers
 date: 2011-08-22T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

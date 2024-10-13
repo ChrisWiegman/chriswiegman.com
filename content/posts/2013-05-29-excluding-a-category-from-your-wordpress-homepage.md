@@ -1,6 +1,7 @@
 ---
 title: Excluding a Category from your WordPress Homepage
 date: 2013-05-29T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Grateful for a work holiday
 date: 2024-04-01T13:19:27+00:00
+draft: false
 categories:
   - Personal
 tags:

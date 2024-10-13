@@ -1,6 +1,7 @@
 ---
 title: One Simple Way To Secure WordPress
 date: 2012-02-03T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

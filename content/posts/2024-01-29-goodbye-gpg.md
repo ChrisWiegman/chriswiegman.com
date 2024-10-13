@@ -1,6 +1,7 @@
 ---
 title: Goodbye GPG
 date: 2024-01-29T15:03:19+00:00
+draft: false
 categories:
   - Technical
 tags:

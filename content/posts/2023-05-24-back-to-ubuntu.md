@@ -1,6 +1,7 @@
 ---
 title: Back to Ubuntu
 date: 2023-05-24T12:19:36+00:00
+draft: false
 categories:
   - Technical
 tags:

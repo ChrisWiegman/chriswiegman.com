@@ -1,6 +1,7 @@
 ---
 title: Looking Back at My Writing
 date: 2022-06-10T13:06:59+00:00
+draft: false
 categories:
   - Personal
 tags:

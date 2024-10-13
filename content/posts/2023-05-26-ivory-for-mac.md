@@ -1,6 +1,7 @@
 ---
 title: Ivory for Mac
 date: 2023-05-26T12:23:01+00:00
+draft: false
 categories:
   - Personal
 tags:

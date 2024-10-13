@@ -2,6 +2,7 @@
 title: Debugging Google AMP
 date: 2016-06-02T04:00:00+00:00
 featured_image: /images/2016/06/Debugging-Google-AMP.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: The fast pace of change in tech
 date: 2023-03-31T18:56:41+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Linux or Windows or Mac, Oh My!
 date: 2021-07-30T13:53:46+00:00
+draft: false
 categories:
   - Technical
 tags:

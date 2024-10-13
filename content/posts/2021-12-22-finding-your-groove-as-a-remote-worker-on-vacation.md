@@ -2,6 +2,7 @@
 title: Finding Your Groove as a Remote Worker on Vacation
 date: 2021-12-22T15:42:50+00:00
 featured_image: /images/2021/12/finding-your-groove-as-a-remote-worker-on-vacation.jpeg
+draft: false
 categories:
   - Personal
 tags:

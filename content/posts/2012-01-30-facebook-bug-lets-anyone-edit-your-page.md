@@ -1,6 +1,7 @@
 ---
 title: Facebook Bug Lets Anyone Edit Your Page
 date: 2012-01-30T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

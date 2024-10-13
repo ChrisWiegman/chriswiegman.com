@@ -1,6 +1,7 @@
 ---
 title: Keeping Track of wp-config.php Information Across Different Environments
 date: 2014-05-08T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

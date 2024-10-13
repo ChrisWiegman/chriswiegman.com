@@ -1,6 +1,7 @@
 ---
 title: Just Push Publish Isn’t Always Easy
 date: 2022-09-07T15:09:22+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -2,6 +2,7 @@
 title: The M1 iPad Pro, Three Months In
 date: 2021-08-23T12:59:47+00:00
 featured_image: /images/2021/06/two-weeks-with-the-ipad.jpg
+draft: false
 categories:
   - Technical
 tags:

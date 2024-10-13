@@ -2,6 +2,7 @@
 title: Rethinking How I Use Technology
 date: 2022-04-25T11:55:13+00:00
 featured_image: /images/2022/02/the-perfect-office.jpeg
+draft: false
 categories:
   - Technical
 tags:

@@ -2,6 +2,7 @@
 title: Back to Mac
 date: 2021-10-18T12:50:12+00:00
 featured_image: /images/2021/10/back-to-mac.png
+draft: false
 categories:
   - Technical
 tags:

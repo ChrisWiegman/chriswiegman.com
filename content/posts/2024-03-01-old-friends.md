@@ -1,6 +1,7 @@
 ---
 title: Old Friends
 date: 2024-03-01T13:54:34+00:00
+draft: false
 categories:
   - Personal
 tags:

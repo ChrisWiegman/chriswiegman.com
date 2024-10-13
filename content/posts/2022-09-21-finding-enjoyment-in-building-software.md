@@ -2,6 +2,7 @@
 title: Finding Enjoyment In Building Software
 date: 2022-09-21T12:45:29+00:00
 featured_image: /images/2022/02/the-perfect-office.jpeg
+draft: false
 categories:
   - Technical
 tags:

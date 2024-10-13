@@ -1,6 +1,7 @@
 ---
 title: A Tale of Finance Software Woes
 date: 2022-12-26T14:48:27+00:00
+draft: false
 categories:
   - Personal
 tags:

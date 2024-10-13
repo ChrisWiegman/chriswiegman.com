@@ -1,6 +1,7 @@
 ---
 title: Don’t Forget To Shop Around
 date: 2022-04-18T12:42:15+00:00
+draft: false
 categories:
   - Personal
 tags:

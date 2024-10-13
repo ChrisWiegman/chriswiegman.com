@@ -1,6 +1,7 @@
 ---
 title: 5 Reasons Everyone Should Blog
 date: 2009-07-24T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

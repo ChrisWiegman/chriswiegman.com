@@ -1,6 +1,7 @@
 ---
 title: Nothing is Forever
 date: 2022-09-09T10:27:58+00:00
+draft: false
 categories:
   - Technical
 tags:

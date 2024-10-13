@@ -2,6 +2,7 @@
 title: Step Away From the Computer
 date: 2022-05-11T16:00:21+00:00
 featured_image: /images/2022/05/step-away-from-the-computer.jpg
+draft: false
 categories:
   - Personal
 tags:

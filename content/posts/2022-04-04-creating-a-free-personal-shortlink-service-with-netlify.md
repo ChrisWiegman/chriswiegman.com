@@ -2,6 +2,7 @@
 title: Creating a Free, Personal Shortlink Service with Netlify
 date: 2022-04-04T12:00:46+00:00
 featured_image: /images/2022/04/creating-a-free-personal-shortlink-service-with-netlify.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Stepping Back From NextDNS
 date: 2021-10-25T13:49:01+00:00
+draft: false
 categories:
   - Technical
 tags:

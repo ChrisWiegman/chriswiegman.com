@@ -2,6 +2,7 @@
 title: Happy Thanksgiving
 date: 2021-11-24T15:22:15+00:00
 featured_image: /images/2021/11/happy-thanksgiving.jpeg
+draft: false
 categories:
   - Personal
 tags:

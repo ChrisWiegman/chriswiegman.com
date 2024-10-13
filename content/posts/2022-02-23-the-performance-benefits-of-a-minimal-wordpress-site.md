@@ -1,6 +1,7 @@
 ---
 title: The Performance Benefits of a Minimal WordPress Site
 date: 2022-02-23T13:48:57+00:00
+draft: false
 categories:
   - Technical
 tags:

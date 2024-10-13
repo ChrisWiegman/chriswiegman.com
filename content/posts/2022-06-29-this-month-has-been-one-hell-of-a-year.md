@@ -1,6 +1,7 @@
 ---
 title: This Month Has Been One Hell Of A Year
 date: 2022-06-29T12:22:07+00:00
+draft: false
 categories:
   - Personal
 tags:

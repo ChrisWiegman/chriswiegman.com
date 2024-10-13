@@ -1,6 +1,7 @@
 ---
 title: More New Features for Kana 0.11.0
 date: 2023-07-26T12:23:01+00:00
+draft: false
 categories:
   - Technical
 tags:

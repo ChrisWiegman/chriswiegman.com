@@ -1,6 +1,7 @@
 ---
 title: That Would be Amazing
 date: 2023-08-11T12:53:38+00:00
+draft: false
 categories:
   - Personal
 tags:

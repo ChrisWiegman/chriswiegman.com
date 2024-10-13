@@ -2,6 +2,7 @@
 title: 100 Book Goal – Complete
 date: 2022-10-31T12:27:19+00:00
 featured_image: /images/2022/10/100-book-goal.png.png
+draft: false
 categories:
   - Personal
 tags:

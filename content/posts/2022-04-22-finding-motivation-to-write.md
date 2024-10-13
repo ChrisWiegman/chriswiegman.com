@@ -1,6 +1,7 @@
 ---
 title: Finding Motivation to Write
 date: 2022-04-22T13:23:39+00:00
+draft: false
 categories:
   - Personal
 tags:

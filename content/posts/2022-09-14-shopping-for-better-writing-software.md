@@ -1,6 +1,7 @@
 ---
 title: Shopping For Better Writing Software
 date: 2022-09-14T16:14:28+00:00
+draft: false
 categories:
   - Personal
 tags:

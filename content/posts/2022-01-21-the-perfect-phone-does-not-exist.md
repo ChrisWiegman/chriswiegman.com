@@ -1,6 +1,7 @@
 ---
 title: The Perfect Phone Does Not Exist
 date: 2022-01-21T13:06:25+00:00
+draft: false
 categories:
   - Technical
 tags:

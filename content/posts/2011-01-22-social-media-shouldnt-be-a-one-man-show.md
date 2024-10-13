@@ -1,6 +1,7 @@
 ---
 title: Social Media Shouldn’t Be A One-man Show
 date: 2011-01-22T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

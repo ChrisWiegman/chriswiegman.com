@@ -1,6 +1,7 @@
 ---
 title: Starting to Pack
 date: 2023-09-18T12:07:41+00:00
+draft: false
 categories:
   - Personal
 tags:

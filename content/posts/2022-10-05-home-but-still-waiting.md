@@ -1,6 +1,7 @@
 ---
 title: Home But Still Waiting
 date: 2022-10-05T10:18:42+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Florida really does make me sick
 date: 2023-05-08T13:00:41+00:00
+draft: false
 categories:
   - Personal
 tags:

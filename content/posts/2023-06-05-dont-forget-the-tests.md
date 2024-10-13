@@ -1,6 +1,7 @@
 ---
 title: Don’t Forget the Tests
 date: 2023-06-05T12:14:58+00:00
+draft: false
 categories:
   - Technical
 tags:

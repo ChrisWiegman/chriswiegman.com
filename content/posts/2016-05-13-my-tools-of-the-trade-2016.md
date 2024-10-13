@@ -1,6 +1,7 @@
 ---
 title: 'My Tools of the Trade: 2016'
 date: 2016-05-13T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

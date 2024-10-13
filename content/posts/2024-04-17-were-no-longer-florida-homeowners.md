@@ -1,6 +1,7 @@
 ---
 title: We’re No Longer Florida Homeowners
 date: 2024-04-17T11:47:36+00:00
+draft: false
 categories:
   - Personal
 tags:

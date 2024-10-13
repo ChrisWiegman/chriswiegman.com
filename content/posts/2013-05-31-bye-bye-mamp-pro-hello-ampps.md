@@ -1,6 +1,7 @@
 ---
 title: Bye Bye MAMP Pro, Hello AMPPS
 date: 2013-05-31T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

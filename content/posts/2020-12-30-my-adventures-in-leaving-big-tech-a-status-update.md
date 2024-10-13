@@ -1,6 +1,7 @@
 ---
 title: My Adventures in Leaving Big Tech – A Status Update
 date: 2020-12-30T20:27:24+00:00
+draft: false
 categories:
   - Technical
 tags:

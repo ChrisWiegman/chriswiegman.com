@@ -1,6 +1,7 @@
 ---
 title: The Eternal Project
 date: 2023-03-08T13:46:20+00:00
+draft: false
 categories:
   - Technical
 tags:

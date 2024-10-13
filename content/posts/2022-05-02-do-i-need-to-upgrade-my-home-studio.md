@@ -2,6 +2,7 @@
 title: Do I Need to Upgrade My Home Studio?
 date: 2022-05-02T12:14:54+00:00
 featured_image: /images/2020/08/remote-work-tips-from-a-career-of-remote-experience.jpg
+draft: false
 categories:
   - Technical
 tags:

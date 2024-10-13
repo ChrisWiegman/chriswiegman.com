@@ -1,6 +1,7 @@
 ---
 title: Becoming a Professional Developer Is More Than The Latest Library
 date: 2017-01-01T18:58:57+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -2,6 +2,7 @@
 title: Another Piece of My Childhood is Gone
 date: 2023-08-09T12:46:51+00:00
 featured_image: /images/2022/12/A57BEE3B-CC78-4C19-ABF4-5B9136B6C1C5.jpeg
+draft: false
 categories:
   - Personal
 tags:

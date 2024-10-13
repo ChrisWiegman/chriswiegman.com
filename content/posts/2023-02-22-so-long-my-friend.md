@@ -2,6 +2,7 @@
 title: So long my friend
 date: 2023-02-22T13:21:44+00:00
 featured_image: /images/2023/02/IMG_20180818_183510_01.jpeg
+draft: false
 categories:
   - Personal
 tags:

@@ -3,6 +3,7 @@ title: It’s Time for a New Site
 date: 2019-08-13T20:20:56+00:00
 description: "ChrisWiegman.com is now running on Hugo"
 featured_image: /images/2020/08/time-for-a-new-site.jpg
+draft: false
 categories:
   - Technical
 tags:

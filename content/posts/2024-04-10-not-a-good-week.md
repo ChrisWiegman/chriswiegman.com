@@ -1,6 +1,7 @@
 ---
 title: Not a Good Week
 date: 2024-04-10T11:57:33+00:00
+draft: false
 categories:
   - Personal
 tags:

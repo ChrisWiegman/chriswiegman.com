@@ -2,6 +2,7 @@
 title: The House Is Quiet Again
 date: 2022-11-16T13:09:23+00:00
 featured_image: /images/2019/02/IMG_0012-22.jpg
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: So Long, May
 date: 2024-05-31T12:41:21+00:00
+draft: false
 categories:
   - Personal
 tags:

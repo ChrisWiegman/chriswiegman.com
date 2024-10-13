@@ -1,6 +1,7 @@
 ---
 title: What happened to happy?
 date: 2023-07-17T12:24:55+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Windows 7 – It Still Sucks
 date: 2009-10-09T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

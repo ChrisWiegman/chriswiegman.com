@@ -1,6 +1,7 @@
 ---
 title: Stepping back from the web
 date: 2023-03-20T08:25:00+00:00
+draft: false
 categories:
   - Personal
 tags:

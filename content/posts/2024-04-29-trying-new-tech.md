@@ -1,6 +1,7 @@
 ---
 title: Trying New Tech
 date: 2024-04-29T18:52:25+00:00
+draft: false
 categories:
   - Personal
 tags:

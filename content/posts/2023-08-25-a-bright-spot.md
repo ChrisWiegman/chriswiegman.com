@@ -1,6 +1,7 @@
 ---
 title: A Bright Spot
 date: 2023-08-25T12:18:23+00:00
+draft: false
 categories:
   - Personal
 tags:

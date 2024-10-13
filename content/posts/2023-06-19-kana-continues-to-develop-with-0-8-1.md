@@ -1,6 +1,7 @@
 ---
 title: Kana Continues to Develop with 0.8.1
 date: 2023-06-19T12:43:31+00:00
+draft: false
 categories:
   - Technical
 tags:

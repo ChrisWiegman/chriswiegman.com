@@ -2,6 +2,7 @@
 title: Upgrading My Home Office Studio
 date: 2022-05-13T13:44:01+00:00
 featured_image: /images/2022/05/upgrading-my-home-office-studio.jpg
+draft: false
 categories:
   - Technical
 tags:

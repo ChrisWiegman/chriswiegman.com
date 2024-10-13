@@ -1,6 +1,7 @@
 ---
 title: Running Apache+FastCGI+Suexec in Ubuntu 10.04 without /var/www
 date: 2010-06-09T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

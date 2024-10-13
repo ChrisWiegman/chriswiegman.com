@@ -1,6 +1,7 @@
 ---
 title: Code Is Never Easy
 date: 2022-09-16T12:29:27+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Wednesday, 4 September, 2024
 date: 2024-09-04T13:14:29+00:00
+draft: false
 categories:
   - Personal
 tags:

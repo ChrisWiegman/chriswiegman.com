@@ -1,6 +1,7 @@
 ---
 title: My Relationship with the “Internet of Things”
 date: 2022-01-12T13:03:55+00:00
+draft: false
 categories:
   - Technical
 tags:

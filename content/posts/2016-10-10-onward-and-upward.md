@@ -2,6 +2,7 @@
 title: Onward and Upward
 date: 2016-10-10T17:58:56+00:00
 featured_image: /images/2020/07/Onward-and-Upward.jpg
+draft: false
 categories:
   - Personal
 tags:

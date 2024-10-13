@@ -2,6 +2,7 @@
 title: Trusting Lando SSL Certificates in Firefox
 date: 2020-10-03T14:09:38+00:00
 featured_image: /images/2020/10/land-dev.png
+draft: false
 categories:
   - Technical
 tags:

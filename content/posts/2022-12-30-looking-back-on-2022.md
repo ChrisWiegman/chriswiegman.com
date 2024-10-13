@@ -2,6 +2,7 @@
 title: Looking Back on 2022
 date: 2022-12-30T13:45:13+00:00
 featured_image: /images/2022/12/A57BEE3B-CC78-4C19-ABF4-5B9136B6C1C5.jpeg
+draft: false
 categories:
   - Personal
 tags:

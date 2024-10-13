@@ -1,6 +1,7 @@
 ---
 title: From Vista to Linux (It was a lot easier than I thought)
 date: 2009-02-19T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

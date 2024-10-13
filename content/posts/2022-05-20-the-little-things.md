@@ -2,6 +2,7 @@
 title: The Little Things
 date: 2022-05-20T18:10:25+00:00
 featured_image: /images/2022/05/step-away-from-the-computer.jpg
+draft: false
 categories:
   - Personal
 tags:

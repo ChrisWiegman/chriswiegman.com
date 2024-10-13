@@ -1,6 +1,7 @@
 ---
 title: Almost “home”
 date: 2023-05-19T13:02:49+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Windows 7, A Redeeming Quality or Two on Another Failed OS
 date: 2009-10-18T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

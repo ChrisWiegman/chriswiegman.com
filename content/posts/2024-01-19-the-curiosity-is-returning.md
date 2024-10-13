@@ -1,6 +1,7 @@
 ---
 title: The Curiosity is Returning
 date: 2024-01-19T15:26:00+00:00
+draft: false
 categories:
   - Personal
 tags:

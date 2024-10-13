@@ -1,6 +1,7 @@
 ---
 title: Higher Ed Web Dev – Boom or Bust
 date: 2010-09-14T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

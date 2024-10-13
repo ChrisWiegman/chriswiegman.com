@@ -1,6 +1,7 @@
 ---
 title: When The Ax Man Cometh – An Excellent Piece on Higher Ed Live
 date: 2010-11-17T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

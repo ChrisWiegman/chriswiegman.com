@@ -1,6 +1,7 @@
 ---
 title: The Many Communities of WordPress
 date: 2021-09-27T13:26:46+00:00
+draft: false
 categories:
   - Technical
 tags:

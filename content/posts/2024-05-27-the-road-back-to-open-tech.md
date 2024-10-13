@@ -1,6 +1,7 @@
 ---
 title: The Road Back to Open Tech
 date: 2024-05-27T14:31:02+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -2,6 +2,7 @@
 title: 'generator-wp: A WordPress Project Generator'
 date: 2021-11-08T13:14:05+00:00
 featured_image: /images/2021/11/generator-wp-a-wordpress-project-generator.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: The Year Without Beer (For Real)
 date: 2021-11-01T14:28:13+00:00
+draft: false
 categories:
   - Personal
 tags:

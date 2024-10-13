@@ -1,6 +1,7 @@
 ---
 title: Back to GPG and on to Tailscale
 date: 2024-06-10T12:14:34+00:00
+draft: false
 categories:
   - Technical
 tags:

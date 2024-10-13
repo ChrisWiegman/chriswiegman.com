@@ -1,6 +1,7 @@
 ---
 title: An Ominous Start for 2024
 date: 2024-01-05T13:47:07+00:00
+draft: false
 categories:
   - Personal
 tags:

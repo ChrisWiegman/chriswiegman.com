@@ -2,6 +2,7 @@
 title: There Should be More to Normal than Escape
 date: 2022-02-07T12:57:55+00:00
 featured_image: /images/2020/07/Why-Ive-Stuck-With-WordPress.jpg
+draft: false
 categories:
   - Personal
 tags:

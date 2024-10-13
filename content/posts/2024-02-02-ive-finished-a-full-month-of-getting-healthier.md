@@ -1,6 +1,7 @@
 ---
 title: I’ve Finished a Full Month of Getting Healthier
 date: 2024-02-02T13:58:45+00:00
+draft: false
 categories:
   - Personal
 tags:

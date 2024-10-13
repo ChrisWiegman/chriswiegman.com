@@ -1,6 +1,7 @@
 ---
 title: 15 Years of iPhone
 date: 2022-01-10T14:05:49+00:00
+draft: false
 categories:
   - Technical
 tags:

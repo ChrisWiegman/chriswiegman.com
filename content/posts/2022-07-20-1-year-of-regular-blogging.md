@@ -1,6 +1,7 @@
 ---
 title: 1 Year of Regular Blogging
 date: 2022-07-20T14:44:57+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Don’t Lose Your Focus
 date: 2011-03-17T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

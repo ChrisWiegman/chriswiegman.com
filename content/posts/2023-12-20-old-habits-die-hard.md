@@ -1,6 +1,7 @@
 ---
 title: Old Habits Die Hard
 date: 2023-12-20T13:54:22+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Completely Removing Twitter
 date: 2023-06-30T12:33:40+00:00
+draft: false
 categories:
   - Personal
 tags:

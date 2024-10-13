@@ -1,6 +1,7 @@
 ---
 title: Learning to “live with it”
 date: 2024-03-27T13:02:32+00:00
+draft: false
 categories:
   - Personal
 tags:

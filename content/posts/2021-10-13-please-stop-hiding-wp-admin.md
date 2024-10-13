@@ -1,6 +1,7 @@
 ---
 title: Please Stop Hiding wp-admin
 date: 2021-10-13T12:17:53+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: iPhone 4…yawn
 date: 2010-07-01T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

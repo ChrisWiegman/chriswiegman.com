@@ -2,6 +2,7 @@
 title: Wellness Day
 date: 2022-03-18T13:20:38+00:00
 featured_image: /images/2021/12/finding-your-groove-as-a-remote-worker-on-vacation.jpeg
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Making My WordPress Theme More Available
 date: 2024-01-08T14:02:06+00:00
+draft: false
 categories:
   - Technical
 tags:

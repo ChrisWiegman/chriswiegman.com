@@ -2,6 +2,7 @@
 title: 'WordCamp US 2015: Make WP-CLI Work For You'
 date: 2015-12-19T18:58:56+00:00
 featured_image: /images/2020/07/WordCamp-US.jpg
+draft: false
 categories:
   - Technical
 tags:

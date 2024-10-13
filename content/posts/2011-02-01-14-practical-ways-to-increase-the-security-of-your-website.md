@@ -1,6 +1,7 @@
 ---
 title: 14 Practical Ways to Increase the Security of Your Website
 date: 2011-02-01T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

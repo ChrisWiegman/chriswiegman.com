@@ -2,6 +2,7 @@
 title: Rest in Peace, My Friend
 date: 2023-12-15T16:34:58+00:00
 featured_image: /images/2022/07/meet-kana.jpg
+draft: false
 categories:
   - Personal
 tags:

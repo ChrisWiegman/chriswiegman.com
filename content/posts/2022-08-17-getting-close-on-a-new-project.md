@@ -1,6 +1,7 @@
 ---
 title: Getting Close on a New Project
 date: 2022-08-17T15:11:09+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Frog on a Chair
 date: 2015-12-12T18:58:56+00:00
+draft: false
 categories:
   - Personal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Summer is Back
 date: 2022-10-24T13:37:19+00:00
+draft: false
 categories:
   - Personal
 tags:

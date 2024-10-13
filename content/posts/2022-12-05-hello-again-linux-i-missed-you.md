@@ -2,6 +2,7 @@
 title: Hello Again Linux, I Missed You
 date: 2022-12-05T14:12:05+00:00
 featured_image: /images/2022/12/hello-again-linux.jpg
+draft: false
 categories:
   - Technical
 tags:

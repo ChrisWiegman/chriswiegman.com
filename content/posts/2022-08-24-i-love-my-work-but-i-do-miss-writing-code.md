@@ -1,6 +1,7 @@
 ---
 title: I Love My Work but I Do Miss Writing Code
 date: 2022-08-24T17:21:00+00:00
+draft: false
 categories:
   - Personal
 tags:

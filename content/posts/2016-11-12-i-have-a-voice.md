@@ -1,6 +1,7 @@
 ---
 title: I Have a Voice
 date: 2016-11-12T18:58:57+00:00
+draft: false
 categories:
   - Personal
 tags:

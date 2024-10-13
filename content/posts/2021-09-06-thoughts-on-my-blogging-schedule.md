@@ -1,6 +1,7 @@
 ---
 title: Thoughts On My Blogging Schedule
 date: 2021-09-06T18:59:49+00:00
+draft: false
 categories:
   - Personal
 tags:

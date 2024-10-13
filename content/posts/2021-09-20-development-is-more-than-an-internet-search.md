@@ -2,6 +2,7 @@
 title: Development Is More Than An Internet Search
 date: 2021-09-20T14:55:53+00:00
 featured_image: /images/2021/09/becoming-a-developer.jpg
+draft: false
 categories:
   - Technical
 tags:

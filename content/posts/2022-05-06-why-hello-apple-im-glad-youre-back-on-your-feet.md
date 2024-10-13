@@ -2,6 +2,7 @@
 title: Why Hello Apple, I’m Glad You’re Back On Your Feet
 date: 2022-05-06T12:00:42+00:00
 featured_image: /images/2021/11/my-office-2021.jpeg
+draft: false
 categories:
   - Technical
 tags:

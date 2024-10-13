@@ -1,6 +1,7 @@
 ---
 title: Don’t Forget the Details
 date: 2011-04-01T04:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

@@ -2,6 +2,7 @@
 title: Digital Privacy Isn’t Easy
 date: 2022-11-30T13:44:19+00:00
 featured_image: /images/2018/09/my-new-setup.jpg
+draft: false
 categories:
   - Technical
 tags:

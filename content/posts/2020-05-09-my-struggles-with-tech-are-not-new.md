@@ -1,6 +1,7 @@
 ---
 title: My Struggles With Tech Are Not New
 date: 2020-05-09T15:06:00+00:00
+draft: false
 categories:
   - Personal
 tags:

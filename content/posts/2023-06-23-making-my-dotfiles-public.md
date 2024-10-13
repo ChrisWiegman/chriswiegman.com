@@ -1,6 +1,7 @@
 ---
 title: Making my Dotfiles Public
 date: 2023-06-23T10:23:43+00:00
+draft: false
 categories:
   - Technical
 tags:

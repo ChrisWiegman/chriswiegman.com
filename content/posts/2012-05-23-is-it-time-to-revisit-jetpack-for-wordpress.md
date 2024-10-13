@@ -1,6 +1,7 @@
 ---
 title: Is It Time To Revisit Jetpack for WordPress?
 date: 2012-05-23T00:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

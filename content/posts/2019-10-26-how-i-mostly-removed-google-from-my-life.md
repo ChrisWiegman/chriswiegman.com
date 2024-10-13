@@ -3,6 +3,7 @@ title: How I Mostly Removed Google From My Life
 date: 2019-10-26T20:55:26+00:00
 description: "A list of the services I've used to mostly replace Google in my life."
 featured_image: /images/2020/08/how-i-mostly-removed-google-from-my-life.jpg
+draft: false
 categories:
   - Technical
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Now with 50% fewer images
 date: 2023-04-03T10:12:50+00:00
+draft: false
 categories:
   - Technical
 tags:

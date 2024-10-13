@@ -1,6 +1,7 @@
 ---
 title: The Real Test Begins
 date: 2023-05-10T13:01:05+00:00
+draft: false
 categories:
   - Personal
 tags:

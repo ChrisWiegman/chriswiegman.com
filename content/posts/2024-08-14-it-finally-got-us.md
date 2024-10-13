@@ -1,6 +1,7 @@
 ---
 title: It Finally Got Us
 date: 2024-08-14T13:35:13+00:00
+draft: false
 categories:
   - Personal
 tags:

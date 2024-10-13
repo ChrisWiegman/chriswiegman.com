@@ -1,6 +1,7 @@
 ---
 title: Adventures in Monetization
 date: 2012-01-30T05:00:00+00:00
+draft: false
 categories:
   - Technical
 tags:

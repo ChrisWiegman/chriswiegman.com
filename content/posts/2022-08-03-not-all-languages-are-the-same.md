@@ -1,6 +1,7 @@
 ---
 title: Not All Languages Are The Same
 date: 2022-08-03T12:18:31+00:00
+draft: false
 categories:
   - Technical
 tags:
