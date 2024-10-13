@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Services
-
 ---
+
 There is a lot of hype lately around cloud computing and moving everything into the cloud. I’ve jumped on the bandwagon myself to an extent with email and file synchronization. The question becomes is this a good approach to computing or a potentially damaging fad?
 
 For years we’ve been told it’s OK to let someone else manage our email or our calendar or any one of a number of other activities. I still remember Hotmail before it was a Microsoft product. Even then moving our email online didn’t seem like all that bad of an idea, although it did remove a lot of the functionality of programs like Microsoft Outlook or Eudora. Still, being able to access our email from anywhere really helped as we all learned to use more than one computer in our daily lives.
