@@ -1,8 +1,6 @@
 ---
 title: Maccy, the perfect Mac clipboard manager
-type: post
 date: 2022-03-23T11:55:20+00:00
-url: /2022/03/maccy-the-perfect-mac-clipboard-manager/
 featured_image: /images/2022/03/maccy-the-perfect-mac-clipboard-manager.jpg
 categories:
   - Technical

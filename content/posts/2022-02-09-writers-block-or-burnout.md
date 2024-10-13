@@ -1,8 +1,6 @@
 ---
 title: Writer’s Block or Burnout
-type: post
 date: 2022-02-09T13:14:57+00:00
-url: /2022/02/writers-block-or-burnout/
 categories:
   - Personal
 tags:

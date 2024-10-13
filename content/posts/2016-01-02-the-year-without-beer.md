@@ -1,8 +1,6 @@
 ---
 title: The Year Without Beer
-type: post
 date: 2016-01-02T18:58:56+00:00
-url: /2016/01/the-year-without-beer/
 featured_image: /images/2020/07/the-year-without-beer.jpg
 categories:
   - Personal

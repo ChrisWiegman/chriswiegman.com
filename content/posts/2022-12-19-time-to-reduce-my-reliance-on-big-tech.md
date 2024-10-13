@@ -1,8 +1,6 @@
 ---
 title: Time To Reduce My Reliance On Big Tech
-type: post
 date: 2022-12-19T13:23:17+00:00
-url: /2022/12/time-to-reduce-my-reliance-on-big-tech/
 featured_image: /images/2018/09/my-new-setup.jpg
 categories:
   - Personal

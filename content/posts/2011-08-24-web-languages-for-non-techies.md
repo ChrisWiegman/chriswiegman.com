@@ -1,8 +1,6 @@
 ---
 title: Web Languages For Non-techies
-type: post
 date: 2011-08-24T04:00:00+00:00
-url: /2011/08/web-languages-for-non-techies/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Back on Pop!_OS and I’m Loving Linux Again
-type: post
 date: 2023-07-10T12:09:32+00:00
-url: /2023/07/back-on-pop_os-and-im-loving-linux-again/
 categories:
   - Technical
 tags:

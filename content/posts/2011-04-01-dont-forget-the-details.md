@@ -1,8 +1,6 @@
 ---
 title: Don’t Forget the Details
-type: post
 date: 2011-04-01T04:00:00+00:00
-url: /2011/04/dont-forget-the-details/
 categories:
   - Technical
 tags:

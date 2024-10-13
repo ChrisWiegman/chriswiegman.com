@@ -1,8 +1,6 @@
 ---
 title: Life is Looking Up
-type: post
 date: 2024-04-22T12:01:12+00:00
-url: /2024/04/life-is-looking-up/
 categories:
   - Personal
 tags:

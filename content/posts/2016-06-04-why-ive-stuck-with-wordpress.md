@@ -1,8 +1,6 @@
 ---
 title: Why I’ve Stuck With WordPress
-type: post
 date: 2016-06-04T17:58:56+00:00
-url: /2016/06/why-ive-stuck-with-wordpress/
 featured_image: /images/2020/07/Why-Ive-Stuck-With-WordPress.jpg
 categories:
   - Technical

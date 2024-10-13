@@ -1,8 +1,6 @@
 ---
 title: 5 Tools For The One-Man (or Woman) Web Show
-type: post
 date: 2011-08-10T04:00:00+00:00
-url: /2011/08/5-tools-for-the-one-man-or-woman-web-show/
 categories:
   - Technical
 tags:

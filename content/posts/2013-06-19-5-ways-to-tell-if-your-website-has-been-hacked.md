@@ -1,8 +1,6 @@
 ---
 title: 5 Ways To Tell If Your Website Has Been Hacked
-type: post
 date: 2013-06-19T04:00:00+00:00
-url: /2013/06/5-ways-to-tell-if-your-website-has-been-hacked/
 categories:
   - Technical
 tags:

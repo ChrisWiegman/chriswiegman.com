@@ -1,8 +1,6 @@
 ---
 title: Too Tired for Words
-type: post
 date: 2024-02-26T12:10:10+00:00
-url: /2024/02/too-tired-for-words/
 categories:
   - Personal
 tags:

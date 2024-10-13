@@ -1,8 +1,6 @@
 ---
 title: VS Code Extensions for WordPress Development
-type: post
 date: 2021-09-01T14:04:29+00:00
-url: /2021/09/vs-code-extensions-for-wordpress-development/
 featured_image: /images/2021/08/vs-code-extensions-for-wordpress-development.jpg
 categories:
   - Technical

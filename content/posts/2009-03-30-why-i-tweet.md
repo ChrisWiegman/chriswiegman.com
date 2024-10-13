@@ -1,8 +1,6 @@
 ---
 title: Why I Tweet
-type: post
 date: 2009-03-30T04:00:00+00:00
-url: /2009/03/why-i-tweet/
 categories:
   - Technical
 tags:

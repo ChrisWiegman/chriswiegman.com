@@ -1,8 +1,6 @@
 ---
 title: Customize the Contact Info Fields in WordPress Profiles
-type: post
 date: 2012-02-06T00:00:00+00:00
-url: /2012/02/customize-the-contact-info-fields-in-wordpress-profiles/
 categories:
   - Technical
 tags:

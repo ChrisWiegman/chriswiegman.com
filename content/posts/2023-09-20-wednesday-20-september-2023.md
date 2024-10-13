@@ -1,8 +1,6 @@
 ---
 title: Wednesday, 20 September, 2023
-type: post
 date: 2023-09-20T11:39:01+00:00
-url: /2023/09/wednesday-20-september-2023/
 categories:
   - Personal
 tags:

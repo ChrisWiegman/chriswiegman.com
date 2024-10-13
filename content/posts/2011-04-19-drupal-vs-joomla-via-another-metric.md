@@ -1,8 +1,6 @@
 ---
 title: Drupal vs Joomla via Another Metric
-type: post
 date: 2011-04-19T04:00:00+00:00
-url: /2011/04/drupal-vs-joomla-via-another-metric/
 categories:
   - Technical
 tags:

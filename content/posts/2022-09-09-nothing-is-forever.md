@@ -1,8 +1,6 @@
 ---
 title: Nothing is Forever
-type: post
 date: 2022-09-09T10:27:58+00:00
-url: /2022/09/nothing-is-forever/
 categories:
   - Technical
 tags:

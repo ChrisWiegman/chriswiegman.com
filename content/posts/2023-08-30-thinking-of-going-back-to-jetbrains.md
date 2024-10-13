@@ -1,8 +1,6 @@
 ---
 title: Thinking of Going Back to JetBrains
-type: post
 date: 2023-08-30T12:17:50+00:00
-url: /2023/08/thinking-of-going-back-to-jetbrains/
 categories:
   - Technical
 tags:

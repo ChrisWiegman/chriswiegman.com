@@ -1,8 +1,6 @@
 ---
 title: My Experience in Testing JetBrains’ IDEs
-type: post
 date: 2023-09-04T11:02:37+00:00
-url: /2023/09/my-experience-in-testing-jetbrains-ides/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Leaving Big Tech Behind Take 2
-type: post
 date: 2020-04-05T14:50:19+00:00
-url: /2020/04/leaving-big-tech-behind-take-2/
 featured_image: /images/2020/08/leaving-big-tech-behind-take-2.jpg
 categories:
   - Technical

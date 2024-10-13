@@ -1,8 +1,6 @@
 ---
 title: Fixing Lando Crashes in Docker Desktop
-type: post
 date: 2021-07-21T13:43:13+00:00
-url: /2021/07/fixing-lando-crashes-in-docker-desktop/
 featured_image: /images/2021/07/Screen-Shot-2021-07-21-at-9.31.35-AM.png
 categories:
   - Technical

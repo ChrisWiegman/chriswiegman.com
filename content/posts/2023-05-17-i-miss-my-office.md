@@ -1,8 +1,6 @@
 ---
 title: I miss my office
-type: post
 date: 2023-05-17T12:54:27+00:00
-url: /2023/05/i-miss-my-office/
 categories:
   - Personal
 tags:

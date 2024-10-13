@@ -1,8 +1,6 @@
 ---
 title: The Importance of Following The Right People On Twitter
-type: post
 date: 2011-09-14T04:00:00+00:00
-url: /2011/09/the-importance-of-following-the-right-people-on-twitter/
 categories:
   - Technical
 tags:

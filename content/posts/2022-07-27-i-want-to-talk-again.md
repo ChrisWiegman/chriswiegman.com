@@ -1,8 +1,6 @@
 ---
 title: I Want to Talk Again
-type: post
 date: 2022-07-27T11:58:28+00:00
-url: /2022/07/i-want-to-talk-again/
 featured_image: /images/2020/08/chris-wiegman-speaking.jpg
 categories:
   - Technical

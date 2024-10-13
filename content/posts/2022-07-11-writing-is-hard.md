@@ -1,8 +1,6 @@
 ---
 title: Writing Is Hard
-type: post
 date: 2022-07-11T12:35:23+00:00
-url: /2022/07/writing-is-hard/
 categories:
   - Personal
 tags:

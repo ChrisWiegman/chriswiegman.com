@@ -1,8 +1,6 @@
 ---
 title: The Year Without Beer – My Progress So Far
-type: post
 date: 2016-06-01T00:00:00+00:00
-url: /2016/06/the-year-without-beer-my-progress-so-far/
 categories:
   - Personal
 tags:

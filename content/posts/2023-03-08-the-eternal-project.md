@@ -1,8 +1,6 @@
 ---
 title: The Eternal Project
-type: post
 date: 2023-03-08T13:46:20+00:00
-url: /2023/03/the-eternal-project/
 categories:
   - Technical
 tags:

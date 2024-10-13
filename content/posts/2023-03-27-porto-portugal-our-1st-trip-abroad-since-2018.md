@@ -1,8 +1,6 @@
 ---
 title: 'Porto, Portugal: Our 1st trip abroad since 2018'
-type: post
 date: 2023-03-27T10:07:49+00:00
-url: /2023/03/porto-portugal-our-1st-trip-abroad-since-2018/
 featured_image: /images/2023/03/IMG_1111.jpeg
 categories:
   - Personal

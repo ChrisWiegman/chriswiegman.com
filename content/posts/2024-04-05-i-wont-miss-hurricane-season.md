@@ -1,8 +1,6 @@
 ---
 title: I Won’t Miss Hurricane Season
-type: post
 date: 2024-04-05T13:36:26+00:00
-url: /2024/04/i-wont-miss-hurricane-season/
 categories:
   - Personal
 tags:

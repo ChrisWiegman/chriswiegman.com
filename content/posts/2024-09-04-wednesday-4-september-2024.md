@@ -1,8 +1,6 @@
 ---
 title: Wednesday, 4 September, 2024
-type: post
 date: 2024-09-04T13:14:29+00:00
-url: /2024/09/wednesday-4-september-2024/
 categories:
   - Personal
 tags:

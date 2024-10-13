@@ -1,8 +1,6 @@
 ---
 title: 5 Signs Your Social Media Expert Isn’t What They Say They Are
-type: post
 date: 2011-08-08T04:00:00+00:00
-url: /2011/08/5-signs-your-social-media-expert-isnt-what-they-say-they-are/
 categories:
   - Technical
 tags:

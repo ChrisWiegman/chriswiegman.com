@@ -1,8 +1,6 @@
 ---
 title: Bye Bye Dev Work and Hello Engineering Management
-type: post
 date: 2021-12-01T13:31:53+00:00
-url: /2021/12/bye-bye-dev-work-and-hello-engineering-management/
 categories:
   - Personal
 tags:

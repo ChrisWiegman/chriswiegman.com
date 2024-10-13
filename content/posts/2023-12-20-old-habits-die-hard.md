@@ -1,8 +1,6 @@
 ---
 title: Old Habits Die Hard
-type: post
 date: 2023-12-20T13:54:22+00:00
-url: /2023/12/old-habits-die-hard/
 categories:
   - Personal
 tags:

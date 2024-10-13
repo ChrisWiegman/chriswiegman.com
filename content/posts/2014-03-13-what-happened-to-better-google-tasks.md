@@ -1,8 +1,6 @@
 ---
 title: What Happened to Better Google Tasks?
-type: post
 date: 2014-03-13T04:00:00+00:00
-url: /2014/03/what-happened-to-better-google-tasks/
 categories:
   - Technical
 tags:

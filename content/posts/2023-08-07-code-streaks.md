@@ -1,8 +1,6 @@
 ---
 title: Code Streaks
-type: post
 date: 2023-08-07T14:36:36+00:00
-url: /2023/08/code-streaks/
 categories:
   - Technical
 tags:

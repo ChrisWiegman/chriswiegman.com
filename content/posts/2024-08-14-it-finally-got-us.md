@@ -1,8 +1,6 @@
 ---
 title: It Finally Got Us
-type: post
 date: 2024-08-14T13:35:13+00:00
-url: /2024/08/it-finally-got-us/
 categories:
   - Personal
 tags:

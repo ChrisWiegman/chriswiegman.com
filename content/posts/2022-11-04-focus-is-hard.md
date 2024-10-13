@@ -1,8 +1,6 @@
 ---
 title: Focus is Hard
-type: post
 date: 2022-11-04T20:29:17+00:00
-url: /2022/11/focus-is-hard/
 categories:
   - Personal
 tags:

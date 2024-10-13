@@ -1,8 +1,6 @@
 ---
 title: I Have a Voice
-type: post
 date: 2016-11-12T18:58:57+00:00
-url: /2016/11/i-have-a-voice/
 categories:
   - Personal
 tags:

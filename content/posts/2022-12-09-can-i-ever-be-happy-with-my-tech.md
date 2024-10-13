@@ -1,8 +1,6 @@
 ---
 title: Can I Ever Be Happy With My Tech?
-type: post
 date: 2022-12-09T14:28:39+00:00
-url: /2022/12/can-i-ever-be-happy-with-my-tech/
 categories:
   - Technical
 tags:

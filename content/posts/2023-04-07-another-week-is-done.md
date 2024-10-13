@@ -1,8 +1,6 @@
 ---
 title: Another Week is Done
-type: post
 date: 2023-04-07T10:21:16+00:00
-url: /2023/04/another-week-is-done/
 categories:
   - Personal
 tags:

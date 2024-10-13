@@ -1,8 +1,6 @@
 ---
 title: Stop wp-cron (WordPress cron Jobs) From Firing on Every Page Load
-type: post
 date: 2012-04-06T04:00:00+00:00
-url: /2012/04/stop-wp-cron-wordpress-cron-jobs-from-firing-on-every-page-load/
 categories:
   - Technical
 tags:

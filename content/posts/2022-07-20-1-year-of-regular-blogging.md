@@ -1,8 +1,6 @@
 ---
 title: 1 Year of Regular Blogging
-type: post
 date: 2022-07-20T14:44:57+00:00
-url: /2022/07/1-year-of-regular-blogging/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: WordPress, you’re getting very hard to love
-type: post
 date: 2023-02-08T13:31:10+00:00
-url: /2023/02/wordpress-youre-getting-very-hard-to-love/
 categories:
   - Technical
 tags:

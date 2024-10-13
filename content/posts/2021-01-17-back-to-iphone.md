@@ -1,8 +1,6 @@
 ---
 title: Back to iPhone
-type: post
 date: 2021-01-18T00:22:38+00:00
-url: /2021/01/back-to-iphone/
 featured_image: /images/2021/01/back-to-iphone.png
 categories:
   - Technical

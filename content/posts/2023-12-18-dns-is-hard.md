@@ -1,8 +1,6 @@
 ---
 title: DNS is Hard
-type: post
 date: 2023-12-18T13:49:11+00:00
-url: /2023/12/dns-is-hard/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: 'My Tools of the Trade: 2016'
-type: post
 date: 2016-05-13T04:00:00+00:00
-url: /2016/05/my-tools-of-the-trade-2016/
 categories:
   - Technical
 tags:

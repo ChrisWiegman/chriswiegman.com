@@ -1,8 +1,6 @@
 ---
 title: 3 Thoughts on WordCamp
-type: post
 date: 2014-05-10T00:00:00+00:00
-url: /2014/05/3-thoughts-on-wordcamp/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Announcing gh-backup to Backup your Public GitHub Repos
-type: post
 date: 2023-07-07T09:56:42+00:00
-url: /2023/07/announcing-gh-backup-to-backup-your-public-github-repos/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Time for a Holiday
-type: post
 date: 2023-12-22T15:39:50+00:00
-url: /2023/12/time-for-a-holiday/
 categories:
   - Personal
 tags:

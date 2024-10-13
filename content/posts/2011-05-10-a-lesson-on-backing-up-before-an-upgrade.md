@@ -1,8 +1,6 @@
 ---
 title: A Lesson On Backing Up Before An Upgrade
-type: post
 date: 2011-05-10T04:00:00+00:00
-url: /2011/05/a-lesson-on-backing-up-before-an-upgrade/
 categories:
   - Technical
 tags:

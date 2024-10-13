@@ -1,8 +1,6 @@
 ---
 title: Never Publish Anything Immediately
-type: post
 date: 2011-10-10T04:00:00+00:00
-url: /2011/10/never-publish-anything-immediately/
 categories:
   - Technical
 tags:

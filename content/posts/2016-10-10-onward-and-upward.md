@@ -1,8 +1,6 @@
 ---
 title: Onward and Upward
-type: post
 date: 2016-10-10T17:58:56+00:00
-url: /2016/10/onward-and-upward/
 featured_image: /images/2020/07/Onward-and-Upward.jpg
 categories:
   - Personal

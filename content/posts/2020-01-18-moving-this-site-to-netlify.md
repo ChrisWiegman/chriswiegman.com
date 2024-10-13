@@ -1,8 +1,6 @@
 ---
 title: Moving This Site to Netlify
-type: post
 date: 2020-01-18T15:35:39+00:00
-url: /2020/01/moving-this-site-to-netlify/
 featured_image: /images/2020/08/moving-this-site-to-netlify.jpg
 categories:
   - Technical

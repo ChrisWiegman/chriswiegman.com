@@ -1,8 +1,6 @@
 ---
 title: A Bright Spot
-type: post
 date: 2023-08-25T12:18:23+00:00
-url: /2023/08/a-bright-spot/
 categories:
   - Personal
 tags:

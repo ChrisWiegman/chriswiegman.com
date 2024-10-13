@@ -1,8 +1,6 @@
 ---
 title: I’m Creating Again
-type: post
 date: 2024-08-16T11:40:23+00:00
-url: /2024/08/im-creating-again/
 categories:
   - Personal
 tags:

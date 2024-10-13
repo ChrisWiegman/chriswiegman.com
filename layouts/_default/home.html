@@ -4,7 +4,7 @@
 
     <div class="container">
         <h2 class="main-header"><span>Recent Posts</span> <a href="/blog">View All</a></h2>
-        {{ $pages := where site.RegularPages "Type" "post" }}
+        {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
         {{ range $index, $post := first 12 $pages }}
         {{ .Render "title" }}
         <a class="post" href="{{.Permalink}}">

@@ -1,8 +1,6 @@
 ---
 title: My Life as an Imposter
-type: post
 date: 2022-05-04T12:12:35+00:00
-url: /2022/05/my-life-as-an-imposter/
 categories:
   - Personal
 tags:

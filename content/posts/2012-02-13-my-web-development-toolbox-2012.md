@@ -1,8 +1,6 @@
 ---
 title: My Web Development Toolbox – 2012
-type: post
 date: 2012-02-13T05:00:00+00:00
-url: /2012/02/my-web-development-toolbox-2012/
 categories:
   - Technical
 tags:

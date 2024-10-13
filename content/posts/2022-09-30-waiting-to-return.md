@@ -1,8 +1,6 @@
 ---
 title: Waiting To Return
-type: post
 date: 2022-09-30T13:43:19+00:00
-url: /2022/09/waiting-to-return/
 categories:
   - Personal
 tags:

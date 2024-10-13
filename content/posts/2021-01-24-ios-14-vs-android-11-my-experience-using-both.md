@@ -1,8 +1,6 @@
 ---
 title: 'iOS 14 vs Android 11: My Experience Using Both'
-type: post
 date: 2021-01-24T21:33:27+00:00
-url: /2021/01/ios-14-vs-android-11-my-experience-using-both/
 categories:
   - Technical
 tags:

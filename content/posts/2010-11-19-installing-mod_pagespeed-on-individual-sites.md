@@ -1,8 +1,6 @@
 ---
 title: Installing mod_pagespeed On Individual Sites
-type: post
 date: 2010-11-19T05:00:00+00:00
-url: /2010/11/installing-mod_pagespeed-on-individual-sites/
 categories:
   - Technical
 tags:

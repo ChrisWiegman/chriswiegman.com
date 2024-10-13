@@ -1,8 +1,6 @@
 ---
 title: Adding A New Daily Habit
-type: post
 date: 2022-07-25T13:15:17+00:00
-url: /2022/07/adding-a-new-daily-habit/
 categories:
   - Personal
 tags:

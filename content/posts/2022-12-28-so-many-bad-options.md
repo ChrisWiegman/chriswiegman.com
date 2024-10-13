@@ -1,8 +1,6 @@
 ---
 title: So Many Bad Options
-type: post
 date: 2022-12-28T12:25:42+00:00
-url: /2022/12/so-many-bad-options/
 categories:
   - Personal
 tags:

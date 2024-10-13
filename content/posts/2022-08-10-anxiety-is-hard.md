@@ -1,8 +1,6 @@
 ---
 title: Anxiety Is Hard
-type: post
 date: 2022-08-10T14:38:25+00:00
-url: /2022/08/anxiety-is-hard/
 categories:
   - Personal
 tags:

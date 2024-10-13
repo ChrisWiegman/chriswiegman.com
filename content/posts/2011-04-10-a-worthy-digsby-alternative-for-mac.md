@@ -1,8 +1,6 @@
 ---
 title: A Worthy Digsby Alternative for Mac
-type: post
 date: 2011-04-10T04:00:00+00:00
-url: /2011/04/a-worthy-digsby-alternative-for-mac/
 categories:
   - Technical
 tags:

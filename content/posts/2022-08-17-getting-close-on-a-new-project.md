@@ -1,8 +1,6 @@
 ---
 title: Getting Close on a New Project
-type: post
 date: 2022-08-17T15:11:09+00:00
-url: /2022/08/getting-close-on-a-new-project/
 categories:
   - Technical
 tags:

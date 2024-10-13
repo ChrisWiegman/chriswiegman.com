@@ -1,8 +1,6 @@
 ---
 title: Walking Away
-type: post
 date: 2023-08-23T11:42:02+00:00
-url: /2023/08/walking-away/
 categories:
   - Personal
 tags:

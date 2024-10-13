@@ -1,8 +1,6 @@
 ---
 title: 3 Tips For Protecting Your Social Media
-type: post
 date: 2013-07-06T04:00:00+00:00
-url: /2013/07/3-tips-for-protecting-your-social-media/
 categories:
   - Technical
 tags:

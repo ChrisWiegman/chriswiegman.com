@@ -1,8 +1,6 @@
 ---
 title: Life is Weird
-type: post
 date: 2024-03-11T13:11:45+00:00
-url: /2024/03/life-is-weird/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Announcing Better YOURLS
-type: post
 date: 2014-04-20T00:00:00+00:00
-url: /2014/04/announcing-better-yourls/
 categories:
   - Technical
 tags:

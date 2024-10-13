@@ -1,8 +1,6 @@
 ---
 title: Weekdays are Hard
-type: post
 date: 2024-01-24T14:36:23+00:00
-url: /2024/01/weekdays-are-hard/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Sanitization is for Translations Too
-type: post
 date: 2015-12-13T18:58:56+00:00
-url: /2015/12/sanitization-is-for-translations-too/
 categories:
   - Technical
 tags:

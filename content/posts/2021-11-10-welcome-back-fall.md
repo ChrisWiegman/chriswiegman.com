@@ -1,8 +1,6 @@
 ---
 title: Welcome Back, Fall
-type: post
 date: 2021-11-10T13:03:47+00:00
-url: /2021/11/welcome-back-fall/
 featured_image: /images/2021/11/welcome-back-fall.jpg
 categories:
   - Personal

@@ -1,8 +1,6 @@
 ---
 title: Why Every WordPress Site Should Have Zemanta
-type: post
 date: 2011-03-22T04:00:00+00:00
-url: /2011/03/why-every-wordpress-site-should-have-zemanta/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Taking Time Off
-type: post
 date: 2024-05-15T12:28:00+00:00
-url: /2024/05/taking-time-off/
 categories:
   - Personal
 tags:

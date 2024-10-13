@@ -1,8 +1,6 @@
 ---
 title: Why You Shouldn’t Care About PageRank At All
-type: post
 date: 2011-11-11T05:00:00+00:00
-url: /2011/11/why-you-shouldnt-care-about-pagerank-at-all/
 categories:
   - Technical
 tags:

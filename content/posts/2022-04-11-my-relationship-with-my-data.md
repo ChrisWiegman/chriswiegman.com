@@ -1,8 +1,6 @@
 ---
 title: My Relationship with My Data
-type: post
 date: 2022-04-11T12:18:57+00:00
-url: /2022/04/my-relationship-with-my-data/
 categories:
   - Technical
 tags:

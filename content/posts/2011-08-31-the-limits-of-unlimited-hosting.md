@@ -1,8 +1,6 @@
 ---
 title: The Limits of Unlimited Hosting
-type: post
 date: 2011-08-31T04:00:00+00:00
-url: /2011/08/the-limits-of-unlimited-hosting/
 categories:
   - Technical
 tags:

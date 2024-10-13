@@ -1,8 +1,6 @@
 ---
 title: We Found a Condo
-type: post
 date: 2023-09-11T15:33:29+00:00
-url: /2023/09/we-found-a-condo/
 categories:
   - Personal
 tags:

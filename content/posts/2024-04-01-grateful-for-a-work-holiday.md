@@ -1,8 +1,6 @@
 ---
 title: Grateful for a work holiday
-type: post
 date: 2024-04-01T13:19:27+00:00
-url: /2024/04/grateful-for-a-work-holiday/
 categories:
   - Personal
 tags:

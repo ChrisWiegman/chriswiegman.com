@@ -1,8 +1,6 @@
 ---
 title: The Joy of Writing
-type: post
 date: 2022-09-23T18:32:49+00:00
-url: /2022/09/the-joy-of-writing/
 categories:
   - Personal
 tags:

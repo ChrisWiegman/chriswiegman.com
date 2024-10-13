@@ -1,8 +1,6 @@
 ---
 title: 'Follow Friday: 3 Developers Who Can Help Make Your Summer Productive'
-type: post
 date: 2012-05-04T04:00:00+00:00
-url: /2012/05/follow-friday-3-developers-who-can-help-make-your-summer-productive/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: A Great Big Planet… and Nowhere To Go
-type: post
 date: 2021-10-08T12:26:40+00:00
-url: /2021/10/a-great-big-planet-and-nowhere-to-go/
 categories:
   - Personal
 tags:
@@ -31,7 +29,7 @@ As it turns out, Austin is anything but a major city. I can best describe it as 
 
 After moving around for a decade, Austin was our first real mistake. Thankfully, I started working remotely while we lived there we decided it was time to move on. Florida was calling.
 
-## Why we moved to Florida 
+## Why we moved to Florida
 
 We moved to Florida because feels like home and was much more convenient should we need to visit family, travel for work, etc. As both of our parents winter in Florida, it allowed us to at least be close to our families for half the year plus provides us relatively easy access to get back to Chicago should we ever need to.
 

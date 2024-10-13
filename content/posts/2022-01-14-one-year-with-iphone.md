@@ -1,8 +1,6 @@
 ---
 title: One Year With iPhone
-type: post
 date: 2022-01-14T17:33:13+00:00
-url: /2022/01/one-year-with-iphone/
 featured_image: /images/2021/01/back-to-iphone.png
 categories:
   - Technical

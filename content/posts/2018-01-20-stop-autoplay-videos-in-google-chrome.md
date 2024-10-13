@@ -1,8 +1,6 @@
 ---
 title: Stop Autoplay Videos in Google Chrome
-type: post
 date: 2018-01-20T18:58:58+00:00
-url: /2018/01/stop-autoplay-videos-in-google-chrome/
 featured_image: /images/2020/07/stop-autoplay-videos-in-google-chrome.jpg
 categories:
   - Technical

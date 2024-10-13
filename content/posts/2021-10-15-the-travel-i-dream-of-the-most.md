@@ -1,8 +1,6 @@
 ---
 title: The Travel I Dream of The Most
-type: post
 date: 2021-10-15T12:08:57+00:00
-url: /2021/10/the-travel-i-dream-of-the-most/
 featured_image: /images/2021/10/the-travel-i-dream-of-the-most.jpg
 categories:
   - Personal

@@ -1,8 +1,6 @@
 ---
 title: New doesn’t mean “more productive”
-type: post
 date: 2023-03-13T21:19:02+00:00
-url: /2023/03/new-doesnt-mean-more-productive/
 featured_image: /images/2021/06/two-weeks-with-the-ipad.jpg
 categories:
   - Personal

@@ -1,8 +1,6 @@
 ---
 title: Bye Bye MAMP Pro, Hello AMPPS
-type: post
 date: 2013-05-31T04:00:00+00:00
-url: /2013/05/bye-bye-mamp-pro-hello-ampps/
 categories:
   - Technical
 tags:

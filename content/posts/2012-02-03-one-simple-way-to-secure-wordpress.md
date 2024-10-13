@@ -1,8 +1,6 @@
 ---
 title: One Simple Way To Secure WordPress
-type: post
 date: 2012-02-03T00:00:00+00:00
-url: /2012/02/one-simple-way-to-secure-wordpress/
 categories:
   - Technical
 tags:

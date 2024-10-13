@@ -1,8 +1,6 @@
 ---
 title: Adventures in Monetization
-type: post
 date: 2012-01-30T05:00:00+00:00
-url: /2012/01/adventures-in-monetization/
 categories:
   - Technical
 tags:

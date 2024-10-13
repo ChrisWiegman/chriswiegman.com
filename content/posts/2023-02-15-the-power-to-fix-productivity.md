@@ -1,8 +1,6 @@
 ---
 title: The power to fix productivity
-type: post
 date: 2023-02-15T13:16:03+00:00
-url: /2023/02/the-power-to-fix-productivity/
 categories:
   - Personal
 tags:

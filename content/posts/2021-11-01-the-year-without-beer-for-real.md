@@ -1,8 +1,6 @@
 ---
 title: The Year Without Beer (For Real)
-type: post
 date: 2021-11-01T14:28:13+00:00
-url: /2021/11/the-year-without-beer-for-real/
 categories:
   - Personal
 tags:

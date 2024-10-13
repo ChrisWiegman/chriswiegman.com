@@ -1,8 +1,6 @@
 ---
 title: A Chance to Learn Again
-type: post
 date: 2024-03-25T11:07:56+00:00
-url: /2024/03/a-chance-to-learn-again/
 categories:
   - Technical
 tags:

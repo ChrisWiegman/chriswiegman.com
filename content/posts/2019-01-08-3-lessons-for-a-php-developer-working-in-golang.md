@@ -1,8 +1,6 @@
 ---
 title: 3 Lessons for a PHP Developer Working in GoLang
-type: post
 date: 2019-01-08T05:00:00+00:00
-url: /2019/01/3-lessons-for-a-php-developer-working-in-golang/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Why Your Small Site Needs Caching
-type: post
 date: 2011-03-18T04:00:00+00:00
-url: /2011/03/why-your-small-site-needs-caching-2/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Frog on a Chair
-type: post
 date: 2015-12-12T18:58:56+00:00
-url: /2015/12/frog-on-a-chair/
 categories:
   - Personal
 tags:

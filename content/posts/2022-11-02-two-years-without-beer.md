@@ -1,8 +1,6 @@
 ---
 title: Two Years Without Beer
-type: post
 date: 2022-11-02T12:17:39+00:00
-url: /2022/11/two-years-without-beer/
 categories:
   - Personal
 tags:

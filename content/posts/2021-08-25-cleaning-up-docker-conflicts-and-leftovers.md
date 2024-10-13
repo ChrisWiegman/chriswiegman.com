@@ -1,8 +1,6 @@
 ---
 title: Cleaning Up Docker Conflicts and Leftovers
-type: post
 date: 2021-08-25T13:10:45+00:00
-url: /2021/08/cleaning-up-docker-conflicts-and-leftovers/
 categories:
   - Technical
 tags:

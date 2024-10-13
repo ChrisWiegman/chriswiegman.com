@@ -1,8 +1,6 @@
 ---
 title: Remove the Default style.css in WordPress with Genesis
-type: post
 date: 2013-06-22T00:00:00+00:00
-url: /2013/06/remove-the-default-style-css-in-wordpress-with-genesis/
 categories:
   - Technical
 tags:

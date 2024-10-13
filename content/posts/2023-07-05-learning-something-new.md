@@ -1,8 +1,6 @@
 ---
 title: Learning Something New
-type: post
 date: 2023-07-05T12:14:36+00:00
-url: /2023/07/learning-something-new/
 categories:
   - Personal
 tags:

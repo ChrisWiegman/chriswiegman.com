@@ -1,8 +1,6 @@
 ---
 title: 'WordPress Plugin Developers: Clean Up After Yourself'
-type: post
 date: 2012-04-04T00:00:00+00:00
-url: /2012/04/wordpress-plugin-developers-clean-up-after-yourself/
 categories:
   - Technical
 tags:

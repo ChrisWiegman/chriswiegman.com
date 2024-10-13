@@ -1,8 +1,6 @@
 ---
 title: Time is Weird
-type: post
 date: 2024-01-15T16:40:31+00:00
-url: /2024/01/time-is-weird/
 categories:
   - Personal
 tags:

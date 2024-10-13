@@ -1,8 +1,6 @@
 ---
 title: A Long and Valuable Week
-type: post
 date: 2022-11-11T12:04:00+00:00
-url: /2022/11/a-long-and-valuable-week/
 featured_image: /images/2021/11/14e46aea-8b12-4fbd-913c-c576e6140174.jpeg
 categories:
   - Personal

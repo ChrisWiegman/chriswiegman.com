@@ -1,8 +1,6 @@
 ---
 title: Add Social Media Icons To Your Site Without Images
-type: post
 date: 2013-07-14T04:00:00+00:00
-url: /2013/07/add-social-media-icons-to-your-site-without-images/
 categories:
   - Technical
 tags:

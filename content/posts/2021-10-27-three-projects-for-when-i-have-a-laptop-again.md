@@ -1,8 +1,6 @@
 ---
 title: Three Projects For When I Have A Laptop Again
-type: post
 date: 2021-10-27T12:59:39+00:00
-url: /2021/10/three-projects-for-when-i-have-a-laptop-again/
 categories:
   - Technical
 tags:

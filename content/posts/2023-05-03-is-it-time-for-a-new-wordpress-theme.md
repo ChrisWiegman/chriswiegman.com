@@ -1,8 +1,6 @@
 ---
 title: Is it time for a new WordPress theme?
-type: post
 date: 2023-05-03T13:56:43+00:00
-url: /2023/05/is-it-time-for-a-new-wordpress-theme/
 categories:
   - Technical
 tags:

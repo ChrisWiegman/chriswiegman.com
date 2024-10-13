@@ -1,8 +1,6 @@
 ---
 title: Product vs Agency vs In-house in WordPress
-type: post
 date: 2019-02-16T05:00:00+00:00
-url: /2019/02/product-vs-agency-vs-in-house-in-wordpress/
 categories:
   - Technical
 tags:

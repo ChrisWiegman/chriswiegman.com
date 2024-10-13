@@ -1,8 +1,6 @@
 ---
 title: The Road Back to Open Tech
-type: post
 date: 2024-05-27T14:31:02+00:00
-url: /2024/05/the-road-back-to-open-tech/
 categories:
   - Technical
 tags:

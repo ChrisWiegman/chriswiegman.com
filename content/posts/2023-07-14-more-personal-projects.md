@@ -1,8 +1,6 @@
 ---
 title: More Personal Projects
-type: post
 date: 2023-07-14T12:10:42+00:00
-url: /2023/07/more-personal-projects/
 categories:
   - Technical
 tags:

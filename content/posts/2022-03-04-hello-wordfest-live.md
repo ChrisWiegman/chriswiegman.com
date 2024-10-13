@@ -1,8 +1,6 @@
 ---
 title: Hello WordFest Live
-type: post
 date: 2022-03-04T14:36:21+00:00
-url: /2022/03/hello-wordfest-live/
 featured_image: /images/2022/02/hello-wordfest-live.jpg
 categories:
   - Technical

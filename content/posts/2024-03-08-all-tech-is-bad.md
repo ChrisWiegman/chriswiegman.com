@@ -1,8 +1,6 @@
 ---
 title: All Tech is Bad
-type: post
 date: 2024-03-08T14:58:38+00:00
-url: /2024/03/all-tech-is-bad/
 categories:
   - Personal
 tags:

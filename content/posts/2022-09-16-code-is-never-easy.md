@@ -1,8 +1,6 @@
 ---
 title: Code Is Never Easy
-type: post
 date: 2022-09-16T12:29:27+00:00
-url: /2022/09/code-is-never-easy/
 categories:
   - Technical
 tags:

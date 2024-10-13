@@ -1,8 +1,6 @@
 ---
 title: Gutenberg… I’m Loving It
-type: post
 date: 2019-01-07T00:00:00+00:00
-url: /2019/01/gutenberg-im-loving-it/
 featured_image: /images/2019/01/IMG_20181219_151150.jpg
 categories:
   - Technical

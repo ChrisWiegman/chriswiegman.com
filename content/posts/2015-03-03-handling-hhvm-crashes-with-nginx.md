@@ -1,8 +1,6 @@
 ---
 title: Handling HHVM Crashes with NGINX
-type: post
 date: 2015-03-03T05:00:00+00:00
-url: /2015/03/handling-hhvm-crashes-with-nginx/
 categories:
   - Technical
 tags:

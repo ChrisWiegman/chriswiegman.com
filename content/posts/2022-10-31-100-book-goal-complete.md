@@ -1,8 +1,6 @@
 ---
 title: 100 Book Goal – Complete
-type: post
 date: 2022-10-31T12:27:19+00:00
-url: /2022/10/100-book-goal-complete/
 featured_image: /images/2022/10/100-book-goal.png.png
 categories:
   - Personal

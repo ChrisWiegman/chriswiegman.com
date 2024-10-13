@@ -1,8 +1,6 @@
 ---
 title: Debugging Google AMP
-type: post
 date: 2016-06-02T04:00:00+00:00
-url: /2016/06/debugging-google-amp/
 featured_image: /images/2016/06/Debugging-Google-AMP.jpg
 categories:
   - Technical

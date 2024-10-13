@@ -1,8 +1,6 @@
 ---
 title: Creating A Minimal WordPress Theme In The Era Of Gutenberg
-type: post
 date: 2021-04-25T15:38:31+00:00
-url: /2021/04/creating-a-minimal-wordpress-theme-in-the-era-of-gutenberg/
 featured_image: /images/2021/04/creating-a-minimal-wordpress-theme-in-the-era-of-gutenberg.png
 categories:
   - Technical

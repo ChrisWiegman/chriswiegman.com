@@ -1,8 +1,6 @@
 ---
 title: A New Phone and a New Watch
-type: post
 date: 2023-09-25T12:08:47+00:00
-url: /2023/09/a-new-phone-and-a-new-watch/
 categories:
   - Personal
 tags:

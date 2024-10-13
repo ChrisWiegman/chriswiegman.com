@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="archive">
     <div class="container">
-        {{ $pages := where site.RegularPages "Type" "post" }}
+        {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
         <div class="content-header">
             <h1 class="title post-title p-name" itemprop="name headline">All Posts</h1>
             <p class="description"><span class="post-count">{{ $pages.Len }}</span> posts found.</p>

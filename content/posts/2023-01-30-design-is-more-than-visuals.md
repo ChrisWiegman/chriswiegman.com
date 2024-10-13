@@ -1,8 +1,6 @@
 ---
 title: Design is more than visuals
-type: post
 date: 2023-01-30T13:33:54+00:00
-url: /2023/01/design-is-more-than-visuals/
 categories:
   - Technical
 tags:

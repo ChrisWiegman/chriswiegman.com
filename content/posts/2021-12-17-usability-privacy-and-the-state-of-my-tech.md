@@ -1,8 +1,6 @@
 ---
 title: Usability, Privacy and the State of My Tech
-type: post
 date: 2021-12-17T16:21:42+00:00
-url: /2021/12/usability-privacy-and-the-state-of-my-tech/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Using SSL With MAMP PRO 2.x
-type: post
 date: 2012-02-01T05:00:00+00:00
-url: /2012/02/using-ssl-with-mamp-pro-2-x/
 categories:
   - Technical
 tags:

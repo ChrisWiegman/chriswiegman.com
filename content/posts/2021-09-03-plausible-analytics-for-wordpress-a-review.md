@@ -1,8 +1,6 @@
 ---
 title: 'Plausible Analytics for WordPress: A Review'
-type: post
 date: 2021-09-03T16:19:59+00:00
-url: /2021/09/plausible-analytics-for-wordpress-a-review/
 featured_image: /images/2021/08/plausible-analytics-for-wordpress-a-review.jpg
 categories:
   - Technical

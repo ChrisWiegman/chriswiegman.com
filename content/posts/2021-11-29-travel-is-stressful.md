@@ -1,8 +1,6 @@
 ---
 title: Travel Is Stressful
-type: post
 date: 2021-11-29T13:07:08+00:00
-url: /2021/11/travel-is-stressful/
 featured_image: /images/2021/11/14e46aea-8b12-4fbd-913c-c576e6140174.jpeg
 categories:
   - Personal

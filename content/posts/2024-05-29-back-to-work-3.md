@@ -1,8 +1,6 @@
 ---
 title: Back to Work
-type: post
 date: 2024-05-29T12:26:38+00:00
-url: /2024/05/back-to-work-3/
 categories:
   - Personal
 tags:

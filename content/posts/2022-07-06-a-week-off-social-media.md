@@ -1,8 +1,6 @@
 ---
 title: A Week Off Social Media
-type: post
 date: 2022-07-06T13:42:37+00:00
-url: /2022/07/a-week-off-social-media/
 categories:
   - Personal
 tags:

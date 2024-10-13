@@ -1,8 +1,6 @@
 ---
 title: Advanced Data Protection is a Great Feature
-type: post
 date: 2022-12-14T13:27:49+00:00
-url: /2022/12/advanced-data-protection-is-a-great-feature/
 categories:
   - Personal
 tags:

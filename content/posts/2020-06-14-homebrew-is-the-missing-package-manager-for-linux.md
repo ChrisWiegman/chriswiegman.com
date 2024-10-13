@@ -1,8 +1,6 @@
 ---
 title: Homebrew Is the Missing Package Manager for Linux
-type: post
 date: 2020-06-14T15:24:00+00:00
-url: /2020/06/homebrew-is-the-missing-package-manager-for-linux/
 featured_image: /images/2020/08/homebrew-is-the-missing-package-manager-for-linux.png
 categories:
   - Technical

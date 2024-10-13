@@ -1,8 +1,6 @@
 ---
 title: On Taking Better Notes
-type: post
 date: 2024-01-03T13:34:46+00:00
-url: /2024/01/on-taking-better-notes/
 categories:
   - Technical
 tags:

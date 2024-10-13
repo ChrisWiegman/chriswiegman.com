@@ -1,8 +1,6 @@
 ---
 title: Fixing Networking in Fedora 37 and Docker-compose
-type: post
 date: 2023-01-16T13:31:38+00:00
-url: /2023/01/fixing-networking-in-fedora-37-and-docker-compose/
 categories:
   - Technical
 tags:

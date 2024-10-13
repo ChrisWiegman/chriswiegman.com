@@ -1,8 +1,6 @@
 ---
 title: Why Keep Blogging?
-type: post
 date: 2022-02-28T13:38:52+00:00
-url: /2022/02/why-keep-blogging/
 categories:
   - Technical
 tags:

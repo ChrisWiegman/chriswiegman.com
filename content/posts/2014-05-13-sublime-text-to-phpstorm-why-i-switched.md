@@ -1,8 +1,6 @@
 ---
 title: Sublime Text to PhpStorm – Why I Switched
-type: post
 date: 2014-05-13T04:00:00+00:00
-url: /2014/05/sublime-text-to-phpstorm-why-i-switched/
 categories:
   - Technical
 tags:

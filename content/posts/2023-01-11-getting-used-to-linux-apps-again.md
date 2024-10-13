@@ -1,8 +1,6 @@
 ---
 title: Getting Used To Linux Apps Again
-type: post
 date: 2023-01-11T16:11:08+00:00
-url: /2023/01/getting-used-to-linux-apps-again/
 categories:
   - Personal
 tags:

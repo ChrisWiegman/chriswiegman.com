@@ -1,8 +1,6 @@
 ---
 title: My Tools of the Trade for 2017
-type: post
 date: 2017-05-23T17:58:57+00:00
-url: /2017/05/my-tools-of-the-trade-for-2017/
 categories:
   - Technical
 tags:

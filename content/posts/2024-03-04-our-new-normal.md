@@ -1,8 +1,6 @@
 ---
 title: Our New Normal
-type: post
 date: 2024-03-04T14:08:27+00:00
-url: /2024/03/our-new-normal/
 categories:
   - Personal
 tags:

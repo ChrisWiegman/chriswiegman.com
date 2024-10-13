@@ -1,8 +1,6 @@
 ---
 title: Hopes and Dreams for 2022
-type: post
 date: 2022-01-03T14:33:05+00:00
-url: /2022/01/hopes-and-dreams-for-2022/
 featured_image: /images/2020/07/thoughts-on-home.jpg
 categories:
   - Personal

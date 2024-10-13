@@ -1,8 +1,6 @@
 ---
 title: Bad Habits
-type: post
 date: 2024-03-13T13:02:14+00:00
-url: /2024/03/bad-habits/
 categories:
   - Personal
 tags:

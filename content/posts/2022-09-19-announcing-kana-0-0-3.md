@@ -1,8 +1,6 @@
 ---
 title: Announcing Kana 0.0.3
-type: post
 date: 2022-09-19T12:21:08+00:00
-url: /2022/09/announcing-kana-0-0-3/
 categories:
   - Technical
 tags:

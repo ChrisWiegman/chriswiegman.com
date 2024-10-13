@@ -1,8 +1,6 @@
 ---
 title: The Many Communities of WordPress
-type: post
 date: 2021-09-27T13:26:46+00:00
-url: /2021/09/the-many-communities-of-wordpress/
 categories:
   - Technical
 tags:
@@ -22,7 +20,7 @@ Even my own answer talked about my own story with the community and what it mean
 
 Broadly speaking, after more than a decade of working with WordPress, I think it is safe to say there are four distinct WordPress communities. These are the idealists, the personal brands, the workers and the users. Each has its own reason for being part of the broader community and is distinct from the others, even if there is some general overlap.
 
-### The idealists 
+### The idealists
 
 The first WordPress community, and the community I most identify with, are the idealists. These are the people who may make a living in WordPress but didn't get into WordPress for the money. They are the volunteers and other folks making their way because they believe in what they're doing.
 

@@ -1,8 +1,6 @@
 ---
 title: Automating WordPress Development with Make
-type: post
 date: 2021-07-28T12:42:50+00:00
-url: /2021/07/automating-wordpress-development-with-make/
 categories:
   - Technical
 tags:

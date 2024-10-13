@@ -1,8 +1,6 @@
 ---
 title: The Future is Very Dark
-type: post
 date: 2022-10-17T22:36:32+00:00
-url: /2022/10/the-future-is-very-dark/
 featured_image: /images/2022/10/the-future-is-very-dark.jpg
 categories:
   - Personal

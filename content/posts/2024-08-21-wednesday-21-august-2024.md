@@ -1,8 +1,6 @@
 ---
 title: Wednesday, 21 August, 2024
-type: post
 date: 2024-08-21T11:16:15+00:00
-url: /2024/08/wednesday-21-august-2024/
 categories:
   - Personal
 tags:

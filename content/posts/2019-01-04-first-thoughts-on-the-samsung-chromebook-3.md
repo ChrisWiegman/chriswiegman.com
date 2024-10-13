@@ -1,8 +1,6 @@
 ---
 title: First Thoughts on the Samsung Chromebook 3
-type: post
 date: 2019-01-04T05:00:00+00:00
-url: /2019/01/first-thoughts-on-the-samsung-chromebook-3/
 featured_image: /images/2019/01/first-thoughts-on-the-samsung-chromebook-3.jpg
 categories:
   - Technical

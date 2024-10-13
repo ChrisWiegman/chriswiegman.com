@@ -1,8 +1,6 @@
 ---
 title: My Development Toolbox – 2015
-type: post
 date: 2015-03-02T05:00:00+00:00
-url: /2015/03/my-development-toolbox-2015/
 categories:
   - Technical
 tags:

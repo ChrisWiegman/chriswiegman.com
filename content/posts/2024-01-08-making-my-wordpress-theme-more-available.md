@@ -1,8 +1,6 @@
 ---
 title: Making My WordPress Theme More Available
-type: post
 date: 2024-01-08T14:02:06+00:00
-url: /2024/01/making-my-wordpress-theme-more-available/
 categories:
   - Technical
 tags:

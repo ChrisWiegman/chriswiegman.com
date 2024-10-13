@@ -1,8 +1,6 @@
 ---
 title: Analyze Your Site’s Performance With Google Page Speed Online
-type: post
 date: 2011-04-01T04:00:00+00:00
-url: /2011/04/analyze-your-sites-performance-with-google-page-speed-online/
 categories:
   - Technical
 tags:

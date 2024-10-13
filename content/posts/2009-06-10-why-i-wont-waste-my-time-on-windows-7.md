@@ -1,8 +1,6 @@
 ---
 title: Why I Won’t Waste My Time On Windows 7
-type: post
 date: 2009-06-10T04:00:00+00:00
-url: /2009/06/why-i-wont-waste-my-time-on-windows-7/
 categories:
   - Technical
 tags:

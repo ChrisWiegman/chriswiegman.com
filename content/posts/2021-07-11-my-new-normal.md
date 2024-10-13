@@ -1,8 +1,6 @@
 ---
 title: My New Normal
-type: post
 date: 2021-07-11T22:10:14+00:00
-url: /2021/07/my-new-normal/
 featured_image: /images/2021/07/my-new-normal.jpg
 categories:
   - Personal

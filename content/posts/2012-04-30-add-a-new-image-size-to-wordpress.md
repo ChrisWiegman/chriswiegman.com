@@ -1,8 +1,6 @@
 ---
 title: Add A New Image Size To WordPress
-type: post
 date: 2012-04-30T00:00:00+00:00
-url: /2012/04/add-a-new-image-size-to-wordpress/
 categories:
   - Technical
 tags:

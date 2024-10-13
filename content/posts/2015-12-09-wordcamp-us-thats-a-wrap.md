@@ -1,8 +1,6 @@
 ---
 title: WordCamp US – That’s a Wrap
-type: post
 date: 2015-12-09T18:58:56+00:00
-url: /2015/12/wordcamp-us-thats-a-wrap/
 featured_image: /images/2020/07/WordCamp-US.jpg
 categories:
   - Technical

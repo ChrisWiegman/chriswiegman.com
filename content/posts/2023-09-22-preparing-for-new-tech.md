@@ -1,8 +1,6 @@
 ---
 title: Preparing for New Tech
-type: post
 date: 2023-09-22T12:59:48+00:00
-url: /2023/09/preparing-for-new-tech/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: What Is The Best Way To Install A WordPress Plugin?
-type: post
 date: 2011-10-19T00:00:00+00:00
-url: /2011/10/what-is-the-best-way-to-install-a-wordpress-plugin/
 categories:
   - Technical
 tags:

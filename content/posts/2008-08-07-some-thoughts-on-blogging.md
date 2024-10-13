@@ -1,8 +1,6 @@
 ---
 title: Some Thoughts on Blogging
-type: post
 date: 2008-08-07T04:00:00+00:00
-url: /2008/08/some-thoughts-on-blogging/
 categories:
   - Technical
 tags:

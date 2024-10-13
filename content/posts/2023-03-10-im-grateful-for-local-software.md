@@ -1,8 +1,6 @@
 ---
 title: I’m grateful for local software
-type: post
 date: 2023-03-10T19:10:16+00:00
-url: /2023/03/im-grateful-for-local-software/
 categories:
   - Technical
 tags:

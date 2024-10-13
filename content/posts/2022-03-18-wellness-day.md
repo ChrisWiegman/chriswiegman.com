@@ -1,8 +1,6 @@
 ---
 title: Wellness Day
-type: post
 date: 2022-03-18T13:20:38+00:00
-url: /2022/03/wellness-day/
 featured_image: /images/2021/12/finding-your-groove-as-a-remote-worker-on-vacation.jpeg
 categories:
   - Personal

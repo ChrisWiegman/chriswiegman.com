@@ -1,8 +1,6 @@
 ---
 title: Words are Hard to Come By
-type: post
 date: 2024-06-14T12:11:09+00:00
-url: /2024/06/words-are-hard-to-come-by/
 categories:
   - Personal
 tags:

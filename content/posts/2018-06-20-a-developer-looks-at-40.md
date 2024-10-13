@@ -1,8 +1,6 @@
 ---
 title: A Developer Looks at 40
-type: post
 date: 2018-06-20T00:00:00+00:00
-url: /2018/06/a-developer-looks-at-40/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Please Stop Hiding wp-admin
-type: post
 date: 2021-10-13T12:17:53+00:00
-url: /2021/10/please-stop-hiding-wp-admin/
 categories:
   - Technical
 tags:

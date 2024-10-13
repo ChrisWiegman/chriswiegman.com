@@ -1,8 +1,6 @@
 ---
 title: What’s the Point?
-type: post
 date: 2022-08-05T12:28:26+00:00
-url: /2022/08/whats-the-point/
 categories:
   - Personal
 tags:

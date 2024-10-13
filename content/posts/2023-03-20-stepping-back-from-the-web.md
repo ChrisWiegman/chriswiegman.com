@@ -1,8 +1,6 @@
 ---
 title: Stepping back from the web
-type: post
 date: 2023-03-20T08:25:00+00:00
-url: /2023/03/stepping-back-from-the-web/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: The WordPress plugins in use on ChrisWiegman.com
-type: post
 date: 2023-02-13T14:36:33+00:00
-url: /2023/02/the-wordpress-plugins-in-use-on-chriswiegman-com/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: What happened to happy?
-type: post
 date: 2023-07-17T12:24:55+00:00
-url: /2023/07/what-happened-to-happy/
 categories:
   - Personal
 tags:

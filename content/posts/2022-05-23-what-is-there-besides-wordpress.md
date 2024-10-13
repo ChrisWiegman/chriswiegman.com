@@ -1,8 +1,6 @@
 ---
 title: What Is There Besides WordPress?
-type: post
 date: 2022-05-23T12:34:01+00:00
-url: /2022/05/what-is-there-besides-wordpress/
 categories:
   - Technical
 tags:

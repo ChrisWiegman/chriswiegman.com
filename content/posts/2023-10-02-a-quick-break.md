@@ -1,8 +1,6 @@
 ---
 title: A Quick Break
-type: post
 date: 2023-10-02T11:39:46+00:00
-url: /2023/10/a-quick-break/
 categories:
   - Personal
 tags:

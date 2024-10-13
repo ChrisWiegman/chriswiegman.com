@@ -1,8 +1,6 @@
 ---
 title: WordPress is Just Software… and that’s OK
-type: post
 date: 2021-11-15T13:57:21+00:00
-url: /2021/11/wordpress-is-just-software-and-thats-ok/
 featured_image: /images/2021/09/Wordpress-camp-Utrecht-by-MIchielTon-websize-86.jpg
 categories:
   - Technical

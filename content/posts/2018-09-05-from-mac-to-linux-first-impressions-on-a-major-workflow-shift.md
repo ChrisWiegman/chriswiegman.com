@@ -1,8 +1,6 @@
 ---
 title: From Mac to Linux – First Impressions on a Major Workflow Shift
-type: post
 date: 2018-09-05T04:00:00+00:00
-url: /2018/09/from-mac-to-linux-first-impressions-on-a-major-workflow-shift/
 featured_image: /images/2018/09/my-new-setup.jpg
 categories:
   - Technical

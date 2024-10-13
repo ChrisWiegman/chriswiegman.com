@@ -1,8 +1,6 @@
 ---
 title: Enjoying the Season
-type: post
 date: 2022-01-28T15:12:53+00:00
-url: /2022/01/enjoying-the-season/
 featured_image: /images/2020/08/home.jpg
 categories:
   - Personal

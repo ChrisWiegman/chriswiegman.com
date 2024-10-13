@@ -1,8 +1,6 @@
 ---
 title: Web Development Should Not Happen In A Bubble
-type: post
 date: 2011-03-31T04:00:00+00:00
-url: /2011/03/web-development-should-not-happen-in-a-bubble/
 categories:
   - Technical
 tags:

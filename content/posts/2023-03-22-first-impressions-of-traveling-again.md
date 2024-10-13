@@ -1,8 +1,6 @@
 ---
 title: First impressions of traveling again
-type: post
 date: 2023-03-22T07:48:57+00:00
-url: /2023/03/first-impressions-of-traveling-again/
 categories:
   - Personal
 tags:

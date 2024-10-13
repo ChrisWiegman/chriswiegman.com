@@ -1,8 +1,6 @@
 ---
 title: Friday, 8 September 2023
-type: post
 date: 2023-09-08T12:18:17+00:00
-url: /2023/09/friday-8-september-2023/
 categories:
   - Personal
 tags:

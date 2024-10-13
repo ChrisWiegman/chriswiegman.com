@@ -1,8 +1,6 @@
 ---
 title: Venturing Out
-type: post
 date: 2022-03-21T11:57:40+00:00
-url: /2022/03/venturing-out/
 featured_image: /images/2022/03/venturing-out.jpeg
 categories:
   - Personal

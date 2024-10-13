@@ -1,8 +1,6 @@
 ---
 title: It’s time to work together and not be so negative
-type: post
 date: 2023-03-17T09:06:28+00:00
-url: /2023/03/its-time-to-work-together-and-not-be-so-negative/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: It’s Crunch Week and I’m Tired
-type: post
 date: 2022-09-26T09:17:47+00:00
-url: /2022/09/its-crunch-week-and-im-tired/
 categories:
   - Personal
 tags:

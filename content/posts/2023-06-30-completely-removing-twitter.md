@@ -1,8 +1,6 @@
 ---
 title: Completely Removing Twitter
-type: post
 date: 2023-06-30T12:33:40+00:00
-url: /2023/06/completely-removing-twitter/
 categories:
   - Personal
 tags:

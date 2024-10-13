@@ -1,8 +1,6 @@
 ---
 title: Chicago is Getting Real
-type: post
 date: 2023-08-21T12:10:42+00:00
-url: /2023/08/chicago-is-getting-real/
 categories:
   - Personal
 tags:

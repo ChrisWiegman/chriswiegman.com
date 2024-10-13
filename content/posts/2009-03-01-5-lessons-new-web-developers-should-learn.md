@@ -1,8 +1,6 @@
 ---
 title: 5 Lessons New Web Developers Should Learn
-type: post
 date: 2009-03-01T05:00:00+00:00
-url: /2009/03/5-lessons-new-web-developers-should-learn/
 categories:
   - Technical
 tags:

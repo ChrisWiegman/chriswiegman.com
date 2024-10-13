@@ -1,8 +1,6 @@
 ---
 title: I Love My Work but I Do Miss Writing Code
-type: post
 date: 2022-08-24T17:21:00+00:00
-url: /2022/08/i-love-my-work-but-i-do-miss-writing-code/
 categories:
   - Personal
 tags:

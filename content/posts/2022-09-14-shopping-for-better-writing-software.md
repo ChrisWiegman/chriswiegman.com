@@ -1,8 +1,6 @@
 ---
 title: Shopping For Better Writing Software
-type: post
 date: 2022-09-14T16:14:28+00:00
-url: /2022/09/shopping-for-better-writing-software/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: So Much For Modern Technology
-type: post
 date: 2022-06-03T12:48:12+00:00
-url: /2022/06/so-much-for-modern-technology/
 categories:
   - Personal
 tags:

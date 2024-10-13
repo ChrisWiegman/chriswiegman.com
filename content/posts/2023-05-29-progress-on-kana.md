@@ -1,8 +1,6 @@
 ---
 title: Progress on Kana
-type: post
 date: 2023-05-29T13:42:22+00:00
-url: /2023/05/progress-on-kana/
 categories:
   - Technical
 tags:

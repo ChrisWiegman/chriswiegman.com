@@ -1,8 +1,6 @@
 ---
 title: A Full Year Back in the Apple Ecosystem
-type: post
 date: 2022-11-09T14:07:52+00:00
-url: /2022/11/a-full-year-back-in-the-apple-ecosystem/
 featured_image: /images/2021/11/first-impressions-of-my-m1-macbook-pro.jpeg
 categories:
   - Technical

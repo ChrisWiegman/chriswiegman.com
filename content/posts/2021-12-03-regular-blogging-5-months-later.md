@@ -1,8 +1,6 @@
 ---
 title: Regular Blogging – 5 Months Later
-type: post
 date: 2021-12-03T13:01:47+00:00
-url: /2021/12/regular-blogging-5-months-later/
 categories:
   - Personal
 tags:

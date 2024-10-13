@@ -1,8 +1,6 @@
 ---
 title: 3 Lessons on Accessibility For Blogs
-type: post
 date: 2011-11-02T04:00:00+00:00
-url: /2011/11/3-lessons-on-accessibility-for-blogs/
 categories:
   - Technical
 tags:

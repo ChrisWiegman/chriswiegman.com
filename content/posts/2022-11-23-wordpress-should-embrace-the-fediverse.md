@@ -1,8 +1,6 @@
 ---
 title: WordPress Should Embrace the Fediverse
-type: post
 date: 2022-11-23T10:43:08+00:00
-url: /2022/11/wordpress-should-embrace-the-fediverse/
 categories:
   - Technical
 tags:

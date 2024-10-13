@@ -1,8 +1,6 @@
 ---
 title: Easy Content Security Policy (CSP) Headers for WordPress
-type: post
 date: 2021-10-29T13:42:21+00:00
-url: /2021/10/easy-content-security-policy-csp-headers-for-wordpress/
 categories:
   - Technical
 tags:

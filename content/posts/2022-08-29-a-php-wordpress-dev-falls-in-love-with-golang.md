@@ -1,8 +1,6 @@
 ---
 title: A PHP (WordPress) Dev Falls in Love with GoLang
-type: post
 date: 2022-08-29T12:26:44+00:00
-url: /2022/08/a-php-wordpress-dev-falls-in-love-with-golang/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Debugging WordPress
-type: post
 date: 2012-04-20T00:00:00+00:00
-url: /2012/04/debugging-wordpress/
 categories:
   - Technical
 tags:

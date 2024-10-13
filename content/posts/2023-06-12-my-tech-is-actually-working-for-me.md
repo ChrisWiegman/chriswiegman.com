@@ -1,8 +1,6 @@
 ---
 title: My Tech is Actually Working for Me
-type: post
 date: 2023-06-12T10:38:35+00:00
-url: /2023/06/my-tech-is-actually-working-for-me/
 categories:
   - Technical
 tags:

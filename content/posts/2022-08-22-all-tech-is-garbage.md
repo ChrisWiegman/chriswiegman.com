@@ -1,8 +1,6 @@
 ---
 title: All Tech Is Garbage
-type: post
 date: 2022-08-22T12:47:19+00:00
-url: /2022/08/all-tech-is-garbage/
 categories:
   - Personal
 tags:

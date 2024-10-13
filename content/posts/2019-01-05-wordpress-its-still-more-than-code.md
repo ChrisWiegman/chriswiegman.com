@@ -1,8 +1,6 @@
 ---
 title: 'WordPress: It’s Still More Than Code'
-type: post
 date: 2019-01-05T00:00:00+00:00
-url: /2019/01/wordpress-its-still-more-than-code/
 categories:
   - Technical
 tags:

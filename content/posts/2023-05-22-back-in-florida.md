@@ -1,8 +1,6 @@
 ---
 title: Back in Florida
-type: post
 date: 2023-05-22T12:08:08+00:00
-url: /2023/05/back-in-florida/
 categories:
   - Personal
 tags:

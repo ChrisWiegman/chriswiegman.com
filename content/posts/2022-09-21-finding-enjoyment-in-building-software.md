@@ -1,8 +1,6 @@
 ---
 title: Finding Enjoyment In Building Software
-type: post
 date: 2022-09-21T12:45:29+00:00
-url: /2022/09/finding-enjoyment-in-building-software/
 featured_image: /images/2022/02/the-perfect-office.jpeg
 categories:
   - Technical

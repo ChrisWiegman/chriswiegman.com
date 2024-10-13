@@ -1,8 +1,6 @@
 ---
 title: Announcing Atlas Content Modeler
-type: post
 date: 2021-10-06T12:38:01+00:00
-url: /2021/10/announcing-atlas-content-modeler/
 featured_image: /images/2021/10/announcing-atlas-content-modeler.png
 categories:
   - Technical

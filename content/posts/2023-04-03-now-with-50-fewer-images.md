@@ -1,8 +1,6 @@
 ---
 title: Now with 50% fewer images
-type: post
 date: 2023-04-03T10:12:50+00:00
-url: /2023/04/now-with-50-fewer-images/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: The Changing WordPress Ecosystem
-type: post
 date: 2021-08-02T13:49:42+00:00
-url: /2021/08/the-changing-wordpress-ecosystem/
 featured_image: /images/2021/08/the-changing-wordpress-ecosystem.jpg
 categories:
   - Technical

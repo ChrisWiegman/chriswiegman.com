@@ -1,8 +1,6 @@
 ---
 title: Thoughts on Remote Work
-type: post
 date: 2022-08-12T13:30:13+00:00
-url: /2022/08/thoughts-on-remote-work/
 categories:
   - Technical
 tags:

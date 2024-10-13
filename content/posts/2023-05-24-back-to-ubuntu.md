@@ -1,8 +1,6 @@
 ---
 title: Back to Ubuntu
-type: post
 date: 2023-05-24T12:19:36+00:00
-url: /2023/05/back-to-ubuntu/
 categories:
   - Technical
 tags:

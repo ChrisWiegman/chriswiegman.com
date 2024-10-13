@@ -1,8 +1,6 @@
 ---
 title: Securing Your WordPress Logins with Jetpack and WordPress.com
-type: post
 date: 2017-12-11T00:00:00+00:00
-url: /2017/12/securing-your-wordpress-logins-with-jetpack-and-wordpress-com/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: A New Domain Registrar
-type: post
 date: 2024-05-17T16:09:29+00:00
-url: /2024/05/a-new-domain-registrar/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Higher Ed Live – a Cool Resource for Higher Ed
-type: post
 date: 2010-09-14T00:00:00+00:00
-url: /2010/09/higher-ed-live-a-cool-resource-for-higher-ed/
 categories:
   - Technical
 tags:

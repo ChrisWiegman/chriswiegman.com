@@ -1,8 +1,6 @@
 ---
 title: Follow Your Twitter List Even If You Leave Twitter
-type: post
 date: 2022-04-27T12:59:24+00:00
-url: /2022/04/follow-your-twitter-list-even-if-you-leave-twitter/
 featured_image: /images/2022/04/follow-your-twitter-list-even-if-you-leave-twitter.png
 categories:
   - Technical

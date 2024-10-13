@@ -1,8 +1,6 @@
 ---
 title: Summer is Back
-type: post
 date: 2022-10-24T13:37:19+00:00
-url: /2022/10/summer-is-back/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Changes And Festivities
-type: post
 date: 2024-06-28T12:14:49+00:00
-url: /2024/06/changes-and-festivities/
 categories:
   - Personal
 tags:

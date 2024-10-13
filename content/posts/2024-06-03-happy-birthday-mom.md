@@ -1,8 +1,6 @@
 ---
 title: Happy Birthday, Mom
-type: post
 date: 2024-06-03T11:50:06+00:00
-url: /2024/06/happy-birthday-mom/
 featured_image: /images/2023/04/i-miss-you-mom.jpg
 categories:
   - Personal

@@ -1,8 +1,6 @@
 ---
 title: Protecting Your Site From the Perils of Free and Open Wi-fi
-type: post
 date: 2012-05-28T04:00:00+00:00
-url: /2012/05/protecting-your-site-from-the-perils-of-free-and-open-wi-fi/
 categories:
   - Technical
 tags:

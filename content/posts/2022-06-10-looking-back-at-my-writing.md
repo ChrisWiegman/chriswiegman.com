@@ -1,8 +1,6 @@
 ---
 title: Looking Back at My Writing
-type: post
 date: 2022-06-10T13:06:59+00:00
-url: /2022/06/looking-back-at-my-writing/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Kana Continues to Develop with 0.8.1
-type: post
 date: 2023-06-19T12:43:31+00:00
-url: /2023/06/kana-continues-to-develop-with-0-8-1/
 categories:
   - Technical
 tags:

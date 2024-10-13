@@ -1,8 +1,6 @@
 ---
 title: This Month Has Been One Hell Of A Year
-type: post
 date: 2022-06-29T12:22:07+00:00
-url: /2022/06/this-month-has-been-one-hell-of-a-year/
 categories:
   - Personal
 tags:

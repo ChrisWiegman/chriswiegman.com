@@ -1,8 +1,6 @@
 ---
 title: Managed Hosting is Wonderful
-type: post
 date: 2022-11-14T14:17:02+00:00
-url: /2022/11/managed-hosting-is-wonderful/
 categories:
   - Technical
 tags:

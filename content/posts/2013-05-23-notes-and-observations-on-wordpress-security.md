@@ -1,8 +1,6 @@
 ---
 title: Notes and Observations on WordPress Security
-type: post
 date: 2013-05-23T00:00:00+00:00
-url: /2013/05/notes-and-observations-on-wordpress-security/
 categories:
   - Technical
 tags:

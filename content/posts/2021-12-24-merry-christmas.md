@@ -1,8 +1,6 @@
 ---
 title: Merry Christmas
-type: post
 date: 2021-12-24T13:03:40+00:00
-url: /2021/12/merry-christmas/
 featured_image: /images/2021/12/merry-christmas.jpeg
 categories:
   - Personal

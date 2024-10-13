@@ -1,8 +1,6 @@
 ---
 title: Getting Started With a Full Featured WordPress Plugin Environment
-type: post
 date: 2020-06-10T15:19:00+00:00
-url: /2020/06/getting-started-with-a-full-featured-wordpress-plugin-environment/
 featured_image: /images/2020/08/getting-started-with-a-full-featured-wordpress-plugin-environment.png
 categories:
   - Technical

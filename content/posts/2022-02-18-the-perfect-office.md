@@ -1,8 +1,6 @@
 ---
 title: The Perfect Office?
-type: post
 date: 2022-02-18T14:14:42+00:00
-url: /2022/02/the-perfect-office/
 featured_image: /images/2022/02/the-perfect-office.jpeg
 categories:
   - Personal

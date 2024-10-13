@@ -1,8 +1,6 @@
 ---
 title: I’m Not Getting A New Phone… And That Is Exciting To Me
-type: post
 date: 2022-09-05T11:15:11+00:00
-url: /2022/09/im-not-getting-a-new-phone-and-that-is-exciting-to-me/
 categories:
   - Personal
 tags:

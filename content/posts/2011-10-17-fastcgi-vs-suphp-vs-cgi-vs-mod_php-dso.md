@@ -1,8 +1,6 @@
 ---
 title: FastCGI vs suPHP vs CGI vs mod_php (DSO)
-type: post
 date: 2011-10-17T04:00:00+00:00
-url: /2011/10/fastcgi-vs-suphp-vs-cgi-vs-mod_php-dso/
 categories:
   - Technical
 tags:

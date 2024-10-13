@@ -1,8 +1,6 @@
 ---
 title: It was a great weekend
-type: post
 date: 2024-03-18T16:53:58+00:00
-url: /2024/03/it-was-a-great-weekend/
 categories:
   - Personal
 tags:

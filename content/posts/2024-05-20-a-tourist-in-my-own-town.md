@@ -1,8 +1,6 @@
 ---
 title: A Tourist In My Own Town
-type: post
 date: 2024-05-20T13:16:41+00:00
-url: /2024/05/a-tourist-in-my-own-town/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: That Would be Amazing
-type: post
 date: 2023-08-11T12:53:38+00:00
-url: /2023/08/that-would-be-amazing/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Where to Get the Best WordPress News
-type: post
 date: 2014-05-05T00:00:00+00:00
-url: /2014/05/where-to-get-the-best-wordpress-news/
 categories:
   - Technical
 tags:

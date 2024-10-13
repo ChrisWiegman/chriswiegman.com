@@ -1,8 +1,6 @@
 ---
 title: Ready for the Holidays
-type: post
 date: 2022-12-12T13:06:44+00:00
-url: /2022/12/ready-for-the-holidays/
 featured_image: /images/2022/12/christmas-at-home.jpeg
 categories:
   - Personal

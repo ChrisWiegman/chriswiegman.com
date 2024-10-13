@@ -1,8 +1,6 @@
 ---
 title: 5 Things I’d Like To See In 2010
-type: post
 date: 2010-01-04T00:00:00+00:00
-url: /2010/01/5-things-id-like-to-see-in-2010/
 categories:
   - Personal
 tags:

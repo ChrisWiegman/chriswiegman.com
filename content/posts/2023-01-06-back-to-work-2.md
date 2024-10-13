@@ -1,8 +1,6 @@
 ---
 title: Back to Work
-type: post
 date: 2023-01-06T14:35:46+00:00
-url: /2023/01/back-to-work-2/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Finding What Application Is Running on a Given Port
-type: post
 date: 2021-08-13T12:55:51+00:00
-url: /2021/08/finding-what-application-is-running-on-a-given-port/
 categories:
   - Technical
 tags:

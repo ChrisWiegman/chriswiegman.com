@@ -1,8 +1,6 @@
 ---
 title: Customize The Genesis Author Box in WordPress
-type: post
 date: 2012-04-02T00:00:00+00:00
-url: /2012/04/customize-the-genesis-author-box-in-wordpress/
 categories:
   - Technical
 tags:

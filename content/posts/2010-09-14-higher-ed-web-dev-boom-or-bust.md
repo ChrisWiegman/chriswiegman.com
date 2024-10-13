@@ -1,8 +1,6 @@
 ---
 title: Higher Ed Web Dev – Boom or Bust
-type: post
 date: 2010-09-14T04:00:00+00:00
-url: /2010/09/higher-ed-web-dev-boom-or-bust/
 categories:
   - Technical
 tags:

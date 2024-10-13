@@ -1,8 +1,6 @@
 ---
 title: How Many Blogs is Too Many?
-type: post
 date: 2024-05-10T10:19:48+00:00
-url: /2024/05/how-many-blogs-is-too-many/
 featured_image: /images/2024/05/how-many-blogs-is-too-many.jpg
 categories:
   - Technical

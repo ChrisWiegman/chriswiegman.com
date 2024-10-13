@@ -1,8 +1,6 @@
 ---
 title: It’s Time To Stop Playing The Game
-type: post
 date: 2022-06-15T15:26:41+00:00
-url: /2022/06/its-time-to-stop-playing-the-game/
 categories:
   - Personal
 tags:

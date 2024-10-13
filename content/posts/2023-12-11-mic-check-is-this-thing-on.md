@@ -1,8 +1,6 @@
 ---
 title: Mic Check… Is this thing on?
-type: post
 date: 2023-12-11T12:25:01+00:00
-url: /2023/12/mic-check-is-this-thing-on/
 categories:
   - Personal
 tags:

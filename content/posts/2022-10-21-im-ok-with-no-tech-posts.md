@@ -1,8 +1,6 @@
 ---
 title: I’m OK With No Tech Posts
-type: post
 date: 2022-10-21T14:08:07+00:00
-url: /2022/10/im-ok-with-no-tech-posts/
 categories:
   - Personal
 tags:

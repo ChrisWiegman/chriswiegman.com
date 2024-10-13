@@ -1,8 +1,6 @@
 ---
 title: Vagrant is Not The Answer For Everyone
-type: post
 date: 2016-11-13T18:58:57+00:00
-url: /2016/11/vagrant-is-not-the-answer-for-everyone/
 featured_image: /images/2020/07/Vagrant-is-Not-The-Answer-For-Everyone.jpg
 categories:
   - Technical

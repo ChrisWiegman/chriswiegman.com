@@ -1,8 +1,6 @@
 ---
 title: Why Visual Studio Code
-type: post
 date: 2021-08-27T12:51:02+00:00
-url: /2021/08/why-visual-studio-code/
 featured_image: /images/2021/08/why-vscode.jpg
 categories:
   - Technical

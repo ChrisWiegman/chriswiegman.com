@@ -1,8 +1,6 @@
 ---
 title: Where are all the CMS applications going?
-type: post
 date: 2023-08-18T12:29:10+00:00
-url: /2023/08/where-are-all-the-cms-application-going/
 categories:
   - Technical
 tags:

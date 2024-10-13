@@ -1,8 +1,6 @@
 ---
 title: Why I Worry About Net Neutrality
-type: post
 date: 2017-12-18T05:00:00+00:00
-url: /2017/12/why-i-worry-about-net-neutrality/
 categories:
   - Technical
 tags:

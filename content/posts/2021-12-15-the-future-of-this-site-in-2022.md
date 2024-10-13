@@ -1,8 +1,6 @@
 ---
 title: The Future of This Site in 2022
-type: post
 date: 2021-12-15T13:40:14+00:00
-url: /2021/12/the-future-of-this-site-in-2022/
 categories:
   - Technical
 tags:

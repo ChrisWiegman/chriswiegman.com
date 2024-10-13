@@ -1,8 +1,6 @@
 ---
 title: Gender in Social Media, the New Divide?
-type: post
 date: 2012-02-24T05:00:00+00:00
-url: /2012/02/gender-in-social-media-the-new-divide/
 categories:
   - Technical
 tags:

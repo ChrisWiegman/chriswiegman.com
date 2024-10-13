@@ -1,8 +1,6 @@
 ---
 title: Accessing Elasticsearch Remotely through Vagrant
-type: post
 date: 2016-06-03T17:58:56+00:00
-url: /2016/06/accessing-elasticsearch-remotely-through-vagrant/
 featured_image: /images/2020/07/Accessing-Elasticsearch-Remotely-through-Vagrant.jpg
 categories:
   - Technical

@@ -1,8 +1,6 @@
 ---
 title: Adventures in Programming
-type: post
 date: 2022-02-14T13:09:52+00:00
-url: /2022/02/adventures-in-programming/
 categories:
   - Technical
 tags:

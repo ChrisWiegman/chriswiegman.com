@@ -1,8 +1,6 @@
 ---
 title: Do You Know How Your Blog Is Licensed?
-type: post
 date: 2021-09-22T16:06:25+00:00
-url: /2021/09/do-you-know-how-your-blog-is-licensed/
 categories:
   - Technical
 tags:

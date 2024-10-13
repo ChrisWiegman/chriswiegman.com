@@ -1,8 +1,6 @@
 ---
 title: The Perfect Mastodon Client for Me
-type: post
 date: 2023-01-25T13:49:07+00:00
-url: /2023/01/the-perfect-mastodon-client-for-me/
 featured_image: /images/2023/01/the-perfect-mastodon-client-for-me.jpg
 categories:
   - Personal

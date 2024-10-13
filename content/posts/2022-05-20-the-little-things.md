@@ -1,8 +1,6 @@
 ---
 title: The Little Things
-type: post
 date: 2022-05-20T18:10:25+00:00
-url: /2022/05/the-little-things/
 featured_image: /images/2022/05/step-away-from-the-computer.jpg
 categories:
   - Personal

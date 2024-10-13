@@ -1,8 +1,6 @@
 ---
 title: Old Friends
-type: post
 date: 2024-03-01T13:54:34+00:00
-url: /2024/03/old-friends/
 categories:
   - Personal
 tags:

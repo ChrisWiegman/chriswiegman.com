@@ -1,8 +1,6 @@
 ---
 title: A Loss For Words
-type: post
 date: 2022-05-25T11:56:42+00:00
-url: /2022/05/a-loss-for-words/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Florida really does make me sick
-type: post
 date: 2023-05-08T13:00:41+00:00
-url: /2023/05/florida-really-does-make-me-sick/
 categories:
   - Personal
 tags:

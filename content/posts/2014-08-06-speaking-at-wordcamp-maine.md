@@ -1,8 +1,6 @@
 ---
 title: Speaking at WordCamp Maine
-type: post
 date: 2014-08-06T00:00:00+00:00
-url: /2014/08/speaking-at-wordcamp-maine/
 featured_image: /images/2014/08/wordcamp-maine.jpg
 categories:
   - Technical

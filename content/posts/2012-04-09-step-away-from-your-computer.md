@@ -1,8 +1,6 @@
 ---
 title: Step Away From Your Computer
-type: post
 date: 2012-04-09T04:00:00+00:00
-url: /2012/04/step-away-from-your-computer/
 categories:
   - Technical
 tags:

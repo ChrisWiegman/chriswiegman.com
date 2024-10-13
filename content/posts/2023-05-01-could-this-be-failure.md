@@ -1,8 +1,6 @@
 ---
 title: Could this be failure?
-type: post
 date: 2023-05-01T13:34:12+00:00
-url: /2023/05/could-this-be-failure/
 categories:
   - Personal
 tags:

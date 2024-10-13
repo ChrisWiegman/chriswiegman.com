@@ -1,8 +1,6 @@
 ---
 title: My Principles for Tech Perfection
-type: post
 date: 2020-06-09T15:16:00+00:00
-url: /2020/06/my-principles-for-tech-perfection/
 categories:
   - Technical
 tags:

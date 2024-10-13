@@ -1,8 +1,6 @@
 ---
 title: Safari Is Still My Favorite Browser
-type: post
 date: 2024-02-12T08:53:32+00:00
-url: /2024/02/safari-is-still-my-favorite-browser/
 categories:
   - Personal
 tags:

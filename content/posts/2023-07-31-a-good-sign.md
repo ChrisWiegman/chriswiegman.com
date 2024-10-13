@@ -1,8 +1,6 @@
 ---
 title: A Good Sign?
-type: post
 date: 2023-07-31T12:08:07+00:00
-url: /2023/07/a-good-sign/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: 'Making FitBit Work for Me: How FitBit Really Has Made Me More Fit'
-type: post
 date: 2017-12-10T18:58:57+00:00
-url: /2017/12/making-fitbit-work-for-me-how-fitbit-really-has-made-me-more-fit/
 featured_image: /images/2020/07/how-i-make-fitbit-work-for-me.jpg
 categories:
   - Technical

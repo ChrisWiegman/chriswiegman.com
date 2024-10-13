@@ -1,8 +1,6 @@
 ---
 title: Reflections of a WordPress Developer
-type: post
 date: 2016-11-14T18:58:57+00:00
-url: /2016/11/reflections-of-a-wordpress-developer/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Not a Good Week
-type: post
 date: 2024-04-10T11:57:33+00:00
-url: /2024/04/not-a-good-week/
 categories:
   - Personal
 tags:

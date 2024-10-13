@@ -1,8 +1,6 @@
 ---
 title: Privacy vs Security
-type: post
 date: 2021-09-29T17:57:02+00:00
-url: /2021/09/privacy-vs-security/
 categories:
   - Technical
 tags:

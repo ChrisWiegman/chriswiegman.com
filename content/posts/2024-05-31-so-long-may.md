@@ -1,8 +1,6 @@
 ---
 title: So Long, May
-type: post
 date: 2024-05-31T12:41:21+00:00
-url: /2024/05/so-long-may/
 categories:
   - Personal
 tags:

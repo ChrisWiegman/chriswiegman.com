@@ -1,8 +1,6 @@
 ---
 title: Moving On To New Endeavors
-type: post
 date: 2015-02-28T00:00:00+00:00
-url: /2015/02/moving-on-to-new-endeavors/
 categories:
   - Personal
 tags:

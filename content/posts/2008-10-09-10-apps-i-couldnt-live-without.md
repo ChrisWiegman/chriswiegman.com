@@ -1,8 +1,6 @@
 ---
 title: 10 Apps I Couldn’t Live Without
-type: post
 date: 2008-10-09T04:00:00+00:00
-url: /2008/10/10-apps-i-couldnt-live-without/
 categories:
   - Technical
 tags:

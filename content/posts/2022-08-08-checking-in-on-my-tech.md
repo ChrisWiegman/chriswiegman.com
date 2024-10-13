@@ -1,8 +1,6 @@
 ---
 title: Checking In On My Tech
-type: post
 date: 2022-08-08T12:27:36+00:00
-url: /2022/08/checking-in-on-my-tech/
 categories:
   - Technical
 tags:

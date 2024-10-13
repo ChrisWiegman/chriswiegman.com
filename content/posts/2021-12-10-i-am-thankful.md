@@ -1,8 +1,6 @@
 ---
 title: I am Thankful
-type: post
 date: 2021-12-10T13:53:43+00:00
-url: /2021/12/i-am-thankful/
 featured_image: /images/2021/12/to-be-more-thankful.jpg
 categories:
   - Personal

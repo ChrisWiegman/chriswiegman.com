@@ -1,8 +1,6 @@
 ---
 title: Resuming Work Travel
-type: post
 date: 2024-01-31T12:26:02+00:00
-url: /2024/01/resuming-work-travel/
 categories:
   - Personal
 tags:

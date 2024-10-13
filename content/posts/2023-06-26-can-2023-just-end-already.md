@@ -1,8 +1,6 @@
 ---
 title: Can 2023 Just End Already?
-type: post
 date: 2023-06-26T12:13:16+00:00
-url: /2023/06/can-2023-just-end-already/
 categories:
   - Personal
 tags:

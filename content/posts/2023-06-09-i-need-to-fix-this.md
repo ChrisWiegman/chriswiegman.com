@@ -1,8 +1,6 @@
 ---
 title: I Need to Fix This
-type: post
 date: 2023-06-09T10:27:18+00:00
-url: /2023/06/i-need-to-fix-this/
 categories:
   - Personal
 tags:

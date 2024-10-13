@@ -1,8 +1,6 @@
 ---
 title: It’s Time For A Social Media Break
-type: post
 date: 2022-07-01T10:48:18+00:00
-url: /2022/07/its-time-for-a-social-media-break/
 categories:
   - Personal
 tags:

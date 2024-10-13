@@ -1,8 +1,6 @@
 ---
 title: My post schedule is too rigid
-type: post
 date: 2023-03-06T17:54:31+00:00
-url: /2023/03/my-post-schedule-is-too-rigid/
 categories:
   - Personal
 tags:

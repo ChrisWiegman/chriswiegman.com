@@ -1,8 +1,6 @@
 ---
 title: Yes, I over-engineered my office
-type: post
 date: 2023-05-05T12:48:11+00:00
-url: /2023/05/yes-i-over-engineered-my-office/
 categories:
   - Personal
 tags:

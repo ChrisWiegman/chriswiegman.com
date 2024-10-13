@@ -1,8 +1,6 @@
 ---
 title: Windows 7 – It Still Sucks
-type: post
 date: 2009-10-09T04:00:00+00:00
-url: /2009/10/windows-7-it-still-sucks/
 categories:
   - Technical
 tags:

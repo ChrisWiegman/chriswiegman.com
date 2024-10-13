@@ -1,8 +1,6 @@
 ---
 title: Finding Peace At Home
-type: post
 date: 2022-07-29T12:11:34+00:00
-url: /2022/07/finding-peace-at-home/
 featured_image: /images/2020/08/home.jpg
 categories:
   - Personal

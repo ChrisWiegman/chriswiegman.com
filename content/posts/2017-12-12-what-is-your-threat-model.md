@@ -1,8 +1,6 @@
 ---
 title: What is Your Threat Model?
-type: post
 date: 2017-12-12T05:00:00+00:00
-url: /2017/12/what-is-your-threat-model/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Is It Time To Revisit Jetpack for WordPress?
-type: post
 date: 2012-05-23T00:00:00+00:00
-url: /2012/05/is-it-time-to-revisit-jetpack-for-wordpress/
 categories:
   - Technical
 tags:

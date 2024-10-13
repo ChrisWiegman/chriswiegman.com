@@ -1,8 +1,6 @@
 ---
 title: The Perfect Phone Does Not Exist
-type: post
 date: 2022-01-21T13:06:25+00:00
-url: /2022/01/the-perfect-phone-does-not-exist/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Facebook Bug Lets Anyone Edit Your Page
-type: post
 date: 2012-01-30T05:00:00+00:00
-url: /2012/01/facebook-bug-lets-anyone-edit-your-page/
 categories:
   - Technical
 tags:

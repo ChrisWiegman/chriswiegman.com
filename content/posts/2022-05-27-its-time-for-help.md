@@ -1,8 +1,6 @@
 ---
 title: It’s Time for Help
-type: post
 date: 2022-05-27T15:33:28+00:00
-url: /2022/05/its-time-for-help/
 categories:
   - Personal
 tags:

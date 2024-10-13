@@ -1,8 +1,6 @@
 ---
 title: Getting the Correct IP Address With PHP
-type: post
 date: 2014-05-02T04:00:00+00:00
-url: /2014/05/getting-the-correct-ip-address-with-php/
 categories:
   - Technical
 tags:

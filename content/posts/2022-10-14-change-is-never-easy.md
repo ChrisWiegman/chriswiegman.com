@@ -1,8 +1,6 @@
 ---
 title: Change is Never Easy
-type: post
 date: 2022-10-14T17:49:00+00:00
-url: /2022/10/change-is-never-easy/
 featured_image: /images/2021/12/finding-your-groove-as-a-remote-worker-on-vacation.jpeg
 categories:
   - Personal

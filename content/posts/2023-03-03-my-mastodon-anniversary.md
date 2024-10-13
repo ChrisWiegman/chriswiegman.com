@@ -1,8 +1,6 @@
 ---
 title: My Mastodon Anniversary
-type: post
 date: 2023-03-03T11:24:06+00:00
-url: /2023/03/my-mastodon-anniversary/
 featured_image: /images/2023/02/my-mastodon-anniversary.png
 categories:
   - Personal

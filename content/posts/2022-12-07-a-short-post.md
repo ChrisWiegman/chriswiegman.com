@@ -1,8 +1,6 @@
 ---
 title: A Short Post
-type: post
 date: 2022-12-07T11:12:53+00:00
-url: /2022/12/a-short-post/
 featured_image: /images/2022/10/the-future-is-very-dark.jpg
 categories:
   - Personal

@@ -1,8 +1,6 @@
 ---
 title: WordCamp Austin – It’s the People!
-type: post
 date: 2014-05-04T00:00:00+00:00
-url: /2014/05/wordcamp-austin-its-the-people/
 categories:
   - Technical
 tags:

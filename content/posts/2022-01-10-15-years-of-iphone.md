@@ -1,8 +1,6 @@
 ---
 title: 15 Years of iPhone
-type: post
 date: 2022-01-10T14:05:49+00:00
-url: /2022/01/15-years-of-iphone/
 categories:
   - Technical
 tags:
@@ -27,7 +25,7 @@ Just like my first time with Android, though, Apple came calling back. After mor
 
 Last January I traded the Pixel in for an iPhone 12 Pro Max. Over the course of the year I added an Apple Watch 6, an iPad Pro (12.9&#8243;) and a new 16&#8243; MacBook Pro. It seems the Apple ecosystem is just something that, at least for me, there currently is no escape.
 
-## The iPhone is the best of the worst 
+## The iPhone is the best of the worst
 
 So am I happy with my iPhone? As far as tech goes, I think the iPhone can best be summed up today as the best of the worst. It works, usually. The camera is great, I can contact whomever I need to with it and my family is happy they can FaceTime with us and generally exchange data with me much more easily.
 

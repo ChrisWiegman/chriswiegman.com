@@ -1,8 +1,6 @@
 ---
 title: Learning React Fast
-type: post
 date: 2021-08-06T12:47:34+00:00
-url: /2021/08/learning-react-fast/
 featured_image: /images/2021/08/learning-react-fast.jpg
 categories:
   - Technical

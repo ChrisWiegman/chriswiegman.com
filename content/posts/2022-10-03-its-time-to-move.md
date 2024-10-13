@@ -1,8 +1,6 @@
 ---
 title: It’s Time To Move
-type: post
 date: 2022-10-03T12:53:39+00:00
-url: /2022/10/its-time-to-move/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Will We Finally Get Modern Internet?
-type: post
 date: 2022-10-10T12:31:41+00:00
-url: /2022/10/will-we-finally-get-modern-internet/
 categories:
   - Personal
 tags:

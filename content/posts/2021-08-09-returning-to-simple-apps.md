@@ -1,8 +1,6 @@
 ---
 title: Returning To Simple Apps
-type: post
 date: 2021-08-09T14:17:45+00:00
-url: /2021/08/returning-to-simple-apps/
 categories:
   - Technical
 tags:

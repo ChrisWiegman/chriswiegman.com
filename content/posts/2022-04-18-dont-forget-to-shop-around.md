@@ -1,8 +1,6 @@
 ---
 title: Don’t Forget To Shop Around
-type: post
 date: 2022-04-18T12:42:15+00:00
-url: /2022/04/dont-forget-to-shop-around/
 categories:
   - Personal
 tags:

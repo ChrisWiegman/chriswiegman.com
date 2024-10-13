@@ -1,8 +1,6 @@
 ---
 title: No More Analytics
-type: post
 date: 2022-01-26T13:13:21+00:00
-url: /2022/01/no-more-analytics/
 categories:
   - Technical
 tags:

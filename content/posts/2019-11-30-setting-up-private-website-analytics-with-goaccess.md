@@ -1,9 +1,7 @@
 ---
 title: Setting Up Private Website Analytics With GoAccess
-type: post
 date: 2019-11-30T22:16:48+00:00
 description: "How to setup private analytics for your website using GoAccess and nginx."
-url: /2019/11/setting-up-private-website-analytics-with-goaccess/
 featured_image: /images/2020/08/setting-up-private-website-analytics-with-goaccess.jpg
 categories:
   - Technical

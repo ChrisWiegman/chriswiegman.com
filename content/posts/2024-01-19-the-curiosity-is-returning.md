@@ -1,8 +1,6 @@
 ---
 title: The Curiosity is Returning
-type: post
 date: 2024-01-19T15:26:00+00:00
-url: /2024/01/the-curiosity-is-returning/
 categories:
   - Personal
 tags:

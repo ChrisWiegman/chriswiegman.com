@@ -1,8 +1,6 @@
 ---
 title: Always Searching for the Perfect Tech
-type: post
 date: 2022-04-06T13:59:07+00:00
-url: /2022/04/always-searching-for-the-perfect-tech/
 featured_image: /images/2021/11/my-office-2021.jpeg
 categories:
   - Technical

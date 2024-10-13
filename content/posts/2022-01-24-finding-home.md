@@ -1,8 +1,6 @@
 ---
 title: Finding Home
-type: post
 date: 2022-01-24T13:24:00+00:00
-url: /2022/01/finding-home/
 featured_image: /images/2021/10/IMG_0095-5.jpg
 categories:
   - Personal

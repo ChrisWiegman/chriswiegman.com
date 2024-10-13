@@ -1,8 +1,6 @@
 ---
 title: Jetpack’s WordPress.com Stats – A Clarification
-type: post
 date: 2021-11-22T14:06:05+00:00
-url: /2021/11/jetpacks-wordpress-com-stats-a-clarification/
 categories:
   - Technical
 tags:

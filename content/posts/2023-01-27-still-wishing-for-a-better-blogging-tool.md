@@ -1,8 +1,6 @@
 ---
 title: Still wishing for a better blogging tool
-type: post
 date: 2023-01-27T13:56:30+00:00
-url: /2023/01/still-wishing-for-a-better-blogging-tool/
 categories:
   - Technical
 tags:

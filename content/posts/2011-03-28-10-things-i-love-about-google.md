@@ -1,8 +1,6 @@
 ---
 title: 10 Things I Love About Google
-type: post
 date: 2011-03-28T04:00:00+00:00
-url: /2011/03/10-things-i-love-about-google/
 categories:
   - Technical
 tags:

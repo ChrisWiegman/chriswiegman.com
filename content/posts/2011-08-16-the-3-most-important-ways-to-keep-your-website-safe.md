@@ -1,8 +1,6 @@
 ---
 title: The 3 Most Important Ways To Keep Your Website Safe
-type: post
 date: 2011-08-16T04:00:00+00:00
-url: /2011/08/the-3-most-important-ways-to-keep-your-website-safe/
 categories:
   - Technical
 tags:

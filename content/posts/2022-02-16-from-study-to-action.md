@@ -1,8 +1,6 @@
 ---
 title: From Study to Action
-type: post
 date: 2022-02-16T11:05:26+00:00
-url: /2022/02/from-study-to-action/
 categories:
   - Technical
 tags:

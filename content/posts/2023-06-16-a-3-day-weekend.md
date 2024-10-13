@@ -1,8 +1,6 @@
 ---
 title: A 3-day Weekend
-type: post
 date: 2023-06-16T12:13:19+00:00
-url: /2023/06/a-3-day-weekend/
 categories:
   - Personal
 tags:

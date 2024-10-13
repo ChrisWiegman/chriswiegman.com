@@ -1,8 +1,6 @@
 ---
 title: Use your strengths
-type: post
 date: 2023-02-10T13:27:19+00:00
-url: /2023/02/use-your-strengths/
 categories:
   - Personal
 tags:

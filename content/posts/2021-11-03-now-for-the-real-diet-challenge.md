@@ -1,8 +1,6 @@
 ---
 title: Now For The Real Diet Challenge
-type: post
 date: 2021-11-03T13:54:58+00:00
-url: /2021/11/now-for-the-real-diet-challenge/
 categories:
   - Personal
 tags:
@@ -31,7 +29,7 @@ The fact is, I'm addicted to soda. I can quit for a week or two at a time but th
 
 I come up with excuses to have another. I engineer meals where I can order it. I get panicky without it. I simply am well past the point where I can quit and I need to change that.
 
-## Attempts to quit 
+## Attempts to quit
 
 I've been trying to quit drinking soda since we moved to Florida in 2015. At the longest, once in 2015 and once earlier this year, I made it about 3 months without one.
 

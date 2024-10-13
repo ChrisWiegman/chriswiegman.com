@@ -1,8 +1,6 @@
 ---
 title: I Have a New WordPress Site
-type: post
 date: 2020-04-12T15:56:00+00:00
-url: /2020/04/i-have-a-new-wordpress-site/
 featured_image: /images/2020/08/I-have-a-new-site-in-WordPress.png
 categories:
   - Personal

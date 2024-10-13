@@ -1,8 +1,6 @@
 ---
 title: The Writing Is The Point
-type: post
 date: 2022-06-06T14:26:21+00:00
-url: /2022/06/the-writing-is-the-point/
 categories:
   - Personal
 tags:

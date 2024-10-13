@@ -1,8 +1,6 @@
 ---
 title: 3 Website Problems You Don’t Even Know You Have
-type: post
 date: 2012-05-16T04:00:00+00:00
-url: /2012/05/3-website-problems-you-dont-even-know-you-have/
 categories:
   - Technical
 tags:

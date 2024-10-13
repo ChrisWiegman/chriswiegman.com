@@ -1,8 +1,6 @@
 ---
 title: Rethinking How I Use Technology
-type: post
 date: 2022-04-25T11:55:13+00:00
-url: /2022/04/rethinking-how-i-use-technology/
 featured_image: /images/2022/02/the-perfect-office.jpeg
 categories:
   - Technical

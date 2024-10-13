@@ -1,8 +1,6 @@
 ---
 title: A Symptom of My Depression
-type: post
 date: 2022-08-26T13:16:07+00:00
-url: /2022/08/a-symptom-of-my-depression/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Another Birthday
-type: post
 date: 2023-06-21T09:49:21+00:00
-url: /2023/06/another-birthday-2/
 categories:
   - Personal
 tags:

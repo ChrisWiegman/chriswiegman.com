@@ -1,8 +1,6 @@
 ---
 title: Grateful For The Holiday
-type: post
 date: 2022-09-02T12:25:28+00:00
-url: /2022/09/grateful-for-the-holiday/
 categories:
   - Personal
 tags:

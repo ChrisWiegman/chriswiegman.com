@@ -1,8 +1,6 @@
 ---
 title: Delete All Installed Homebrew Packages
-type: post
 date: 2021-01-31T17:09:43+00:00
-url: /2021/01/delete-all-installed-homebrew-packages/
 categories:
   - Technical
 tags:

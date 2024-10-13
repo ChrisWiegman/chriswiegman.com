@@ -1,8 +1,6 @@
 ---
 title: Thoughts on a Flash-free Mac
-type: post
 date: 2010-10-22T04:00:00+00:00
-url: /2010/10/thoughts-on-a-flash-free-mac/
 categories:
   - Technical
 tags:

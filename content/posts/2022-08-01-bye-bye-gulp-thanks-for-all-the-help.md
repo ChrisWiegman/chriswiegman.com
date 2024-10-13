@@ -1,8 +1,6 @@
 ---
 title: Bye Bye Gulp, Thanks for All the Help
-type: post
 date: 2022-08-01T12:34:28+00:00
-url: /2022/08/bye-bye-gulp-thanks-for-all-the-help/
 categories:
   - Technical
 tags:

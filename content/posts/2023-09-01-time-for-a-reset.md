@@ -1,8 +1,6 @@
 ---
 title: Time for a Reset
-type: post
 date: 2023-09-01T16:21:00+00:00
-url: /2023/09/time-for-a-reset/
 categories:
   - Personal
 tags:

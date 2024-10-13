@@ -1,8 +1,6 @@
 ---
 title: Making My Peace With Gutenberg
-type: post
 date: 2021-11-17T13:49:38+00:00
-url: /2021/11/making-my-peace-with-gutenberg/
 featured_image: /images/2021/11/making-my-peace-with-gutenberg.jpg
 categories:
   - Technical

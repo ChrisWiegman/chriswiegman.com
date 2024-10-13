@@ -1,8 +1,6 @@
 ---
 title: iPhone 4…yawn
-type: post
 date: 2010-07-01T04:00:00+00:00
-url: /2010/07/iphone-4yawn/
 categories:
   - Technical
 tags:

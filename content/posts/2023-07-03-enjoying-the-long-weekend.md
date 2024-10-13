@@ -1,8 +1,6 @@
 ---
 title: Enjoying the Long Weekend
-type: post
 date: 2023-07-03T12:24:25+00:00
-url: /2023/07/enjoying-the-long-weekend/
 categories:
   - Personal
 tags:

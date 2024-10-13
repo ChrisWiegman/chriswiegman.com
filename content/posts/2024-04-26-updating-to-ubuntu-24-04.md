@@ -1,8 +1,6 @@
 ---
 title: Updating to Ubuntu 24.04
-type: post
 date: 2024-04-26T12:23:38+00:00
-url: /2024/04/updating-to-ubuntu-24-04/
 categories:
   - Technical
 tags:

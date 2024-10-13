@@ -1,8 +1,6 @@
 ---
 title: Thoughts on Building a Fitness Habit with Technology
-type: post
 date: 2021-11-12T13:04:03+00:00
-url: /2021/11/thoughts-on-building-a-fitness-habit/
 categories:
   - Personal
 tags:
@@ -18,7 +16,7 @@ That was 20 years ago. While I was flying I was able to maintain some level of f
 
 In 2007, when I quit flying, I weighed 156lbs and, while I didn't always feel great, I was at a healthy weight and energy level. By March of 2020 I was 210lbs and on an exercise pattern that amounted to about 1 week of activity in 4, especially during the hot summer. Something had to change.
 
-## Where it went wrong 
+## Where it went wrong
 
 It's not that I didn't try to keep fit after 2007, it's more that I never found anything I could build a habit on, something hard enough as an adult to start with.
 

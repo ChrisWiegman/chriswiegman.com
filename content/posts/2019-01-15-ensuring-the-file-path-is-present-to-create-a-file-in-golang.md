@@ -1,8 +1,6 @@
 ---
 title: Ensuring the File Path is Present to Create a File in GoLang
-type: post
 date: 2019-01-15T05:00:00+00:00
-url: /2019/01/ensuring-the-file-path-is-present-to-create-a-file-in-golang/
 categories:
   - Technical
 tags:

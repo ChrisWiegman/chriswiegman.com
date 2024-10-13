@@ -1,8 +1,6 @@
 ---
 title: A Good Move or a Bad Move?
-type: post
 date: 2023-08-04T12:52:27+00:00
-url: /2023/08/a-good-move-or-a-bad-move/
 categories:
   - Personal
 tags:

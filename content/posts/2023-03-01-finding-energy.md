@@ -1,8 +1,6 @@
 ---
 title: Finding Energy
-type: post
 date: 2023-03-01T13:45:20+00:00
-url: /2023/03/finding-energy/
 categories:
   - Personal
 tags:

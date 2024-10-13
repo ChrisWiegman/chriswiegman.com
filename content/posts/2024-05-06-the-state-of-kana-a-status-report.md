@@ -1,8 +1,6 @@
 ---
 title: 'The State of Kana: A Status Report'
-type: post
 date: 2024-05-06T11:53:25+00:00
-url: /2024/05/the-state-of-kana-a-status-report/
 featured_image: /images/2024/05/Kana-on-GitHub.jpg
 categories:
   - Technical

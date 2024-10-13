@@ -1,8 +1,6 @@
 ---
 title: Remote Work Tips From a Career of Remote Experience
-type: post
 date: 2020-03-28T14:39:46+00:00
-url: /2020/03/remote-work-tips-from-a-career-of-remote-experience/
 featured_image: /images/2020/08/remote-work-tips-from-a-career-of-remote-experience.jpg
 categories:
   - Personal

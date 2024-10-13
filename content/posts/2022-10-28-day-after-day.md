@@ -1,8 +1,6 @@
 ---
 title: Day After Day
-type: post
 date: 2022-10-28T13:52:20+00:00
-url: /2022/10/day-after-day/
 featured_image: /images/2022/10/visiting-family.jpg
 categories:
   - Personal

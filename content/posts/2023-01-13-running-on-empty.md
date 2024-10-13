@@ -1,8 +1,6 @@
 ---
 title: Running on Empty
-type: post
 date: 2023-01-13T11:41:48+00:00
-url: /2023/01/running-on-empty/
 categories:
   - Personal
 tags:

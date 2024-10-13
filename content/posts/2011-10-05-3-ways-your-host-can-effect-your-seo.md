@@ -1,8 +1,6 @@
 ---
 title: 3 Ways Your Host Can Effect Your SEO
-type: post
 date: 2011-10-05T04:00:00+00:00
-url: /2011/10/3-ways-your-host-can-effect-your-seo/
 categories:
   - Technical
 tags:

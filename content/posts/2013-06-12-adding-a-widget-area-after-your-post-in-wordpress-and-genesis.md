@@ -1,8 +1,6 @@
 ---
 title: Adding a Widget Area After Your Post In WordPress and Genesis
-type: post
 date: 2013-06-12T00:00:00+00:00
-url: /2013/06/adding-a-widget-area-after-your-post-in-wordpress-and-genesis/
 categories:
   - Technical
 tags:

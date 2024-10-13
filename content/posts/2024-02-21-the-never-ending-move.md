@@ -1,8 +1,6 @@
 ---
 title: The Never-ending Move
-type: post
 date: 2024-02-21T14:34:04+00:00
-url: /2024/02/the-never-ending-move/
 categories:
   - Personal
 tags:

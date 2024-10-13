@@ -1,8 +1,6 @@
 ---
 title: We’re No Longer Florida Homeowners
-type: post
 date: 2024-04-17T11:47:36+00:00
-url: /2024/04/were-no-longer-florida-homeowners/
 categories:
   - Personal
 tags:

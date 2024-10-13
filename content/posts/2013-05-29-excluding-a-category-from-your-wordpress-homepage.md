@@ -1,8 +1,6 @@
 ---
 title: Excluding a Category from your WordPress Homepage
-type: post
 date: 2013-05-29T00:00:00+00:00
-url: /2013/05/excluding-a-category-from-your-wordpress-homepage/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: The Storms No Longer Scare Me
-type: post
 date: 2024-02-28T15:57:18+00:00
-url: /2024/02/the-storms-no-longer-scare-me/
 categories:
   - Personal
 tags:

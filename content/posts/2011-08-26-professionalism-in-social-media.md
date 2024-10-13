@@ -1,8 +1,6 @@
 ---
 title: Professionalism in Social Media
-type: post
 date: 2011-08-26T04:00:00+00:00
-url: /2011/08/professionalism-in-social-media/
 categories:
   - Technical
 tags:

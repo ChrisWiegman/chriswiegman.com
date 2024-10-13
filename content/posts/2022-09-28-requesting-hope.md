@@ -1,8 +1,6 @@
 ---
 title: Requesting Hope
-type: post
 date: 2022-09-28T04:56:43+00:00
-url: /2022/09/requesting-hope/
 featured_image: /images/2022/09/AL092022_5day_cone_no_line_and_wind.png
 categories:
   - Personal

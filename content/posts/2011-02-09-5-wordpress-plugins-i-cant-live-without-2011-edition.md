@@ -1,8 +1,6 @@
 ---
 title: 5 WordPress Plugins I Can’t Live Without (2011 edition)
-type: post
 date: 2011-02-09T05:00:00+00:00
-url: /2011/02/5-wordpress-plugins-i-cant-live-without-2011-edition/
 categories:
   - Technical
 tags:

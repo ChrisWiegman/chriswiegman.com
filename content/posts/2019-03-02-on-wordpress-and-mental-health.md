@@ -1,8 +1,6 @@
 ---
 title: On WordPress and Mental Health
-type: post
 date: 2019-03-02T00:00:00+00:00
-url: /2019/03/on-wordpress-and-mental-health/
 categories:
   - Technical
 tags:

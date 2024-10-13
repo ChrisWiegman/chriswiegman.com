@@ -1,8 +1,6 @@
 ---
 title: Linux Development on Vista
-type: post
 date: 2008-09-14T04:00:00+00:00
-url: /2008/09/linux-development-on-vista/
 categories:
   - Technical
 tags:

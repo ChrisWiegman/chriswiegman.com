@@ -1,8 +1,6 @@
 ---
 title: CMS Success in Unlikely Applications
-type: post
 date: 2011-01-18T05:00:00+00:00
-url: /2011/01/cms-success-in-unlikely-applications/
 categories:
   - Technical
 tags:

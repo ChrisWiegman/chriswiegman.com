@@ -1,8 +1,6 @@
 ---
 title: Overcoming Social Media’s Shortcomings
-type: post
 date: 2011-08-14T04:00:00+00:00
-url: /2011/08/overcoming-social-medias-shortcomings/
 categories:
   - Technical
 tags:

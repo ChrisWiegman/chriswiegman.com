@@ -1,8 +1,6 @@
 ---
 title: It’s So Hard To Relax
-type: post
 date: 2024-02-19T14:11:18+00:00
-url: /2024/02/its-so-hard-to-relax/
 categories:
   - Personal
 tags:

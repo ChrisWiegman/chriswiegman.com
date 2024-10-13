@@ -1,8 +1,6 @@
 ---
 title: Home, I think?
-type: post
 date: 2023-08-14T11:10:21+00:00
-url: /2023/08/home-i-think/
 categories:
   - Personal
 tags:

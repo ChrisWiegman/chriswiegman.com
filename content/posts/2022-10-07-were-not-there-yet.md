@@ -1,8 +1,6 @@
 ---
 title: We’re Not There Yet
-type: post
 date: 2022-10-07T17:17:49+00:00
-url: /2022/10/were-not-there-yet/
 categories:
   - Personal
 tags:

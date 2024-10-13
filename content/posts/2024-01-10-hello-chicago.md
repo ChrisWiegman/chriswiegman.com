@@ -1,8 +1,6 @@
 ---
 title: Hello Chicago
-type: post
 date: 2024-01-10T13:34:33+00:00
-url: /2024/01/hello-chicago/
 categories:
   - Personal
 tags:

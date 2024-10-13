@@ -1,8 +1,6 @@
 ---
 title: Shared Hosting vs VPS vs Cloud vs Dedicated Server
-type: post
 date: 2011-10-07T04:00:00+00:00
-url: /2011/10/shared-hosting-vs-vps-vs-cloud-vs-dedicated-server/
 categories:
   - Technical
 tags:

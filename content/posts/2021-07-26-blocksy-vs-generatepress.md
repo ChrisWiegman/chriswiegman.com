@@ -1,8 +1,6 @@
 ---
 title: Blocksy vs GeneratePress
-type: post
 date: 2021-07-26T14:08:59+00:00
-url: /2021/07/blocksy-vs-generatepress/
 featured_image: /images/2021/07/blocksy-vs-generatepress.jpg
 categories:
   - Technical

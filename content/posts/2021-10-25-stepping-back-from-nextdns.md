@@ -1,8 +1,6 @@
 ---
 title: Stepping Back From NextDNS
-type: post
 date: 2021-10-25T13:49:01+00:00
-url: /2021/10/stepping-back-from-nextdns/
 categories:
   - Technical
 tags:

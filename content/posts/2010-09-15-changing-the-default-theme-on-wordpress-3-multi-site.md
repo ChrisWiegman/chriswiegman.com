@@ -1,8 +1,6 @@
 ---
 title: Changing the Default Theme on WordPress 3 Multi-site
-type: post
 date: 2010-09-15T04:00:00+00:00
-url: /2010/09/changing-the-default-theme-on-wordpress-3-multi-site/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: 10 Web and Social Media Tips for College Students
-type: post
 date: 2011-03-01T05:00:00+00:00
-url: /2011/03/10-web-and-social-media-tips-for-college-students/
 categories:
   - Technical
 tags:

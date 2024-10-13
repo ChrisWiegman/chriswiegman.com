@@ -1,8 +1,6 @@
 ---
 title: Too Much Apple Is Never A Good Thing
-type: post
 date: 2022-11-28T13:15:14+00:00
-url: /2022/11/too-much-apple-is-never-a-good-thing/
 categories:
   - Technical
 tags:

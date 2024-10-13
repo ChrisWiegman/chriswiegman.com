@@ -1,8 +1,6 @@
 ---
 title: 'generator-wp: A WordPress Project Generator'
-type: post
 date: 2021-11-08T13:14:05+00:00
-url: /2021/11/generator-wp-a-wordpress-project-generator/
 featured_image: /images/2021/11/generator-wp-a-wordpress-project-generator.jpg
 categories:
   - Technical

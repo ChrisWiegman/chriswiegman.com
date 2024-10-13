@@ -1,8 +1,6 @@
 ---
 title: 5 Places Where QR Codes Can Work For You
-type: post
 date: 2011-09-19T04:00:00+00:00
-url: /2011/09/5-places-where-qr-codes-can-work-for-you/
 categories:
   - Technical
 tags:

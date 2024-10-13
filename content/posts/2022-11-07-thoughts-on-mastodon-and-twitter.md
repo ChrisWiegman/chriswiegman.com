@@ -1,8 +1,6 @@
 ---
 title: Thoughts On Mastodon and Twitter
-type: post
 date: 2022-11-07T13:21:56+00:00
-url: /2022/11/thoughts-on-mastodon-and-twitter/
 featured_image: /images/2022/11/twitter-vs-mastodon.jpg
 categories:
   - Personal

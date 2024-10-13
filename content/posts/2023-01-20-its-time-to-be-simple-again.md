@@ -1,8 +1,6 @@
 ---
 title: It’s time to be simple again
-type: post
 date: 2023-01-20T14:19:31+00:00
-url: /2023/01/its-time-to-be-simple-again/
 categories:
   - Personal
 tags:

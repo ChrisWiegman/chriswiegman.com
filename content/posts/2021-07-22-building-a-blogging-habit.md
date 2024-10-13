@@ -1,8 +1,6 @@
 ---
 title: Building a Blogging Habit
-type: post
 date: 2021-07-23T00:24:45+00:00
-url: /2021/07/building-a-blogging-habit/
 categories:
   - Technical
 tags:

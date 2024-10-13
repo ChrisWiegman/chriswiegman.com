@@ -1,8 +1,6 @@
 ---
 title: The Move That Never Ends
-type: post
 date: 2023-12-27T12:39:12+00:00
-url: /2023/12/the-move-that-never-ends/
 categories:
   - Personal
 tags:

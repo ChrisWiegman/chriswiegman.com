@@ -1,8 +1,6 @@
 ---
 title: 5 Reasons This Site Runs On WordPress
-type: post
 date: 2012-02-10T00:00:00+00:00
-url: /2012/02/5-reasons-this-site-runs-on-wordpress/
 categories:
   - Technical
 tags:

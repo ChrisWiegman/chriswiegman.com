@@ -1,8 +1,6 @@
 ---
 title: Keeping My WordPress Index Pages Current
-type: post
 date: 2022-05-16T13:25:12+00:00
-url: /2022/05/keeping-my-wordpress-index-pages-current/
 featured_image: /images/2022/02/its-time-for-a-new-wordpress-theme.jpg
 categories:
   - Technical

@@ -1,8 +1,6 @@
 ---
 title: Another Trip Around the Sun is Complete
-type: post
 date: 2024-06-21T14:49:54+00:00
-url: /2024/06/another-trip-around-the-sun-is-complete/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Am I Over-engineering it? Yep
-type: post
 date: 2024-01-22T13:54:04+00:00
-url: /2024/01/am-i-over-engineering-it-yep/
 categories:
   - Technical
 tags:

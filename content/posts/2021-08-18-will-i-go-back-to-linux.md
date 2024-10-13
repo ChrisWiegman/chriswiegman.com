@@ -1,8 +1,6 @@
 ---
 title: Will I Go Back to Linux
-type: post
 date: 2021-08-18T13:28:32+00:00
-url: /2021/08/will-i-go-back-to-linux/
 categories:
   - Technical
 tags:

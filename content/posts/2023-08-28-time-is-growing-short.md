@@ -1,8 +1,6 @@
 ---
 title: Time is Growing Short
-type: post
 date: 2023-08-28T12:14:20+00:00
-url: /2023/08/time-is-growing-short/
 categories:
   - Personal
 tags:

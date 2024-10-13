@@ -1,8 +1,6 @@
 ---
 title: An Ominous Start for 2024
-type: post
 date: 2024-01-05T13:47:07+00:00
-url: /2024/01/an-ominous-start-for-2024/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Why Are You Still In WordPress?
-type: post
 date: 2021-09-24T15:34:34+00:00
-url: /2021/09/why-are-you-still-in-wordpress/
 featured_image: /images/2021/09/Wordpress-camp-Utrecht-by-MIchielTon-websize-86.jpg
 categories:
   - Technical

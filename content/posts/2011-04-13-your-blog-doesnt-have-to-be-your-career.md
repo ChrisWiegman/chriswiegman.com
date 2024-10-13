@@ -1,8 +1,6 @@
 ---
 title: Your Blog Doesn’t Have To Be Your Career
-type: post
 date: 2011-04-13T04:00:00+00:00
-url: /2011/04/your-blog-doesnt-have-to-be-your-career/
 categories:
   - Technical
 tags:

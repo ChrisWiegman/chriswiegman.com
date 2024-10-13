@@ -1,8 +1,6 @@
 ---
 title: Goodbye GPG
-type: post
 date: 2024-01-29T15:03:19+00:00
-url: /2024/01/goodbye-gpg/
 categories:
   - Technical
 tags:

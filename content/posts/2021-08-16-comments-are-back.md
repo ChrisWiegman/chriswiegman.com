@@ -1,8 +1,6 @@
 ---
 title: Comments are Back
-type: post
 date: 2021-08-16T13:05:01+00:00
-url: /2021/08/comments-are-back/
 categories:
   - Personal
 tags:

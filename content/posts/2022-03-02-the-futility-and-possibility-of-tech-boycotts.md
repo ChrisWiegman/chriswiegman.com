@@ -1,8 +1,6 @@
 ---
 title: The Futility and Possibility of Tech Boycotts
-type: post
 date: 2022-03-02T14:27:58+00:00
-url: /2022/03/the-futility-and-possibility-of-tech-boycotts/
 categories:
   - Technical
 tags:

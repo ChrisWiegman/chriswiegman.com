@@ -1,8 +1,6 @@
 ---
 title: Experts Earn Their Title
-type: post
 date: 2010-02-07T05:00:00+00:00
-url: /2010/02/experts-earn-their-title/
 categories:
   - Technical
 tags:

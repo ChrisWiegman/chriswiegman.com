@@ -1,8 +1,6 @@
 ---
 title: I Enjoy Writing Code When I Can
-type: post
 date: 2023-06-07T10:09:11+00:00
-url: /2023/06/i-enjoy-writing-code-when-i-can/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Two Weeks With the iPad
-type: post
 date: 2021-06-10T23:32:15+00:00
-url: /2021/06/two-weeks-with-the-ipad/
 featured_image: /images/2021/06/two-weeks-with-the-ipad.jpg
 categories:
   - Technical

@@ -1,8 +1,6 @@
 ---
 title: More Moving Woes
-type: post
 date: 2024-02-07T13:35:52+00:00
-url: /2024/02/more-moving-woes/
 categories:
   - Personal
 tags:

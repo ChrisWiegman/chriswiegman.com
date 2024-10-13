@@ -1,8 +1,6 @@
 ---
 title: Website Security Is More Than Just Prevention
-type: post
 date: 2013-06-03T04:00:00+00:00
-url: /2013/06/website-security-is-more-than-just-prevention/
 categories:
   - Technical
 tags:

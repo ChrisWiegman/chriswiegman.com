@@ -1,8 +1,6 @@
 ---
 title: 10 Applications for All Web Developers
-type: post
 date: 2009-04-05T04:00:00+00:00
-url: /2009/04/10-applications-for-all-web-developers/
 categories:
   - Technical
 tags:

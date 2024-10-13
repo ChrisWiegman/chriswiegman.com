@@ -1,8 +1,6 @@
 ---
 title: The Best Tech I Ever Had
-type: post
 date: 2024-03-29T12:52:08+00:00
-url: /2024/03/the-best-tech-i-ever-had/
 categories:
   - Personal
 tags:

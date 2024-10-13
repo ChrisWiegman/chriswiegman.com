@@ -1,8 +1,6 @@
 ---
 title: Dreading the Endless Summer
-type: post
 date: 2022-03-28T12:23:33+00:00
-url: /2022/03/dreading-the-endless-summer/
 featured_image: /images/2019/02/IMG_0012-22.jpg
 categories:
   - Personal

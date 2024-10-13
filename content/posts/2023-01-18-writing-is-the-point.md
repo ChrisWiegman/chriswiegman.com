@@ -1,8 +1,6 @@
 ---
 title: Writing Is The Point
-type: post
 date: 2023-01-18T16:59:38+00:00
-url: /2023/01/writing-is-the-point/
 categories:
   - Personal
 tags:

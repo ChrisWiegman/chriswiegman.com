@@ -1,8 +1,6 @@
 ---
 title: The One Thing You Must Do For Your Site or Blog
-type: post
 date: 2011-10-03T04:00:00+00:00
-url: /2011/10/the-one-thing-you-must-do-for-your-site-or-blog/
 categories:
   - Technical
 tags:

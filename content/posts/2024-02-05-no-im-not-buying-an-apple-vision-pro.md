@@ -1,8 +1,6 @@
 ---
 title: No, I’m not buying an Apple Vision Pro
-type: post
 date: 2024-02-05T12:19:04+00:00
-url: /2024/02/no-im-not-buying-an-apple-vision-pro/
 categories:
   - Personal
 tags:

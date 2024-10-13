@@ -1,8 +1,6 @@
 ---
 title: My First Trip To The Office In 4 Years
-type: post
 date: 2024-02-14T09:09:49+00:00
-url: /2024/02/my-first-trip-to-the-office-in-4-years/
 categories:
   - Technical
 tags:

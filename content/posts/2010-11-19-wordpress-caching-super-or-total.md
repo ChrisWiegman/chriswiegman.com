@@ -1,8 +1,6 @@
 ---
 title: 'WordPress Caching: Super or Total'
-type: post
 date: 2010-11-19T00:00:00+00:00
-url: /2010/11/wordpress-caching-super-or-total/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: How to Properly Redirect Your Domain With or Without www
-type: post
 date: 2011-09-21T04:00:00+00:00
-url: /2011/09/how-to-properly-redirect-your-domain-with-or-without-www/
 categories:
   - Technical
 tags:

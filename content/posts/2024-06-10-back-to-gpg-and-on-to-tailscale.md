@@ -1,8 +1,6 @@
 ---
 title: Back to GPG and on to Tailscale
-type: post
 date: 2024-06-10T12:14:34+00:00
-url: /2024/06/back-to-gpg-and-on-to-tailscale/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Choosing A VPN To Protect What Matters
-type: post
 date: 2021-01-03T14:45:26+00:00
-url: /2021/01/choosing-a-vpn-to-protect-what-matters/
 categories:
   - Technical
 tags:

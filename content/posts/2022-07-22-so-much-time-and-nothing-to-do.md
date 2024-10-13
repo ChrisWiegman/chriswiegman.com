@@ -1,8 +1,6 @@
 ---
 title: So Much Time and Nothing To Do
-type: post
 date: 2022-07-22T12:35:53+00:00
-url: /2022/07/so-much-time-and-nothing-to-do/
 categories:
   - Personal
 tags:

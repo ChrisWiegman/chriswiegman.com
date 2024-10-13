@@ -1,8 +1,6 @@
 ---
 title: Trying New Tech
-type: post
 date: 2024-04-29T18:52:25+00:00
-url: /2024/04/trying-new-tech/
 categories:
   - Personal
 tags:

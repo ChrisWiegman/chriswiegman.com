@@ -1,8 +1,6 @@
 ---
 title: Things I will miss from Apple
-type: post
 date: 2023-02-01T13:32:02+00:00
-url: /2023/02/things-i-will-miss-from-apple/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: A “Senior” Title Should Mean Something in WordPress
-type: post
 date: 2022-01-05T13:41:14+00:00
-url: /2022/01/a-senior-title-should-mean-something-in-wordpress/
 categories:
   - Technical
 tags:

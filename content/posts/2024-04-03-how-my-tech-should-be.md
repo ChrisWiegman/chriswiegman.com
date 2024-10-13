@@ -1,8 +1,6 @@
 ---
 title: How my tech should be
-type: post
 date: 2024-04-03T12:15:40+00:00
-url: /2024/04/how-my-tech-should-be/
 categories:
   - Personal
 tags:

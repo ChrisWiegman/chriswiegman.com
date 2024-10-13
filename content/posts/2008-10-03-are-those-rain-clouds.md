@@ -1,8 +1,6 @@
 ---
 title: Are those rain clouds?
-type: post
 date: 2008-10-03T04:00:00+00:00
-url: /2008/10/are-those-rain-clouds/
 categories:
   - Technical
 tags:

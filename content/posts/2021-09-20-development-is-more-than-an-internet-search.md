@@ -1,8 +1,6 @@
 ---
 title: Development Is More Than An Internet Search
-type: post
 date: 2021-09-20T14:55:53+00:00
-url: /2021/09/development-is-more-than-an-internet-search/
 featured_image: /images/2021/09/becoming-a-developer.jpg
 categories:
   - Technical

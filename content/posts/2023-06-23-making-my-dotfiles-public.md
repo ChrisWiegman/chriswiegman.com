@@ -1,8 +1,6 @@
 ---
 title: Making my Dotfiles Public
-type: post
 date: 2023-06-23T10:23:43+00:00
-url: /2023/06/making-my-dotfiles-public/
 categories:
   - Technical
 tags:

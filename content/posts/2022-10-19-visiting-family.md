@@ -1,8 +1,6 @@
 ---
 title: Visiting Family
-type: post
 date: 2022-10-19T13:59:35+00:00
-url: /2022/10/visiting-family/
 featured_image: /images/2022/10/visiting-family.jpg
 categories:
   - Personal

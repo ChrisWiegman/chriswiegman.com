@@ -1,8 +1,6 @@
 ---
 title: Announcing Kana 0.6.0
-type: post
 date: 2023-02-27T13:22:19+00:00
-url: /2023/02/announcing-kana-0-6-0/
 categories:
   - Technical
 tags:

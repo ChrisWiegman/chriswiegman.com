@@ -1,8 +1,6 @@
 ---
 title: My Development Toolbox – 2021
-type: post
 date: 2021-09-13T12:24:30+00:00
-url: /2021/09/my-development-toolbox-2021/
 categories:
   - Technical
 tags:

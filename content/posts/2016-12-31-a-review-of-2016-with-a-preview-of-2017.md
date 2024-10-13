@@ -1,8 +1,6 @@
 ---
 title: A Review of 2016 with a Preview of 2017
-type: post
 date: 2016-12-31T18:58:57+00:00
-url: /2016/12/a-review-of-2016-with-a-preview-of-2017/
 featured_image: /images/2020/07/2016-2017-time-to-focus.jpg
 categories:
   - Personal

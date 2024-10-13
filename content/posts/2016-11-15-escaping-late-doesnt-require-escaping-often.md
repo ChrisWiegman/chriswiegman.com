@@ -1,8 +1,6 @@
 ---
 title: Escaping Late Doesn’t Require Escaping Often
-type: post
 date: 2016-11-15T00:00:00+00:00
-url: /2016/11/escaping-late-doesnt-require-escaping-often/
 categories:
   - Technical
 tags:

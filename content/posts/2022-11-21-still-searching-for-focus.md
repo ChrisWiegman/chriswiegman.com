@@ -1,8 +1,6 @@
 ---
 title: Still Searching for Focus
-type: post
 date: 2022-11-21T11:25:33+00:00
-url: /2022/11/still-searching-for-focus/
 categories:
   - Personal
 tags:

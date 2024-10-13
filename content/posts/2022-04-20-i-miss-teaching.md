@@ -1,8 +1,6 @@
 ---
 title: I miss teaching
-type: post
 date: 2022-04-20T14:52:41+00:00
-url: /2022/04/i-miss-teaching/
 featured_image: /images/2020/08/chris-wiegman-speaking.jpg
 categories:
   - Personal

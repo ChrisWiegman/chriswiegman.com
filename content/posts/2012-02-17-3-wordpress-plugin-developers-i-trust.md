@@ -1,8 +1,6 @@
 ---
 title: 3 WordPress Plugin Developers I Trust
-type: post
 date: 2012-02-17T00:00:00+00:00
-url: /2012/02/3-wordpress-plugin-developers-i-trust/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Standardizing Our WordPress Plugin Development
-type: post
 date: 2017-12-14T00:00:00+00:00
-url: /2017/12/standardizing-our-wordpress-plugin-development/
 categories:
   - Technical
 tags:

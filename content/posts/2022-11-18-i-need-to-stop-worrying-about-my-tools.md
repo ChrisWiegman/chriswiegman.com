@@ -1,8 +1,6 @@
 ---
 title: I need to stop worrying about my tools
-type: post
 date: 2022-11-18T13:37:33+00:00
-url: /2022/11/i-need-to-stop-worrying-about-my-tools/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Learning to “live with it”
-type: post
 date: 2024-03-27T13:02:32+00:00
-url: /2024/03/learning-to-live-with-it/
 categories:
   - Personal
 tags:

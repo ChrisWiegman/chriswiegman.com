@@ -1,8 +1,6 @@
 ---
 title: 3 Reasons Why I Don’t Write More
-type: post
 date: 2017-04-10T17:58:00+00:00
-url: /2017/04/3-reasons-why-i-dont-write-more/
 categories:
   - Personal
 tags:

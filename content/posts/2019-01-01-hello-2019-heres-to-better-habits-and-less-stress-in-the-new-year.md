@@ -1,8 +1,6 @@
 ---
 title: Hello 2019, Here’s to Better Habits and Less Stress in the New Year
-type: post
 date: 2019-01-01T00:00:00+00:00
-url: /2019/01/hello-2019-heres-to-better-habits-and-less-stress-in-the-new-year/
 featured_image: /images/2019/01/my-2018-review.jpg
 categories:
   - Personal

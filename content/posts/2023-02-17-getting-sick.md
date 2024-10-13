@@ -1,8 +1,6 @@
 ---
 title: Getting Sick
-type: post
 date: 2023-02-17T14:47:52+00:00
-url: /2023/02/getting-sick/
 categories:
   - Personal
 tags:

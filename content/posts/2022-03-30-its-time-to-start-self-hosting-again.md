@@ -1,8 +1,6 @@
 ---
 title: It’s time to start self-hosting (again)
-type: post
 date: 2022-03-30T12:22:51+00:00
-url: /2022/03/its-time-to-start-self-hosting-again/
 featured_image: /images/2020/08/remote-work-tips-from-a-career-of-remote-experience.jpg
 categories:
   - Technical

@@ -1,8 +1,6 @@
 ---
 title: 'A Full Year of 10,000 Steps: Done'
-type: post
 date: 2022-12-02T11:29:10+00:00
-url: /2022/12/a-full-year-of-10000-steps-done/
 categories:
   - Personal
 tags:

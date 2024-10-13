@@ -1,8 +1,6 @@
 ---
 title: Experiments With Gravity Forms and Secure Data Storage
-type: post
 date: 2017-12-13T00:00:00+00:00
-url: /2017/12/experiments-with-gravity-forms-and-secure-data-storage/
 categories:
   - Technical
 tags:

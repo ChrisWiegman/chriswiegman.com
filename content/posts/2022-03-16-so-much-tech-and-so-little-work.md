@@ -1,8 +1,6 @@
 ---
 title: So Much Tech and So Little Work
-type: post
 date: 2022-03-16T17:13:00+00:00
-url: /2022/03/so-much-tech-and-so-little-work/
 categories:
   - Technical
 tags:

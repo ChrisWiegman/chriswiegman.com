@@ -1,8 +1,6 @@
 ---
 title: My Ideal Tech
-type: post
 date: 2022-04-29T12:15:54+00:00
-url: /2022/04/my-ideal-tech/
 categories:
   - Technical
 tags:

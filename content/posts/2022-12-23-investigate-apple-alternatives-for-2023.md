@@ -1,8 +1,6 @@
 ---
 title: Investigate Apple Alternatives for 2023
-type: post
 date: 2022-12-23T11:50:44+00:00
-url: /2022/12/investigate-apple-alternatives-for-2023/
 categories:
   - Technical
 tags:

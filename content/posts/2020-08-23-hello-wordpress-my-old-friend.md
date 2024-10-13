@@ -1,8 +1,6 @@
 ---
 title: Hello WordPress, My Old Friend
-type: post
 date: 2020-08-23T14:41:10+00:00
-url: /2020/08/hello-wordpress-my-old-friend/
 categories:
   - Technical
 tags:

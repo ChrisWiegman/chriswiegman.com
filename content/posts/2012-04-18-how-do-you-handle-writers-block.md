@@ -1,8 +1,6 @@
 ---
 title: How do you handle writer’s block?
-type: post
 date: 2012-04-18T00:00:00+00:00
-url: /2012/04/how-do-you-handle-writers-block/
 categories:
   - Technical
 tags:

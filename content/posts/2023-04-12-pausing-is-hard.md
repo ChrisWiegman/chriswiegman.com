@@ -1,8 +1,6 @@
 ---
 title: Pausing is Hard
-type: post
 date: 2023-04-12T13:05:27+00:00
-url: /2023/04/pausing-is-hard/
 categories:
   - Personal
 tags:

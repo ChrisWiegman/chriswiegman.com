@@ -1,8 +1,6 @@
 ---
 title: The Simple Struggle
-type: post
 date: 2019-02-10T00:00:00+00:00
-url: /2019/02/the-simple-struggle/
 featured_image: /images/2019/02/IMG_0012-22.jpg
 categories:
   - Personal

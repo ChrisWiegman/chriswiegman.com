@@ -1,8 +1,6 @@
 ---
 title: Bit51’s Development Tools – 2013 Edition
-type: post
 date: 2013-05-27T04:00:00+00:00
-url: /2013/05/bit51s-development-tools-2013-edition/
 categories:
   - Technical
 tags:

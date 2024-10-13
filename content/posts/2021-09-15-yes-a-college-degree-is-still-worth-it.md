@@ -1,8 +1,6 @@
 ---
 title: Yes, A College Degree is Still Worth It
-type: post
 date: 2021-09-15T13:06:30+00:00
-url: /2021/09/yes-a-college-degree-is-still-worth-it/
 featured_image: /images/2021/09/yes-a-college-degree-is-still-worth.jpg
 categories:
   - Personal

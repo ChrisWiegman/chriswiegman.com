@@ -1,8 +1,6 @@
 ---
 title: Three Months Soda Free
-type: post
 date: 2022-02-04T13:43:18+00:00
-url: /2022/02/three-months-soda-free/
 featured_image: /images/2022/02/three-months-soda-free.jpg
 categories:
   - Personal

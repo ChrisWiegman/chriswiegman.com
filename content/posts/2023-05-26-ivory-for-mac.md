@@ -1,8 +1,6 @@
 ---
 title: Ivory for Mac
-type: post
 date: 2023-05-26T12:23:01+00:00
-url: /2023/05/ivory-for-mac/
 categories:
   - Personal
 tags:

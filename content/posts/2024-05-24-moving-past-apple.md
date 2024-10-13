@@ -1,8 +1,6 @@
 ---
 title: Moving Past Apple?
-type: post
 date: 2024-05-24T12:42:12+00:00
-url: /2024/05/moving-past-apple/
 categories:
   - Technical
 tags:

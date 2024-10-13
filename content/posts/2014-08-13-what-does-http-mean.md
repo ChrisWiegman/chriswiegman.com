@@ -1,8 +1,6 @@
 ---
 title: What Does HTTP Mean?
-type: post
 date: 2014-08-13T04:00:00+00:00
-url: /2014/08/what-does-http-mean/
 categories:
   - Technical
 tags:

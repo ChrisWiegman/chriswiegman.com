@@ -1,8 +1,6 @@
 ---
 title: There Should be More to Normal than Escape
-type: post
 date: 2022-02-07T12:57:55+00:00
-url: /2022/02/there-should-be-more-to-normal-than-escape/
 featured_image: /images/2020/07/Why-Ive-Stuck-With-WordPress.jpg
 categories:
   - Personal

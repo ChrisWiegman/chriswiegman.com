@@ -1,8 +1,6 @@
 ---
 title: How Often Should You Blog?
-type: post
 date: 2012-04-27T04:00:00+00:00
-url: /2012/04/how-often-should-you-blog/
 categories:
   - Technical
 tags:

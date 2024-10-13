@@ -1,8 +1,6 @@
 ---
 title: Tweetbot vs Twitter – Which is Better?
-type: post
 date: 2021-12-20T15:08:53+00:00
-url: /2021/12/tweetbot-vs-twitter-which-is-better/
 categories:
   - Technical
 tags:

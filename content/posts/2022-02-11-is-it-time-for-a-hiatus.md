@@ -1,8 +1,6 @@
 ---
 title: Is it time for a hiatus?
-type: post
 date: 2022-02-11T13:28:32+00:00
-url: /2022/02/is-it-time-for-a-hiatus/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Taking Apart My Space
-type: post
 date: 2023-09-29T12:13:55+00:00
-url: /2023/09/taking-apart-my-space/
 categories:
   - Personal
 tags:

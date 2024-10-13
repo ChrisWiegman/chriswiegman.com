@@ -1,8 +1,6 @@
 ---
 title: When Will Your Website be Responsive?
-type: post
 date: 2012-05-18T04:00:00+00:00
-url: /2012/05/when-will-your-website-be-responsive/
 categories:
   - Technical
 tags:

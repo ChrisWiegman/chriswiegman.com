@@ -1,8 +1,6 @@
 ---
 title: All Good Things Must Come to an End
-type: post
 date: 2024-07-03T12:18:33+00:00
-url: /2024/07/all-good-things-must-come-to-an-end/
 categories:
   - Personal
 tags:

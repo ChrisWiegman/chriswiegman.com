@@ -1,8 +1,6 @@
 ---
 title: It’s OK that I can’t use Linux for everything
-type: post
 date: 2023-02-20T13:42:29+00:00
-url: /2023/02/its-ok-that-i-cant-use-linux-for-everything/
 categories:
   - Personal
 tags:

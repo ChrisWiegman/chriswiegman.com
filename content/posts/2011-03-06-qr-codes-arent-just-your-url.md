@@ -1,8 +1,6 @@
 ---
 title: QR Codes Aren’t Just Your URL
-type: post
 date: 2011-03-06T05:00:00+00:00
-url: /2011/03/qr-codes-arent-just-your-url/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: What to look for in a website host
-type: post
 date: 2009-03-23T00:00:00+00:00
-url: /2009/03/what-to-look-for-in-a-website-host/
 categories:
   - Technical
 tags:

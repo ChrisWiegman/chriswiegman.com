@@ -1,8 +1,6 @@
 ---
 title: Installing Node LTS with The Latest NPM using NVM
-type: post
 date: 2022-01-17T13:16:27+00:00
-url: /2022/01/installing-node-lts-with-the-latest-npm-using-nvm/
 featured_image: /images/2022/01/installing-node-lts-with-the-latest-npm-using-nvm.jpg
 categories:
   - Technical

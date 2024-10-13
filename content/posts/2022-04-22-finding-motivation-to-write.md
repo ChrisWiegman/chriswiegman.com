@@ -1,8 +1,6 @@
 ---
 title: Finding Motivation to Write
-type: post
 date: 2022-04-22T13:23:39+00:00
-url: /2022/04/finding-motivation-to-write/
 categories:
   - Personal
 tags:

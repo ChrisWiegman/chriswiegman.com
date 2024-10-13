@@ -1,8 +1,6 @@
 ---
 title: The Real Test Begins
-type: post
 date: 2023-05-10T13:01:05+00:00
-url: /2023/05/the-real-test-begins/
 categories:
   - Personal
 tags:

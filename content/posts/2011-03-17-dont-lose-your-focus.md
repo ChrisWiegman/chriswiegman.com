@@ -1,8 +1,6 @@
 ---
 title: Don’t Lose Your Focus
-type: post
 date: 2011-03-17T04:00:00+00:00
-url: /2011/03/dont-lose-your-focus/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Where is the Positivity?
-type: post
 date: 2023-09-06T12:08:47+00:00
-url: /2023/09/where-is-the-positivity/
 categories:
   - Personal
 tags:

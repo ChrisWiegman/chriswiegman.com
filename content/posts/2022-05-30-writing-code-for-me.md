@@ -1,8 +1,6 @@
 ---
 title: Writing Code For Me
-type: post
 date: 2022-05-30T13:21:23+00:00
-url: /2022/05/writing-code-for-me/
 categories:
   - Personal
 tags:

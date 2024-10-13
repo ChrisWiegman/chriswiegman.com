@@ -1,8 +1,6 @@
 ---
 title: Back to the Office
-type: post
 date: 2024-08-19T12:38:42+00:00
-url: /2024/08/back-to-the-office/
 categories:
   - Personal
 tags:

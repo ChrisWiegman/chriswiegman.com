@@ -1,8 +1,6 @@
 ---
 title: 5 Google Services Your Website Needs (even if you don’t)
-type: post
 date: 2011-09-26T04:00:00+00:00
-url: /2011/09/5-google-services-your-website-needs-even-if-you-dont/
 categories:
   - Technical
 tags:

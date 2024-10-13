@@ -1,8 +1,6 @@
 ---
 title: Does Gutenberg Work For You?
-type: post
 date: 2021-12-13T13:38:46+00:00
-url: /2021/12/does-gutenberg-work-for-you/
 featured_image: /images/2021/12/does-gutenberg-work-for-you.jpg
 categories:
   - Technical

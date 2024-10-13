@@ -1,8 +1,6 @@
 ---
 title: 'Higher-Ed vs The Private Sector: It’s the mission stupid!'
-type: post
 date: 2010-07-18T00:00:00+00:00
-url: /2010/07/higher-ed-vs-the-private-sector-its-the-mission-stupid/
 categories:
   - Personal
 tags:

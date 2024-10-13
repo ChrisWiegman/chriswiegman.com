@@ -1,8 +1,6 @@
 ---
 title: 'Back to WordPress. com [Jetpack] Stats'
-type: post
 date: 2021-11-19T13:32:45+00:00
-url: /2021/11/back-to-wordpress-com-jetpack-stats/
 featured_image: /images/2021/11/back-to-wordpress-com-jetpack-stats.png
 categories:
   - Technical

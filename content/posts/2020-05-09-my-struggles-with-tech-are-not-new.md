@@ -1,8 +1,6 @@
 ---
 title: My Struggles With Tech Are Not New
-type: post
 date: 2020-05-09T15:06:00+00:00
-url: /2020/05/my-struggles-with-tech-are-not-new/
 categories:
   - Personal
 tags:

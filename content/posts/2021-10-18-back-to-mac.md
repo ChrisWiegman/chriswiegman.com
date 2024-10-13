@@ -1,8 +1,6 @@
 ---
 title: Back to Mac
-type: post
 date: 2021-10-18T12:50:12+00:00
-url: /2021/10/back-to-mac/
 featured_image: /images/2021/10/back-to-mac.png
 categories:
   - Technical

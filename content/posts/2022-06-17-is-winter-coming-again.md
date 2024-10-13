@@ -1,8 +1,6 @@
 ---
 title: Is Winter Coming, Again?
-type: post
 date: 2022-06-17T12:13:52+00:00
-url: /2022/06/is-winter-coming-again/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: How Many Social Networks Should You Publish Your Blog On
-type: post
 date: 2012-02-15T05:00:00+00:00
-url: /2012/02/how-many-social-networks-should-you-publish-your-blog-on/
 categories:
   - Technical
 tags:

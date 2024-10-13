@@ -1,8 +1,6 @@
 ---
 title: Happy Thanksgiving
-type: post
 date: 2021-11-24T15:22:15+00:00
-url: /2021/11/happy-thanksgiving/
 featured_image: /images/2021/11/happy-thanksgiving.jpeg
 categories:
   - Personal

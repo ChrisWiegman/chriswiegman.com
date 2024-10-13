@@ -1,8 +1,6 @@
 ---
 title: Hello February
-type: post
 date: 2022-02-02T13:00:36+00:00
-url: /2022/02/hello-february/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: 'Pixel 2 XL vs iPhone 8+: A Week of Using Both'
-type: post
 date: 2017-12-08T18:58:57+00:00
-url: /2017/12/pixel-2-xl-vs-iphone-8-a-week-of-using-both/
 featured_image: /images/2020/07/pixel2xl-vs-iphone8.jpg
 categories:
   - Technical

@@ -1,8 +1,6 @@
 ---
 title: Leaving Big Tech Ecosystems Behind
-type: post
 date: 2019-09-28T20:40:50+00:00
-url: /2019/09/leaving-big-tech-ecosystems-behind/
 categories:
   - Technical
 tags:

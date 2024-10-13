@@ -1,8 +1,6 @@
 ---
 title: Preparing to Move and Hoping for Home
-type: post
 date: 2023-09-13T12:08:15+00:00
-url: /2023/09/preparing-to-move-and-hoping-for-home/
 categories:
   - Personal
 tags:

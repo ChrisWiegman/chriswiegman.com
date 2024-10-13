@@ -1,8 +1,6 @@
 ---
 title: NAMS – Some Thoughts On A New Experience
-type: post
 date: 2014-08-04T00:00:00+00:00
-url: /2014/08/nams-some-thoughts-on-a-new-experience/
 featured_image: /images/2014/08/mynams.jpg
 categories:
   - Technical

@@ -1,8 +1,6 @@
 ---
 title: Google Fi and Pixel… 5 Months Later
-type: post
 date: 2018-05-05T04:00:00+00:00
-url: /2018/05/google-fi-and-pixel-5-months-later/
 categories:
   - Technical
 tags:

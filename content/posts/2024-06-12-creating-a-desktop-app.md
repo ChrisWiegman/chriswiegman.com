@@ -1,8 +1,6 @@
 ---
 title: Creating a Desktop App
-type: post
 date: 2024-06-12T12:56:33+00:00
-url: /2024/06/creating-a-desktop-app/
 categories:
   - Technical
 tags:

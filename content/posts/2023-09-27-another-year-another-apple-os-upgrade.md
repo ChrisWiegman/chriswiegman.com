@@ -1,8 +1,6 @@
 ---
 title: Another Year, Another Apple OS Upgrade
-type: post
 date: 2023-09-27T10:28:46+00:00
-url: /2023/09/another-year-another-apple-os-upgrade/
 categories:
   - Personal
 tags:

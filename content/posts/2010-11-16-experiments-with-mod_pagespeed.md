@@ -1,8 +1,6 @@
 ---
 title: Experiments with mod_pagespeed
-type: post
 date: 2010-11-16T05:00:00+00:00
-url: /2010/11/experiments-with-mod_pagespeed/
 categories:
   - Technical
 tags:

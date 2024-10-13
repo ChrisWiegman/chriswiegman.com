@@ -1,8 +1,6 @@
 ---
 title: It’s Time for a New WordPress Theme
-type: post
 date: 2022-02-21T13:17:00+00:00
-url: /2022/02/its-time-for-a-new-wordpress-theme/
 featured_image: /images/2022/02/its-time-for-a-new-wordpress-theme.jpg
 categories:
   - Technical

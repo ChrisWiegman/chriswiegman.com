@@ -1,8 +1,6 @@
 ---
 title: It’s 2022 and Chrome Still Sucks
-type: post
 date: 2022-06-13T12:26:16+00:00
-url: /2022/06/its-2022-and-chrome-still-sucks/
 categories:
   - Technical
 tags:

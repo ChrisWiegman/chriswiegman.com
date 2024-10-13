@@ -1,8 +1,6 @@
 ---
 title: Building a New Website… in Astro
-type: post
 date: 2024-03-20T17:03:52+00:00
-url: /2024/03/building-a-new-website-in-astro/
 categories:
   - Technical
 tags:

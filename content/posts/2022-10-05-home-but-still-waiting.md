@@ -1,8 +1,6 @@
 ---
 title: Home But Still Waiting
-type: post
 date: 2022-10-05T10:18:42+00:00
-url: /2022/10/home-but-still-waiting/
 categories:
   - Personal
 tags:

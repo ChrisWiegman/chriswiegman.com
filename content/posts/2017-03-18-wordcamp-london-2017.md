@@ -1,8 +1,6 @@
 ---
 title: WordCamp London 2017
-type: post
 date: 2017-03-18T00:00:00+00:00
-url: /2017/03/wordcamp-london-2017/
 categories:
   - Technical
 tags:

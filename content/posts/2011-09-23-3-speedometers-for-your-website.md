@@ -1,8 +1,6 @@
 ---
 title: 3 Speedometers For Your Website
-type: post
 date: 2011-09-23T04:00:00+00:00
-url: /2011/09/3-speedometers-for-your-website/
 categories:
   - Technical
 tags:

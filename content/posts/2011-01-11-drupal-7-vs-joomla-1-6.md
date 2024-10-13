@@ -1,8 +1,6 @@
 ---
 title: Drupal 7 vs Joomla 1.6
-type: post
 date: 2011-01-11T05:00:00+00:00
-url: /2011/01/drupal-7-vs-joomla-1-6/
 categories:
   - Technical
 tags:

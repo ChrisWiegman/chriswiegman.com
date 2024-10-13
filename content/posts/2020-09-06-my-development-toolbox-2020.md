@@ -1,8 +1,6 @@
 ---
 title: My Development Toolbox – 2020
-type: post
 date: 2020-09-06T18:59:54+00:00
-url: /2020/09/my-development-toolbox-2020/
 categories:
   - Technical
 tags:

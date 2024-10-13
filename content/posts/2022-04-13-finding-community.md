@@ -1,8 +1,6 @@
 ---
 title: Finding Community
-type: post
 date: 2022-04-13T13:12:09+00:00
-url: /2022/04/finding-community/
 categories:
   - Technical
 tags:

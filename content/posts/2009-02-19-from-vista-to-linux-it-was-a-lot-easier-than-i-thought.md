@@ -1,8 +1,6 @@
 ---
 title: From Vista to Linux (It was a lot easier than I thought)
-type: post
 date: 2009-02-19T05:00:00+00:00
-url: /2009/02/from-vista-to-linux-it-was-a-lot-easier-than-i-thought/
 categories:
   - Technical
 tags:

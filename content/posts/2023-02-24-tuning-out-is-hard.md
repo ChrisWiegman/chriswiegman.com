@@ -1,8 +1,6 @@
 ---
 title: Tuning Out is Hard
-type: post
 date: 2023-02-24T13:12:04+00:00
-url: /2023/02/tuning-out-is-hard/
 categories:
   - Personal
 tags:

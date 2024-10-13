@@ -1,8 +1,6 @@
 ---
 title: Life is Hard
-type: post
 date: 2023-04-10T12:26:24+00:00
-url: /2023/04/life-is-hard/
 categories:
   - Personal
 tags:

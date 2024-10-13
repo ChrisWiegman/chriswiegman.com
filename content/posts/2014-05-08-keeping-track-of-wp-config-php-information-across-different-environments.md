@@ -1,8 +1,6 @@
 ---
 title: Keeping Track of wp-config.php Information Across Different Environments
-type: post
 date: 2014-05-08T04:00:00+00:00
-url: /2014/05/keeping-track-of-wp-config-php-information-across-different-environments/
 categories:
   - Technical
 tags:

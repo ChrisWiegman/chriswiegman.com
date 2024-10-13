@@ -1,8 +1,6 @@
 ---
 title: Getting Media on Your Local WordPress Site
-type: post
 date: 2016-02-02T00:00:00+00:00
-url: /2016/02/getting-media-on-your-local-wordpress-site/
 categories:
   - Technical
 tags:

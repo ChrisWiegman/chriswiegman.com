@@ -1,8 +1,6 @@
 ---
 title: My Frustration With Tech
-type: post
 date: 2024-01-26T13:59:17+00:00
-url: /2024/01/my-frustration-with-tech/
 categories:
   - Personal
 tags:

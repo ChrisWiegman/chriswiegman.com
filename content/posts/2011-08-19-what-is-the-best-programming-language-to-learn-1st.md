@@ -1,8 +1,6 @@
 ---
 title: What Is The Best Programming Language To Learn 1st?
-type: post
 date: 2011-08-19T04:00:00+00:00
-url: /2011/08/what-is-the-best-programming-language-to-learn-1st/
 categories:
   - Technical
 tags:

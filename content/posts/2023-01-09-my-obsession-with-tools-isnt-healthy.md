@@ -1,8 +1,6 @@
 ---
 title: My Obsession With Tools Isn’t Healthy
-type: post
 date: 2023-01-09T15:12:40+00:00
-url: /2023/01/my-obsession-with-tools-isnt-healthy/
 featured_image: /images/2022/05/upgrading-my-home-office-studio.jpg
 categories:
   - Personal

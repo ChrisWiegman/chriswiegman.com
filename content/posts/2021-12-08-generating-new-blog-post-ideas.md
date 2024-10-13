@@ -1,8 +1,6 @@
 ---
 title: Generating New Blog Post Ideas
-type: post
 date: 2021-12-08T15:48:00+00:00
-url: /2021/12/generating-new-blog-post-ideas/
 categories:
   - Personal
 tags:

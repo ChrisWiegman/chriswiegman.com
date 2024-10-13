@@ -1,8 +1,6 @@
 ---
 title: Not All Languages Are The Same
-type: post
 date: 2022-08-03T12:18:31+00:00
-url: /2022/08/not-all-languages-are-the-same/
 categories:
   - Technical
 tags:

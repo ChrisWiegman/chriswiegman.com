@@ -1,8 +1,6 @@
 ---
 title: Could This Site be Limiting Me?
-type: post
 date: 2024-02-09T12:04:31+00:00
-url: /2024/02/could-this-site-be-limiting-me/
 categories:
   - Personal
 tags:

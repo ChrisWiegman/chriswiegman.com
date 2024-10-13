@@ -1,8 +1,6 @@
 ---
 title: In Sickness and In Cold
-type: post
 date: 2024-01-17T14:33:14+00:00
-url: /2024/01/in-sickness-and-in-cold/
 categories:
   - Personal
 tags:

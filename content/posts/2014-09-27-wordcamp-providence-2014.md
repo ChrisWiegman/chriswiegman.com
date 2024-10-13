@@ -1,8 +1,6 @@
 ---
 title: WordCamp Providence 2014
-type: post
 date: 2014-09-27T00:00:00+00:00
-url: /2014/09/wordcamp-providence-2014/
 featured_image: /images/2014/09/wordcamp-providence-2014.png
 categories:
   - Technical

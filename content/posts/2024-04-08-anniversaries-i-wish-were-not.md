@@ -1,8 +1,6 @@
 ---
 title: Anniversaries I Wish Were Not
-type: post
 date: 2024-04-08T12:00:03+00:00
-url: /2024/04/anniversaries-i-wish-were-not/
 categories:
   - Personal
 tags:

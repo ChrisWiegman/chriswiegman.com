@@ -1,8 +1,6 @@
 ---
 title: Almost “home”
-type: post
 date: 2023-05-19T13:02:49+00:00
-url: /2023/05/almost-home/
 categories:
   - Personal
 tags:

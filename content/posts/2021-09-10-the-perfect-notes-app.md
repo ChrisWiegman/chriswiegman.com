@@ -1,8 +1,6 @@
 ---
 title: The Perfect Notes App
-type: post
 date: 2021-09-10T14:07:25+00:00
-url: /2021/09/the-perfect-notes-app/
 categories:
   - Technical
 tags:

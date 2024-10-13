@@ -1,8 +1,6 @@
 ---
 title: IDEs for web developers
-type: post
 date: 2008-09-23T04:00:00+00:00
-url: /2008/09/ides-for-web-developers/
 categories:
   - Technical
 tags:

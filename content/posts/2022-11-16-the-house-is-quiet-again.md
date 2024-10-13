@@ -1,8 +1,6 @@
 ---
 title: The House Is Quiet Again
-type: post
 date: 2022-11-16T13:09:23+00:00
-url: /2022/11/the-house-is-quiet-again/
 featured_image: /images/2019/02/IMG_0012-22.jpg
 categories:
   - Personal

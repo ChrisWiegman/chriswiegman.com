@@ -1,8 +1,6 @@
 ---
 title: The fast pace of change in tech
-type: post
 date: 2023-03-31T18:56:41+00:00
-url: /2023/03/the-fast-pace-of-change-in-tech/
 categories:
   - Personal
 tags:

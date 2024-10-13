@@ -1,8 +1,6 @@
 ---
 title: But I Thought there Were No Core Bugs in WordPress?
-type: post
 date: 2013-07-03T00:00:00+00:00
-url: /2013/07/but-i-thought-there-were-no-core-bugs-in-wordpress/
 categories:
   - Technical
 tags:

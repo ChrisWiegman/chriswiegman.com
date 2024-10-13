@@ -1,8 +1,6 @@
 ---
 title: The Perfect iPad Keyboard?
-type: post
 date: 2022-06-27T13:31:30+00:00
-url: /2022/06/the-perfect-ipad-keyboard/
 featured_image: /images/2022/06/bridge-keyboard-for-iPad.jpg
 categories:
   - Technical

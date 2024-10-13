@@ -1,8 +1,6 @@
 ---
 title: My WordPress wish list
-type: post
 date: 2023-02-03T11:24:07+00:00
-url: /2023/02/my-wordpress-wish-list/
 categories:
   - Technical
 tags:

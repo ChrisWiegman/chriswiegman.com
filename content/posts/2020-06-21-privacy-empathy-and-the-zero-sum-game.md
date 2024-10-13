@@ -1,8 +1,6 @@
 ---
 title: Privacy Empathy and the Zero-Sum Game
-type: post
 date: 2020-06-21T15:27:00+00:00
-url: /2020/06/privacy-empathy-and-the-zero-sum-game/
 categories:
   - Technical
 tags:

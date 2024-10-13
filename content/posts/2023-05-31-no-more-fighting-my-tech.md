@@ -1,8 +1,6 @@
 ---
 title: No more fighting my tech
-type: post
 date: 2023-05-31T12:16:53+00:00
-url: /2023/05/no-more-fighting-my-tech/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Three Uses For Make in WordPress Development
-type: post
 date: 2021-08-11T13:28:42+00:00
-url: /2021/08/three-uses-for-make-in-wordpress-development/
 featured_image: /images/2021/08/using-parameters-in-a-make-target.png
 categories:
   - Technical

@@ -1,8 +1,6 @@
 ---
 title: Introducing Primary Vagrant
-type: post
 date: 2014-03-14T04:00:00+00:00
-url: /2014/03/introducing-primary-vagrant/
 categories:
   - Technical
 tags:

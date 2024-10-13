@@ -1,8 +1,6 @@
 ---
 title: Site Migrations are Hard
-type: post
 date: 2023-05-15T12:56:12+00:00
-url: /2023/05/site-migrations-are-hard/
 categories:
   - Technical
 tags:

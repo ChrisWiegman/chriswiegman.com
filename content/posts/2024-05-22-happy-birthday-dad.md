@@ -1,8 +1,6 @@
 ---
 title: Happy Birthday Dad
-type: post
 date: 2024-05-22T14:07:31+00:00
-url: /2024/05/happy-birthday-dad/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: The Ultimate WordPress Development Environment
-type: post
 date: 2021-12-27T14:31:11+00:00
-url: /2021/12/the-ultimate-wordpress-development-environment/
 categories:
   - Technical
 tags:
@@ -18,7 +16,7 @@ That begs the question, if I was to start a new such project today, what would i
 
 So what makes the perfect WordPress development environment tool? It's a few things actually:
 
-## It must be portable 
+## It must be portable
 
 One of the greatest failures of most of the available tools is that they're not portable. I cannot save a project configuration to my repo to have myself or a team member check it out on another machine and still be running within minutes and only a single command.
 

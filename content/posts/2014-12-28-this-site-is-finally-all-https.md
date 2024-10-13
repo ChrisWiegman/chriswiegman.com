@@ -1,8 +1,6 @@
 ---
 title: This Site is Finally All HTTPS
-type: post
 date: 2014-12-28T05:00:00+00:00
-url: /2014/12/this-site-is-finally-all-https/
 categories:
   - Technical
 tags:

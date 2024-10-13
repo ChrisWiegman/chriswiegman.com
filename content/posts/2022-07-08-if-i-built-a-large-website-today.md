@@ -1,8 +1,6 @@
 ---
 title: If I Built A Large Website Today…
-type: post
 date: 2022-07-08T12:12:11+00:00
-url: /2022/07/if-i-built-a-large-website-today/
 categories:
   - Technical
 tags:

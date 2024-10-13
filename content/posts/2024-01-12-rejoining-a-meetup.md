@@ -1,8 +1,6 @@
 ---
 title: Rejoining a Meetup
-type: post
 date: 2024-01-12T13:47:55+00:00
-url: /2024/01/rejoining-a-meetup/
 categories:
   - Technical
 tags:

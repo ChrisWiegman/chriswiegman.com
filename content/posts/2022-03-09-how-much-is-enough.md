@@ -1,8 +1,6 @@
 ---
 title: How Much Is Enough?
-type: post
 date: 2022-03-09T14:32:08+00:00
-url: /2022/03/how-much-is-enough/
 categories:
   - Personal
 tags:

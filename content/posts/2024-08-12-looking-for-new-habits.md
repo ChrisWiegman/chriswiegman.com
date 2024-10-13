@@ -1,8 +1,6 @@
 ---
 title: Looking for New Habits
-type: post
 date: 2024-08-12T12:13:48+00:00
-url: /2024/08/looking-for-new-habits/
 categories:
   - Personal
 tags:

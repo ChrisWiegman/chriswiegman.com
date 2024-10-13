@@ -1,8 +1,6 @@
 ---
 title: PHP 5.3 – Finally Ready For Primetime
-type: post
 date: 2010-11-13T05:00:00+00:00
-url: /2010/11/php-5-3-finally-ready-for-primetime/
 categories:
   - Technical
 tags:

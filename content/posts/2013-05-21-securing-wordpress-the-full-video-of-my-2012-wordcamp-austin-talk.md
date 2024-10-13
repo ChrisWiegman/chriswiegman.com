@@ -1,8 +1,6 @@
 ---
 title: Securing WordPress – The Full Video of my 2012 WordCamp Austin Talk
-type: post
 date: 2013-05-21T00:00:00+00:00
-url: /2013/05/securing-wordpress-the-full-video-of-my-2012-wordcamp-austin-talk/
 categories:
   - Technical
 tags:

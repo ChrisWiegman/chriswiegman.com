@@ -1,8 +1,6 @@
 ---
 title: Friday, September 15, 2023
-type: post
 date: 2023-09-15T13:33:28+00:00
-url: /2023/09/friday-september-15-2023/
 categories:
   - Personal
 tags:

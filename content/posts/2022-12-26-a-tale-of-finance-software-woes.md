@@ -1,8 +1,6 @@
 ---
 title: A Tale of Finance Software Woes
-type: post
 date: 2022-12-26T14:48:27+00:00
-url: /2022/12/a-tale-of-finance-software-woes/
 categories:
   - Personal
 tags:

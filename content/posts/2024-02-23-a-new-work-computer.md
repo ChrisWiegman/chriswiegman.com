@@ -1,8 +1,6 @@
 ---
 title: A New Work Computer
-type: post
 date: 2024-02-23T14:08:02+00:00
-url: /2024/02/a-new-work-computer/
 categories:
   - Personal
 tags:

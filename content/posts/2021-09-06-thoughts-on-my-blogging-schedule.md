@@ -1,8 +1,6 @@
 ---
 title: Thoughts On My Blogging Schedule
-type: post
 date: 2021-09-06T18:59:49+00:00
-url: /2021/09/thoughts-on-my-blogging-schedule/
 categories:
   - Personal
 tags:
@@ -22,7 +20,7 @@ I've probably tried a dozen different schedules over the years, all ending in fa
 
 The simple fact is that, at least for me, keeping a schedule helps me form a habit and keeps me accountable. It gives me a chance and a method to keep ideas flowing at a sustainable pace, something I've never been able to find before.
 
-## Finding the write schedule 
+## Finding the write schedule
 
 Some people blog daily, some blog once a year and for them it works. As I've said already, that doesn't work for me. When I try to write too often I burn out on it and when I don't write enough I cannot find my groove to keep it going.
 

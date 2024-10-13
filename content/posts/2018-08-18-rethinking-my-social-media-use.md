@@ -1,8 +1,6 @@
 ---
 title: Rethinking My Social Media Use
-type: post
 date: 2018-08-18T17:58:58+00:00
-url: /2018/08/rethinking-my-social-media-use/
 categories:
   - Personal
 tags:

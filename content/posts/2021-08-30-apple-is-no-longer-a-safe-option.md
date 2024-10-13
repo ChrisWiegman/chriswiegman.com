@@ -1,8 +1,6 @@
 ---
 title: Apple is No-longer A Safe Option
-type: post
 date: 2021-08-30T15:15:06+00:00
-url: /2021/08/apple-is-no-longer-a-safe-option/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Good Riddance, August
-type: post
 date: 2024-08-30T13:22:32+00:00
-url: /2024/08/good-riddance-august/
 categories:
   - Personal
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Trying Full Site Editing in WordPress
-type: post
 date: 2022-06-24T19:23:06+00:00
-url: /2022/06/trying-full-site-editing-in-wordpress/
 featured_image: /images/2022/02/its-time-for-a-new-wordpress-theme.jpg
 categories:
   - Technical

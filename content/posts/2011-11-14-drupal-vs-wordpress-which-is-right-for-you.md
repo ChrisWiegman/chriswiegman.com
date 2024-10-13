@@ -1,8 +1,6 @@
 ---
 title: Drupal vs WordPress – Which is right for you?
-type: post
 date: 2011-11-14T05:00:00+00:00
-url: /2011/11/drupal-vs-wordpress-which-is-right-for-you/
 categories:
   - Technical
 tags:

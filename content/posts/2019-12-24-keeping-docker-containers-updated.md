@@ -1,9 +1,7 @@
 ---
 title: Keeping Docker Containers Updated
-type: post
 date: 2019-12-24T22:23:10+00:00
 description: "A quick tutorial on keeping your Docker containers up to date with Watchtower."
-url: /2019/12/keeping-docker-containers-updated/
 categories:
   - Technical
 tags:

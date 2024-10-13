@@ -1,8 +1,6 @@
 ---
 title: Windows 7, A Redeeming Quality or Two on Another Failed OS
-type: post
 date: 2009-10-18T04:00:00+00:00
-url: /2009/10/windows-7-a-redeeming-quality-or-two-on-another-failed-os/
 categories:
   - Technical
 tags:

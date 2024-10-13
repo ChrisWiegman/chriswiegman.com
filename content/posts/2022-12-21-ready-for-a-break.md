@@ -1,8 +1,6 @@
 ---
 title: Ready For A Break
-type: post
 date: 2022-12-21T11:09:25+00:00
-url: /2022/12/ready-for-a-break/
 featured_image: /images/2022/10/the-future-is-very-dark.jpg
 categories:
   - Personal

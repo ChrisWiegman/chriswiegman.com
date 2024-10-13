@@ -1,8 +1,6 @@
 ---
 title: 3 Reasons I Do My Side Projects
-type: post
 date: 2023-07-28T12:08:31+00:00
-url: /2023/07/3-reasons-i-do-my-side-projects/
 categories:
   - Technical
 tags:

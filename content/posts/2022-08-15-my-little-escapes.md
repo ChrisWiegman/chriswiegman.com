@@ -1,8 +1,6 @@
 ---
 title: My Little Escapes
-type: post
 date: 2022-08-15T11:01:29+00:00
-url: /2022/08/my-little-escapes/
 categories:
   - Personal
 tags:

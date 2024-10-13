@@ -1,8 +1,6 @@
 ---
 title: Using Parameters in a Make Target
-type: post
 date: 2021-08-04T13:11:05+00:00
-url: /2021/08/using-parameters-in-a-make-target/
 featured_image: /images/2021/08/using-parameters-in-a-make-target.png
 categories:
   - Technical

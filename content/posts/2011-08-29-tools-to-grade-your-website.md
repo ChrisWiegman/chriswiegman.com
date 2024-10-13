@@ -1,8 +1,6 @@
 ---
 title: Tools To Grade Your Website
-type: post
 date: 2011-08-29T04:00:00+00:00
-url: /2011/08/tools-to-grade-your-website/
 categories:
   - Technical
 tags:

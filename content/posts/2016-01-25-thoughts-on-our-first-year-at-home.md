@@ -1,8 +1,6 @@
 ---
 title: Thoughts On Our First Year At Home
-type: post
 date: 2016-01-25T18:58:56+00:00
-url: /2016/01/thoughts-on-our-first-year-at-home/
 featured_image: /images/2020/07/thoughts-on-home.jpg
 categories:
   - Personal

@@ -1,8 +1,6 @@
 ---
 title: So Long Primary Vagrant
-type: post
 date: 2018-06-20T04:00:00+00:00
-url: /2018/06/so-long-primary-vagrant/
 categories:
   - Technical
 tags:

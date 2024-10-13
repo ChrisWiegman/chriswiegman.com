@@ -1,8 +1,6 @@
 ---
 title: 5 Reasons Everyone Should Blog
-type: post
 date: 2009-07-24T04:00:00+00:00
-url: /2009/07/5-reasons-everyone-should-blog/
 categories:
   - Technical
 tags:

@@ -1,8 +1,6 @@
 ---
 title: Merry Christmas
-type: post
 date: 2023-12-25T13:32:36+00:00
-url: /2023/12/merry-christmas-2/
 categories:
   - Personal
 tags:

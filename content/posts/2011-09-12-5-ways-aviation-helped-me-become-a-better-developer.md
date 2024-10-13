@@ -1,8 +1,6 @@
 ---
 title: 5 Ways Aviation Helped Me Become A Better Developer
-type: post
 date: 2011-09-12T00:00:00+00:00
-url: /2011/09/5-ways-aviation-helped-me-become-a-better-developer/
 categories:
   - Personal
 tags:

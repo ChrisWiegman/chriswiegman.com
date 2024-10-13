@@ -1,8 +1,6 @@
 ---
 title: Digital Privacy Isn’t Easy
-type: post
 date: 2022-11-30T13:44:19+00:00
-url: /2022/11/digital-privacy-isnt-easy/
 featured_image: /images/2018/09/my-new-setup.jpg
 categories:
   - Technical

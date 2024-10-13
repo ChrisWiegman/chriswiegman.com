@@ -1,8 +1,6 @@
 ---
 title: So Long Coda, Hello Espresso
-type: post
 date: 2011-11-07T05:00:00+00:00
-url: /2011/11/so-long-coda-hello-espresso/
 categories:
   - Technical
 tags:

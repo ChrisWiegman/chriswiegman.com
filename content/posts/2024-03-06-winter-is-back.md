@@ -1,8 +1,6 @@
 ---
 title: Winter is Back?
-type: post
 date: 2024-03-06T13:54:37+00:00
-url: /2024/03/winter-is-back/
 categories:
   - Personal
 tags:

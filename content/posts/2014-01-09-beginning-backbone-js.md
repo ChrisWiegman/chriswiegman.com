@@ -1,8 +1,6 @@
 ---
 title: Beginning Backbone.js
-type: post
 date: 2014-01-09T05:00:00+00:00
-url: /2014/01/beginning-backbone-js/
 categories:
   - Technical
 tags:

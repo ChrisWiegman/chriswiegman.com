@@ -1,8 +1,6 @@
 ---
 title: I’ve Finished a Full Month of Getting Healthier
-type: post
 date: 2024-02-02T13:58:45+00:00
-url: /2024/02/ive-finished-a-full-month-of-getting-healthier/
 categories:
   - Personal
 tags:

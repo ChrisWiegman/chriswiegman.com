@@ -1,8 +1,6 @@
 ---
 title: First Impressions of My M1 MacBook Pro
-type: post
 date: 2021-11-05T13:35:29+00:00
-url: /2021/11/first-impressions-of-my-m1-macbook-pro/
 featured_image: /images/2021/11/first-impressions-of-my-m1-macbook-pro.jpeg
 categories:
   - Technical

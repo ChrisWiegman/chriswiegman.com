@@ -1,8 +1,6 @@
 ---
 title: The Road to Sustainable Tech
-type: post
 date: 2020-01-15T15:33:09+00:00
-url: /2020/01/the-road-to-sustainable-tech/
 featured_image: /images/2020/08/the-road-to-sustainable-tech.jpg
 categories:
   - Technical

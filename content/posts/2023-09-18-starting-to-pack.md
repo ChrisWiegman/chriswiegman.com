@@ -1,8 +1,6 @@
 ---
 title: Starting to Pack
-type: post
 date: 2023-09-18T12:07:41+00:00
-url: /2023/09/starting-to-pack/
 categories:
   - Personal
 tags:

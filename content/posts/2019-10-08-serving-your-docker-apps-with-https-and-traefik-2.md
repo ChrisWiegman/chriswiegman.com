@@ -1,9 +1,7 @@
 ---
 title: Serving Your Docker Apps With HTTPS and Traefik 2
-type: post
 date: 2019-10-08T20:45:00+00:00
 description: "How to get your website running with Traefik 2 and Let's Encrypt."
-url: /2019/10/serving-your-docker-apps-with-https-and-traefik-2/
 featured_image: /images/2020/08/serving-your-docker-apps-with-https-and-traefik-2.jpg
 categories:
   - Technical

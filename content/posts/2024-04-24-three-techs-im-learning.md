@@ -1,8 +1,6 @@
 ---
 title: Three Techs I’m Learning
-type: post
 date: 2024-04-24T11:57:21+00:00
-url: /2024/04/three-techs-im-learning/
 categories:
   - Technical
 tags:

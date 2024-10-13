@@ -1,8 +1,6 @@
 ---
 title: 'Goodbye 2017 and Hello 2018: Goals, Hopes and Spoiled Plans'
-type: post
 date: 2018-01-01T18:58:58+00:00
-url: /2018/01/goodbye-2017-and-hello-2018-goals-hopes-and-spoiled-plans/
 categories:
   - Personal
 tags:

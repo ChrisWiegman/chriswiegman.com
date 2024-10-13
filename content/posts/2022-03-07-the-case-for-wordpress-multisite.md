@@ -1,8 +1,6 @@
 ---
 title: The Case For WordPress Multisite
-type: post
 date: 2022-03-07T13:31:37+00:00
-url: /2022/03/the-case-for-wordpress-multisite/
 categories:
   - Technical
 tags:

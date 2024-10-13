@@ -1,8 +1,6 @@
 ---
 title: How to Open an Apple Pages or Keynote Document on Any Computer
-type: post
 date: 2011-09-30T04:00:00+00:00
-url: /2011/09/how-to-open-an-apple-pages-or-keynote-document-on-any-computer/
 categories:
   - Technical
 tags:

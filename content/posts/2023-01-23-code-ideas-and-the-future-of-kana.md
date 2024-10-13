@@ -1,8 +1,6 @@
 ---
 title: Code, Ideas and the Future of Kana
-type: post
 date: 2023-01-23T11:21:28+00:00
-url: /2023/01/code-ideas-and-the-future-of-kana/
 categories:
   - Technical
 tags:
