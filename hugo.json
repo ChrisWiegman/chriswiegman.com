@@ -60,6 +60,13 @@
   "disableKinds": [
     "sections"
   ],
+  "outputs": {
+    "home": [
+      "HTML",
+      "RSS",
+      "JSON"
+    ]
+  },
   "markup": {
     "highlight": {
       "style": "gruvbox"
