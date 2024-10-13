@@ -7,9 +7,9 @@ categories:
   - Technical
 tags:
   - Web Development
-
 ---
-I’ve spent most of the day working on optimizing my work sites with <a href="http://code.google.com/speed/page-speed/docs/module.html" target="_blank" rel="noopener noreferrer">mod_pagespeed</a>, a Google sponsored Apache extension that provides various features to speed up the loading of your website.
+
+I’ve spent most of the day working on optimizing my work sites with [mod\_pagespeed](http://code.google.com/speed/page-speed/docs/module.html), a Google sponsored Apache extension that provides various features to speed up the loading of your website.
 
 Installation was easy, just install the package from the mod_pagespeed website and enable it like any other Apache extension. The catch came in making it work with all the virtual hosts on my server. After installation 2 problems quickly arose. First, assets such as images were disappearing from our WordPress multi-site installation. Second, the CPU load on the server started to spike far above normal usage.
 

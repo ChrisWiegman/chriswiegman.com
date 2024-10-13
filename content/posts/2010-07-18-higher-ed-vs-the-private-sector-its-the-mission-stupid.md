@@ -8,8 +8,8 @@ categories:
 tags:
   - Career Development
   - Higher Education
-
 ---
+
 A short exchange on twitter the other night left me thinking. A comment from a friend who is a web designer in a private sector firm made two points: 1.) Anyone who uses the title “webmaster” doesn’t belong working on the web and, 2.) many places, including higher-ed, have no place running their own websites. As someone who works on the web for higher-ed I find these statements interesting, not because I believe them, not because they struck a personal nerve, but because I’ve heard similar comments about higher-ed from many private sector developers and I’ve heard the exact opposite about the private sector from a number of higher-ed developers.
 
 Before I voice my opinion on the matter lets look at the facts. First, neither side is developing the same type of sites. From the audience to the message to the types of content the only two things are similar, the desire to sell a product and the basic media that is used to sell that product. Beyond these two similarities the two worlds are really very far apart.

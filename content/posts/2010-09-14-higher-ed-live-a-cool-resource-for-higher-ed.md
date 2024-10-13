@@ -7,6 +7,6 @@ categories:
   - Technical
 tags:
   - Higher Education
-
 ---
-A new resource came online for us higher-ed folks last weekend. This one provides weekly videos focusing on an issue of interest to us in higher ed. Check it out at: <a href="http://higheredlive.com/" target="_blank" rel="noopener noreferrer">http://higheredlive.com/</a>
+
+A new resource came online for us higher-ed folks last weekend. This one provides weekly videos focusing on an issue of interest to us in higher ed. Check it out at: [http://higheredlive.com/](http://higheredlive.com/)

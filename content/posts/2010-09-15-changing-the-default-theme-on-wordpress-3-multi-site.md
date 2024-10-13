@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - WordPress
-
 ---
+
 [WordPress][1]‘ default theme has come a long way with the new [twentyten][2] theme. However, for those of us using the multi-site feature it may still not be something we want all our users to be using on sign-up. Fortunately, there is an easy fix to the problem.
 
 First, open up _includes/default-constants.php_ in your code editor.
@@ -21,10 +21,12 @@ In your _content/mu-plugins_ folder create a file called _default-theme.php_
 
 Add the following code to _default-theme.php_
 
-<pre class="wp-block-code" aria-describedby="shcb-language-3" data-shcb-language-name="PHP" data-shcb-language-slug="php"><span><code class="hljs language-php">$tName = get_option(&lt;span class="hljs-string">'template'&lt;/span>);
-&lt;span class="hljs-keyword">if&lt;/span> ($tName == &lt;span class="hljs-string">'&#91;your-child-theme]'&lt;/span>) {
-     update_option(&lt;span class="hljs-string">'template'&lt;/span>, &lt;span class="hljs-string">'&#91;your-parent-theme]'&lt;/span>);
-}</code></span><small class="shcb-language" id="shcb-language-3"><span class="shcb-language__label">Code language:</span> <span class="shcb-language__name">PHP</span> <span class="shcb-language__paren">(</span><span class="shcb-language__slug">php</span><span class="shcb-language__paren">)</span></small></pre>
+``` php
+$tName = get_option('template');
+if ($tName == '[your-child-theme]') {
+     update_option('template', '[your-parent-theme]');
+}
+```
 
 Of course, you’ll need to replace the your-parent-theme and your-child-theme placeholders with the names of your themes. Once it’s done however new registrations will use your theme instead of the default twentyten theme.
 

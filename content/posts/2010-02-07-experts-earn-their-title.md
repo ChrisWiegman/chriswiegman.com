@@ -7,8 +7,8 @@ categories:
   - Technical
 tags:
   - Career Development
-
 ---
+
 A conversation the other day got me wondering what is an expert? I mean, what makes them an expert in their field? Is it that they’re smarter than everyone else? Is it just that they spent more time at it that everyone else? What is it?
 
 In the web the idea of an expert is often a misnomer. It seems that to web people the expert title is often given freely to any person who knows more about a specific topic than you do. For example, I was once labeled a Joomla! expert after a single installation of the software without even launching a site on the platform. Why? because I had done it and the other person hadn’t I must be an expert.
