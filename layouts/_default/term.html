@@ -8,12 +8,7 @@
             <p class="description"><span class="post-count">{{ $pages.Len }}</span> posts found.</p>
         </div>
 
-        <div class="content-search">
-            <form action="/search" method="get"> <label for="search">Search all content</label> <input type="text"
-                    name="s" id="search" placeholder="Search all content" value=""> <input type="submit" alt="Search"
-                    value="Search">
-            </form>
-        </div>
+        {{ partial "form.html" . }}
 
         {{ if eq .Data.Singular .Kind "category" }}
         <div class="content-categories">
