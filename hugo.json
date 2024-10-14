@@ -1,6 +1,6 @@
 {
   "title": "Chris Wiegman",
-  "baseURL": "https://chriswiegman.com/",
+  "baseURL": "https://chriswiegman.netlify.app",
   "params": {
     "mainSections": [
       "posts"
