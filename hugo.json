@@ -58,7 +58,8 @@
   "buildFuture": true,
   "canonifyURLs": true,
   "disableKinds": [
-    "sections"
+    "section",
+    "taxonomy"
   ],
   "outputs": {
     "home": [
