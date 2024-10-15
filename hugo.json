@@ -65,6 +65,7 @@
     "section",
     "taxonomy"
   ],
+  "timeout": "90s",
   "outputs": {
     "home": [
       "HTML",
