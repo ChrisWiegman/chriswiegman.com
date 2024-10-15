@@ -50,12 +50,16 @@
   "permalinks": {
     "posts": "/:year/:month/:slug/"
   },
+  "services": {
+    "rss": {
+      "limit": 30
+    }
+  },
   "languageCode": "en-us",
   "disableHugoGeneratorInject": true,
   "cleanDestinationDir": true,
   "enableRobotsTXT": true,
   "enableGitInfo": true,
-  "buildFuture": true,
   "canonifyURLs": true,
   "disableKinds": [
     "section",

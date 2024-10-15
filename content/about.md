@@ -1,7 +1,7 @@
 ---
 title: About Chris Wiegman
 description: "Chris Wiegman is a Vice President of Engineering, software developer, teacher and blogger building teams and products focused on humane and sustainable technology."
-date: 2024-11-01T12:00:00+00:00
+date: 2024-10-14T12:00:00+00:00
 type: page
 featured_image: images/2024/11/three-months-soda-free.jpg
 
@@ -66,7 +66,7 @@ A few of the more popular projects I’ve been involved with over the years incl
 * Renewing my blogging efforts on this site
 * Building up the engineering teams at SuperFile
 
-*Last updated: 1 November, 2024*
+*Last updated: 14 October, 2024*
 
 ## More about me
 
