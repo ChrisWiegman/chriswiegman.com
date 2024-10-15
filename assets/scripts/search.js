@@ -1,13 +1,7 @@
-summaryInclude = 60;
 var fuseOptions = {
-  shouldSort: true,
-  includeMatches: true,
+  includeScore: true,
+  ignoreLocation: true,
   threshold: 0.0,
-  tokenize: true,
-  location: 0,
-  distance: 100,
-  maxPatternLength: 32,
-  minMatchCharLength: 1,
   keys: [
     { name: "title", weight: 0.8 },
     { name: "contents", weight: 0.5 },
@@ -23,7 +17,6 @@ if (searchQuery) {
   $("#search-term").append(searchQuery);
   executeSearch(searchQuery);
 } else {
-  console.log("redirect")
   window.location.assign("/blog");
 }
 
@@ -32,7 +25,6 @@ function executeSearch(searchQuery) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
-    console.log({ "matches": result });
     $('#search-count').append(result.length)
     if (result.length > 0) {
       populateResults(result);
@@ -44,29 +36,6 @@ function executeSearch(searchQuery) {
 
 function populateResults(result) {
   $.each(result, function (key, value) {
-    var contents = value.item.contents;
-    var snippet = "";
-    var snippetHighlights = [];
-    var tags = [];
-    if (fuseOptions.tokenize) {
-      snippetHighlights.push(searchQuery);
-    } else {
-      $.each(value.matches, function (matchKey, mvalue) {
-        if (mvalue.key == "tags" || mvalue.key == "categories") {
-          snippetHighlights.push(mvalue.value);
-        } else if (mvalue.key == "contents") {
-          start = mvalue.indices[0][0] - summaryInclude > 0 ? mvalue.indices[0][0] - summaryInclude : 0;
-          end = mvalue.indices[0][1] + summaryInclude < contents.length ? mvalue.indices[0][1] + summaryInclude : contents.length;
-          snippet += contents.substring(start, end);
-          snippetHighlights.push(mvalue.value.substring(mvalue.indices[0][0], mvalue.indices[0][1] - mvalue.indices[0][0] + 1));
-        }
-      });
-    }
-
-    if (snippet.length < 1) {
-      snippet += contents.substring(0, summaryInclude * 2);
-    }
-
     //pull template from hugo templarte definition
     var templateDefinition = $('#search-result-template').html();
     let date = new Date(value.item.date);

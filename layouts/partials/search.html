@@ -5,7 +5,9 @@
         </a>
     </div>
 </script>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
-{{ $js := resources.Get "scripts/search.js" | js.Build (dict "minify" true ) }}
+{{ $search := resources.Get "scripts/search.js" }}
+{{ $plugins := resources.GetRemote "https://releases.jquery.com/git/jquery-3.x-git.js" }}
+{{ $global := resources.GetRemote "https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js" }}
+{{ $bundle := slice $plugins $global $search | resources.Concat "js/bundle.js" }}
+{{ $js :=  $bundle | resources.Minify }}
 <script src="{{ $js.RelPermalink }}"></script>
