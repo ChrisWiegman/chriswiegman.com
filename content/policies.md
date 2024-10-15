@@ -1,7 +1,7 @@
 ---
 title: Policies and Disclosures
 description: "Policies, credits and required disclosures for ChrisWiegman.com including my privacy policy."
-date: 2024-10-14T12:00:00+00:00
+date: 2024-10-15T12:00:00+00:00
 type: page
 ---
 
