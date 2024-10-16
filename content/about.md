@@ -12,15 +12,15 @@ Hello, I'm Chris. It's good to meet you.
 
 ### I am a Vice President of Engineering
 
-I am the Vice President of Engineering at SuperFile, an early-stage startup in Chicago, IL focused on privacy tech. I lead engineering teams to build solutions people need.
+I am the Vice President of Engineering at SuperFile, an early-stage startup in Chicago, IL focused on privacy and security tech. I am currently building the engineering teams to craft solutions people need.
 
-My management style borrows heavily from my experience in teaching, aviation and elsewhere. My goal is to empower my team, not "tell them what to do." I've been successful at this while leading numerous teams throughout my career.
+My management style borrows heavily from my experience in teaching, aviation and elsewhere. My goal is to empower my team, not "tell them what to do." It is a model that has served me well  while leading numerous teams throughout my career.
 
 ### I am a software engineer
 
-Throughout my career I've built WordPress plugins, websites, development environments, Chrome extensions and more as a software engineer for numerous organizations.
+I've built WordPress plugins, websites, development environments, Chrome extensions and more as a software engineer for numerous organizations.
 
-Outside of work, writing code is still one of my favorite hobbies. I've built a career working with open-source software and these days I do some work in WordPress directly and much more in languages like Go with which I build apps to help developers work smarter.
+Outside of work, writing code is still one of my favorite hobbies. I've built a career working with open-source software and these days I enjoy writing in languages like Go with which I build apps to help developers work smarter.
 
 ### I am a teacher
 
@@ -54,16 +54,16 @@ A few of the more popular projects I’ve been involved with over the years incl
 
 * [Kana](https://github.com/chriswiegman/kana)
 * [WP Engine's Faust.js headless WordPress framework](https://faustjs.org)
-* [WP Engine’s Atlas Content Modeler](https://github.com/wpengine/atlas-content-modeler) - *(Project replaced by ACM)*
+* [WP Engine’s Atlas Content Modeler](https://github.com/wpengine/atlas-content-modeler)
 * [WP Engine's Live Cart](https://wpengine.com/blog/solving-cart-fragment-dilemma-introducing-live-cart/)
-* [iThemes Security/Solid Security (Better WP Security)](https://wordpress.org/plugins/better-wp-security/) - *(Sold to iThemes)*
-* [Better Google Tasks](https://www.mattcutts.com/blog/todo-list-tips/) - *(Project archived)*
-* [Primary Vagrant](https://github.com/chriswiegman/primary-vagrant) - *(Project archived)*
-* [WP Engine’s DevKit](https://wptavern.com/wp-engine-launches-devkit-open-beta) - *(Project replaced by Local WP)*
+* [iThemes Security/Solid Security (Better WP Security)](https://wordpress.org/plugins/better-wp-security/)
+* [Better Google Tasks](https://www.mattcutts.com/blog/todo-list-tips/)
+* [Primary Vagrant](https://github.com/chriswiegman/primary-vagrant)
+* [WP Engine’s DevKit](https://wptavern.com/wp-engine-launches-devkit-open-beta)
 
 ## What I’m working on today
 
-* Renewing my blogging efforts on this site
+* Renewing my blogging efforts and working on updating this site
 * Building up the engineering teams at SuperFile
 
 *Last updated: 19 October, 2024*

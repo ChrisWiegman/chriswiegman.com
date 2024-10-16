@@ -2,10 +2,10 @@
 title: Decommissioned Tech
 description: "A list and archive of software and hardware that is no longer in my computing toolbox."
 type: page
-date: 2024-09-10T00:08:49+00:00
+date: 2024-10-19T12:00:00+00:00
 ---
 
-For 10 years before building this permanent page I wrote annual posts documenting my tech. While there are bits and pieces I still use in some of it, for the most part changes in tech and jobs mean that most of the things listed over the years are "decommissioned&#8221; tech that I'm no longer using. Here are the links to those posts by year.
+For 10 years before building this permanent page I wrote annual posts documenting my tech. While there are bits and pieces I still use in some of it, for the most part changes in tech and jobs mean that most of the things listed over the years are "decommissioned" tech that I'm no longer using. Here are the links to those posts by year.
 
 [2021][1] | [2020][2] | [2019][3] | [2018][4] | [2017][5] | [2016][6] | [2015][7] | [2014][8] | [2013][9] | [2012][10]
 
@@ -15,7 +15,7 @@ For 10 years before building this permanent page I wrote annual posts documentin
 *   **[iTerm2](https://iterm2.com)** – _July 2022_
 *   **[Lando](https://lando.dev)** – _September 2022_
 *   **[DeScript](https://www.descript.com)** – _October 2022_
-*   ****[Tweetbot](https://tapbots.com/tweetbot/)**** – _November 2022_
+*   **[Tweetbot](https://tapbots.com/tweetbot/)** – _November 2022_
 *   **[Mastodon](https://joinmastodon.org/apps)** (native app) – _November 2022_
 *   **[Metatext](https://github.com/metabolist/metatext)** – _December 2022_
 *   **[LibreOffice](https://www.libreoffice.org/)** – _February 2023_
@@ -61,10 +61,20 @@ For 10 years before building this permanent page I wrote annual posts documentin
 *   **[Logitech BRIO Ultra HD Webcam](https://www.logitech.com/en-us/products/webcams/brio-4k-hdr-webcam.960-001105.html)** – _August 2024_
 *   **[Evolution](https://gitlab.gnome.org/GNOME/evolution/-/wikis/home)** – _August 2024_
 *   **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** – _August 2024_
-*   ******[Ubuntu Linux](https://ubuntu.com/)****** – _August 2024_
+*   **[Ubuntu Linux](https://ubuntu.com/)** – _August 2024_
 *   **[JetBrains Mono (font)](https://www.jetbrains.com/lp/mono/)** – _September 2024_
+*   **[2021 12.9" iPad Pro (Silver)](https://www.apple.com/shop/buy-ipad/ipad-pro)** – October 2024_
+*   **[Apple Pencil (2nd generation)](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation?fnode=f8cf117dec15251bff1732bbfd272786db753312f1e1b52907a367551d6b49027d3fea22f4e97eeec677581568b49d6d00e286463a970c036f16d82a330bebd3f759f938199cb4ddef6486d4522a98da27a96f723153ab80f523e1f4b4166a9d)** – October 2024_
+*   **[Magic Keyboard](https://www.apple.com/shop/product/MJQJ3LL/A/magic-keyboard-for-ipad-pro-11-inch-3rd-generation-and-ipad-air-5th-generation-us-english-white?fnode=f8cf117dec15251bff1732bbfd272786db753312f1e1b52907a367551d6b49027d3fea22f4e97eeec677581568b49d6d00e286463a970c036f16d82a330bebd3f759f938199cb4ddef6486d4522a98da27a96f723153ab80f523e1f4b4166a9d)** – October 2024_
+*   **[Nomad Goods Leather Folio](https://nomadgoods.com/products/leather-folio-brown-ipad-pro-12-9-inch)** – October 2024_
+*   **[Ice](https://icemenubar.app)** – October 2024_
+*   **[Insomnia](https://insomnia.rest/)** – October 2024_
+*   **[Kana](https://github.com/ChrisWiegman/kana/)** – October 2024_
+*   **[TablePlus](https://tableplus.com)** – October 2024_
+*   **[WordPress](https://wordpress.org)** – October 2024_
+*   **[Affinity Photo 2](https://affinity.serif.com/en-us/photo/)** – October 2024_
 
-* _Note the date following each item is the month and year I stopped using the tech in question._
+_**Note:** the date following each item is the month and year I stopped using the tech in question._
 
  [1]: https://chriswiegman.com/2021/09/my-development-toolbox-2021/
  [2]: https://chriswiegman.com/2020/09/my-development-toolbox-2020/

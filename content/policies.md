@@ -17,13 +17,9 @@ I am Chris Wiegman and I am based in the United States.
 
 ## Privacy Policy {#privacy-policy}
 
-I directly collect no data on this site including new comments, contact forms or analytics.
+I directly collect no data on this site including comments, contact forms or analytics.
 
-As I host on [GitHub Pages][1], they keep server logs themselves. I have no access to or ability to control the data they retain. [Click here for GitHub's privacy policy][2].
-
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the same way as if the visitor has visited the other website.
-
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+As I host on [Netlify][1], they keep server logs themselves. I have no access to or ability to control the data they retain. [Click here for Netlify's privacy policy][2].
 
 ## Content Policies {#content-policies}
 
@@ -53,8 +49,8 @@ The Hugo theme I use on this site was originally inspired by the [Ezhil theme fo
 
 If you have questions about any of the policies on this page your may [contact me][7] to inquire further.
 
- [1]: https://pages.github.com
- [2]: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+ [1]: https://www.netlify.com
+ [2]: https://www.netlify.com/privacy/
  [4]: https://creativecommons.org/licenses/by-nc-sa/4.0/
  [5]: https://en.wikipedia.org/wiki/Fair_use
  [6]: https://depositphotos.com
