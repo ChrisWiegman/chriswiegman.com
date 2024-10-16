@@ -63,16 +63,16 @@ For 10 years before building this permanent page I wrote annual posts documentin
 *   **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** – _August 2024_
 *   **[Ubuntu Linux](https://ubuntu.com/)** – _August 2024_
 *   **[JetBrains Mono (font)](https://www.jetbrains.com/lp/mono/)** – _September 2024_
-*   **[2021 12.9" iPad Pro (Silver)](https://www.apple.com/shop/buy-ipad/ipad-pro)** – October 2024_
-*   **[Apple Pencil (2nd generation)](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation?fnode=f8cf117dec15251bff1732bbfd272786db753312f1e1b52907a367551d6b49027d3fea22f4e97eeec677581568b49d6d00e286463a970c036f16d82a330bebd3f759f938199cb4ddef6486d4522a98da27a96f723153ab80f523e1f4b4166a9d)** – October 2024_
-*   **[Magic Keyboard](https://www.apple.com/shop/product/MJQJ3LL/A/magic-keyboard-for-ipad-pro-11-inch-3rd-generation-and-ipad-air-5th-generation-us-english-white?fnode=f8cf117dec15251bff1732bbfd272786db753312f1e1b52907a367551d6b49027d3fea22f4e97eeec677581568b49d6d00e286463a970c036f16d82a330bebd3f759f938199cb4ddef6486d4522a98da27a96f723153ab80f523e1f4b4166a9d)** – October 2024_
-*   **[Nomad Goods Leather Folio](https://nomadgoods.com/products/leather-folio-brown-ipad-pro-12-9-inch)** – October 2024_
-*   **[Ice](https://icemenubar.app)** – October 2024_
-*   **[Insomnia](https://insomnia.rest/)** – October 2024_
-*   **[Kana](https://github.com/ChrisWiegman/kana/)** – October 2024_
-*   **[TablePlus](https://tableplus.com)** – October 2024_
-*   **[WordPress](https://wordpress.org)** – October 2024_
-*   **[Affinity Photo 2](https://affinity.serif.com/en-us/photo/)** – October 2024_
+*   **[2021 12.9" iPad Pro (Silver)](https://www.apple.com/shop/buy-ipad/ipad-pro)** – _October 2024_
+*   **[Apple Pencil (2nd generation)](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation?fnode=f8cf117dec15251bff1732bbfd272786db753312f1e1b52907a367551d6b49027d3fea22f4e97eeec677581568b49d6d00e286463a970c036f16d82a330bebd3f759f938199cb4ddef6486d4522a98da27a96f723153ab80f523e1f4b4166a9d)** – _October 2024_
+*   **[Magic Keyboard](https://www.apple.com/shop/product/MJQJ3LL/A/magic-keyboard-for-ipad-pro-11-inch-3rd-generation-and-ipad-air-5th-generation-us-english-white?fnode=f8cf117dec15251bff1732bbfd272786db753312f1e1b52907a367551d6b49027d3fea22f4e97eeec677581568b49d6d00e286463a970c036f16d82a330bebd3f759f938199cb4ddef6486d4522a98da27a96f723153ab80f523e1f4b4166a9d)** – _October 2024_
+*   **[Nomad Goods Leather Folio](https://nomadgoods.com/products/leather-folio-brown-ipad-pro-12-9-inch)** – _October 2024_
+*   **[Ice](https://icemenubar.app)** – _October 2024_
+*   **[Insomnia](https://insomnia.rest/)** – _October 2024_
+*   **[Kana](https://github.com/ChrisWiegman/kana/)** – _October 2024_
+*   **[TablePlus](https://tableplus.com)** – _October 2024_
+*   **[WordPress](https://wordpress.org)** – _October 2024_
+*   **[Affinity Photo 2](https://affinity.serif.com/en-us/photo/)** – _October 2024_
 
 _**Note:** the date following each item is the month and year I stopped using the tech in question._
 
