@@ -61,7 +61,6 @@
   "enableRobotsTXT": true,
   "enableGitInfo": true,
   "canonifyURLs": true,
-  "buildFuture": true,
   "disableKinds": [
     "section",
     "taxonomy"
