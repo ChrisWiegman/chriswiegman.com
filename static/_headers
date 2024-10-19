@@ -1,0 +1,6 @@
+/*
+  x-frame-options: SAMEORIGIN
+  x-xss-protection: 1; mode=block
+  x-permitted-cross-domain-policies: none
+  x-content-type-options: nosniff
+  Strict-Transport-Security: max-age=15768000
