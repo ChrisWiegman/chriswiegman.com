@@ -19,7 +19,7 @@ So what do I use this all for? I tend to think our use cases are just as importa
 
 ## My Computer Hardware
 
-![My current desk configuration with 2 laptops and designed for balancing work and non-work projects.](/images/2024/02/my-current-office-setup.jpeg)
+![My current desk configuration with 2 laptops and designed for balancing work and non-work projects.](/images/2024/10/my-home-desk.jpeg)
 
 I built my home office over my 11 years of working fully remote. It is still my sanctuary, if you will, and where I spend a lot of time on projects, both personally and professionally. In our new place it’s tiny, not much bigger than a cubicle, and that is perfect for me, especially with the right furniture.
 
