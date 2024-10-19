@@ -71,6 +71,16 @@
       "HTML",
       "RSS",
       "JSON"
+    ],
+    "section": [
+      "html",
+      "JSON"
+    ],
+    "taxonomy": [
+      "html"
+    ],
+    "term": [
+      "html"
     ]
   },
   "markup": {
