@@ -11,7 +11,7 @@ As a Vice President of Engineering and developer I use a lot of tools in my dail
 
 So what do I use this all for? I tend to think our use cases are just as important as the tools themselves. For instance, I wouldn't recommend some of my own tools to someone just starting out in code or who is only writing code for themselves. How we use our tools defines, or at least probably should define, the tools we use so here are my own use cases.
 
-*   **VP of Engineering** – My day job requires me to communicate with my team and the wider organization for mentoring, guidance and strategy.
+*   **VP of Engineering** – My day job requires me to communicate with my team and the wider organization for mentoring, guidance, strategy and day-to-day operations.
 *   **Software Developer** – I love building software and have been doing so for my work and my hobbies for as long as I can remember. As time has gone by my tooling in this has changed considerably and the tools listed below are those I use to build and maintain the projects I am currently working on, both personally and professionally.
 *   **Blogger** – I love writing on this site and dream of spending a lot of time both on content as well as the site itself. This role encompasses creating content and writing code to share solutions to problems I’ve encountered in hopes that they’ll be just as helpful to others as they were to me.
 *   **Teacher/Speaker** – Though I’ve done less of this since 2020, I still very much enjoy speaking and teaching at conferences and other events.
@@ -89,6 +89,7 @@ Historically my software has been as minimal as possible. Lately that's changed 
 *   **[MonoLisa](https://www.monolisa.dev)** _– Font_
 *   **[Moom](https://manytricks.com/moom/)**
 *   **[NextDNS](https://nextdns.io)**
+*   **[Notion](https://notion.so)** – _For work_
 *   **[Quicken](https://duckduckgo.com/?q=quicken&t=osx&ia=web)**
 *   **[Reeder 5](https://www.reederapp.com)**
 *   **[Safari Browser](https://www.apple.com/safari/)**

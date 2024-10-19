@@ -26,7 +26,7 @@ Outside of work, writing code is still one of my favorite hobbies. I've built a 
 
 I'm a teacher by heart. I've taught as faculty at universities in 2 different disciplines, aviation and computer science. I've mentored, spoken and try to use this blog to teach others what I can.
 
-I have a Bachelor of Science degree in Aviation Management and a Master of Science degree in Computer science, both from [Southern Illinois University Carbondale][1] where I also first learned how much I enjoy teaching. Since graduate school I taught as adjunct faculty in computer science at [St. Edward's University][2] and have [spoken][3] at dozens of events in an effort to share what I've learned with others. It's a passion I hope to continue for many years.
+I have a Bachelor of Science degree in Aviation Management and a Master of Science degree in Computer science, both from [Southern Illinois University Carbondale][https://siu.edu/] where I also first learned how much I enjoy teaching. Since graduate school I taught as adjunct faculty in computer science at [St. Edward's University][https://www.stedwards.edu/] and have [spoken][/speaking] at dozens of events in an effort to share what I've learned with others. It's a passion I hope to continue for many years.
 
 ### I am a pilot, a writer and more
 
@@ -38,7 +38,7 @@ Throughout my adult life I've paid my bills with sales, teaching, code, mentorin
 
 My life and my work are very much guided by what I believe, not in a religious sense but in what it is I stand for and have made a hallmark of my work.
 
-I've never been one to chase paychecks as my reason for work. In fact, working in open source it is safe to say my paychecks have been relatively low compared to what many people think of when they think of software engineers. I've never wanted to be a business owner or entrepreneur and [sold my only company][4] when it grew to a point where it would've been my "job." I've never searched for fame either, preferring to share what I've learned in an effort to help others showcase who they are and what they've done.
+I've never been one to chase paychecks as my reason for work. In fact, working in open source it is safe to say my paychecks have been relatively low compared to what many people think of when they think of software engineers. I've never wanted to be a business owner or entrepreneur and [sold my only company][https://wptavern.com/ithemes-acquires-better-wp-security-plugin-and-hires-wordpress-security-expert-chris-wiegman] when it grew to a point where it would've been my "job." I've never searched for fame either, preferring to share what I've learned in an effort to help others showcase who they are and what they've done.
 
 What I do believe in is people and what they're capable of. I believe everyone has a voice and that voice deserves the chance to develop and be heard.
 
@@ -52,19 +52,21 @@ Finally, I believe in the humanity and dignity of all people and that belief mus
 
 A few of the more popular projects I’ve been involved with over the years include:
 
-* [Kana](https://github.com/chriswiegman/kana)
-* [WP Engine's Faust.js headless WordPress framework](https://faustjs.org)
-* [WP Engine’s Atlas Content Modeler](https://github.com/wpengine/atlas-content-modeler)
-* [WP Engine's Live Cart](https://wpengine.com/blog/solving-cart-fragment-dilemma-introducing-live-cart/)
-* [iThemes Security/Solid Security (Better WP Security)](https://wordpress.org/plugins/better-wp-security/)
 * [Better Google Tasks](https://www.mattcutts.com/blog/todo-list-tips/)
+* [iThemes Security/Solid Security (Better WP Security)](https://wordpress.org/plugins/better-wp-security/)
+* [Kana](https://github.com/chriswiegman/kana)
 * [Primary Vagrant](https://github.com/chriswiegman/primary-vagrant)
+* [WP Engine’s Atlas Content Modeler](https://github.com/wpengine/atlas-content-modeler)
 * [WP Engine’s DevKit](https://wptavern.com/wp-engine-launches-devkit-open-beta)
+* [WP Engine's Faust.js headless WordPress framework](https://faustjs.org)
+* [WP Engine's Live Cart](https://wpengine.com/blog/solving-cart-fragment-dilemma-introducing-live-cart/)
 
 ## What I’m working on today
 
 * Renewing my blogging efforts and working on updating this site
 * Building up the engineering teams at SuperFile
+* Reading more and more
+* Looking for a code project I can sink my teeth into
 
 *Last updated: 19 October, 2024*
 
@@ -74,8 +76,3 @@ A few of the more popular projects I’ve been involved with over the years incl
 * Check out the tools I uses daily on my "[uses](/uses)" page
 * My [Resume](http://cfw.cx/resume)
 * Follow me on [Mastodon](https://mastodon.chriswiegman.com/@chris)
-
- [1]: https://siu.edu/
- [2]: https://www.stedwards.edu/
- [3]: /speaking
- [4]: https://wptavern.com/ithemes-acquires-better-wp-security-plugin-and-hires-wordpress-security-expert-chris-wiegman

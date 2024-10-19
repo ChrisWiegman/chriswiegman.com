@@ -2,7 +2,7 @@
 title: Speaking
 description: "Chris Wiegman is an experienced speaker on topics related to WordPress and general technology."
 type: page
-date: 2024-06-19T14:02:10+00:00
+date: 2024-10-19T12:00:00+00:00
 featured_image: /images/uploads/2020/08/chris-wiegman-speaking.jpg
 ---
 
