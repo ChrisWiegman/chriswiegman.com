@@ -56,7 +56,7 @@ I built my home office over my 11 years of working fully remote. It is still my 
 
 ## My Software
 
-![Screenshot of the launcher screen from my Mac](/images/2024/09/Screenshot-2024-09-02-at-10.39.03.jpg)
+![Screenshot of the launcher screen from my Mac](/images/2024/10/whats-on-my-mac.png)
 
 Historically my software has been as minimal as possible. Lately that's changed a bit but I still try my best to not replace default apps that will handle my workflow just fine. I do still, however, have work to do across a number of devices for both my personal and professional work so this list tends to be a bit longer than I would sometimes like.
 
