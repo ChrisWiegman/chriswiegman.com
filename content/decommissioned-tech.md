@@ -73,6 +73,7 @@ For 10 years before building this permanent page I wrote annual posts documentin
 *   **[TablePlus](https://tableplus.com)** – _October 2024_
 *   **[WordPress](https://wordpress.org)** – _October 2024_
 *   **[Affinity Photo 2](https://affinity.serif.com/en-us/photo/)** – _October 2024_
+*   **[Reeder 5](https://www.reederapp.com)** – _October 2024_
 
 _**Note:** the date following each item is the month and year I stopped using the tech in question._
 

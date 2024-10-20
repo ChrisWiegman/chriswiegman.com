@@ -91,7 +91,6 @@ Historically my software has been as minimal as possible. Lately that's changed 
 *   **[NextDNS](https://nextdns.io)**
 *   **[Notion](https://notion.so)** – _For work_
 *   **[Quicken](https://duckduckgo.com/?q=quicken&t=osx&ia=web)**
-*   **[Reeder 5](https://www.reederapp.com)**
 *   **[Safari Browser](https://www.apple.com/safari/)**
 *   **[Signal](https://signal.org)**
 *   **[Slack](https://slack.com)** – _For work_
