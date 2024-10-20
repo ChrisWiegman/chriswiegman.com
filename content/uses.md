@@ -26,6 +26,7 @@ I built my home office over my 11 years of working fully remote. It is still my 
 *   **[2021 16″ MacBook Pro (Silver)](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-silver-10-core-cpu-32-core-gpu-1tb#)** – _M1 Max, 64GB RAM, 1TB SSD_
 *   **[2024 13" iPad Pro (Silver)](https://www.apple.com/shop/buy-ipad/ipad-pro)** – _M4, 1TB SSD, Cellular Connection_
     *   **[Apple Pencil Pro](https://www.apple.com/shop/product/MX2D3AM/A/apple-pencil-pro?fnode=80f469fa78e6faa54dc0867ced709917e77d622308f66a5e3fe99003530c17b9f96d87d522c674bba356d7cb0ba2d8c321dcbd075fcffc062970ea8c4fa470611db985683a66a714b9b8d10500d30a09d959b6ecba8a9c96fbe60d6ea55dff8c)**
+    *   **[ESR iPad Pro Cover](https://www.amazon.com/dp/B0CRHKJYVX?ref=ppx_yo2ov_dt_b_fed_asin_title)**
     *   **[Magic Keyboard](https://www.apple.com/shop/product/MWR53LL/A/magic-keyboard-for-ipad-pro-13%E2%80%91inch-m4-us-english-black?fnode=80f469fa78e6faa54dc0867ced709917e77d622308f66a5e3fe99003530c17b9f96d87d522c674bba356d7cb0ba2d8c321dcbd075fcffc062970ea8c4fa470611db985683a66a714b9b8d10500d30a09d959b6ecba8a9c96fbe60d6ea55dff8c)**
 *   **2024 14″ MacBook Pro (Silver)** – _Work machine_
 *   **[AirPods Max (silver)](https://www.apple.com/airpods-max/)**
@@ -100,7 +101,17 @@ Historically my software has been as minimal as possible. Lately that's changed 
 *   **[Working Copy](https://workingcopyapp.com)**
 *   **[Zoom](https://zoom.us)** – _For work_
 
-## My Analog Tools
+## My Analog and EDC Tools
+
+*   **[CRKT Drifter EDC Pocket Knife](https://www.crkt.com/knife/drifter-folding-knife-with-frame-lock)**
+*   **[Lamy Al-Star](https://www.lamy.com/en/lamy-al-star/)**
+    *   **Lamy inks**
+*   **[LEUCHTTURM1917 Class Notebooks](https://www.leuchtturm1917.us/classic-notebooks-1.html)** - _Journals and notes_
+*   **[Rhodia Notebooks](https://rhodiapads.com/collections_premium_rhodiarama.php)** - _Personal journal_
+*   **[Thule Subterra 2](https://www.thule.com/en-us/backpacks/backpacking-travel-backpacks/thule-subterra-travel-backpack-26l-_-3205056)** _Weekend/travel backpack_
+*   **[Timbuk2 Authority Laptop Backpack](https://www.timbuk2.com/collections/all-backpacks/products/1825-authority-laptop-backpack-deluxe?variant=39705794445354)** - _work bag_
+*   **[Traveler's Notebook](https://shop.travelerscompanyusa.com/products/travelers-notebook-brown)** - _Work meeting notes_
+*   **[Zebra Sarasa Grand](https://www.zebrapen.com/pages/sarasa-grand-gel-retractable-pen)** - _Everyday pen where fountain pens don't work_
 
 ## Decommissioned Tech
 
