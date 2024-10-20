@@ -2,7 +2,7 @@
 title: Uses
 description: "A record of the hardware and software tools that currently makeup my toolbox."
 type: page
-date: 2024-10-19T12:00:00+00:00
+date: 2024-10-20T00:00:00+00:00
 ---
 
 As a Vice President of Engineering and developer I use a lot of tools in my daily work. This page is my attempt to document those tools in hopes that maybe someone will find them useful as well as simply to keep track of them for myself.
@@ -106,4 +106,4 @@ Historically my software has been as minimal as possible. Lately that's changed 
 
 For a list of tools I've used in the past as well as my older annual "uses"  posts, please take a look at my [decommissioned tech][/decommissioned-tech] page.
 
-_This page was last updated on 19 October, 2024_
+_This page was last updated on 20 October, 2024_
