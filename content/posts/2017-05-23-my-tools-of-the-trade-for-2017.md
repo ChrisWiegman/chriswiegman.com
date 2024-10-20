@@ -10,7 +10,7 @@ tags:
   - Tools
 ---
 
-While I don’t make it a habit to do too many post series my “Tools of the trade” post has become something of an annual tradition of mine for a good number of years ([2016][1], [2015][2], [2014][3], [2013][4], [2012][5](.
+While I don’t make it a habit to do too many post series my “Tools of the trade” post has become something of an annual tradition of mine for a good number of years ([2016][1], [2015][2], [2014][3], [2013][4], [2012][5]).
 
 This year I realize it’s changed just a little bit in that, as something of a continuation of last year, I’ve focused on making the most of the tools I have rather than adding too many more to the mix. I’ve narrowed it down so much in fact that rather than just some of my primary tools I think it’ll just be easier to break down what I have across all my devices:
 
