@@ -83,8 +83,11 @@ Let’s start from the top (and leave out most of the default apps unless I use 
 ### A few apps not listed:
 
 * [**Vagrant**](https://www.vagrantup.com): I do all my work on virtual machines wrapped in Vagrant. Docker might be shinier these days by Vagrant has proven to be reliable for all I need to do with it.
+
 * [**oh_my_zsh**](http://ohmyz.sh): I use the built in Mac Terminal app for command line stuff and zsh with .oh_my_zsh as my shell environment. I used to play around with lots of custom dotfiles and other nonsense but haven’t looked back since I found oh_my_zsh. It just makes it all easier.
+
 * [**Homebrew**](https://brew.sh): For the remaining few apps (I only install node and composer with it these days) Homebrew does a great job of making managing packages easy.
+
 * [**iCloud Drive**](https://www.icloud.com): It works and works well for my needs without the battery drain of another application like Google Drive or Dropbox.
 
 ## My Mobile
