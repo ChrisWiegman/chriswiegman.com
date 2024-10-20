@@ -1,7 +1,7 @@
 ---
 title: About Chris Wiegman
 description: "Chris Wiegman is a Vice President of Engineering, software developer, teacher and blogger building teams and products focused on humane and sustainable technology."
-date: 2024-10-19T12:00:00+00:00
+date: 2024-10-20T00:00:00+00:00
 type: page
 featured_image: images/2024/11/three-months-soda-free.jpg
 
@@ -26,7 +26,7 @@ Outside of work, writing code is still one of my favorite hobbies. I've built a 
 
 I'm a teacher by heart. I've taught as faculty at universities in 2 different disciplines, aviation and computer science. I've mentored, spoken and try to use this blog to teach others what I can.
 
-I have a Bachelor of Science degree in Aviation Management and a Master of Science degree in Computer science, both from [Southern Illinois University Carbondale][https://siu.edu/] where I also first learned how much I enjoy teaching. Since graduate school I taught as adjunct faculty in computer science at [St. Edward's University][https://www.stedwards.edu/] and have [spoken][/speaking] at dozens of events in an effort to share what I've learned with others. It's a passion I hope to continue for many years.
+I have a Bachelor of Science degree in Aviation Management and a Master of Science degree in Computer science, both from [Southern Illinois University Carbondale](https://siu.edu/) where I also first learned how much I enjoy teaching. Since graduate school I taught as adjunct faculty in computer science at [St. Edward's University](https://www.stedwards.edu/) and have [spoken](/speaking) at dozens of events in an effort to share what I've learned with others. It's a passion I hope to continue for many years.
 
 ### I am a pilot, a writer and more
 
@@ -38,7 +38,7 @@ Throughout my adult life I've paid my bills with sales, teaching, code, mentorin
 
 My life and my work are very much guided by what I believe, not in a religious sense but in what it is I stand for and have made a hallmark of my work.
 
-I've never been one to chase paychecks as my reason for work. In fact, working in open source it is safe to say my paychecks have been relatively low compared to what many people think of when they think of software engineers. I've never wanted to be a business owner or entrepreneur and [sold my only company][https://wptavern.com/ithemes-acquires-better-wp-security-plugin-and-hires-wordpress-security-expert-chris-wiegman] when it grew to a point where it would've been my "job." I've never searched for fame either, preferring to share what I've learned in an effort to help others showcase who they are and what they've done.
+I've never been one to chase paychecks as my reason for work. In fact, working in open source it is safe to say my paychecks have been relatively low compared to what many people think of when they think of software engineers. I've never wanted to be a business owner or entrepreneur and [sold my only company](https://wptavern.com/ithemes-acquires-better-wp-security-plugin-and-hires-wordpress-security-expert-chris-wiegman) when it grew to a point where it would've been my "job." I've never searched for fame either, preferring to share what I've learned in an effort to help others showcase who they are and what they've done.
 
 What I do believe in is people and what they're capable of. I believe everyone has a voice and that voice deserves the chance to develop and be heard.
 
