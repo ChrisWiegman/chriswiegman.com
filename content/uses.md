@@ -42,7 +42,7 @@ I built my home office over my 11 years of working fully remote. It is still my 
 *   **iPhone 15 Pro Max (Natural)** – _256GB_
     *   **[Nomad Goods Modern Leather Case](https://nomadgoods.com/products/modern-leather-case-horween-rustic-brown-iphone-15-pro)** _– Brown_
 *   **[Kindle Paperwhite – 8GB, 11th edition](https://smile.amazon.com/All-new-Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=sr_1_1?crid=R65HVLPMI53M&keywords=kindle+paperwhite&qid=1652717986&sprefix=kindle+pap%2Caps%2C161&sr=8-1)**
-*   **[Klipsh The One Plus](https://www.klipsch.com/products/the-one-plus)** - Work speaker_
+*   **[Klipsh The One Plus](https://www.klipsch.com/products/the-one-plus)** - _Work speaker_
 *   **[Logitech MX Vertical mouse](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)**
 *   **[Logitech Spotlight](https://www.logitech.com/en-us/products/presenters/spotlight-presentation-remote.910-004654.html)**
 *   **[Linksys Velop AX4200 Wifi 6 Routers](https://www.linksys.com/us/whole-home-mesh-wifi/velop-ax4200-tri-band-mesh-wifi-6-system-mx4200/p/p-mx4200/)**
